@@ -2,12 +2,12 @@
 	import TabelaHorarios from '$lib/comps/TabelaHorarios.svelte';
 	import type { Horario, Servico } from '$lib/tipos';
 
-	const horarios: Horario[] = [
-		{ hora: '11:11', obs: [] },
-		{ hora: '22:22', obs: [] },
-		{ hora: '33:33', obs: [] },
-		{ hora: '44:44', obs: [] }
-	];
+	const horarios: Horario[] = ['1', '2', '3', '4', '5', '6', '7', '8', '9'].map((v) => ({
+		hora: `0${v}:0${v}`,
+		obs: []
+	}));
+
+	horarios[2].obs.push('a');
 	const servico: Servico = {
 		horarios,
 		dias: 0,
