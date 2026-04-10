@@ -19,13 +19,15 @@
 	const servico_a = { ...servico };
 	servico_a.sentido = 'ida';
 
-	const linha_teste: Linha = {
+	const linha: Linha = {
 		id: 0,
-		nome: 'linha teste',
+		nome: 'linha teste linha ',
 		servicos: new Map([
 			['dias-uteis', [servico, servico_a]],
 			['sabado', [servico, servico_a]]
-		])
+		]),
+
+		codigo: '14001'
 	};
 
 	let favorito = $state(false);
@@ -38,12 +40,16 @@
 		<button onclick={alternar_favorito}><Heart fill={favorito ? 'black' : 'transparent'} /></button>
 	</nav>
 	<h1>nome da empresa</h1>
-	<h2>nome da linha</h2>
-	<span>
-		<abbr title="123 - nome da linha">123</abbr>
-	</span>
+	<h2 style={`font-size: ${linha.nome.length < 20 ? '2rem' : '1,5rem'}`}>
+		{linha.nome}
+	</h2>
+	{#if linha.codigo}
+		<span>
+			<abbr title={`${linha.codigo} - ${linha.nome}`}>{linha.codigo}</abbr>
+		</span>
+	{/if}
 </header>
-<NavegacaoDias linha={linha_teste} hoje={'dias-uteis'} />
+<NavegacaoDias {linha} hoje={'dias-uteis'} />
 <main>
 	<TabelaHorarios servico={servico_a} />
 	<TabelaHorarios {servico} />
@@ -52,8 +58,8 @@
 <style>
 	header {
 		background-color: lightskyblue;
-		padding-inline: 1rem;
-		padding-block: 1rem 2rem;
+		padding-inline: clamp(4px, 5vw, 30rem);
+		padding-block: 2rem;
 		border-radius: 0 0 16px 16px;
 		margin-bottom: 1rem;
 	}
@@ -89,6 +95,7 @@
 	}
 	h2 {
 		margin-block: 0;
-		font-size: 2rem;
+		max-height: 3.5rem;
+		overflow-y: auto;
 	}
 </style>
