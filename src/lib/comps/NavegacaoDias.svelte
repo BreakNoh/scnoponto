@@ -1,14 +1,22 @@
 <script lang="ts">
 	import type { Linha, Dia } from '$lib/tipos';
 
-	let { linha, hoje }: { linha: Linha; hoje?: Dia } = $props();
+	let { linha, dia: hoje }: { linha: Linha; dia?: Dia } = $props();
 
 	let dias = $derived.by(() => linha.servicos.keys());
+
+	const NOMES_DISPLAY = new Map([
+		['dias-uteis', 'Dias Úteis'],
+		['sabado', 'Sábados'],
+		['domingo-feriados', 'Domingos']
+	]);
 </script>
 
 <nav>
 	{#each dias as dia}
-		<a href={`/linhas/${linha.id}/${dia}`} class={[{ hoje: hoje == dia }]}>{dia}</a>
+		<a href={`/linhas/${linha.id}/${dia}`} class={[{ hoje: hoje == dia }]}
+			>{NOMES_DISPLAY.get(dia)}</a
+		>
 	{/each}
 </nav>
 
