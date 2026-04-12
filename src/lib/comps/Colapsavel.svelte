@@ -21,7 +21,7 @@
 			{titulo}
 		</h3>
 
-		{#if colapsado}
+		{#if !colapsado}
 			<ChevronRight />
 		{:else}
 			<ChevronDown />
