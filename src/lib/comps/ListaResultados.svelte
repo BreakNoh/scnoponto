@@ -32,8 +32,6 @@
 		margin: 0;
 		flex-direction: column;
 		gap: 8px;
-
-		overflow-y: auto;
 	}
 	li {
 		/* flex: 1; */
@@ -46,6 +44,7 @@
 		overflow: hidden;
 		white-space: nowrap;
 		text-overflow: ellipsis;
+		font-size: 1.25rem;
 	}
 	span.nome-empresa {
 		font-size: 0.75rem;

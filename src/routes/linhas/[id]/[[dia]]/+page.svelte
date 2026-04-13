@@ -60,6 +60,7 @@
 	nav button {
 		background-color: transparent;
 		border: none;
+		padding: 0;
 	}
 	h1 {
 		margin: 0;

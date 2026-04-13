@@ -5,7 +5,6 @@
 	import { LINHAS, type ItemLinha } from '$lib/linhas';
 	import Fuse from 'fuse.js';
 	import { onMount } from 'svelte';
-	import type { Attachment } from 'svelte/attachments';
 
 	let {
 		resultados = $bindable([]),
@@ -18,28 +17,40 @@
 		isCaseSensitive: false
 	});
 
+	pesquisar();
+
 	onMount(() => {
 		window.addEventListener('popstate', (ev) => {
 			focado = !!ev.state.pesquisando;
 		});
 	});
 
+	function pesquisar(query: string = '') {
+		resultados = fuse.search(query).map((v) => v.item);
+	}
 	const atualizar = (ev: Event) => {
-		focar();
+		focar(ev);
 
 		const el = ev.target as HTMLInputElement;
-		resultados = fuse.search(el.value).map((v) => v.item);
+		pesquisar(el.value);
 	};
-	const focar = () => {
+	const focar = (ev: Event) => {
 		if (!focado) {
 			pushState('', { pesquisando: true });
 			focado = true;
+			pesquisar((ev.target as HTMLInputElement).value);
 		}
 	};
 </script>
 
 <form class="caixa-pesquisa">
-	<input type="search" oninput={atualizar} onclick={focar} class:focado />
+	<input
+		type="search"
+		oninput={atualizar}
+		onclick={focar}
+		class:focado
+		placeholder="Pesquisar linha"
+	/>
 	<div class="wrapper-icone">
 		<Search />
 	</div>

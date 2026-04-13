@@ -1,5 +1,6 @@
 <script lang="ts">
 	import Colapsavel from './Colapsavel.svelte';
+	import { ExternalLink } from '@lucide/svelte';
 	import type { Linha, Dia, Servico, Horario } from '$lib/tipos';
 	import { parse } from 'date-fns';
 
@@ -45,29 +46,61 @@
 
 {#snippet PreviewServico(servico: Servico)}
 	<li>
-		<h2>
+		<h3>
 			{servico.sentido}
-		</h2>
+		</h3>
 		<span class="anterior">{horario_anterior(servico.horarios)}</span>
-		<span class="proximo">{proximo_horario(servico.horarios)}</span>
+		<a href={`/linhas/${linha.id}#${servico.sentido}`} class="proximo">
+			{proximo_horario(servico.horarios)}
+		</a>
 	</li>
 {/snippet}
 
-<Colapsavel titulo={linha.nome}>
-	<ul>
-		{#each servicos as servico}
-			{@render PreviewServico(servico)}
-		{/each}
-	</ul>
-</Colapsavel>
+<a href={`/linhas/${linha.id}`}>
+	<h2>{linha.nome}</h2>
+	<ExternalLink />
+</a>
+<ul>
+	{#each servicos as servico}
+		{@render PreviewServico(servico)}
+	{/each}
+</ul>
 
 <style>
-	h2 {
-		margin-block: 8px;
+	a {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+
+		background-color: lightskyblue;
+		border: none;
+		border-radius: 16px;
+
+		padding-inline: 32px;
+		padding-block: 16px;
+
+		text-decoration: none;
+		color: black;
 	}
+	a.proximo {
+		padding-inline: 16px;
+		padding-block: 12px;
+	}
+
+	h2 {
+		margin: 0;
+	}
+	h3 {
+		margin: 0;
+	}
+
 	ul {
+		display: flex;
+		flex-direction: column;
+
 		padding: 0;
 		margin-block: 0.5rem 0;
+		gap: 0.5rem;
 	}
 	li {
 		display: grid;
@@ -78,12 +111,5 @@
 		list-style-type: none;
 		justify-content: space-between;
 		align-items: center;
-	}
-	span.proximo {
-		background-color: lightskyblue;
-		padding-inline: 16px;
-		padding-block: 8px;
-
-		border-radius: 16px;
 	}
 </style>
