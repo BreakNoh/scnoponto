@@ -3,45 +3,12 @@
 	import { ExternalLink } from '@lucide/svelte';
 	import type { Linha, Dia, Servico, Horario } from '$lib/tipos';
 	import { parse } from 'date-fns';
+	import { horario_anterior, horario_proximo } from '$lib/utils';
 
 	let { linha, dia }: { linha: Linha; dia: Dia } = $props();
 	let servicos = $derived(linha.servicos.get(dia) || []);
 
-	function horario_anterior(horarios: Horario[]) {
-		let ant = horarios.at(-1)?.hora;
-		const agora = new Date();
-
-		if (!ant) {
-			return 'N/D';
-		}
-
-		ant =
-			horarios.findLast((v) => {
-				const hora = v.hora;
-				const val_hora = parse(hora, 'HH:mm', agora);
-
-				return val_hora <= agora;
-			})?.hora || ant;
-
-		return ant;
-	}
-	function proximo_horario(horarios: Horario[]) {
-		let prox = horarios[0].hora;
-		const agora = new Date();
-
-		if (!prox) {
-			return 'N/D';
-		}
-		prox =
-			horarios.find((v) => {
-				const hora = v.hora;
-				const val_hora = parse(hora, 'HH:mm', agora);
-
-				return val_hora >= agora;
-			})?.hora || prox;
-
-		return prox;
-	}
+	let agora = $state(new Date());
 </script>
 
 {#snippet PreviewServico(servico: Servico)}
@@ -49,22 +16,25 @@
 		<h3>
 			{servico.sentido}
 		</h3>
-		<span class="anterior">{horario_anterior(servico.horarios)}</span>
+		<span class="anterior">
+			{horario_anterior(servico.horarios, agora)?.hora || 'N/D'}
+		</span>
 		<a href={`/linhas/${linha.id}#${servico.sentido}`} class="proximo">
-			{proximo_horario(servico.horarios)}
+			{horario_proximo(servico.horarios, agora)?.hora || 'N/D'}
 		</a>
 	</li>
 {/snippet}
-
-<a href={`/linhas/${linha.id}`}>
-	<h2>{linha.nome}</h2>
-	<ExternalLink />
-</a>
-<ul>
-	{#each servicos as servico}
-		{@render PreviewServico(servico)}
-	{/each}
-</ul>
+<section>
+	<a href={`/linhas/${linha.id}`}>
+		<h2>{linha.nome}</h2>
+		<ExternalLink />
+	</a>
+	<ul>
+		{#each servicos as servico}
+			{@render PreviewServico(servico)}
+		{/each}
+	</ul>
+</section>
 
 <style>
 	a {

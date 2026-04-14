@@ -19,7 +19,8 @@
 	:global(button:hover) {
 		cursor: pointer;
 	}
-	:root {
+	:root,
+	:global(button, input) {
 		font-family: 'Funnel Display', sans-serif;
 	}
 	:global(header) {

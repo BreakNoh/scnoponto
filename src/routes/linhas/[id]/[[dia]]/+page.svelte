@@ -4,9 +4,11 @@
 	import { ChevronLeft, Heart } from '@lucide/svelte';
 
 	let { data } = $props();
+
 	let linha = $derived(data.linha);
 	let dia = $derived(data.dia);
 	let servicos = $derived(linha.servicos.get(dia) || []);
+	let agora = $state(new Date());
 
 	let favorito = $state(false);
 	const alternar_favorito = () => (favorito = !favorito);
@@ -30,7 +32,7 @@
 <NavegacaoDias {linha} {dia} />
 <main>
 	{#each servicos as servico}
-		<TabelaHorarios {servico} />
+		<TabelaHorarios {servico} {agora} />
 	{/each}
 </main>
 

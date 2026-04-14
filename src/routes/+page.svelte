@@ -4,14 +4,14 @@
 	import ListaResultados from '$lib/comps/ListaResultados.svelte';
 	import { Menu } from '@lucide/svelte';
 
-	import { LINHA_TESTE, type ItemLinha } from '$lib/linhas';
+	import { type ItemLinha } from '$lib/linhas';
 	import type { Dia, Linha } from '$lib/tipos';
 
 	let resultados = $state<ItemLinha[]>([]);
 	let pesquisando = $state(false);
 	let { data } = $props();
 
-	let fixados: Linha[] = $state([LINHA_TESTE]);
+	let fixados: Linha[] = $derived(data.fixados);
 	let dia: Dia = 'dias-uteis';
 </script>
 
@@ -33,14 +33,19 @@
 </main>
 
 <style>
+	main {
+		display: flex;
+		flex-direction: column;
+		gap: 2rem;
+	}
 	h1 {
 		margin-block: 0;
-		font-size: 1.5rem;
+		font-size: 2rem;
 	}
 	nav {
 		display: flex;
 		justify-content: space-between;
 		margin-bottom: 1rem;
-		align-items: center;
+		align-items: start;
 	}
 </style>

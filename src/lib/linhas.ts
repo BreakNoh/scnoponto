@@ -15,7 +15,14 @@ const servico_a: Servico = {
 		{ hora: '02:02', obs: [] },
 		{ hora: '03:03', obs: [] },
 		{ hora: '04:04', obs: [] },
-		{ hora: '05:05', obs: [] }
+		{ hora: '05:05', obs: [] },
+		{ hora: '06:05', obs: [] },
+		{ hora: '07:05', obs: [] },
+		{ hora: '08:05', obs: [] },
+		{ hora: '09:05', obs: [] },
+		{ hora: '10:05', obs: [] },
+		{ hora: '11:05', obs: [] },
+		{ hora: '12:05', obs: [] }
 	]
 };
 const servico_b: Servico = { sentido: 'Volta', ...servico_a };
