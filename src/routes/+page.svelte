@@ -1,35 +1,23 @@
 <script lang="ts">
 	import CaixaPesquisa from '$lib/comps/CaixaPesquisa.svelte';
-	import LinhaFixada from '$lib/comps/LinhaFixada.svelte';
-	import ListaResultados from '$lib/comps/ListaResultados.svelte';
-	import { Menu } from '@lucide/svelte';
+	import type { ItemLinha } from '$lib/linhas';
 
-	import { type ItemLinha } from '$lib/linhas';
-	import type { Dia, Linha } from '$lib/tipos';
-
-	let resultados = $state<ItemLinha[]>([]);
-	let pesquisando = $state(false);
-	let { data } = $props();
-
-	let fixados: Linha[] = $derived(data.fixados);
-	let dia: Dia = 'dias-uteis';
+	let resultados: ItemLinha[] = $state([]);
 </script>
 
 <header>
-	<nav>
-		<h1>SC no ponto</h1>
-		<a href="/"><Menu /></a>
-	</nav>
-	<CaixaPesquisa bind:resultados bind:focado={pesquisando} />
+	<CaixaPesquisa bind:resultados />
 </header>
 <main>
-	{#if pesquisando}
-		<ListaResultados {resultados} />
-	{:else}
-		{#each fixados as linha}
-			<LinhaFixada {linha} {dia} />
+	<ul>
+		{#each resultados as r}
+			<li>
+				<a href="">
+					{r.nome}
+				</a>
+			</li>
 		{/each}
-	{/if}
+	</ul>
 </main>
 
 <style>

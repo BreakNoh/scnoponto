@@ -35,10 +35,13 @@
 	}
 	:global(header) {
 		background-color: lightskyblue;
-		padding-inline: clamp(4px, 5vw, 30rem);
-		padding-block: 2rem;
-		border-radius: 0 0 16px 16px;
-		margin-bottom: 1rem;
+		/* padding-inline: clamp(4px, 5vw, 30rem); */
+		/* padding-block: 2rem; */
+		border-radius: 16px;
+		/* margin-bottom: 1rem; */
+		padding: 16px;
+		margin-inline: 16px;
+		margin-top: 16px;
 	}
 	:global(main) {
 		padding-inline: clamp(4px, 5vw, 30rem);
