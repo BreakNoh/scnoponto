@@ -1,5 +1,6 @@
 <script lang="ts">
 	import favicon from '$lib/assets/favicon.svg';
+	import BarraNavegacao from '$lib/comps/BarraNavegacao.svelte';
 
 	let { children } = $props();
 </script>
@@ -9,12 +10,21 @@
 </svelte:head>
 
 {@render children()}
+<div id="respiro-barra"></div>
+<BarraNavegacao />
 
 <style>
+	div#respiro-barra {
+		height: 6rem;
+	}
+
 	:global(body) {
 		margin: 0;
 		display: flex;
 		flex-direction: column;
+
+		padding-top: env(safe-area-inset-top); /* Protege o topo */
+		padding-bottom: env(safe-area-inset-bottom); /* Protege o fundo */
 	}
 	:global(button:hover) {
 		cursor: pointer;
