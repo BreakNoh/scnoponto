@@ -13,13 +13,7 @@
 		{#each resultados as r}
 			<li>
 				<a href={r.caminho.replace(/linhas/, 'horarios/empresa')}>
-					<span class="nome-empresa">{r.empresa}</span>
-					<span class="nome-linha">
-						{#if r.codigo}
-							{`${r.codigo} | `}
-						{/if}
-						{r.nome}
-					</span>
+					{r.nome}
 				</a>
 			</li>
 		{/each}
@@ -30,7 +24,6 @@
 	ul {
 		display: flex;
 		flex-direction: column;
-		margin-top: 1rem;
 
 		padding: 0;
 		gap: 4px;
@@ -41,24 +34,9 @@
 	}
 	a {
 		flex: 1;
-		display: grid;
-
-		text-decoration: none;
-		color: black;
 
 		background-color: lightskyblue;
 		border-radius: 8px;
 		padding: 16px;
-	}
-	a span {
-		white-space: nowrap;
-		text-overflow: ellipsis;
-		overflow: hidden;
-	}
-	a span.nome-linha {
-		font-size: 1rem;
-	}
-	a span.nome-empresa {
-		font-size: 0.75rem;
 	}
 </style>

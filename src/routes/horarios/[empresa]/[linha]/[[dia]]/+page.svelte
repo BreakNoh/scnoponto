@@ -21,15 +21,16 @@
 	</nav>
 	<h1>nome da empresa</h1>
 	<h2 style={`font-size: ${linha.nome.length < 20 ? '2rem' : '1.5rem'}`}>
+		{#if linha.codigo}
+			{`${linha.codigo} |`}
+		{/if}
+
 		{linha.nome}
 	</h2>
-	{#if linha.codigo}
-		<span>
-			<abbr title={`${linha.codigo} | ${linha.nome}`}>{linha.codigo}</abbr>
-		</span>
-	{/if}
 </header>
-<NavegacaoDias {linha} {dia} />
+<div class="wrapper-filtros">
+	<NavegacaoDias {linha} {dia} />
+</div>
 <main>
 	{#each servicos as servico}
 		<TabelaHorarios {servico} {agora} />
@@ -37,8 +38,10 @@
 </main>
 
 <style>
+	div.wrapper-filtros {
+		margin-block: 16px;
+	}
 	main {
-		margin-top: 1rem;
 		padding-inline: clamp(4px, 5vw, 30rem);
 
 		display: flex;

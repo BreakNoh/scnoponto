@@ -24,7 +24,7 @@
 		flex-direction: column;
 
 		padding-top: env(safe-area-inset-top); /* Protege o topo */
-		padding-bottom: env(safe-area-inset-bottom); /* Protege o fundo */
+		padding-bottom: env(safe-area-inset-bottom); /* Protege a base */
 	}
 	:global(button:hover) {
 		cursor: pointer;
@@ -35,15 +35,10 @@
 	}
 	:global(header) {
 		background-color: lightskyblue;
-		/* padding-inline: clamp(4px, 5vw, 30rem); */
-		/* padding-block: 2rem; */
-		border-radius: 16px;
-		/* margin-bottom: 1rem; */
+		border-radius: 0 0 16px 16px;
 		padding: 16px;
-		margin-inline: 16px;
-		margin-top: 16px;
 	}
 	:global(main) {
-		padding-inline: clamp(4px, 5vw, 30rem);
+		padding-inline: 16px;
 	}
 </style>

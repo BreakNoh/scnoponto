@@ -36,9 +36,9 @@
 
 		background-color: white;
 
-		padding-inline: 5%;
+		padding-inline: 16px;
 		padding-top: 8px;
-		padding-bottom: calc(env(safe-area-inset-bottom, 0) + 8px); /* Protege o fundo */
+		padding-bottom: calc(env(safe-area-inset-bottom, 0) + 16px); /* Protege o fundo */
 	}
 
 	div.conteiner {
