@@ -39,6 +39,24 @@ export const LINHA_TESTE = {
 
 export const LINHAS: ItemLinha[] = [
 	{
+		nome: 'Circular Centro A',
+		codigo: '101',
+		empresa: 'TransLuz',
+		caminho: '/linhas/101/'
+	},
+	{
+		nome: 'Circular Centro B',
+		codigo: '101',
+		empresa: 'TransLuz',
+		caminho: '/linhas/101/'
+	},
+	{
+		nome: 'Circular Centro C',
+		codigo: '101',
+		empresa: 'TransLuz',
+		caminho: '/linhas/101/'
+	},
+	{
 		nome: 'Circular Centro',
 		codigo: '101',
 		empresa: 'TransLuz',

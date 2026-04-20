@@ -10,16 +10,12 @@
 </svelte:head>
 
 {@render children()}
-<div id="respiro-barra"></div>
 <BarraNavegacao />
 
 <style>
-	div#respiro-barra {
-		height: 6rem;
-	}
-
 	:global(body) {
 		margin: 0;
+		margin-bottom: 96px; /* respira pra navbar */
 		display: flex;
 		flex-direction: column;
 

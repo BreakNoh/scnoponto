@@ -38,13 +38,14 @@
 
 		padding-inline: 16px;
 		padding-top: 8px;
-		padding-bottom: calc(env(safe-area-inset-bottom, 0) + 16px); /* Protege o fundo */
+		padding-bottom: calc(env(safe-area-inset-bottom, 0) + 16px);
 	}
 
 	div.conteiner {
 		display: flex;
-		padding-block: 4px;
-		padding-inline: 4px;
+		min-height: 64px;
+		/* padding-block: 4px; */
+		/* padding-inline: 4px; */
 		border-radius: 16px;
 		background-color: lightskyblue;
 
@@ -64,7 +65,7 @@
 	}
 
 	a span {
-		@media (max-width: 300px) {
+		@media (max-width: 350px) {
 			display: none;
 		}
 	}

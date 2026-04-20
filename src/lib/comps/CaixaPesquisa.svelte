@@ -3,7 +3,10 @@
 	import { LINHAS, type ItemLinha } from '$lib/linhas';
 	import Fuse from 'fuse.js';
 
-	let { resultados = $bindable([]) }: { resultados: ItemLinha[] } = $props();
+	let {
+		resultados = $bindable([]),
+		query = $bindable('')
+	}: { resultados: ItemLinha[]; query?: string } = $props();
 
 	const fuse = new Fuse(LINHAS, {
 		keys: ['nome', 'codigo', 'empresa'],
@@ -12,7 +15,12 @@
 	});
 
 	function pesquisar(query: string = '') {
-		resultados = fuse.search(query).map((v) => v.item);
+		const LIMITE_RESULTADOS = 8;
+
+		resultados = fuse
+			.search(query)
+			.map((v) => v.item)
+			.filter((_, i) => i <= LIMITE_RESULTADOS);
 	}
 
 	const atualizar = (ev: Event) => {
@@ -22,7 +30,7 @@
 </script>
 
 <form class="caixa-pesquisa">
-	<input type="search" oninput={atualizar} placeholder="Pesquisar linha" />
+	<input type="search" oninput={atualizar} bind:value={query} placeholder="Pesquisar linha" />
 	<div class="wrapper-icone">
 		<Search />
 	</div>

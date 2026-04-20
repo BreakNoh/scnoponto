@@ -1,36 +1,62 @@
 <script lang="ts">
 	import CaixaPesquisa from '$lib/comps/CaixaPesquisa.svelte';
 	import type { ItemLinha } from '$lib/linhas';
+	import { Search, SearchX } from '@lucide/svelte';
 
 	let resultados: ItemLinha[] = $state([]);
+	let query: string = $state('');
 </script>
 
+{#snippet ItemResultado(item: ItemLinha)}
+	<li>
+		<a href={item.caminho.replace(/linhas/, 'horarios/empresa')}>
+			<span class="nome-linha">
+				{#if item.codigo}
+					{`${item.codigo} | `}
+				{/if}
+				{item.nome}
+			</span>
+			<span class="nome-empresa">{item.empresa}</span>
+		</a>
+	</li>
+{/snippet}
+
 <header>
-	<CaixaPesquisa bind:resultados />
+	<CaixaPesquisa bind:resultados bind:query />
 </header>
 <main>
-	<ul>
-		{#each resultados as r}
-			<li>
-				<a href={r.caminho.replace(/linhas/, 'horarios/empresa')}>
-					<span class="nome-empresa">{r.empresa}</span>
-					<span class="nome-linha">
-						{#if r.codigo}
-							{`${r.codigo} | `}
-						{/if}
-						{r.nome}
-					</span>
-				</a>
-			</li>
-		{/each}
-	</ul>
+	{#if resultados.length > 0}
+		<ul>
+			{#each resultados as i}
+				{@render ItemResultado(i)}
+			{/each}
+		</ul>
+	{:else if query.length > 0}
+		<div class="card-nao-resultado">
+			<SearchX />
+			<p>nenhuma linha encontrada</p>
+		</div>
+	{:else}
+		<div class="card-nao-resultado">
+			<Search />
+			<p>as linhas aparecem aqui</p>
+		</div>
+	{/if}
 </main>
 
 <style>
+	div.card-nao-resultado {
+		margin-top: 16px;
+		text-align: center;
+	}
+	div.card-nao-resultado p {
+		margin-top: 4px;
+	}
+
 	ul {
 		display: flex;
 		flex-direction: column;
-		margin-top: 1rem;
+		margin-top: 8px;
 
 		padding: 0;
 		gap: 4px;
@@ -47,7 +73,7 @@
 		color: black;
 
 		background-color: lightskyblue;
-		border-radius: 8px;
+		border-radius: 16px;
 		padding: 16px;
 	}
 	a span {
