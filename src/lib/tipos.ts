@@ -9,6 +9,7 @@ export type Linha = {
 	codigo?: string;
 	servicos: Map<Dia, Servico[]>;
 	obs?: Observacao[];
+	detalhe?: string;
 };
 
 export type Dia = 'dias-uteis' | 'sabado' | 'domingo-feriados';

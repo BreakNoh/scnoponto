@@ -10,8 +10,13 @@ function ehDia(v: string | undefined): boolean {
 
 export const load: PageServerLoad = ({ params }): { linha: Linha; dia: Dia } => {
 	let dia: Dia = ehDia(params.dia) ? (params.dia as Dia) : 'dias-uteis';
+
 	return {
-		linha: LINHA_TESTE,
+		linha: {
+			detalhe:
+				'via r. fulano de tal ajdalshdjkahdk hajshdakjhda kjhsdkja hsdk ahsdk ajsdkla hsdkaj sd akdjalkdjal asldj aldj aljd aldj alkdj alskdj lk',
+			...LINHA_TESTE
+		},
 		dia
 	};
 };

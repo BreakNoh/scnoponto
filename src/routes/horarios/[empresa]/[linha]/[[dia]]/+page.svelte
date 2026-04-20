@@ -27,6 +27,11 @@
 
 		{linha.nome}
 	</h2>
+	{#if linha.detalhe}
+		<p>
+			{linha.detalhe}
+		</p>
+	{/if}
 </header>
 <div class="wrapper-filtros">
 	<NavegacaoDias {linha} {dia} />
@@ -61,6 +66,11 @@
 		color: black;
 		text-decoration: none;
 		display: flex;
+	}
+	p {
+		margin: 0;
+		white-space: nowrap;
+		overflow: hidden;
 	}
 	nav button {
 		background-color: transparent;

@@ -65,7 +65,7 @@
 	}
 
 	a span {
-		@media (max-width: 350px) {
+		@media (max-width: 300px) {
 			display: none;
 		}
 	}
