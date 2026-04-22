@@ -4,13 +4,13 @@ export type Observacao = {
 };
 
 export type Linha = {
-	id: number;
-	codigo?: string;
 	nome: string;
+	codigo?: string;
 	detalhe?: string;
 	servicos: Map<Dia, Servico[]>;
-	endpoint: string;
 	empresa?: string;
+	favorita?: boolean;
+	endpoint: string;
 };
 
 export type Dia = 'dias-uteis' | 'sabado' | 'domingo-feriados';

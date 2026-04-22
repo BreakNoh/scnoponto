@@ -28,7 +28,6 @@ const servico_a: Servico = {
 };
 const servico_b: Servico = { sentido: 'Volta', ...servico_a };
 export const LINHA_TESTE = {
-	id: 69,
 	nome: 'Linha Teste ',
 	codigo: '123',
 	servicos: new Map([
@@ -37,7 +36,8 @@ export const LINHA_TESTE = {
 		['domingo-feriados', [servico_a, servico_b]]
 	]),
 	endpoint: '/horarios/empresa/linha',
-	empresa: 'empresa'
+	empresa: 'empresa',
+	favorita: false
 } satisfies Linha;
 
 export const LINHAS: ItemLinha[] = [

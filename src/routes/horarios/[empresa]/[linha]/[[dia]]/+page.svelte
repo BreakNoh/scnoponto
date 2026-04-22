@@ -4,15 +4,20 @@
 	import TabelaHorarios from '$lib/comps/TabelaHorarios.svelte';
 	import { ChevronLeft, Heart } from '@lucide/svelte';
 	import { page } from '$app/state';
+	import { salvarLinhaCache } from '$lib/cache.js';
 
 	let { data } = $props();
 
 	let linha = $derived(data.linha);
 	let dia = $derived(data.dia);
 	let servicos = $derived(linha.servicos.get(dia) || []);
+	let favorito = $derived(linha.favorita);
 
-	let favorito = $state(false);
-	const alternar_favorito = () => (favorito = !favorito);
+	const alternar_favorito = () => {
+		linha.favorita = !linha.favorita;
+		favorito = !favorito;
+		salvarLinhaCache(linha, linha.favorita);
+	};
 </script>
 
 <header>
