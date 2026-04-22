@@ -17,6 +17,7 @@ const servico_a: Servico = {
 		{ hora: '04:04', obs: [] },
 		{ hora: '05:05', obs: [] },
 		{ hora: '06:05', obs: [] },
+		{ hora: '15:15' },
 		{ hora: '07:05', obs: [] },
 		{ hora: '08:05', obs: [] },
 		{ hora: '09:05', obs: [] },
@@ -34,7 +35,9 @@ export const LINHA_TESTE = {
 		['dias-uteis', [servico_a, servico_b]],
 		['sabado', [servico_a, servico_b]],
 		['domingo-feriados', [servico_a, servico_b]]
-	])
+	]),
+	endpoint: '/horarios/empresa/linha',
+	empresa: 'empresa'
 } satisfies Linha;
 
 export const LINHAS: ItemLinha[] = [

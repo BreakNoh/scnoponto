@@ -1,14 +1,15 @@
 <script lang="ts">
+	import Colapsavel from '$lib/comps/Colapsavel.svelte';
 	import NavegacaoDias from '$lib/comps/NavegacaoDias.svelte';
 	import TabelaHorarios from '$lib/comps/TabelaHorarios.svelte';
 	import { ChevronLeft, Heart } from '@lucide/svelte';
+	import { page } from '$app/state';
 
 	let { data } = $props();
 
 	let linha = $derived(data.linha);
 	let dia = $derived(data.dia);
 	let servicos = $derived(linha.servicos.get(dia) || []);
-	let agora = $state(new Date());
 
 	let favorito = $state(false);
 	const alternar_favorito = () => (favorito = !favorito);
@@ -16,7 +17,7 @@
 
 <header>
 	<nav>
-		<a href="/"><ChevronLeft />voltar</a>
+		<a href={page.url.searchParams.get('v') ? '/favoritos' : '/'}><ChevronLeft />voltar</a>
 		<button onclick={alternar_favorito}><Heart fill={favorito ? 'black' : 'transparent'} /></button>
 	</nav>
 	<h1>nome da empresa</h1>
@@ -38,7 +39,9 @@
 </div>
 <main>
 	{#each servicos as servico}
-		<TabelaHorarios {servico} {agora} />
+		<Colapsavel titulo={servico.sentido ?? ''}>
+			<TabelaHorarios horarios={servico.horarios} />
+		</Colapsavel>
 	{/each}
 </main>
 

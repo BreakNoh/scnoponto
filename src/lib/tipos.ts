@@ -5,11 +5,12 @@ export type Observacao = {
 
 export type Linha = {
 	id: number;
-	nome: string;
 	codigo?: string;
-	servicos: Map<Dia, Servico[]>;
-	obs?: Observacao[];
+	nome: string;
 	detalhe?: string;
+	servicos: Map<Dia, Servico[]>;
+	endpoint: string;
+	empresa?: string;
 };
 
 export type Dia = 'dias-uteis' | 'sabado' | 'domingo-feriados';
