@@ -11,12 +11,13 @@
 	type PropsNavbar = {
 		opcoes: OpcaoNavBar[];
 		mesmaPagina?: boolean;
+		fixa?: boolean;
 	};
 
-	let { opcoes, mesmaPagina = false }: PropsNavbar = $props();
+	let { opcoes, mesmaPagina = false, fixa = true }: PropsNavbar = $props();
 </script>
 
-<nav>
+<nav class:fixa>
 	<div class="conteiner">
 		{#each opcoes as { caminho, rotulo, icone: Icone, ativo }}
 			<a href={caminho} class:ativo data-sveltekit-replacestate={mesmaPagina ? '' : undefined}>
@@ -28,32 +29,11 @@
 				<span>{rotulo}</span>
 			</a>
 		{/each}
-		<!-- <a href="/favoritos" class:ativo={page.url.pathname.includes('/favoritos')}> -->
-		<!-- 	<div class="wrapper-icone"> -->
-		<!-- 		<Heart /> -->
-		<!-- 	</div> -->
-		<!-- 	<span>favoritos</span> -->
-		<!-- </a> -->
-		<!-- <a href="/" class:ativo={page.url.pathname.includes('/horarios') || page.url.pathname == '/'}> -->
-		<!-- 	<div class="wrapper-icone"> -->
-		<!-- 		<BusFront /> -->
-		<!-- 	</div> -->
-		<!-- 	<span>horários</span> -->
-		<!-- </a> -->
-		<!-- <a href="/menu" class:ativo={page.url.pathname.includes('/menu')}> -->
-		<!-- 	<div class="wrapper-icone"> -->
-		<!-- 		<Menu /> -->
-		<!-- 	</div> -->
-		<!-- 	<span>mais</span> -->
-		<!-- </a> -->
 	</div>
 </nav>
 
 <style>
-	:global(body) {
-		margin-bottom: 96px; /* respira pra navbar */
-	}
-	nav {
+	nav.fixa {
 		position: fixed;
 
 		left: 0;
@@ -65,13 +45,15 @@
 		padding-inline: 16px;
 		padding-top: 8px;
 		padding-bottom: calc(env(safe-area-inset-bottom, 0) + 16px);
+
+		:global(body) {
+			margin-bottom: 96px; /* respira pra navbar */
+		}
 	}
 
 	div.conteiner {
 		display: flex;
-		min-height: 64px;
-		/* padding-block: 4px; */
-		/* padding-inline: 4px; */
+
 		border-radius: 16px;
 		background-color: var(--cor-fundo-alta);
 

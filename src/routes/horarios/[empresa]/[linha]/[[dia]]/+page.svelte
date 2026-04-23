@@ -55,6 +55,11 @@
 		</p>
 	{/if}
 </header>
+
+<div class="wrapper-nav">
+	<NavegacaoDias {linha} ativo={dia} />
+</div>
+
 <main>
 	{#each servicos as servico}
 		<Colapsavel titulo={servico.sentido ?? ''}>
@@ -63,16 +68,16 @@
 	{/each}
 </main>
 
-<NavegacaoDias {linha} ativo={dia} />
-
 <style>
-	main {
-		padding-inline: clamp(4px, 5vw, 30rem);
+	div.wrapper-nav {
+		margin-block: 16px;
+		padding-inline: 16px;
+	}
 
+	main {
 		display: flex;
 		flex-direction: column;
 		gap: 1rem;
-		margin-top: 16px;
 
 		@media (min-width: 650px) {
 			flex-direction: row;
@@ -80,25 +85,26 @@
 	}
 	nav {
 		display: flex;
-		margin-bottom: 0.5rem;
+		margin-bottom: 4px;
 		justify-content: space-between;
 		color: var(--cor-texto-alt);
 	}
 	nav a {
 		color: var(--cor-texto-alt);
 		text-decoration: none;
+		align-items: center;
 		display: flex;
+	}
+	nav button {
+		background-color: transparent;
+
+		border: none;
 	}
 	p {
 		margin: 0;
 		white-space: nowrap;
 		overflow: hidden;
 		color: var(--cor-texto-sec-alt);
-	}
-	nav button {
-		background-color: transparent;
-		border: none;
-		padding: 0;
 	}
 	h1 {
 		margin: 0;

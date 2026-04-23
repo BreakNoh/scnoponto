@@ -28,4 +28,4 @@
 	);
 </script>
 
-<BarraNavegacao {opcoes} mesmaPagina={true} />
+<BarraNavegacao {opcoes} mesmaPagina={true} fixa={false} />
