@@ -1,7 +1,8 @@
 <script lang="ts">
 	import CaixaPesquisa from '$lib/comps/CaixaPesquisa.svelte';
+	import NavPaginas from '$lib/comps/NavPaginas.svelte';
 	import type { ItemLinha } from '$lib/linhas';
-	import { ChevronRight, ExternalLink, Search, SearchX } from '@lucide/svelte';
+	import { Search, SearchX } from '@lucide/svelte';
 
 	let resultados: ItemLinha[] = $state([]);
 	let query: string = $state('');
@@ -43,6 +44,8 @@
 		</div>
 	{/if}
 </main>
+
+<NavPaginas ativo="horarios" />
 
 <style>
 	div.card-nao-resultado {

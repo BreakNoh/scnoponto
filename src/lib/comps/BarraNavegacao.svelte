@@ -1,32 +1,58 @@
 <script lang="ts">
-	import { page } from '$app/state';
-	import { Heart, BusFront, Menu } from '@lucide/svelte';
+	import { type LucideIcon } from '@lucide/svelte';
+
+	export type OpcaoNavBar = {
+		caminho: string;
+		rotulo: string;
+		icone?: LucideIcon;
+		ativo?: boolean;
+	};
+
+	type PropsNavbar = {
+		opcoes: OpcaoNavBar[];
+		mesmaPagina?: boolean;
+	};
+
+	let { opcoes, mesmaPagina = false }: PropsNavbar = $props();
 </script>
 
 <nav>
 	<div class="conteiner">
-		<a href="/favoritos" class:ativo={page.url.pathname.includes('/favoritos')}>
-			<div class="wrapper-icone">
-				<Heart />
-			</div>
-			<span>favoritos</span>
-		</a>
-		<a href="/" class:ativo={page.url.pathname.includes('/horarios') || page.url.pathname == '/'}>
-			<div class="wrapper-icone">
-				<BusFront />
-			</div>
-			<span>horários</span>
-		</a>
-		<a href="/menu" class:ativo={page.url.pathname.includes('/menu')}>
-			<div class="wrapper-icone">
-				<Menu />
-			</div>
-			<span>mais</span>
-		</a>
+		{#each opcoes as { caminho, rotulo, icone: Icone, ativo }}
+			<a href={caminho} class:ativo data-sveltekit-replacestate={mesmaPagina ? '' : undefined}>
+				{#if Icone}
+					<div class="wrapper-icone">
+						<Icone />
+					</div>
+				{/if}
+				<span>{rotulo}</span>
+			</a>
+		{/each}
+		<!-- <a href="/favoritos" class:ativo={page.url.pathname.includes('/favoritos')}> -->
+		<!-- 	<div class="wrapper-icone"> -->
+		<!-- 		<Heart /> -->
+		<!-- 	</div> -->
+		<!-- 	<span>favoritos</span> -->
+		<!-- </a> -->
+		<!-- <a href="/" class:ativo={page.url.pathname.includes('/horarios') || page.url.pathname == '/'}> -->
+		<!-- 	<div class="wrapper-icone"> -->
+		<!-- 		<BusFront /> -->
+		<!-- 	</div> -->
+		<!-- 	<span>horários</span> -->
+		<!-- </a> -->
+		<!-- <a href="/menu" class:ativo={page.url.pathname.includes('/menu')}> -->
+		<!-- 	<div class="wrapper-icone"> -->
+		<!-- 		<Menu /> -->
+		<!-- 	</div> -->
+		<!-- 	<span>mais</span> -->
+		<!-- </a> -->
 	</div>
 </nav>
 
 <style>
+	:global(body) {
+		margin-bottom: 96px; /* respira pra navbar */
+	}
 	nav {
 		position: fixed;
 

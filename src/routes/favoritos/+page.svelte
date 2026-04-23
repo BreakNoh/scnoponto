@@ -1,4 +1,5 @@
 <script lang="ts">
+	import NavPaginas from '$lib/comps/NavPaginas.svelte';
 	import { HeartCrack } from '@lucide/svelte';
 
 	let { data } = $props();
@@ -24,6 +25,8 @@
 		</ul>
 	{/if}
 </main>
+
+<NavPaginas ativo="favoritos" />
 
 <style>
 	main {

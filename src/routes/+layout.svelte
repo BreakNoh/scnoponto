@@ -1,6 +1,5 @@
 <script lang="ts">
 	import favicon from '$lib/assets/favicon.svg';
-	import BarraNavegacao from '$lib/comps/BarraNavegacao.svelte';
 	import GerenciadorTema from '$lib/comps/GerenciadorTema.svelte';
 
 	let { children } = $props();
@@ -14,26 +13,15 @@
 
 {@render children()}
 
-<BarraNavegacao />
-
 <style>
 	:global(:root) {
-		/* --cor-principal: red; */
-		/**/
-		/* --cor-texto: black; */
-		/* --cor-texto-sec: hsl(from black h s calc(l + 20)); */
-		/**/
-		/* --cor-fundo-base: white; */
-		/* --cor-fundo-media: grey; */
-		/* --cor-fundo-alta: lightgrey; */
-		/**/
 		background-color: var(--cor-fundo-base);
 		color: var(--cor-texto);
+		scrollbar-color: var(--cor-fundo-media) var(--cor-fundo-base);
 	}
 
 	:global(body) {
 		margin: 0;
-		margin-bottom: 96px; /* respira pra navbar */
 		display: flex;
 		flex-direction: column;
 

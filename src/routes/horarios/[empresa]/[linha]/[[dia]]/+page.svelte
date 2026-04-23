@@ -12,7 +12,9 @@
 
 	let linha = $derived(data.linha);
 	let dia = $derived(data.dia);
+
 	let servicos = $derived(linha.servicos.get(dia) || []);
+
 	let favorito = $derived(linha.favorita);
 	let cache: null | CacheLinha = $state(null);
 
@@ -53,9 +55,6 @@
 		</p>
 	{/if}
 </header>
-<div class="wrapper-filtros">
-	<NavegacaoDias {linha} {dia} />
-</div>
 <main>
 	{#each servicos as servico}
 		<Colapsavel titulo={servico.sentido ?? ''}>
@@ -64,16 +63,16 @@
 	{/each}
 </main>
 
+<NavegacaoDias {linha} ativo={dia} />
+
 <style>
-	div.wrapper-filtros {
-		margin-block: 16px;
-	}
 	main {
 		padding-inline: clamp(4px, 5vw, 30rem);
 
 		display: flex;
 		flex-direction: column;
 		gap: 1rem;
+		margin-top: 16px;
 
 		@media (min-width: 650px) {
 			flex-direction: row;
