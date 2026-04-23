@@ -50,15 +50,14 @@
 		left: 1rem;
 		top: 0;
 		bottom: 0;
-	}
-	input.focado {
-		background-color: red;
+		color: var(--cor-texto);
 	}
 	input {
 		width: 100%;
 		line-height: 2rem;
 		font-size: 1rem;
 		outline: none;
+		background-color: var(--cor-fundo-base);
 
 		border: none;
 		border-radius: 16px;

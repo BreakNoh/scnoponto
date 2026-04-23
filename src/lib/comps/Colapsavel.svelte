@@ -39,7 +39,7 @@
 
 	button {
 		width: 100%;
-		background-color: lightskyblue;
+		background-color: var(--cor-principal);
 		border: none;
 		border-radius: 16px;
 

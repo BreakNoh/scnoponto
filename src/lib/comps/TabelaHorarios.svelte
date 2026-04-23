@@ -63,12 +63,12 @@
 		justify-content: center;
 		column-gap: 0.5rem;
 
-		background-color: lightgrey;
+		background-color: var(--cor-fundo-alta);
 		border-radius: 8px;
 	}
 
 	li.proximo {
-		background-color: lightskyblue;
+		background-color: var(--cor-principal);
 		border: none;
 		border-radius: 16px;
 		scroll-margin-inline: 32px;

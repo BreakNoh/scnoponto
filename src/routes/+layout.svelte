@@ -13,6 +13,16 @@
 <BarraNavegacao />
 
 <style>
+	:global(:root) {
+		--cor-principal: deepskyblue;
+		--cor-texto: black;
+		--cor-fundo-base: white;
+		--cor-fundo-media: grey;
+		--cor-fundo-alta: lightgrey;
+
+		background-color: var(--cor-fundo-base);
+	}
+
 	:global(body) {
 		margin: 0;
 		margin-bottom: 96px; /* respira pra navbar */
@@ -22,6 +32,7 @@
 		padding-top: env(safe-area-inset-top); /* Protege o topo */
 		padding-bottom: env(safe-area-inset-bottom); /* Protege a base */
 	}
+
 	:global(button:hover) {
 		cursor: pointer;
 	}
@@ -30,7 +41,7 @@
 		font-family: 'Funnel Display', sans-serif;
 	}
 	:global(header) {
-		background-color: lightskyblue;
+		background-color: var(--cor-principal);
 		border-radius: 0 0 16px 16px;
 		padding: 16px;
 	}

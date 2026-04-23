@@ -36,7 +36,7 @@
 	<nav>
 		<a href={page.url.searchParams.get('v') ? '/favoritos' : '/'}><ChevronLeft />voltar</a>
 		<button onclick={alternar_favorito}
-			><Heart fill={favorito == 1 ? 'black' : 'transparent'} /></button
+			><Heart fill={favorito == 1 ? 'var(--cor-texto)' : 'transparent'} /></button
 		>
 	</nav>
 	<h1>nome da empresa</h1>
@@ -85,7 +85,7 @@
 		justify-content: space-between;
 	}
 	nav a {
-		color: black;
+		color: var(--cor-texto);
 		text-decoration: none;
 		display: flex;
 	}

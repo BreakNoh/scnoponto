@@ -50,7 +50,7 @@
 		border-radius: 16px;
 		padding: 16px;
 
-		background-color: lightskyblue;
+		background-color: var(--cor-principal);
 	}
 	span {
 		font-size: 1rem;
@@ -61,6 +61,6 @@
 		top: 20%;
 		left: 0;
 		right: 0;
-		color: grey;
+		color: var(--cor-fundo-media);
 	}
 </style>

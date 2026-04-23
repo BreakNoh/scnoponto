@@ -38,7 +38,7 @@
 		flex-shrink: 0;
 		list-style-type: none;
 		border-radius: 16px;
-		background-color: lightskyblue;
+		background-color: var(--cor-principal);
 	}
 	span {
 		overflow: hidden;
@@ -54,7 +54,7 @@
 		padding-block: 12px;
 		padding-inline: 16px;
 
-		color: black;
+		color: var(--cor-texto);
 		text-decoration: none;
 	}
 </style>

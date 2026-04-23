@@ -48,7 +48,7 @@
 	div.card-nao-resultado {
 		margin-top: 16px;
 		text-align: center;
-		color: grey;
+		color: var(--cor-fundo-media);
 	}
 	div.card-nao-resultado p {
 		margin-top: 4px;
@@ -71,9 +71,9 @@
 		display: grid;
 
 		text-decoration: none;
-		color: black;
+		color: var(--cor-texto);
 
-		background-color: lightskyblue;
+		background-color: var(--cor-principal);
 		border-radius: 16px;
 		padding: 16px;
 	}

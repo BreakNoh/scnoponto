@@ -47,7 +47,7 @@
 		/* padding-block: 4px; */
 		/* padding-inline: 4px; */
 		border-radius: 16px;
-		background-color: lightskyblue;
+		background-color: lightgray;
 
 		gap: 8px;
 	}

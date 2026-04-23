@@ -40,7 +40,7 @@
 	}
 	a {
 		text-decoration: none;
-		background-color: lightgrey;
+		background-color: var(--cor-fundo-alta);
 		padding-inline: 1rem;
 		padding-block: 0.5rem;
 		border-radius: 8px;
@@ -48,7 +48,7 @@
 		text-align: center;
 		width: 5rem;
 
-		color: black;
+		color: var(--cor-texto);
 	}
 
 	span.curto {
@@ -66,7 +66,7 @@
 	}
 
 	a.hoje {
-		background-color: lightskyblue;
+		background-color: var(--cor-principal);
 		border-radius: 16px;
 	}
 </style>
