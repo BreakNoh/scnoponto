@@ -1,7 +1,7 @@
 <script lang="ts">
 	import CaixaPesquisa from '$lib/comps/CaixaPesquisa.svelte';
 	import type { ItemLinha } from '$lib/linhas';
-	import { Search, SearchX } from '@lucide/svelte';
+	import { ChevronRight, ExternalLink, Search, SearchX } from '@lucide/svelte';
 
 	let resultados: ItemLinha[] = $state([]);
 	let query: string = $state('');
@@ -73,7 +73,7 @@
 		text-decoration: none;
 		color: var(--cor-texto);
 
-		background-color: var(--cor-principal);
+		background-color: var(--cor-fundo-alta);
 		border-radius: 16px;
 		padding: 16px;
 	}
@@ -87,5 +87,6 @@
 	}
 	a span.nome-empresa {
 		font-size: 0.75rem;
+		color: var(--cor-texto-sec);
 	}
 </style>

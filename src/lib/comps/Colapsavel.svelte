@@ -49,6 +49,8 @@
 		display: grid;
 		grid-template-columns: 1fr auto;
 		align-items: center;
+
+		color: var(--cor-texto-alt);
 	}
 
 	h3 {
@@ -59,5 +61,7 @@
 		@media (min-width: 650px) {
 			text-align: center;
 		}
+
+		color: var(--cor-texto-alt);
 	}
 </style>

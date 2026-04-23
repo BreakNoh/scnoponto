@@ -34,7 +34,7 @@
 		right: 0;
 		bottom: 0;
 
-		background-color: white;
+		background-color: var(--cor-fundo-base);
 
 		padding-inline: 16px;
 		padding-top: 8px;
@@ -47,7 +47,7 @@
 		/* padding-block: 4px; */
 		/* padding-inline: 4px; */
 		border-radius: 16px;
-		background-color: lightgray;
+		background-color: var(--cor-fundo-alta);
 
 		gap: 8px;
 	}
@@ -60,7 +60,7 @@
 		place-content: center;
 
 		text-align: center;
-		color: black;
+		color: var(--cor-texto);
 		text-decoration: none;
 	}
 
@@ -72,6 +72,7 @@
 
 	a.ativo {
 		border-radius: 16px;
-		background-color: deepskyblue;
+		background-color: var(--cor-principal);
+		color: var(--cor-texto-alt);
 	}
 </style>

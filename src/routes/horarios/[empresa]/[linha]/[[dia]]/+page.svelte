@@ -35,8 +35,8 @@
 <header>
 	<nav>
 		<a href={page.url.searchParams.get('v') ? '/favoritos' : '/'}><ChevronLeft />voltar</a>
-		<button onclick={alternar_favorito}
-			><Heart fill={favorito == 1 ? 'var(--cor-texto)' : 'transparent'} /></button
+		<button onclick={alternar_favorito}>
+			<Heart fill={favorito ? 'var(--cor-texto-alt)' : 'transparent'} /></button
 		>
 	</nav>
 	<h1>nome da empresa</h1>
@@ -83,9 +83,10 @@
 		display: flex;
 		margin-bottom: 0.5rem;
 		justify-content: space-between;
+		color: var(--cor-texto-alt);
 	}
 	nav a {
-		color: var(--cor-texto);
+		color: var(--cor-texto-alt);
 		text-decoration: none;
 		display: flex;
 	}
@@ -93,6 +94,7 @@
 		margin: 0;
 		white-space: nowrap;
 		overflow: hidden;
+		color: var(--cor-texto-sec-alt);
 	}
 	nav button {
 		background-color: transparent;

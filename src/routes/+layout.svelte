@@ -1,6 +1,7 @@
 <script lang="ts">
 	import favicon from '$lib/assets/favicon.svg';
 	import BarraNavegacao from '$lib/comps/BarraNavegacao.svelte';
+	import GerenciadorTema from '$lib/comps/GerenciadorTema.svelte';
 
 	let { children } = $props();
 </script>
@@ -9,18 +10,25 @@
 	<link rel="icon" href={favicon} />
 </svelte:head>
 
+<GerenciadorTema />
+
 {@render children()}
+
 <BarraNavegacao />
 
 <style>
 	:global(:root) {
-		--cor-principal: deepskyblue;
-		--cor-texto: black;
-		--cor-fundo-base: white;
-		--cor-fundo-media: grey;
-		--cor-fundo-alta: lightgrey;
-
+		/* --cor-principal: red; */
+		/**/
+		/* --cor-texto: black; */
+		/* --cor-texto-sec: hsl(from black h s calc(l + 20)); */
+		/**/
+		/* --cor-fundo-base: white; */
+		/* --cor-fundo-media: grey; */
+		/* --cor-fundo-alta: lightgrey; */
+		/**/
 		background-color: var(--cor-fundo-base);
+		color: var(--cor-texto);
 	}
 
 	:global(body) {
@@ -42,6 +50,8 @@
 	}
 	:global(header) {
 		background-color: var(--cor-principal);
+		color: var(--cor-texto-alt);
+
 		border-radius: 0 0 16px 16px;
 		padding: 16px;
 	}

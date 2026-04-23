@@ -57,6 +57,7 @@
 		line-height: 2rem;
 		font-size: 1rem;
 		outline: none;
+		color: var(--cor-texto);
 		background-color: var(--cor-fundo-base);
 
 		border: none;

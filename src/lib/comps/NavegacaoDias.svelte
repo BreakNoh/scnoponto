@@ -67,6 +67,7 @@
 
 	a.hoje {
 		background-color: var(--cor-principal);
+		color: var(--cor-texto-alt);
 		border-radius: 16px;
 	}
 </style>

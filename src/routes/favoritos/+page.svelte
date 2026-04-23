@@ -50,10 +50,11 @@
 		border-radius: 16px;
 		padding: 16px;
 
-		background-color: var(--cor-principal);
+		background-color: var(--cor-fundo-alta);
 	}
 	span {
 		font-size: 1rem;
+		color: var(--cor-texto-sec);
 	}
 	div.sem-itens {
 		position: absolute;

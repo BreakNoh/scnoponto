@@ -69,6 +69,7 @@
 
 	li.proximo {
 		background-color: var(--cor-principal);
+		color: var(--cor-texto-alt);
 		border: none;
 		border-radius: 16px;
 		scroll-margin-inline: 32px;
