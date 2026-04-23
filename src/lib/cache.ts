@@ -1,36 +1,39 @@
-import { browser } from '$app/environment';
 import type { Linha } from './tipos';
-import { openDB } from 'idb';
+import { openDB, deleteDB } from 'idb';
 
-let promessaDB;
+const promessaDB = openDB('scnoponto', 2, {
+	upgrade(db) {
+		if (!db.objectStoreNames.contains('linhas')) {
+			const store = db.createObjectStore('linhas', { keyPath: 'endpoint' });
 
-if (browser) {
-	promessaDB = openDB('scnoponto', 1, {
-		upgrade(db) {
-			if (!db.objectStoreNames.contains('linhas')) {
-				db.createObjectStore('linhas', { keyPath: 'endpoint' });
+			if (!store.indexNames.contains('ehFavorita')) {
+				store.createIndex('ehFavorita', 'favorita');
 			}
 		}
-	});
-}
+	}
+});
 
-export async function salvarLinhaCache(linha: Linha, favorita: boolean = false) {
-	if (!promessaDB) return;
-	linha.favorita = favorita;
-	const db = await promessaDB;
-	db.put('linhas', linha);
-}
+export default class CacheLinha {
+	async salvar(linha: Linha) {
+		const db = await promessaDB;
+		db.put('linhas', linha);
+	}
 
-export async function lerLinhaCache(caminho: string): Promise<Linha | null> {
-	if (!promessaDB) return null;
-	const db = await promessaDB;
+	async ler(caminho: string): Promise<Linha | null> {
+		const db = await promessaDB;
+		const linha = await db.get('linhas', caminho);
 
-	const linha = await db.get('linhas', caminho);
-	return linha ?? null;
-}
+		return linha ?? null;
+	}
 
-export async function deletarLinhaCache(caminho: string) {
-	if (!promessaDB) return;
-	const db = await promessaDB;
-	db.delete('linhas', caminho);
+	async linhasFavoritas(): Promise<Linha[]> {
+		const db = await promessaDB;
+		const linhas = await db.getAllFromIndex('linhas', 'ehFavorita', 1);
+		return linhas;
+	}
+
+	async deletar(caminho: string) {
+		const db = await promessaDB;
+		db.delete('linhas', caminho);
+	}
 }

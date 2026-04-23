@@ -9,7 +9,7 @@ export type Linha = {
 	detalhe?: string;
 	servicos: Map<Dia, Servico[]>;
 	empresa?: string;
-	favorita?: boolean;
+	favorita: number;
 	endpoint: string;
 };
 

@@ -19,7 +19,7 @@
 
 <nav>
 	{#each dias as dia}
-		<a href={`/linhas/${linha.id}/${dia}`} class:hoje={hoje == dia}>
+		<a href={`${linha.endpoint}/${dia}`} class:hoje={hoje == dia}>
 			<span class="longo">
 				{NOMES_DISPLAY_LONGO.get(dia)}
 			</span>

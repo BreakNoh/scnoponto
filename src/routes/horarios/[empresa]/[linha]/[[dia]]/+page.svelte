@@ -4,7 +4,9 @@
 	import TabelaHorarios from '$lib/comps/TabelaHorarios.svelte';
 	import { ChevronLeft, Heart } from '@lucide/svelte';
 	import { page } from '$app/state';
-	import { salvarLinhaCache } from '$lib/cache.js';
+	import { browser } from '$app/environment';
+	import { onMount } from 'svelte';
+	import type CacheLinha from '$lib/cache';
 
 	let { data } = $props();
 
@@ -12,18 +14,30 @@
 	let dia = $derived(data.dia);
 	let servicos = $derived(linha.servicos.get(dia) || []);
 	let favorito = $derived(linha.favorita);
+	let cache: null | CacheLinha = $state(null);
 
-	const alternar_favorito = () => {
-		linha.favorita = !linha.favorita;
-		favorito = !favorito;
-		salvarLinhaCache(linha, linha.favorita);
+	onMount(async () => {
+		if (browser) {
+			cache = new (await import('$lib/cache')).default();
+		}
+	});
+
+	const alternar_favorito = async () => {
+		if (!cache) return;
+
+		favorito = Math.abs(favorito - 1);
+		linha.favorita = favorito;
+
+		await cache.salvar(linha);
 	};
 </script>
 
 <header>
 	<nav>
 		<a href={page.url.searchParams.get('v') ? '/favoritos' : '/'}><ChevronLeft />voltar</a>
-		<button onclick={alternar_favorito}><Heart fill={favorito ? 'black' : 'transparent'} /></button>
+		<button onclick={alternar_favorito}
+			><Heart fill={favorito == 1 ? 'black' : 'transparent'} /></button
+		>
 	</nav>
 	<h1>nome da empresa</h1>
 	<h2 style={`font-size: ${linha.nome.length < 20 ? '2rem' : '1.5rem'}`}>

@@ -37,7 +37,7 @@ export const LINHA_TESTE = {
 	]),
 	endpoint: '/horarios/empresa/linha',
 	empresa: 'empresa',
-	favorita: false
+	favorita: 0
 } satisfies Linha;
 
 export const LINHAS: ItemLinha[] = [

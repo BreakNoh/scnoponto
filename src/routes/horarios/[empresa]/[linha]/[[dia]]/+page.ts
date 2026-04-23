@@ -1,13 +1,16 @@
 import type { PageLoad } from './$types';
 import { browser } from '$app/environment';
-import { lerLinhaCache, salvarLinhaCache } from '$lib/cache';
 
 export const load: PageLoad = async ({ data }) => {
 	if (browser) {
-		const linhaCache = await lerLinhaCache(data.linha.endpoint);
+		const cache = new (await import('$lib/cache')).default();
 
-		salvarLinhaCache(data.linha, linhaCache?.favorita ?? false);
-		data.linha.favorita = linhaCache?.favorita;
+		const linhaCache = await cache.ler(data.linha.endpoint);
+
+		if (linhaCache) {
+			cache.salvar({ ...data.linha, favorita: linhaCache.favorita });
+			data.linha.favorita = linhaCache.favorita;
+		}
 	}
 
 	return data;

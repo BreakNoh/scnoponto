@@ -48,6 +48,7 @@
 	div.card-nao-resultado {
 		margin-top: 16px;
 		text-align: center;
+		color: grey;
 	}
 	div.card-nao-resultado p {
 		margin-top: 4px;
