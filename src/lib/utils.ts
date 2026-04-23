@@ -2,6 +2,7 @@ import { parse } from 'date-fns';
 import type { Horario } from './tipos';
 
 export function horario_proximo(horarios: Horario[], ref: Date): Horario | undefined {
+	if (!horarios) return undefined;
 	if (horarios.length < 2) {
 		return horarios.at(0);
 	}
@@ -9,6 +10,7 @@ export function horario_proximo(horarios: Horario[], ref: Date): Horario | undef
 }
 
 export function horario_anterior(horarios: Horario[], ref: Date): Horario | undefined {
+	if (!horarios) return undefined;
 	if (horarios.length < 2) {
 		return horarios.at(0);
 	}

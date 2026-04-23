@@ -1,4 +1,4 @@
-import type { Servico, Linha } from './tipos';
+import type { Servico, Linha, Dia, Horario } from './tipos';
 
 export type ItemLinha = {
 	nome: string;
@@ -26,7 +26,55 @@ const servico_a: Servico = {
 		{ hora: '12:05', obs: [] }
 	]
 };
+const NOMES = [
+	'lindo',
+	'breno',
+	'oreo',
+	'cleiton',
+	'fabiane',
+	'maria',
+	'reinaldo',
+	'linda',
+	'abacaxi',
+	'abacate'
+];
+
+function nomeAleatorio(): string {
+	return NOMES[Math.floor(Math.random() * NOMES.length)];
+}
+
+function gerarMockServico(): Servico {
+	const DIAS: Dia[] = ['dias-uteis', 'sabado', 'domingo-feriados'];
+	const sentido = {
+		sentido: nomeAleatorio(),
+		dias: DIAS[Math.floor(Math.random() * DIAS.length)],
+		horarios: Array(Math.floor(Math.random() * 23)).map((_, i) => ({
+			hora: `${i.toString().padStart(2)}:${i.toString().padStart(2)}`
+		}))
+	};
+
+	console.log(sentido);
+	return sentido;
+}
+
+export function gerarLinhaMock(): Linha {
+	const linha = {
+		nome: `${nomeAleatorio()} ${nomeAleatorio()}`,
+		codigo: Math.floor(Math.random() * 999).toString(),
+		servicos: new Map<Dia, Servico[]>([
+			['dias-uteis', [gerarMockServico()]],
+			['sabado', [gerarMockServico(), gerarMockServico()]],
+			['domingo-feriados', [gerarMockServico(), gerarMockServico(), gerarMockServico()]]
+		]),
+		endpoint: `/horarios/${nomeAleatorio()}/${nomeAleatorio()}`,
+		empresa: nomeAleatorio(),
+		favorita: 0
+	};
+
+	return linha;
+}
 const servico_b: Servico = { sentido: 'Volta', ...servico_a };
+
 export const LINHA_TESTE = {
 	nome: 'Linha Teste ',
 	codigo: '123',

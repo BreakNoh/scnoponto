@@ -1,4 +1,4 @@
-import { LINHA_TESTE } from '$lib/linhas';
+import { gerarLinhaMock, LINHA_TESTE } from '$lib/linhas';
 import type { Linha, Servico, Dia } from '$lib/tipos';
 import type { PageServerLoad } from './$types';
 
@@ -10,12 +10,15 @@ function ehDia(v: string | undefined): boolean {
 
 export const load: PageServerLoad = ({ params }): { linha: Linha; dia: Dia } => {
 	let dia: Dia = ehDia(params.dia) ? (params.dia as Dia) : 'dias-uteis';
+	const linha = gerarLinhaMock();
+
+	console.log(linha);
 
 	return {
 		linha: {
 			detalhe:
 				'via r. fulano de tal ajdalshdjkahdk hajshdakjhda kjhsdkja hsdk ahsdk ajsdkla hsdkaj sd akdjalkdjal asldj aldj aljd aldj alkdj alskdj lk',
-			...LINHA_TESTE
+			...linha
 		},
 		dia
 	};
