@@ -41,7 +41,7 @@
 		display: flex;
 	}
 	a {
-		color: black;
+		color: var(--cor-texto);
 		text-decoration: none;
 
 		font-size: 1.5rem;

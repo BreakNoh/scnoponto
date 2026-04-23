@@ -29,9 +29,9 @@ const BASE_CLARO = {
 };
 
 const BASE_ESCURO = {
-	'fundo-base': '#111',
-	'fundo-media': '#333',
-	'fundo-alta': '#555',
+	'fundo-base': '#1a1a1a',
+	'fundo-media': '#666',
+	'fundo-alta': '#444',
 	texto: '#fff',
 	'texto-alt': '#000',
 	'texto-sec': '#eee',

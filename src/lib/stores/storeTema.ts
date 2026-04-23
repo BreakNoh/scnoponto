@@ -3,5 +3,5 @@ import { writable } from 'svelte/store';
 
 export let storeTema = writable<Tema>({
 	primaria: 'salmon',
-	escuro: false
+	escuro: true
 });
