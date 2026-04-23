@@ -36,7 +36,7 @@
 	ul {
 		padding: 0;
 		margin: 0;
-		margin-top: 16px;
+		margin-top: 8px;
 	}
 	ul.tabela {
 		display: grid;

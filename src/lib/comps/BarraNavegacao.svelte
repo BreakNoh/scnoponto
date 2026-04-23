@@ -33,6 +33,9 @@
 </nav>
 
 <style>
+	:global(body:has(nav.fixa)) {
+		margin-bottom: 96px; /* respira pra navbar */
+	}
 	nav.fixa {
 		position: fixed;
 
@@ -45,10 +48,6 @@
 		padding-inline: 16px;
 		padding-top: 8px;
 		padding-bottom: calc(env(safe-area-inset-bottom, 0) + 16px);
-
-		:global(body) {
-			margin-bottom: 96px; /* respira pra navbar */
-		}
 	}
 
 	div.conteiner {
@@ -70,12 +69,6 @@
 		text-align: center;
 		color: var(--cor-texto);
 		text-decoration: none;
-	}
-
-	a span {
-		@media (max-width: 300px) {
-			display: none;
-		}
 	}
 
 	a.ativo {
