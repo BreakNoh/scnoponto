@@ -1,6 +1,6 @@
 <script lang="ts">
 	import type { Horario } from '$lib/tipos';
-	import { horarioProximo } from '$lib/utils';
+	import { horarioProximo, ordenarHorarios } from '$lib/utils';
 	import { Info } from '@lucide/svelte';
 	import type { Attachment } from 'svelte/attachments';
 
@@ -11,6 +11,7 @@
 	};
 
 	let { horarios = [], display = $bindable('grade'), sentido }: Props = $props();
+	let horariosOrdenados = $derived(ordenarHorarios(horarios));
 
 	const focarHorario: Attachment = (elem) => {
 		elem.scrollIntoView({ inline: 'start', block: 'center' });
@@ -20,7 +21,7 @@
 </script>
 
 <ul class={display}>
-	{#each horarios as horario}
+	{#each horariosOrdenados as horario}
 		{@const proximo = proximoHorario == horario}
 		{@const tem_obs = !!horario?.obs}
 

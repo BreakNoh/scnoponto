@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { onNavigate } from '$app/navigation';
 	import { ChevronRight, ChevronDown } from '@lucide/svelte';
 	import type { Snippet } from 'svelte';
 
@@ -16,6 +17,10 @@
 	const alternar_colapsado = () => {
 		colapsado = !colapsado;
 	};
+
+	onNavigate(() => {
+		colapsado = false;
+	});
 </script>
 
 <div class="conteiner">

@@ -43,7 +43,7 @@
 			<Heart fill={favorito ? 'var(--cor-texto-alt)' : 'transparent'} /></button
 		>
 	</nav>
-	<h1>nome da empresa</h1>
+	<h1>{linha.empresa}</h1>
 	<h2 style={`font-size: ${linha.nome.length < 20 ? '2rem' : '1.5rem'}`}>
 		{#if linha.codigo}
 			{`${linha.codigo} |`}
@@ -72,7 +72,9 @@
 						data-sveltekit-replacestate
 					>
 						<ChevronRight />
-						{sentido}
+						<span>
+							{sentido}
+						</span>
 					</a>
 				</li>
 			{/if}
@@ -83,14 +85,32 @@
 <main>
 	{#if servicoAtual}
 		<Colapsavel titulo={servicoAtual.sentido ?? ''} flutua>
-			{@render ListaSentidos()}
+			<div class="wrapper-lista">
+				{@render ListaSentidos()}
+			</div>
 		</Colapsavel>
 		<TabelaHorarios horarios={servicoAtual.horarios} sentido={servicoAtual.sentido} />
 	{/if}
 </main>
 
 <style>
+	div.wrapper-lista {
+		background-color: var(--cor-fundo-base);
+		padding-bottom: 8px;
+	}
+	ul.lista-sentidos::before {
+		position: absolute;
+		content: '';
+		left: 0;
+		top: 0;
+		bottom: 0;
+		width: 8px;
+		background-color: var(--cor-principal);
+		border-radius: 8px 0 0 8px;
+	}
+
 	ul.lista-sentidos {
+		position: relative;
 		display: flex;
 		flex-direction: column;
 
@@ -104,6 +124,13 @@
 
 		& a {
 			font-size: 1.5rem;
+			overflow: hidden;
+		}
+
+		& a span {
+			white-space: nowrap;
+			overflow: hidden;
+			text-overflow: ellipsis;
 		}
 	}
 
@@ -113,7 +140,8 @@
 	}
 
 	a {
-		display: flex;
+		display: grid;
+		grid-template-columns: auto 1fr;
 		flex: 1;
 		color: var(--cor-texto);
 		text-decoration: none;
