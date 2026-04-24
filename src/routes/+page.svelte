@@ -69,15 +69,28 @@
 		display: flex;
 		list-style-type: none;
 	}
+
+	a::before {
+		position: absolute;
+		content: '';
+		left: 0;
+		top: 0;
+		bottom: 0;
+		width: 8px;
+		background-color: var(--cor-principal);
+		border-radius: 16px 0 0 16px;
+	}
+
 	a {
 		flex: 1;
 		display: grid;
+		position: relative;
 
 		text-decoration: none;
 		color: var(--cor-texto);
 
 		background-color: var(--cor-fundo-alta);
-		border-radius: 16px;
+		border-radius: 8px;
 		padding: 16px;
 	}
 	a span {

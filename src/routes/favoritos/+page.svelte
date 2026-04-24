@@ -43,14 +43,27 @@
 	li {
 		display: flex;
 	}
+
+	a::before {
+		position: absolute;
+		content: '';
+		left: 0;
+		top: 0;
+		bottom: 0;
+		width: 8px;
+		background-color: var(--cor-principal);
+		border-radius: 8px 0 0 8px;
+	}
+
 	a {
+		position: relative;
 		color: var(--cor-texto);
 		text-decoration: none;
 
 		font-size: 1.5rem;
 		display: grid;
 		width: 100%;
-		border-radius: 16px;
+		border-radius: 8px;
 		padding: 16px;
 
 		background-color: var(--cor-fundo-alta);
