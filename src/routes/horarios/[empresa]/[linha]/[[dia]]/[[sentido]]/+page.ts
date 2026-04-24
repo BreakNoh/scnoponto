@@ -7,10 +7,8 @@ export const load: PageLoad = async ({ data }) => {
 
 		const linhaCache = await cache.ler(data.linha.endpoint);
 
-		if (linhaCache) {
-			cache.salvar({ ...data.linha, favorita: linhaCache.favorita });
-			data.linha.favorita = linhaCache.favorita;
-		}
+		cache.salvar({ ...data.linha, favorita: linhaCache?.favorita ?? 0 });
+		data.linha.favorita = linhaCache?.favorita ?? 0;
 	}
 
 	return data;

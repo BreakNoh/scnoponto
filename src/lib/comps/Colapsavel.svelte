@@ -4,18 +4,21 @@
 
 	let {
 		children,
-		titulo = ''
+		titulo = '',
+		flutua = false,
+		colapsado = $bindable(false)
 	}: {
 		children?: Snippet;
 		titulo: string;
+		flutua?: boolean;
+		colapsado?: boolean;
 	} = $props();
-	let colapsado = $state(true);
 	const alternar_colapsado = () => {
 		colapsado = !colapsado;
 	};
 </script>
 
-<section>
+<div class="conteiner">
 	<button onclick={alternar_colapsado}>
 		<h3>
 			{titulo}
@@ -28,12 +31,21 @@
 		{/if}
 	</button>
 	{#if colapsado && children}
-		{@render children()}
+		<div class="conteudo" class:flutua>
+			{@render children()}
+		</div>
 	{/if}
-</section>
+</div>
 
 <style>
-	section {
+	div.conteiner {
+		width: 100%;
+		position: relative;
+	}
+	div.flutua {
+		position: absolute;
+	}
+	div.conteudo {
 		width: 100%;
 	}
 

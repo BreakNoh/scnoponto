@@ -2,18 +2,20 @@
 	import Colapsavel from '$lib/comps/Colapsavel.svelte';
 	import NavegacaoDias from '$lib/comps/NavegacaoDias.svelte';
 	import TabelaHorarios from '$lib/comps/TabelaHorarios.svelte';
-	import { ChevronLeft, Heart } from '@lucide/svelte';
+	import { ChevronLeft, ChevronRight, Heart } from '@lucide/svelte';
 	import { page } from '$app/state';
 	import { browser } from '$app/environment';
 	import { onMount } from 'svelte';
 	import type CacheLinha from '$lib/cache';
+	import { CODIGO_DIAS } from '$lib/linhas.js';
 
 	let { data } = $props();
 
 	let linha = $derived(data.linha);
 	let dia = $derived(data.dia);
 
-	let servicos = $derived(linha.servicos.get(dia) || []);
+	let servicos = $derived(linha.servicos.get(dia) ?? []);
+	let servicoAtual = $derived(servicos?.at(data.idxSentido));
 
 	let favorito = $derived(linha.favorita);
 	let cache: null | CacheLinha = $state(null);
@@ -60,15 +62,65 @@
 	<NavegacaoDias {linha} ativo={dia} />
 </div>
 
+{#snippet ListaSentidos()}
+	<ul class="lista-sentidos">
+		{#each servicos as { sentido }, i}
+			{#if i != data.idxSentido}
+				<li>
+					<a
+						href={`${linha.endpoint}/${CODIGO_DIAS.get(dia) ?? 'util'}/${i}`}
+						data-sveltekit-replacestate
+					>
+						<ChevronRight />
+						{sentido}
+					</a>
+				</li>
+			{/if}
+		{/each}
+	</ul>
+{/snippet}
+
 <main>
-	{#each servicos as servico}
-		<Colapsavel titulo={servico.sentido ?? ''}>
-			<TabelaHorarios horarios={servico.horarios} />
+	{#if servicoAtual}
+		<Colapsavel titulo={servicoAtual.sentido ?? ''} flutua>
+			{@render ListaSentidos()}
 		</Colapsavel>
-	{/each}
+		<TabelaHorarios horarios={servicoAtual.horarios} sentido={servicoAtual.sentido} />
+	{/if}
 </main>
 
 <style>
+	ul.lista-sentidos {
+		display: flex;
+		flex-direction: column;
+
+		background-color: var(--cor-fundo-media);
+		padding: 16px;
+		margin-block: 0;
+		margin-top: 8px;
+		border-radius: 8px;
+
+		gap: 8px;
+
+		& a {
+			font-size: 1.5rem;
+		}
+	}
+
+	li {
+		list-style-type: none;
+		display: flex;
+	}
+
+	a {
+		display: flex;
+		flex: 1;
+		color: var(--cor-texto);
+		text-decoration: none;
+
+		align-items: center;
+	}
+
 	div.wrapper-nav {
 		margin-block: 16px;
 		padding-inline: 16px;
@@ -78,11 +130,13 @@
 		display: flex;
 		flex-direction: column;
 		gap: 1rem;
+		margin-bottom: 32px;
 
 		@media (min-width: 650px) {
 			flex-direction: row;
 		}
 	}
+
 	nav {
 		display: flex;
 		margin-bottom: 4px;
@@ -100,12 +154,14 @@
 
 		border: none;
 	}
+
 	p {
 		margin: 0;
 		white-space: nowrap;
 		overflow: hidden;
 		color: var(--cor-texto-sec-alt);
 	}
+
 	h1 {
 		margin: 0;
 		font-size: 1rem;
