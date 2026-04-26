@@ -26,7 +26,7 @@
 <div class="conteiner">
 	<button onclick={alternar_colapsado}>
 		<h3>
-			{titulo}
+			{titulo.replace(/sa(i|í)da(s)?\s+(d(a|o)\s+)?/gi, '')}
 		</h3>
 
 		{#if !colapsado}
@@ -80,5 +80,9 @@
 		}
 
 		color: var(--cor-texto-alt);
+
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
 	}
 </style>

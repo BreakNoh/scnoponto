@@ -1,0 +1,404 @@
+{
+    "nome": "Linha Verde",
+    "codigo": null,
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saídas Do Hospital Da Unimed",
+                "horarios": [
+                    {
+                        "hora": "07:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Uniavan"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Uniavan"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Uniavan"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saídas Do Nova Esperança",
+                "horarios": [
+                    {
+                        "hora": "05:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Uniavan"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Uniavan"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Uniavan"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Uniavan"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Saídas Do Hospital Da Unimed",
+                "horarios": [
+                    {
+                        "hora": "07:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saídas Do Nova Esperança",
+                "horarios": [
+                    {
+                        "hora": "05:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:55",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Saídas Do Hospital Da Unimed",
+                "horarios": [
+                    {
+                        "hora": "06:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:40",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saídas Do Nova Esperança",
+                "horarios": [
+                    {
+                        "hora": "05:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "linha-verde"
+}

@@ -1,26 +1,21 @@
 <script lang="ts">
 	import { Search } from '@lucide/svelte';
 	import { LINHAS, type ItemLinha } from '$lib/linhas';
-	import Fuse from 'fuse.js';
+	import type { ItemPesquisa } from '$lib/tipos';
 
 	let {
 		resultados = $bindable([]),
 		query = $bindable('')
-	}: { resultados: ItemLinha[]; query?: string } = $props();
+	}: { resultados: ItemPesquisa[]; query?: string } = $props();
 
-	const fuse = new Fuse(LINHAS, {
-		keys: ['nome', 'codigo', 'empresa'],
-		threshold: 0.3,
-		isCaseSensitive: false
-	});
-
-	function pesquisar(query: string = '') {
+	async function pesquisar(query: string = '') {
 		const LIMITE_RESULTADOS = 8;
 
-		resultados = fuse
-			.search(query)
-			.map((v) => v.item)
-			.filter((_, i) => i <= LIMITE_RESULTADOS);
+		const pesquisa = await fetch(`/pesquisa?q=${query}`);
+
+		if (!pesquisa.ok) return;
+
+		resultados = await pesquisa.json();
 	}
 
 	const atualizar = (ev: Event) => {

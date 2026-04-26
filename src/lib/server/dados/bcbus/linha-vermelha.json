@@ -1,0 +1,29 @@
+{
+    "nome": "Linha Vermelha",
+    "codigo": null,
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Udesc",
+                "horarios": [
+                    {
+                        "hora": "22:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Hospital Da Unimed",
+                "horarios": [
+                    {
+                        "hora": "23:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "linha-vermelha"
+}

@@ -20,30 +20,33 @@
 	let proximoHorario = $derived(horarioProximo(horarios));
 </script>
 
-<ul class={display}>
-	{#each horariosOrdenados as horario}
-		{@const proximo = proximoHorario == horario}
-		{@const tem_obs = !!horario?.obs}
+{#if horariosOrdenados.length > 0}
+	<ul class={display}>
+		{#each horariosOrdenados as horario}
+			{@const proximo = proximoHorario == horario}
+			{@const tem_obs = horario?.obs.length > 0}
 
-		<li class:proximo {@attach proximo && focarHorario}>
-			<span class="hora">
-				{horario.hora}
-				{#if tem_obs}
-					<Info />
+			<li class:proximo {@attach proximo && focarHorario}>
+				<span class="hora">
+					{horario.hora}
+					{#if tem_obs}
+						<Info />
+					{/if}
+				</span>
+				{#if display == 'linha'}
+					<span class="sentido">{`| ${sentido}`}</span>
 				{/if}
-			</span>
-			{#if display == 'linha'}
-				<span class="sentido">{`| ${sentido}`}</span>
-			{/if}
-		</li>
-	{/each}
-</ul>
+			</li>
+		{/each}
+	</ul>
+{:else}
+	<h4>não há horarios</h4>
+{/if}
 
 <style>
 	ul {
 		padding: 0;
 		margin: 0;
-		/* margin-top: 8px; */
 	}
 	ul.linha {
 		display: flex;

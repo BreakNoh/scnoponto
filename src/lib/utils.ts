@@ -1,5 +1,13 @@
 import { parse } from 'date-fns';
-import type { Horario } from './tipos';
+import { DIAS, type Horario } from './tipos';
+
+export const CODIGO_DIAS = new Map([
+	[DIAS.uteis, 'util'],
+	[DIAS.sabado, 'sab'],
+	[DIAS.domingoFeriados, 'dom'],
+	[DIAS.domingoFeriados | DIAS.sabado, 'findes'],
+	[127, 'todos']
+]);
 
 function horaPraNum(hora: string): number {
 	return Number(hora.replace(/\D/g, ''));

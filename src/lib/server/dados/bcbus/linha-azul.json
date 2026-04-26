@@ -1,0 +1,414 @@
+{
+    "nome": "Linha Azul",
+    "codigo": null,
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saídas Do Hospital Da Unimed",
+                "horarios": [
+                    {
+                        "hora": "07:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Morro Do Boi – Uniavan"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Morro Do Boi"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Morro Do Boi – Uniavan"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Morro Do Boi"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Morro Do Boi"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Uniavan"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Uniavan"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "23:05",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saídas Do Estaleirinho",
+                "horarios": [
+                    {
+                        "hora": "05:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Morro Do Boi"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Morro Do Boi – Uniavan"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Morro Do Boi"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Morro Do Boi – Uniavan"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Morro Do Boi"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Morro Do Boi"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Morro Do Boi – Uniavan"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Morro Do Boi"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:45",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "65": [
+            {
+                "sentido": "Saídas Do Hospital Da Unimed",
+                "horarios": [
+                    {
+                        "hora": "07:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Morro Do Boi"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Morro Do Boi"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Morro Do Boi"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Morro Do Boi"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Uniavan"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Uniavan"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "23:05",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saídas Do Estaleirinho",
+                "horarios": [
+                    {
+                        "hora": "05:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Morro Do Boi"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Morro Do Boi Uniavan"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Morro Do Boi"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Morro Do Boi Uniavan"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Morro Do Boi"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Morro Do Boi"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Morro Do Boi Uniavan"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Morro Do Boi"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:45",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "linha-azul"
+}

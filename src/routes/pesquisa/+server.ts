@@ -1,0 +1,41 @@
+import { CAMINHO_DADOS } from '$lib/server/server_utils';
+import Fuse from 'fuse.js';
+import type { RequestHandler } from './$types';
+import { glob, readFile } from 'node:fs/promises';
+import type { ItemPesquisa } from '$lib/tipos';
+
+async function carregarItensPesquisa() {
+	const itens: ItemPesquisa[] = [];
+
+	for await (const arq of glob(`${CAMINHO_DADOS}/**/_self.json`)) {
+		const json = await readFile(arq, { encoding: 'utf-8' });
+		const dados = JSON.parse(json);
+
+		if (!dados.linhas) continue;
+
+		(dados.linhas as any[]).forEach((v) => itens.push(v));
+	}
+
+	return itens;
+}
+
+let motor: Fuse<any> | null = null;
+
+export const GET: RequestHandler = async ({ url }) => {
+	const LIMITE_RESULTADOS = 8;
+	if (!motor) {
+		motor = new Fuse(await carregarItensPesquisa(), {
+			keys: ['nome_linha', 'codigo_linha', 'nome_empresa'],
+			threshold: 0.3,
+			isCaseSensitive: false
+		});
+	}
+
+	const query = url.searchParams.get('q');
+	const resultado = motor
+		.search(query ?? '')
+		.filter((_, i) => i < LIMITE_RESULTADOS)
+		.map((v) => v.item);
+
+	return new Response(JSON.stringify(resultado));
+};

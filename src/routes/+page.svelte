@@ -1,23 +1,23 @@
 <script lang="ts">
 	import CaixaPesquisa from '$lib/comps/CaixaPesquisa.svelte';
 	import NavPaginas from '$lib/comps/NavPaginas.svelte';
-	import type { ItemLinha } from '$lib/linhas';
+	import { type ItemPesquisa } from '$lib/tipos';
 	import { Search, SearchX } from '@lucide/svelte';
 
-	let resultados: ItemLinha[] = $state([]);
+	let resultados: ItemPesquisa[] = $state([]);
 	let query: string = $state('');
 </script>
 
-{#snippet ItemResultado(item: ItemLinha)}
+{#snippet ItemResultado(item: ItemPesquisa)}
 	<li>
-		<a href={item.caminho.replace(/linhas/, 'horarios/empresa')}>
+		<a href={`/horarios/${item.slug}`}>
 			<span class="nome-linha">
-				{#if item.codigo}
-					{`${item.codigo} | `}
+				{#if item.codigo_linha}
+					{`${item.codigo_linha} | `}
 				{/if}
-				{item.nome}
+				{item.nome_linha}
 			</span>
-			<span class="nome-empresa">{item.empresa}</span>
+			<span class="nome-empresa">{item.nome_empresa}</span>
 		</a>
 	</li>
 {/snippet}

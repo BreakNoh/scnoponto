@@ -3,36 +3,29 @@
 	import NavegacaoDias from '$lib/comps/NavegacaoDias.svelte';
 	import TabelaHorarios from '$lib/comps/TabelaHorarios.svelte';
 	import { ChevronLeft, ChevronRight, Heart } from '@lucide/svelte';
+
 	import { page } from '$app/state';
-	import { browser } from '$app/environment';
-	import { onMount } from 'svelte';
 	import type CacheLinha from '$lib/cache';
-	import { CODIGO_DIAS } from '$lib/linhas.js';
+	import { CODIGO_DIAS } from '$lib/utils.js';
 
 	let { data } = $props();
 
 	let linha = $derived(data.linha);
 	let dia = $derived(data.dia);
 
-	let servicos = $derived(linha.servicos.get(dia) ?? []);
+	let servicos = $derived(linha.servicos.get(dia));
 	let servicoAtual = $derived(servicos?.at(data.idxSentido));
 
-	let favorito = $derived(linha.favorita);
+	let favorito = $derived(0);
 	let cache: null | CacheLinha = $state(null);
-
-	onMount(async () => {
-		if (browser) {
-			cache = new (await import('$lib/cache')).default();
-		}
-	});
 
 	const alternar_favorito = async () => {
 		if (!cache) return;
 
 		favorito = Math.abs(favorito - 1);
-		linha.favorita = favorito;
-
-		await cache.salvar(linha);
+		// linha.favorita = favorito;
+		//
+		// await cache.salvar(linha);
 	};
 </script>
 
@@ -43,7 +36,7 @@
 			<Heart fill={favorito ? 'var(--cor-texto-alt)' : 'transparent'} /></button
 		>
 	</nav>
-	<h1>{linha.empresa}</h1>
+	<h1>{data.nomeEmpresa}</h1>
 	<h2 style={`font-size: ${linha.nome.length < 20 ? '2rem' : '1.5rem'}`}>
 		{#if linha.codigo}
 			{`${linha.codigo} |`}
@@ -63,30 +56,31 @@
 </div>
 
 {#snippet ListaSentidos()}
-	<ul class="lista-sentidos">
-		{#each servicos as { sentido }, i}
-			{#if i != data.idxSentido}
-				<li>
-					<a
-						href={`${linha.endpoint}/${CODIGO_DIAS.get(dia) ?? 'util'}/${i}`}
-						data-sveltekit-replacestate
-					>
-						<ChevronRight />
-						<span>
-							{sentido}
-						</span>
-					</a>
-				</li>
-			{/if}
-		{/each}
-	</ul>
+	{#each servicos as { sentido }, i}
+		{@const { empresa, linha } = page.params}
+		{#if i != data.idxSentido}
+			<li>
+				<a
+					href={`/horarios/${empresa}/${linha}/${CODIGO_DIAS.get(dia ?? 0)}/${i}`}
+					data-sveltekit-replacestate
+				>
+					<ChevronRight />
+					<span>
+						{sentido.replace(/sa(i|í)da(s)?\s+(d(a|o)\s+)?/gi, '')}
+					</span>
+				</a>
+			</li>
+		{/if}
+	{/each}
 {/snippet}
 
 <main>
 	{#if servicoAtual}
-		<Colapsavel titulo={servicoAtual.sentido ?? ''} flutua>
+		<Colapsavel titulo={servicoAtual.sentido} flutua>
 			<div class="wrapper-lista">
-				{@render ListaSentidos()}
+				<ul class="lista-sentidos">
+					{@render ListaSentidos()}
+				</ul>
 			</div>
 		</Colapsavel>
 		<TabelaHorarios horarios={servicoAtual.horarios} sentido={servicoAtual.sentido} />
