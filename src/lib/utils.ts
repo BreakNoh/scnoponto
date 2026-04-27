@@ -9,7 +9,7 @@ export const CODIGO_DIAS = new Map([
 	[127, 'todos']
 ]);
 
-function horaPraNum(hora: string): number {
+export function horaPraNum(hora: string): number {
 	return Number(hora.replace(/\D/g, ''));
 }
 

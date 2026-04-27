@@ -18,11 +18,16 @@
 
 	let { empresa: slugEmp, linha: slugLin } = page.params;
 
+	const arrumarBitsDias = (d: Dias): Dias => {
+		return (d & DIAS.domingoFeriados) | ((d & DIAS.sabado) << 5) | ((d & DIAS.uteis) >> 1);
+	};
+
 	function gerarOpcoes(dias: Dias[]) {
 		const opcoes: OpcaoNavBar[] = [];
 
 		dias
 			.filter((d) => NOMES_DISPLAY_LONGO.has(d))
+			.sort((a, b) => arrumarBitsDias(a) - arrumarBitsDias(b))
 			.forEach((d) => {
 				opcoes.push({
 					rotulo: NOMES_DISPLAY_LONGO.get(d)!,

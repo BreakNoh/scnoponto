@@ -32,6 +32,7 @@ export const CORES = new Map(
 		'cor-sistema': 'AccentColor'
 	})
 );
+
 const BASE_CLARO = {
 	'fundo-base': '#fff',
 	'fundo-media': '#bbb',

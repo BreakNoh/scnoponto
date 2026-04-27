@@ -36,7 +36,7 @@ export const GET: RequestHandler = async ({ url }) => {
 	if (!motor) {
 		motor = new Fuse(await carregarItensPesquisa(), {
 			keys: ['nome_linha', 'codigo_linha', 'nome_empresa'],
-			threshold: 0.3,
+			threshold: 0.4,
 			isCaseSensitive: false
 		});
 	}
