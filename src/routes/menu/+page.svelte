@@ -1,16 +1,23 @@
 <script lang="ts">
+	import { browser } from '$app/environment';
 	import Colapsavel from '$lib/comps/Colapsavel.svelte';
 	import NavPaginas from '$lib/comps/NavPaginas.svelte';
 	import { storeTema } from '$lib/stores/storeTema';
-	import {
-		Globe,
-		Languages,
-		Lightbulb,
-		Moon,
-		Paintbrush,
-		Sun,
-		type LucideIcon
-	} from '@lucide/svelte';
+	import { CORES } from '$lib/temas';
+	import { type LucideIcon } from '@lucide/svelte';
+
+	const alternarTema = () => {
+		$storeTema.escuro = !$storeTema.escuro;
+		if (!browser) return;
+
+		localStorage.setItem('temaEscuro', `${$storeTema.escuro}`);
+	};
+	const mudarCor = (cor: string) => {
+		$storeTema.primaria = cor;
+		if (!browser) return;
+
+		localStorage.setItem('temaCor', cor);
+	};
 </script>
 
 <NavPaginas ativo="menu" />
@@ -28,10 +35,20 @@
 			asdasd
 			<Colapsavel titulo="">a</Colapsavel>
 		</li>
+		<li><button onclick={alternarTema}> tema </button></li>
+
+		{#each CORES.entries() as [nome, cor]}
+			<li>
+				<button onclick={mudarCor.bind(null, cor)} style:background-color={cor}>{nome}</button>
+			</li>
+		{/each}
 	</ul>
 </main>
 
 <style>
+	ul {
+		padding: 0;
+	}
 	li {
 		display: grid;
 		grid-template-columns: 1fr auto;

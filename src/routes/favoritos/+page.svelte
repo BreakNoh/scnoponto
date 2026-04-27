@@ -60,7 +60,7 @@
 		color: var(--cor-texto);
 		text-decoration: none;
 
-		font-size: 1.5rem;
+		font-size: clamp(1rem, 5vw, 1.5rem);
 		display: grid;
 		width: 100%;
 		border-radius: 8px;
