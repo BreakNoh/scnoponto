@@ -1,0 +1,29 @@
+{
+    "nome": "Criciúma X Nova Veneza",
+    "codigo": "606-1",
+    "detalhe": "Via Santa Luzia / Caravagio",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida Criciúma",
+                "horarios": [
+                    {
+                        "hora": "05:50",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Nova Veneza",
+                "horarios": [
+                    {
+                        "hora": "17:15",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "606-1-cric-x-nova-venez"
+}

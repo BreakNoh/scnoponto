@@ -15,7 +15,7 @@
 
 		if (!pesquisa.ok) return;
 
-		resultados = await pesquisa.json();
+		resultados = (await pesquisa.json()) as any[];
 	}
 
 	const atualizar = (ev: Event) => {

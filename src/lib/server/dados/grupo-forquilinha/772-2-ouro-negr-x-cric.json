@@ -1,0 +1,20 @@
+{
+    "nome": "Ouro Negro X Criciúma",
+    "codigo": "772-2",
+    "detalhe": "Via Sangão",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Forquilhinha",
+                "horarios": [
+                    {
+                        "hora": "06:39",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "772-2-ouro-negr-x-cric"
+}

@@ -1,0 +1,29 @@
+{
+    "nome": "Demboski Via Rodovia Otavio Dassoler",
+    "codigo": "0402",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "16:40",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "16:55",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0402-demb-rodov-otav-dass"
+}

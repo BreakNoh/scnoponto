@@ -1,0 +1,69 @@
+{
+    "nome": "Tpi /Pinheirinho Alto /Fábio Silva / Recanto Verde /Tce",
+    "codigo": "0503",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "08:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:02",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "06:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:47",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:19",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "07:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:35",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "11:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:20",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0503-tpi-pinh-alto-fabio-silv"
+}

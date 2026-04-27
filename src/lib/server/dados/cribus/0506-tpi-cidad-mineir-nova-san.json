@@ -1,0 +1,69 @@
+{
+    "nome": "Tpi /Cidade Mineira Nova Via Santo Antonio /Tce",
+    "codigo": "0506",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "07:21",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:43",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:10",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "06:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:03",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:49",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0506-tpi-cidad-mineir-nova-san"
+}

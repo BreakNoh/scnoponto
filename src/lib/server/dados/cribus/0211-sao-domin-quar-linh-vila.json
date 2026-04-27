@@ -1,0 +1,137 @@
+{
+    "nome": "Sao Domingos Via Quarta Linha / Vila Maria",
+    "codigo": "0211",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "04:58",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:52",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:17",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:47",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:46",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:18",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:46",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:16",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:52",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:42",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "05:24",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:22",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:47",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:24",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:49",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:11",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:27",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:57",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "23:12",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "07:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:14",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "08:11",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:47",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0211-sao-domin-quar-linh-vila"
+}

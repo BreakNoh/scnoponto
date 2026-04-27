@@ -1,19 +1,29 @@
-import { CAMINHO_DADOS } from '$lib/server/server_utils';
+import { cacheEmpresas, CAMINHO_DADOS } from '$lib/server/server_utils';
 import Fuse from 'fuse.js';
 import type { RequestHandler } from './$types';
 import { glob, readFile } from 'node:fs/promises';
 import type { ItemPesquisa } from '$lib/tipos';
 
 async function carregarItensPesquisa() {
-	const itens: ItemPesquisa[] = [];
+	if (cacheEmpresas.iniciado) {
+		return cacheEmpresas.empresas
+			.values()
+			.flatMap((v) => v)
+			.toArray();
+	}
 
+	let itens: ItemPesquisa[] = [];
 	for await (const arq of glob(`${CAMINHO_DADOS}/**/_self.json`)) {
 		const json = await readFile(arq, { encoding: 'utf-8' });
 		const dados = JSON.parse(json);
 
 		if (!dados.linhas) continue;
+		const itensEmpresa = dados.linhas as ItemPesquisa[];
 
-		(dados.linhas as any[]).forEach((v) => itens.push(v));
+		itensEmpresa.forEach((v) => itens.push(v));
+
+		if (!dados.nome) continue;
+		cacheEmpresas.inserir(dados.nome, itensEmpresa);
 	}
 
 	return itens;

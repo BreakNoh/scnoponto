@@ -5,8 +5,8 @@
 	import { ChevronLeft, ChevronRight, Heart } from '@lucide/svelte';
 
 	import { page } from '$app/state';
-	import type CacheLinha from '$lib/cache';
 	import { CODIGO_DIAS } from '$lib/utils.js';
+	import { browser } from '$app/environment';
 
 	let { data } = $props();
 
@@ -16,23 +16,27 @@
 	let servicos = $derived(linha.servicos.get(dia));
 	let servicoAtual = $derived(servicos?.at(data.idxSentido));
 
-	let favorito = $derived(0);
-	let cache: null | CacheLinha = $state(null);
+	let favorito = $derived(data.favorito);
 
-	const alternar_favorito = async () => {
-		if (!cache) return;
+	const alternarFavorito = async () => {
+		if (!browser) return;
+		const db = await (await import('$lib/cache.js')).DB;
+		const slug = `${page.params.empresa}/${page.params.linha}`;
 
-		favorito = Math.abs(favorito - 1);
-		// linha.favorita = favorito;
-		//
-		// await cache.salvar(linha);
+		if (await db.get('favoritos', slug)) {
+			await db.delete('favoritos', slug);
+			favorito = false;
+		} else {
+			await db.put('favoritos', data.itemPesquisa);
+			favorito = true;
+		}
 	};
 </script>
 
 <header>
 	<nav>
 		<a href={page.url.searchParams.get('v') ? '/favoritos' : '/'}><ChevronLeft />voltar</a>
-		<button onclick={alternar_favorito}>
+		<button onclick={alternarFavorito}>
 			<Heart fill={favorito ? 'var(--cor-texto-alt)' : 'transparent'} /></button
 		>
 	</nav>
@@ -63,6 +67,7 @@
 				<a
 					href={`/horarios/${empresa}/${linha}/${CODIGO_DIAS.get(dia ?? 0)}/${i}`}
 					data-sveltekit-replacestate
+					class="item-sentido"
 				>
 					<ChevronRight />
 					<span>
@@ -136,11 +141,14 @@
 	a {
 		display: grid;
 		grid-template-columns: auto 1fr;
-		flex: 1;
 		color: var(--cor-texto);
 		text-decoration: none;
 
 		align-items: center;
+
+		&.item-sentido {
+			flex: 1;
+		}
 	}
 
 	div.wrapper-nav {

@@ -1,0 +1,53 @@
+{
+    "nome": "Portinari /Primeira Linha / Tpi",
+    "codigo": "0315",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:27",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:57",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:10",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "06:58",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:27",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:16",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:40",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0315-port-prim-linh-tpi"
+}

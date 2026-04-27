@@ -1,0 +1,97 @@
+{
+    "nome": "Criciúma X Nova Veneza",
+    "codigo": "606-0",
+    "detalhe": "Via Caravagio",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida Criciúma",
+                "horarios": [
+                    {
+                        "hora": "07:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:32",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:40",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Nova Veneza",
+                "horarios": [
+                    {
+                        "hora": "06:18",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:23",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:25",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida Criciúma",
+                "horarios": [
+                    {
+                        "hora": "07:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Nova Veneza",
+                "horarios": [
+                    {
+                        "hora": "08:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:40",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "606-0-cric-x-nova-venez"
+}

@@ -1,0 +1,33 @@
+{
+    "nome": "Tce / Satc Via Rua Henrique Lage",
+    "codigo": "0217",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "07:04",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "11:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:35",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0217-tce-satc-rua-henr-lage"
+}

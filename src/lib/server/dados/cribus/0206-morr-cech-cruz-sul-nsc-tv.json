@@ -1,0 +1,45 @@
+{
+    "nome": "Morro Cechinel / Cruzeiro Do Sul Via Nsc Tv",
+    "codigo": "0206",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "07:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:57",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "07:24",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:09",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:11",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0206-morr-cech-cruz-sul-nsc-tv"
+}

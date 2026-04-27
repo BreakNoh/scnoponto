@@ -1,0 +1,72 @@
+{
+    "nome": "Criciúma X Forquilhinha",
+    "codigo": "774-1",
+    "detalhe": "Via Santa Líbera / Ouro Negro / Santa Cruz / Vila Lourdes",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida Criciúma",
+                "horarios": [
+                    {
+                        "hora": "19:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:35",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida Criciúma",
+                "horarios": [
+                    {
+                        "hora": "19:35",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Forquilhinha",
+                "horarios": [
+                    {
+                        "hora": "05:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida Criciúma",
+                "horarios": [
+                    {
+                        "hora": "12:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:35",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Forquilhinha",
+                "horarios": [
+                    {
+                        "hora": "05:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "774-1-cric-x-forq"
+}

@@ -1,0 +1,45 @@
+{
+    "nome": "Vila Zuleima /Boa Vista /L.Anthuriun /Parque Imigrantes /Tpi",
+    "codigo": "0312",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:24",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:43",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "06:37",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:24",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0312-vila-zuleim-boa-vist-l-an"
+}

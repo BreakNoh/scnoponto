@@ -1,0 +1,53 @@
+{
+    "nome": "Tpi /Sao Luiz Via Forum / Tce",
+    "codigo": "0511",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:47",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:37",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "07:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:17",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0511-tpi-sao-luiz-forum-tce"
+}

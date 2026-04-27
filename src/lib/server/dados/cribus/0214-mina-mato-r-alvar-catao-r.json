@@ -1,0 +1,45 @@
+{
+    "nome": "Mina Do Mato Via R. Alvaro Catao / R. Joao Pessoa",
+    "codigo": "0214",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "07:07",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:05",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "07:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:20",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0214-mina-mato-r-alvar-catao-r"
+}

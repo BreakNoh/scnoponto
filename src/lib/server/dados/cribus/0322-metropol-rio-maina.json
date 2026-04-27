@@ -1,0 +1,61 @@
+{
+    "nome": "Metropol Via Rio Maina",
+    "codigo": "0322",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:44",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:55",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "06:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:04",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:01",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:19",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0322-metropol-rio-maina"
+}

@@ -1,13 +1,14 @@
 import { browser } from '$app/environment';
 import { LINHA_TESTE } from '$lib/linhas';
-import type { Linha } from '$lib/tipos';
+import type { ItemPesquisa, Linha } from '$lib/tipos';
 import type { PageLoad } from './$types';
 
 export const load: PageLoad = async () => {
 	if (browser) {
-		const cache = new (await import('$lib/cache')).default();
+		const db = await (await import('$lib/cache')).DB;
+
 		return {
-			favoritos: await cache.linhasFavoritas()
+			favoritos: ((await db.getAll('favoritos')) as ItemPesquisa[]) ?? []
 		};
 	}
 

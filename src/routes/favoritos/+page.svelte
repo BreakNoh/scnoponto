@@ -14,11 +14,11 @@
 		</div>
 	{:else}
 		<ul>
-			{#each favoritos as { endpoint, codigo, nome, empresa }}
+			{#each favoritos as { slug, codigo_linha, nome_linha, nome_empresa }}
 				<li>
-					<a href={endpoint + '?v=fav'}>
-						{codigo ? codigo + '|' : ''}{nome}
-						<span>{empresa}</span>
+					<a href={`/horarios/${slug}?v=fav`}>
+						{codigo_linha ? codigo_linha + '|' : ''}{nome_linha}
+						<span>{nome_empresa}</span>
 					</a>
 				</li>
 			{/each}
