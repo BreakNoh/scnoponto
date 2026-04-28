@@ -1,23 +1,13 @@
 <script lang="ts">
 	import { browser } from '$app/environment';
+	import type { OpcaoNavBar } from '$lib/comps/BarraNavegacao.svelte';
+	import BarraNavegacao from '$lib/comps/BarraNavegacao.svelte';
 	import Colapsavel from '$lib/comps/Colapsavel.svelte';
 	import NavPaginas from '$lib/comps/NavPaginas.svelte';
+	import PopUp from '$lib/comps/PopUp.svelte';
 	import { storeTema } from '$lib/stores/storeTema';
 	import { CORES } from '$lib/temas';
-	import { type LucideIcon } from '@lucide/svelte';
-
-	const alternarTema = () => {
-		$storeTema.escuro = !$storeTema.escuro;
-		if (!browser) return;
-
-		localStorage.setItem('temaEscuro', `${$storeTema.escuro}`);
-	};
-	const mudarCor = (cor: string) => {
-		$storeTema.primaria = cor;
-		if (!browser) return;
-
-		localStorage.setItem('temaCor', cor);
-	};
+	import { Moon, Paintbrush, Sun, SunMoon, type LucideIcon } from '@lucide/svelte';
 </script>
 
 <NavPaginas ativo="menu" />
@@ -29,29 +19,36 @@
 	</li>
 {/snippet}
 
+<PopUp ativo={false} />
+
 <main>
 	<ul>
 		<li>
-			asdasd
-			<Colapsavel titulo="">a</Colapsavel>
+			<Paintbrush />
+			<a href="/menu/aparencia">aparencia</a>
 		</li>
-		<li><button onclick={alternarTema}> tema </button></li>
-
-		{#each CORES.entries() as [nome, cor]}
-			<li>
-				<button onclick={mudarCor.bind(null, cor)} style:background-color={cor}>{nome}</button>
-			</li>
-		{/each}
 	</ul>
 </main>
 
 <style>
 	ul {
+		display: grid;
+		gap: 16px;
 		padding: 0;
 	}
 	li {
 		display: grid;
-		grid-template-columns: 1fr auto;
+		gap: 18px;
 		align-items: center;
+		grid-template-columns: auto 1fr;
+		background-color: var(--cor-fundo-alta);
+		padding-block: 8px;
+		padding-inline: 16px;
+		border-radius: 8px;
+	}
+	a {
+		text-decoration: none;
+		color: var(--cor-texto);
+		font-size: 1.5rem;
 	}
 </style>

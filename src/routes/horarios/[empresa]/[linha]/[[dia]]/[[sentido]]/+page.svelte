@@ -162,9 +162,6 @@
 		gap: 1rem;
 		margin-bottom: 32px;
 
-		@media (min-width: 650px) {
-			flex-direction: row;
-		}
 	}
 
 	nav {

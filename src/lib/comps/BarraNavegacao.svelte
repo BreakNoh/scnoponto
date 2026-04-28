@@ -2,7 +2,8 @@
 	import { type LucideIcon } from '@lucide/svelte';
 
 	export type OpcaoNavBar = {
-		caminho: string;
+		caminho?: string;
+		acao?: () => void;
 		rotulo: string;
 		icone?: LucideIcon;
 		ativo?: boolean;
@@ -19,15 +20,26 @@
 
 <nav class:fixa>
 	<div class="conteiner">
-		{#each opcoes as { caminho, rotulo, icone: Icone, ativo }}
-			<a href={caminho} class:ativo data-sveltekit-replacestate={mesmaPagina ? '' : undefined}>
-				{#if Icone}
-					<div class="wrapper-icone">
-						<Icone />
-					</div>
-				{/if}
-				<span>{rotulo}</span>
-			</a>
+		{#each opcoes as { caminho, acao, rotulo, icone: Icone, ativo }}
+			{#if caminho}
+				<a href={caminho} class:ativo data-sveltekit-replacestate={mesmaPagina ? '' : undefined}>
+					{#if Icone}
+						<div class="wrapper-icone">
+							<Icone />
+						</div>
+					{/if}
+					<span>{rotulo}</span>
+				</a>
+			{:else if acao}
+				<button onclick={acao} class:ativo>
+					{#if Icone}
+						<div class="wrapper-icone">
+							<Icone />
+						</div>
+					{/if}
+					<span>{rotulo}</span>
+				</button>
+			{/if}
 		{/each}
 	</div>
 </nav>
@@ -59,19 +71,23 @@
 		gap: 8px;
 	}
 
-	a {
+	a,
+	button {
 		flex: 1;
 		padding: 8px;
 		display: flex;
 		flex-direction: column;
 		place-content: center;
+		font-size: 1rem;
 
 		text-align: center;
 		color: var(--cor-texto);
+		background-color: transparent;
+		border-style: none;
 		text-decoration: none;
 	}
 
-	a.ativo {
+	.ativo {
 		border-radius: 16px;
 		background-color: var(--cor-principal);
 		color: var(--cor-texto-alt);
