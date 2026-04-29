@@ -7,6 +7,7 @@
 	import { page } from '$app/state';
 	import { CODIGO_DIAS } from '$lib/utils.js';
 	import { browser } from '$app/environment';
+	import { storeIdioma } from '$lib/stores/storeIdioma.js';
 
 	let { data } = $props();
 
@@ -35,7 +36,9 @@
 
 <header>
 	<nav>
-		<a href={page.url.searchParams.get('v') ? '/favoritos' : '/'}><ChevronLeft />voltar</a>
+		<a href={page.url.searchParams.get('v') ? '/favoritos' : '/'}
+			><ChevronLeft />{$storeIdioma.genericos.voltar}</a
+		>
 		<button onclick={alternarFavorito}>
 			<Heart fill={favorito ? 'var(--cor-texto-alt)' : 'transparent'} /></button
 		>
@@ -161,7 +164,6 @@
 		flex-direction: column;
 		gap: 1rem;
 		margin-bottom: 32px;
-
 	}
 
 	nav {

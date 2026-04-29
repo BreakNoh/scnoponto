@@ -1,5 +1,6 @@
 <script lang="ts">
 	import NavPaginas from '$lib/comps/NavPaginas.svelte';
+	import { storeIdioma } from '$lib/stores/storeIdioma.js';
 	import { HeartCrack } from '@lucide/svelte';
 
 	let { data } = $props();
@@ -10,7 +11,7 @@
 	{#if favoritos.length == 0}
 		<div class="sem-itens">
 			<HeartCrack size="128px" />
-			<p>nenhuma linha favorita</p>
+			<p>{$storeIdioma.genericos.semFavorito}</p>
 		</div>
 	{:else}
 		<ul>

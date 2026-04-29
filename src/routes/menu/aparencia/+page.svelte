@@ -4,9 +4,10 @@
 	import BarraNavegacao from '$lib/comps/BarraNavegacao.svelte';
 	import NavPaginas from '$lib/comps/NavPaginas.svelte';
 	import PopUp from '$lib/comps/PopUp.svelte';
+	import { storeIdioma } from '$lib/stores/storeIdioma';
 	import { storeTema } from '$lib/stores/storeTema';
 	import { CORES } from '$lib/temas';
-	import { Moon, Sun, SunMoon, type LucideIcon } from '@lucide/svelte';
+	import { ChevronLeft, ChevronRight, Moon, Sun, SunMoon, type LucideIcon } from '@lucide/svelte';
 
 	const mudarTema = (escuro: boolean | null) => {
 		$storeTema.escuro = escuro;
@@ -28,19 +29,19 @@
 
 	const opcoesTema: OpcaoNavBar[] = $derived([
 		{
-			rotulo: 'sistema',
+			rotulo: $storeIdioma.aparencia.temas.sys,
 			acao: mudarTema.bind(null, null),
 			ativo: $storeTema.escuro === null,
 			icone: SunMoon
 		},
 		{
-			rotulo: 'escuro',
+			rotulo: $storeIdioma.aparencia.temas.esc,
 			acao: mudarTema.bind(null, true),
 			ativo: $storeTema.escuro === true,
 			icone: Moon
 		},
 		{
-			rotulo: 'claro',
+			rotulo: $storeIdioma.aparencia.temas.cla,
 			acao: mudarTema.bind(null, false),
 			ativo: $storeTema.escuro === false,
 			icone: Sun
@@ -48,16 +49,16 @@
 	]);
 </script>
 
-<a href="/menu">voltar</a>
+<a href="/menu" class="voltar"><ChevronLeft />{$storeIdioma.genericos.voltar}</a>
 <main>
 	<ul>
 		<li>
-			<h3>tema</h3>
+			<h3>{$storeIdioma.aparencia.tema}</h3>
 			<BarraNavegacao opcoes={opcoesTema} fixa={false} />
 		</li>
 
 		<li>
-			<h3>cor destaque</h3>
+			<h3>{$storeIdioma.aparencia.cor}</h3>
 			<div class="tabela-cores">
 				{#each CORES.entries() as [nome, cor]}
 					<button
@@ -74,6 +75,14 @@
 </main>
 
 <style>
+	a.voltar {
+		display: flex;
+		margin-inline: 16px;
+		margin-top: 16px;
+		align-items: center;
+		text-decoration: none;
+		color: var(--cor-texto);
+	}
 	ul {
 		display: grid;
 		gap: 16px;

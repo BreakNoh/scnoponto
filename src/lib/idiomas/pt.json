@@ -1,0 +1,34 @@
+{
+	"nomeIdioma": "Português",
+	"genericos": {
+		"voltar": "voltar",
+		"semFavorito": "nenhuma linha favorita",
+		"linhasAqui": "linhas aparacem aqui",
+		"pesquisarLinha": "pesquisar linhas",
+		"semResultados": "nenhuma linha encontrada :("
+	},
+	"pagina": {
+		"pesquisa": "horários",
+		"favorito": "favoritos",
+		"menu": "menu"
+	},
+	"opcoesMenu": {
+		"aparencia": "aparência"
+	},
+	"aparencia": {
+		"tema": "tema",
+		"temas": {
+			"sys": "sistema",
+			"esc": "escuro",
+			"cla": "claro"
+		},
+		"cor": "cor destaque"
+	},
+	"dias": {
+		"uteis": "Dias úteis",
+		"sabado": "Sábado",
+		"domingo": "Domingo",
+		"findes": "Finais de Semana",
+		"todoDia": "Diariamente"
+	}
+}

@@ -1,6 +1,14 @@
 import { parse } from 'date-fns';
 import { DIAS, type Horario } from './tipos';
 
+export async function carregarLingaguem(codigo: string | null) {
+	try {
+		return await import(`./idiomas/${codigo ?? 'pt'}.json`);
+	} catch {
+		return await import(`./idiomas/pt.json`);
+	}
+}
+
 export const CODIGO_DIAS = new Map([
 	[DIAS.uteis, 'util'],
 	[DIAS.sabado, 'sab'],

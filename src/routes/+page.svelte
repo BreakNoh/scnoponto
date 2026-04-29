@@ -1,6 +1,7 @@
 <script lang="ts">
 	import CaixaPesquisa from '$lib/comps/CaixaPesquisa.svelte';
 	import NavPaginas from '$lib/comps/NavPaginas.svelte';
+	import { storeIdioma } from '$lib/stores/storeIdioma';
 	import { type ItemPesquisa } from '$lib/tipos';
 	import { Search, SearchX } from '@lucide/svelte';
 
@@ -35,12 +36,12 @@
 	{:else if query.length > 0}
 		<div class="card-nao-resultado">
 			<SearchX />
-			<p>nenhuma linha encontrada</p>
+			<p>{$storeIdioma.genericos.semResultados}</p>
 		</div>
 	{:else}
 		<div class="card-nao-resultado">
 			<Search />
-			<p>as linhas aparecem aqui</p>
+			<p>{$storeIdioma.genericos.linhasAqui}</p>
 		</div>
 	{/if}
 </main>

@@ -1,0 +1,34 @@
+{
+	"nomeIdioma": "简体中文",
+	"genericos": {
+		"voltar": "返回",
+		"semFavorito": "没有收藏的路线",
+		"linhasAqui": "路线将显示在这里",
+		"pesquisarLinha": "搜索路线",
+		"semResultados": "未找到相关路线 :("
+	},
+	"pagina": {
+		"pesquisa": "时刻表",
+		"favorito": "收藏",
+		"menu": "菜单"
+	},
+	"opcoesMenu": {
+		"aparencia": "外观"
+	},
+	"aparencia": {
+		"tema": "主题",
+		"temas": {
+			"sys": "系统默认",
+			"esc": "深色模式",
+			"cla": "浅色模式"
+		},
+		"cor": "强调色"
+	},
+	"dias": {
+		"uteis": "工作日",
+		"sabado": "星期六",
+		"domingo": "星期日",
+		"findes": "周末",
+		"todoDia": "每日"
+	}
+}

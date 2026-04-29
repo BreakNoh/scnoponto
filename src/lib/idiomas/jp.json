@@ -1,0 +1,34 @@
+{
+	"nomeIdioma": "日本語",
+	"genericos": {
+		"voltar": "戻る",
+		"semFavorito": "お気に入りの路線がありません",
+		"linhasAqui": "路線がここに表示されます",
+		"pesquisarLinha": "路線を検索",
+		"semResultados": "路線が見つかりません :("
+	},
+	"pagina": {
+		"pesquisa": "時刻表",
+		"favorito": "お気に入り",
+		"menu": "メニュー"
+	},
+	"opcoesMenu": {
+		"aparencia": "外観"
+	},
+	"aparencia": {
+		"tema": "テーマ",
+		"temas": {
+			"sys": "システム",
+			"esc": "ダーク",
+			"cla": "ライト"
+		},
+		"cor": "アクセントカラー"
+	},
+	"dias": {
+		"uteis": "平日",
+		"sabado": "土曜日",
+		"domingo": "日曜日",
+		"findes": "週末",
+		"todoDia": "毎日"
+	}
+}

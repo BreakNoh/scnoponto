@@ -1,0 +1,34 @@
+{
+	"nomeIdioma": "Français",
+	"genericos": {
+		"voltar": "retour",
+		"semFavorito": "aucune ligne favorite",
+		"linhasAqui": "les lignes apparaissent ici",
+		"pesquisarLinha": "rechercher des lignes",
+		"semResultados": "aucune ligne trouvée :("
+	},
+	"pagina": {
+		"pesquisa": "horaires",
+		"favorito": "favoris",
+		"menu": "menu"
+	},
+	"opcoesMenu": {
+		"aparencia": "apparence"
+	},
+	"aparencia": {
+		"tema": "thème",
+		"temas": {
+			"sys": "système",
+			"esc": "sombre",
+			"cla": "clair"
+		},
+		"cor": "couleur d'accentuation"
+	},
+	"dias": {
+		"uteis": "Jours ouvrables",
+		"sabado": "Samedi",
+		"domingo": "Dimanche",
+		"findes": "Week-ends",
+		"todoDia": "Tous les jours"
+	}
+}

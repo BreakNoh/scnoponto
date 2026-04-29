@@ -1,0 +1,34 @@
+{
+	"nomeIdioma": "English",
+	"genericos": {
+		"voltar": "back",
+		"semFavorito": "no favorite lines",
+		"linhasAqui": "lines appear here",
+		"pesquisarLinha": "search lines",
+		"semResultados": "no lines found :("
+	},
+	"pagina": {
+		"pesquisa": "schedules",
+		"favorito": "favorites",
+		"menu": "menu"
+	},
+	"opcoesMenu": {
+		"aparencia": "appearance"
+	},
+	"aparencia": {
+		"tema": "theme",
+		"temas": {
+			"sys": "system",
+			"esc": "dark",
+			"cla": "light"
+		},
+		"cor": "accent color"
+	},
+	"dias": {
+		"uteis": "Weekdays",
+		"sabado": "Saturday",
+		"domingo": "Sunday",
+		"findes": "Weekends",
+		"todoDia": "Daily"
+	}
+}

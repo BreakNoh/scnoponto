@@ -1,3 +1,7 @@
+import IdiomaPt from './idiomas/pt.json';
+
+export type Idioma = typeof IdiomaPt;
+
 export type Observacao = {
 	tipo: string;
 	valor: string;

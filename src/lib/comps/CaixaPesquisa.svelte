@@ -2,6 +2,7 @@
 	import { Search } from '@lucide/svelte';
 	import { LINHAS, type ItemLinha } from '$lib/linhas';
 	import type { ItemPesquisa } from '$lib/tipos';
+	import { storeIdioma } from '$lib/stores/storeIdioma';
 
 	let {
 		resultados = $bindable([]),
@@ -25,7 +26,12 @@
 </script>
 
 <form class="caixa-pesquisa">
-	<input type="search" oninput={atualizar} bind:value={query} placeholder="Pesquisar linha" />
+	<input
+		type="search"
+		oninput={atualizar}
+		bind:value={query}
+		placeholder={$storeIdioma.genericos.pesquisarLinha}
+	/>
 	<div class="wrapper-icone">
 		<Search />
 	</div>

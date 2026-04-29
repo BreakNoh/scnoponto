@@ -1,12 +1,7 @@
 <script lang="ts">
-	import { browser } from '$app/environment';
-	import type { OpcaoNavBar } from '$lib/comps/BarraNavegacao.svelte';
-	import BarraNavegacao from '$lib/comps/BarraNavegacao.svelte';
-	import Colapsavel from '$lib/comps/Colapsavel.svelte';
 	import NavPaginas from '$lib/comps/NavPaginas.svelte';
 	import PopUp from '$lib/comps/PopUp.svelte';
-	import { storeTema } from '$lib/stores/storeTema';
-	import { CORES } from '$lib/temas';
+	import { storeIdioma } from '$lib/stores/storeIdioma';
 	import { Moon, Paintbrush, Sun, SunMoon, type LucideIcon } from '@lucide/svelte';
 </script>
 
@@ -25,7 +20,7 @@
 	<ul>
 		<li>
 			<Paintbrush />
-			<a href="/menu/aparencia">aparencia</a>
+			<a href="/menu/aparencia">{$storeIdioma.opcoesMenu.aparencia}</a>
 		</li>
 	</ul>
 </main>

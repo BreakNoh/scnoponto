@@ -3,17 +3,18 @@
 	import { CODIGO_DIAS } from '$lib/utils';
 	import { type Linha, type Dias, DIAS } from '$lib/tipos';
 	import BarraNavegacao, { type OpcaoNavBar } from './BarraNavegacao.svelte';
+	import { storeIdioma } from '$lib/stores/storeIdioma';
 
 	let { linha, ativo }: { linha: Linha; ativo?: Dias } = $props();
 
 	let dias = $derived(linha.servicos.keys().toArray());
 
 	const NOMES_DISPLAY_LONGO = new Map([
-		[DIAS.uteis, 'Dias Úteis'],
-		[DIAS.sabado, 'Sábados'],
-		[DIAS.domingoFeriados, 'Domingos'],
-		[DIAS.sabado | DIAS.domingoFeriados, 'Finais de Semana'],
-		[127, 'Diariamente']
+		[DIAS.uteis, $storeIdioma.dias.uteis],
+		[DIAS.sabado, $storeIdioma.dias.sabado],
+		[DIAS.domingoFeriados, $storeIdioma.dias.domingo],
+		[DIAS.sabado | DIAS.domingoFeriados, $storeIdioma.dias.findes],
+		[127, $storeIdioma.dias.todoDia]
 	]);
 
 	let { empresa: slugEmp, linha: slugLin } = page.params;

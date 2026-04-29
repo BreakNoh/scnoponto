@@ -4,5 +4,5 @@ import { writable } from 'svelte/store';
 
 export let storeTema = writable<Tema>({
 	primaria: browser ? (localStorage.getItem('temaCor') ?? 'AccentColor') : 'AccentColor',
-	escuro: browser ? localStorage.getItem('temaEscuro') === 'true' : false
+	escuro: browser ? localStorage.getItem('temaEscuro') === 'true' : null
 });
