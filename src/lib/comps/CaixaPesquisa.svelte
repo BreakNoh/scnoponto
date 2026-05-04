@@ -41,6 +41,7 @@
 	form {
 		display: flex;
 		position: relative;
+		width: 100%;
 	}
 	div.wrapper-icone {
 		pointer-events: none;

@@ -3,7 +3,7 @@
 	import NavPaginas from '$lib/comps/NavPaginas.svelte';
 	import { storeIdioma } from '$lib/stores/storeIdioma';
 	import { type ItemPesquisa } from '$lib/tipos';
-	import { Search, SearchX } from '@lucide/svelte';
+	import { CircleCheck, CircleDashed, ListFilter, Search, SearchX } from '@lucide/svelte';
 
 	let resultados: ItemPesquisa[] = $state([]);
 	let query: string = $state('');
@@ -24,7 +24,10 @@
 {/snippet}
 
 <header>
-	<CaixaPesquisa bind:resultados bind:query />
+	<div class="acoes-pesquisa">
+		<CaixaPesquisa bind:resultados bind:query />
+		<button class="item-header"><ListFilter /></button>
+	</div>
 </header>
 <main>
 	{#if resultados.length > 0}
@@ -46,9 +49,100 @@
 	{/if}
 </main>
 
+<div class="filtros">
+	<div class="botoes-filtro">
+		<button>todas</button>
+		<button style:background-color="var(--cor-principal)">ok</button>
+	</div>
+	<ul>
+		{#each Array(20) as _, i}
+			<li>
+				<button class:ativo={i & 1}>
+					{#if i & 1}
+						<CircleDashed />
+					{:else}
+						<CircleCheck />
+					{/if}
+
+					NOME DA EMPRESA
+				</button>
+			</li>
+		{/each}
+	</ul>
+</div>
+
 <NavPaginas ativo="horarios" />
 
 <style>
+	header div.acoes-pesquisa {
+		display: grid;
+		gap: 8px;
+		grid-template-columns: 1fr auto;
+		justify-items: end;
+	}
+	div.filtros {
+		background-color: var(--cor-fundo-alta);
+		/* padding-inline: 16px; */
+		padding-block: 8px;
+
+		position: fixed;
+		bottom: 0;
+		left: 0;
+		right: 0;
+
+		z-index: 1;
+		max-height: 75vh;
+		/* overflow-y: auto; */
+		border-radius: 16px 16px 0 0;
+	}
+	div.filtros div.botoes-filtro {
+		display: flex;
+		justify-content: space-between;
+		margin-top: 8px;
+		padding-inline: 16px;
+	}
+
+	div.filtros div.botoes-filtro button {
+		background-color: var(--cor-fundo-media);
+		color: var(--cor-texto);
+		border-style: none;
+		border-radius: 16px;
+		padding: 16px;
+		min-width: 5rem;
+	}
+
+	div.filtros ul {
+		display: grid;
+		padding-inline: 16px;
+		gap: 8px;
+		max-height: 50vh;
+		overflow-y: auto;
+	}
+
+	div.filtros ul button {
+		display: grid;
+		grid-template-columns: auto 1fr;
+		align-items: center;
+		text-align: start;
+		gap: 16px;
+
+		padding: 16px;
+		width: 100%;
+		background-color: var(--cor-fundo-media);
+		border-style: none;
+		border-radius: 8px;
+		color: var(--cor-texto);
+
+		&.ativo {
+			background-color: var(--cor-principal);
+		}
+	}
+	.item-header {
+		align-items: center;
+		background-color: transparent;
+		border: none;
+		/* margin-top: 8px; */
+	}
 	div.card-nao-resultado {
 		margin-top: 16px;
 		text-align: center;
