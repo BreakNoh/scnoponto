@@ -3,6 +3,7 @@
 	import { LINHAS, type ItemLinha } from '$lib/linhas';
 	import type { ItemPesquisa } from '$lib/tipos';
 	import { storeIdioma } from '$lib/stores/storeIdioma';
+	import { storeFiltros } from '$lib/stores/storeFiltros';
 
 	let {
 		resultados = $bindable([]),
@@ -10,9 +11,8 @@
 	}: { resultados: ItemPesquisa[]; query?: string } = $props();
 
 	async function pesquisar(query: string = '') {
-		const LIMITE_RESULTADOS = 8;
-
-		const pesquisa = await fetch(`/pesquisa?q=${query}`);
+		const filtros = encodeURI($storeFiltros.join(','));
+		const pesquisa = await fetch(`/pesquisa?q=${query}&fe=${filtros}`);
 
 		if (!pesquisa.ok) return;
 

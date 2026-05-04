@@ -13,6 +13,7 @@ async function carregarItensPesquisa() {
 	}
 
 	let itens: ItemPesquisa[] = [];
+
 	for await (const arq of glob(`${CAMINHO_DADOS}/**/_self.json`)) {
 		const json = await readFile(arq, { encoding: 'utf-8' });
 		const dados = JSON.parse(json);
@@ -29,12 +30,12 @@ async function carregarItensPesquisa() {
 	return itens;
 }
 
-let motor: Fuse<any> | null = null;
+let motor: Fuse<ItemPesquisa> | null = null;
 
 export const GET: RequestHandler = async ({ url }) => {
 	const LIMITE_RESULTADOS = 8;
 	if (!motor) {
-		motor = new Fuse(await carregarItensPesquisa(), {
+		motor = new Fuse<ItemPesquisa>(await carregarItensPesquisa(), {
 			keys: ['nome_linha', 'codigo_linha', 'nome_empresa'],
 			threshold: 0.4,
 			isCaseSensitive: false
@@ -42,10 +43,16 @@ export const GET: RequestHandler = async ({ url }) => {
 	}
 
 	const query = url.searchParams.get('q');
+	const filtroEmpresas = url.searchParams.get('fe')?.toLowerCase() ?? '';
+
 	const resultado = motor
 		.search(query ?? '')
-		.filter((_, i) => i < LIMITE_RESULTADOS)
-		.map((v) => v.item);
+		.map((v) => v.item)
+		.filter(
+			({ nome_empresa }) =>
+				filtroEmpresas.includes(encodeURI(nome_empresa.toLowerCase())) || filtroEmpresas == ''
+		)
+		.filter((_, i) => i < LIMITE_RESULTADOS);
 
 	return new Response(JSON.stringify(resultado));
 };
