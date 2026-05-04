@@ -1,6 +1,7 @@
 <script lang="ts">
 	import CaixaPesquisa from '$lib/comps/CaixaPesquisa.svelte';
 	import NavPaginas from '$lib/comps/NavPaginas.svelte';
+	import { storeFiltros } from '$lib/stores/storeFiltros';
 	import { storeIdioma } from '$lib/stores/storeIdioma';
 	import { type ItemPesquisa } from '$lib/tipos';
 	import { CircleCheck, CircleDashed, ListFilter, Search, SearchX } from '@lucide/svelte';
@@ -57,7 +58,17 @@
 	<ul>
 		{#each Array(20) as _, i}
 			<li>
-				<button class:ativo={i & 1}>
+				<button
+					class:ativo={i & 1}
+					onclick={() =>
+						storeFiltros.update((v) => {
+							if (!v.includes(`${i}`)) {
+								v.push(`${i}`);
+								return v;
+							}
+							return v.filter((v) => v != `${i}`);
+						})}
+				>
 					{#if i & 1}
 						<CircleDashed />
 					{:else}

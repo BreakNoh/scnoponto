@@ -9,7 +9,7 @@
 	import { CORES } from '$lib/temas';
 	import { ChevronLeft, ChevronRight, Moon, Sun, SunMoon, type LucideIcon } from '@lucide/svelte';
 
-	const mudarTema = (escuro: boolean | null) => {
+	const mudarTema = (escuro: boolean | undefined) => {
 		$storeTema.escuro = escuro;
 		if (!browser) return;
 
@@ -30,8 +30,8 @@
 	const opcoesTema: OpcaoNavBar[] = $derived([
 		{
 			rotulo: $storeIdioma.aparencia.temas.sys,
-			acao: mudarTema.bind(null, null),
-			ativo: $storeTema.escuro === null,
+			acao: mudarTema.bind(null, undefined),
+			ativo: $storeTema.escuro === undefined,
 			icone: SunMoon
 		},
 		{

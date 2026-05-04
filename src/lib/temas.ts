@@ -1,5 +1,5 @@
 export type Tema = {
-	escuro: boolean | null;
+	escuro: boolean | undefined;
 	primaria: string;
 };
 
@@ -7,9 +7,10 @@ export function gerarCores(tema: Tema): Map<string, string> {
 	const cores = new Map([['principal', tema.primaria]]);
 
 	let base;
+	console.log(tema.escuro);
 	if (
 		tema.escuro ||
-		(tema.escuro === null && window.matchMedia('(prefers-color-scheme: dark)').matches)
+		(tema.escuro === undefined && window.matchMedia('(prefers-color-scheme: dark)').matches)
 	) {
 		base = BASE_ESCURO;
 	} else {

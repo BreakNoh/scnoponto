@@ -13,3 +13,7 @@ function carregarFiltros(): string[] {
 		return [];
 	}
 }
+
+storeFiltros.subscribe((v) =>
+	browser ? localStorage.setItem('filtros', JSON.stringify(v)) : null
+);
