@@ -1,19 +1,19 @@
 import { browser } from '$app/environment';
 import { writable } from 'svelte/store';
+import z from 'zod';
 
-export const storeFiltros = writable(browser ? carregarFiltros() : null);
+const schemaFiltro = z
+	.object({
+		emp: z.array(z.string()).optional()
+	})
+	.catch({});
 
-function carregarFiltros(): string[] {
-	try {
-		const filtros = JSON.parse(localStorage.getItem('filtros') ?? '[]');
+export const storeFiltros = writable(browser ? carregarFiltros() : undefined);
 
-		return Array.isArray(filtros) ? filtros : [];
-	} catch {
-		localStorage.setItem('filtros', '[]');
-		return [];
-	}
+function carregarFiltros() {
+	return schemaFiltro.parse(localStorage.getItem('filtros'));
 }
 
 storeFiltros.subscribe((v) =>
-	browser ? localStorage.setItem('filtros', JSON.stringify(v)) : null
+	browser ? localStorage.setItem('filtros', JSON.stringify(v)) : undefined
 );

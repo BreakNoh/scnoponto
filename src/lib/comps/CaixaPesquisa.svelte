@@ -1,6 +1,5 @@
 <script lang="ts">
 	import { Search } from '@lucide/svelte';
-	import { LINHAS, type ItemLinha } from '$lib/linhas';
 	import type { ItemPesquisa } from '$lib/tipos';
 	import { storeIdioma } from '$lib/stores/storeIdioma';
 	import { storeFiltros } from '$lib/stores/storeFiltros';
@@ -11,8 +10,15 @@
 	}: { resultados: ItemPesquisa[]; query?: string } = $props();
 
 	async function pesquisar(query: string = '') {
-		const filtros = encodeURI($storeFiltros?.join(',') ?? 'geral');
-		const pesquisa = await fetch(`/pesquisa?q=${query}&fe=${filtros}`);
+		if (query.length < 3) return;
+
+		const pesquisa = await fetch(`/pesquisa`, {
+			method: 'POST',
+			body: JSON.stringify({
+				termo: query,
+				filtroEmpresa: $storeFiltros
+			})
+		});
 
 		if (!pesquisa.ok) return;
 
