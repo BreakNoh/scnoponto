@@ -6,6 +6,7 @@
 	import { type ItemPesquisa } from '$lib/tipos';
 	import { CircleCheck, CircleDashed, ListFilter, Search, SearchX } from '@lucide/svelte';
 
+	let { data } = $props();
 	let resultados: ItemPesquisa[] = $state([]);
 	let query: string = $state('');
 </script>
@@ -52,30 +53,39 @@
 
 <div class="filtros">
 	<div class="botoes-filtro">
-		<button>todas</button>
+		<button
+			onclick={() => {
+				storeFiltros.update((_) => {
+					return null;
+				});
+			}}>todas</button
+		>
 		<button style:background-color="var(--cor-principal)">ok</button>
 	</div>
 	<ul>
-		{#each Array(20) as _, i}
+		{#each data.empresas as nomeEmpresa}
+			{@const nomeNorm = nomeEmpresa.toLowerCase().trim()}
+			{@const incluso = $storeFiltros.includes(nomeNorm)}
+
 			<li>
 				<button
-					class:ativo={i & 1}
+					class:ativo={incluso}
 					onclick={() =>
 						storeFiltros.update((v) => {
-							if (!v.includes(`${i}`)) {
-								v.push(`${i}`);
+							if (!incluso) {
+								v.push(nomeNorm);
 								return v;
 							}
-							return v.filter((v) => v != `${i}`);
+							return v.filter((v) => v != nomeNorm);
 						})}
 				>
-					{#if i & 1}
-						<CircleDashed />
-					{:else}
+					{#if incluso}
 						<CircleCheck />
+					{:else}
+						<CircleDashed />
 					{/if}
 
-					NOME DA EMPRESA
+					{nomeEmpresa}
 				</button>
 			</li>
 		{/each}

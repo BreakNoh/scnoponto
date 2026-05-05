@@ -1,7 +1,7 @@
 import { browser } from '$app/environment';
 import { writable } from 'svelte/store';
 
-export const storeFiltros = writable(browser ? carregarFiltros() : []);
+export const storeFiltros = writable(browser ? carregarFiltros() : null);
 
 function carregarFiltros(): string[] {
 	try {

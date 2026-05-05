@@ -11,7 +11,7 @@
 	}: { resultados: ItemPesquisa[]; query?: string } = $props();
 
 	async function pesquisar(query: string = '') {
-		const filtros = encodeURI($storeFiltros.join(','));
+		const filtros = encodeURI($storeFiltros?.join(',') ?? 'geral');
 		const pesquisa = await fetch(`/pesquisa?q=${query}&fe=${filtros}`);
 
 		if (!pesquisa.ok) return;

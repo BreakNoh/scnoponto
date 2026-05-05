@@ -1,7 +1,9 @@
-import { LINHA_TESTE } from '$lib/linhas';
-import type { Linha } from '$lib/tipos';
+import { cacheEmpresas } from '$lib/server/server_utils';
 import type { PageServerLoad } from './$types';
 
-export const load: PageServerLoad = (): {} => {
-	return {};
+export const load: PageServerLoad = async () => {
+	await cacheEmpresas.iniciar();
+	return {
+		empresas: cacheEmpresas.empresas()
+	};
 };
