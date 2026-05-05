@@ -1,7 +1,7 @@
 import { type Linha, type Dias, DIAS, type Servico } from '$lib/tipos';
 import { readFile } from 'node:fs/promises';
 import type { PageServerLoad } from './$types';
-import { cacheEmpresas, CacheEmpresas, CAMINHO_DADOS } from '$lib/server/server_utils';
+import { cacheEmpresas, CAMINHO_DADOS } from '$lib/server/cache';
 import { error, redirect } from '@sveltejs/kit';
 import { CODIGO_DIAS } from '$lib/utils';
 

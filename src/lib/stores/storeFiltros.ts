@@ -2,7 +2,7 @@ import { browser } from '$app/environment';
 import { writable } from 'svelte/store';
 import z from 'zod';
 
-const schemaFiltro = z
+export const schemaFiltro = z
 	.object({
 		emp: z.array(z.string()).optional()
 	})

@@ -1,14 +1,40 @@
 <script lang="ts">
-	import CaixaPesquisa from '$lib/comps/CaixaPesquisa.svelte';
+	import { browser } from '$app/environment';
+	import { pushState, replaceState } from '$app/navigation';
+	import Gaveta from '$lib/comps/Gaveta.svelte';
 	import NavPaginas from '$lib/comps/NavPaginas.svelte';
 	import { storeFiltros } from '$lib/stores/storeFiltros';
 	import { storeIdioma } from '$lib/stores/storeIdioma';
 	import { type ItemPesquisa } from '$lib/tipos';
 	import { CircleCheck, CircleDashed, ListFilter, Search, SearchX } from '@lucide/svelte';
+	import { onMount } from 'svelte';
+	import type { Attachment } from 'svelte/attachments';
 
-	let { data } = $props();
 	let resultados: ItemPesquisa[] = $state([]);
-	let query: string = $state('');
+	let iniciado = $state(false);
+
+	function alternarGaveta() {
+		if (!browser) return;
+		replaceState('', { mostrarGaveta: true });
+	}
+
+	const pesquisar: Attachment = (elemRaw) => {
+		const elem = elemRaw as HTMLInputElement;
+
+		elem.addEventListener('input', async () => {
+			if (elem.value.length < 3) return;
+			iniciado = true;
+
+			const res = await fetch('/pesquisa', {
+				method: 'post',
+				body: JSON.stringify({ termo: elem.value, filtros: $storeFiltros })
+			});
+
+			if (!res.ok) return;
+
+			resultados = await res.json();
+		});
+	};
 </script>
 
 {#snippet ItemResultado(item: ItemPesquisa)}
@@ -26,11 +52,15 @@
 {/snippet}
 
 <header>
-	<div class="acoes-pesquisa">
-		<CaixaPesquisa bind:resultados bind:query />
-		<button class="item-header"><ListFilter /></button>
+	<div class="caixa-pesquisa">
+		<div class="icone-lupa">
+			<Search class="" />
+		</div>
+		<input type="text" {@attach pesquisar} />
 	</div>
+	<button class="filtros" onclick={alternarGaveta}><ListFilter /></button>
 </header>
+
 <main>
 	{#if resultados.length > 0}
 		<ul>
@@ -38,7 +68,7 @@
 				{@render ItemResultado(i)}
 			{/each}
 		</ul>
-	{:else if query.length > 0}
+	{:else if iniciado}
 		<div class="card-nao-resultado">
 			<SearchX />
 			<p>{$storeIdioma.genericos.semResultados}</p>
@@ -51,61 +81,53 @@
 	{/if}
 </main>
 
-<div class="filtros">
-	<div class="botoes-filtro">
-		<button
-			onclick={() => {
-				storeFiltros.update((v) => {
-					v.emp = undefined;
-					return v;
-				});
-			}}>todas</button
-		>
-		<button style:background-color="var(--cor-principal)">ok</button>
-	</div>
-	<ul>
-		{#each data.empresas as nomeEmpresa}
-			{@const nomeNorm = nomeEmpresa.toLowerCase().trim()}
-			{@const incluso = $storeFiltros.emp?.includes(nomeNorm)}
-
-			<li>
-				<button
-					class:ativo={incluso}
-					onclick={() =>
-						storeFiltros.update((v) => {
-							if (!incluso) {
-								if (!v.emp) {
-									v.emp = [];
-								}
-								v.emp?.push(nomeNorm);
-								return v;
-							}
-							v.emp = v.emp?.filter((v) => v != nomeNorm);
-							return v;
-						})}
-				>
-					{#if incluso}
-						<CircleCheck />
-					{:else}
-						<CircleDashed />
-					{/if}
-
-					{nomeEmpresa}
-				</button>
-			</li>
-		{/each}
-	</ul>
-</div>
-
+<Gaveta>abc</Gaveta>
 <NavPaginas ativo="horarios" />
 
 <style>
-	header div.acoes-pesquisa {
+	header {
 		display: grid;
-		gap: 8px;
 		grid-template-columns: 1fr auto;
-		justify-items: end;
+		gap: 8px;
 	}
+
+	div.caixa-pesquisa {
+		position: relative;
+		display: grid;
+
+		& .icone-lupa {
+			pointer-events: none;
+			position: absolute;
+			left: 4px;
+			top: 4px;
+
+			display: flex;
+			place-content: center;
+
+			width: 2rem;
+			aspect-ratio: 1 / 1;
+		}
+
+		& input {
+			padding-inline: calc(2rem + 8px) 8px;
+			padding-block: 4px;
+
+			line-height: 2rem;
+			font-size: 1rem;
+
+			border-style: none;
+			border-radius: 8px;
+		}
+		& input:focus {
+			outline: none;
+		}
+	}
+
+	button.filtros {
+		background-color: transparent;
+		border: none;
+	}
+
 	div.filtros {
 		background-color: var(--cor-fundo-alta);
 		/* padding-inline: 16px; */
@@ -137,38 +159,6 @@
 		min-width: 5rem;
 	}
 
-	div.filtros ul {
-		display: grid;
-		padding-inline: 16px;
-		gap: 8px;
-		max-height: 50vh;
-		overflow-y: auto;
-	}
-
-	div.filtros ul button {
-		display: grid;
-		grid-template-columns: auto 1fr;
-		align-items: center;
-		text-align: start;
-		gap: 16px;
-
-		padding: 16px;
-		width: 100%;
-		background-color: var(--cor-fundo-media);
-		border-style: none;
-		border-radius: 8px;
-		color: var(--cor-texto);
-
-		&.ativo {
-			background-color: var(--cor-principal);
-		}
-	}
-	.item-header {
-		align-items: center;
-		background-color: transparent;
-		border: none;
-		/* margin-top: 8px; */
-	}
 	div.card-nao-resultado {
 		margin-top: 16px;
 		text-align: center;
