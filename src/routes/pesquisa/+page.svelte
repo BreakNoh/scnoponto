@@ -7,12 +7,18 @@
 	import { storeFiltros } from '$lib/stores/storeFiltros';
 	import { storeIdioma } from '$lib/stores/storeIdioma';
 	import { type ItemPesquisa } from '$lib/tipos';
-	import { CircleCheck, CircleDashed, ListFilter, Search, SearchX } from '@lucide/svelte';
+	import { CircleCheck, CircleDashed, ListFilter, Search, SearchX, X } from '@lucide/svelte';
 	import type { Attachment } from 'svelte/attachments';
 
 	let resultados: ItemPesquisa[] = $state([]);
+	let empresasResultados = $state<string[]>($storeFiltros?.emp ?? []); // evita duplicatas
 	let iniciado = $state(false);
+	let termo = $state('');
 	const regioes = ['grande florianópolis', 'sul', 'serra', 'norte', 'oeste', 'vale do itajaí'];
+
+	function atualizarEmpresas() {
+		empresasResultados = [...new Set(resultados.map((v) => v.nome_empresa))].sort();
+	}
 
 	function alternarGaveta() {
 		if (!browser) return;
@@ -25,22 +31,69 @@
 		pushState('', { mostrarGaveta: true });
 	}
 
-	const pesquisar: Attachment = (elemRaw) => {
+	const pesquisar = async (atualizar: boolean = true) => {
+		if (termo.length < 3) return;
+		iniciado = true;
+
+		const res = await fetch('/pesquisa', {
+			method: 'post',
+			body: JSON.stringify({ termo, filtros: $storeFiltros })
+		});
+
+		if (!res.ok) return;
+
+		resultados = await res.json();
+
+		if (atualizar && resultados.length > 0) {
+			atualizarEmpresas();
+		}
+	};
+
+	const acaoPesquisa: Attachment = (elemRaw) => {
 		const elem = elemRaw as HTMLInputElement;
 
-		elem.addEventListener('input', async () => {
-			if (elem.value.length < 3) return;
-			iniciado = true;
+		elem.addEventListener('input', pesquisar.bind(null, true));
+	};
 
-			const res = await fetch('/pesquisa', {
-				method: 'post',
-				body: JSON.stringify({ termo: elem.value, filtros: $storeFiltros })
-			});
+	const filtrarEmpresa = (emp: string) => {
+		const empNorm = emp.trim();
+		let atualizar = false;
 
-			if (!res.ok) return;
+		if (!$storeFiltros.emp) {
+			$storeFiltros.emp = [empNorm];
+		} else if (!$storeFiltros.emp.includes(empNorm)) {
+			$storeFiltros.emp.push(empNorm);
+		} else {
+			$storeFiltros.emp = $storeFiltros.emp.filter((v) => v != empNorm);
+		}
 
-			resultados = await res.json();
-		});
+		if ($storeFiltros.emp.length == 0) {
+			$storeFiltros.emp = undefined;
+			atualizar = true;
+		}
+
+		storeFiltros.update((v) => v);
+		pesquisar(atualizar);
+	};
+	const filtrarReg = (reg: string) => {
+		const regNorm = reg.trim();
+		let atualizar = false;
+
+		if (!$storeFiltros.reg) {
+			$storeFiltros.reg = [regNorm];
+		} else if (!$storeFiltros.reg.includes(regNorm)) {
+			$storeFiltros.reg.push(regNorm);
+		} else {
+			$storeFiltros.reg = $storeFiltros.reg.filter((v) => v != regNorm);
+		}
+
+		if ($storeFiltros.reg.length == 0) {
+			$storeFiltros.reg = undefined;
+			atualizar = true;
+		}
+
+		storeFiltros.update((v) => v);
+		pesquisar(atualizar);
 	};
 </script>
 
@@ -63,12 +116,26 @@
 		<div class="icone-lupa">
 			<Search class="" />
 		</div>
-		<input type="text" {@attach pesquisar} />
+		<input type="text" {@attach acaoPesquisa} bind:value={termo} />
 	</div>
 	<button class="filtros" onclick={alternarGaveta}><ListFilter /></button>
 </header>
 
 <main>
+	<ul class="barra-empresas">
+		{#each empresasResultados as i}
+			{@const ativo = $storeFiltros.emp?.includes(i.trim())}
+			<li>
+				<button class="botao-filtro" onclick={filtrarEmpresa.bind(null, i)} class:ativo>
+					{#if ativo}
+						<X size="1rem" />
+					{/if}
+					{i}
+				</button>
+			</li>
+		{/each}
+	</ul>
+
 	{#if resultados.length > 0}
 		<ul class="lista-resultados">
 			{#each resultados as i}
@@ -92,12 +159,19 @@
 	<h3>regiões</h3>
 	<ul class="regioes">
 		{#each regioes as reg, i}
+			{@const ativo = $storeFiltros?.reg?.includes(reg)}
 			<li>
-				<button class="botao-filtro" class:ativo={i & 1}>{reg}</button>
+				<button class="botao-filtro" class:ativo onclick={filtrarReg.bind(null, reg)}>
+					{#if ativo}
+						<X size="1rem" />
+					{/if}
+					{reg}</button
+				>
 			</li>
 		{/each}
 	</ul>
 </Gaveta>
+
 <NavPaginas ativo="horarios" />
 
 <style>
@@ -143,6 +217,19 @@
 		display: flex;
 		flex-wrap: wrap;
 		gap: 8px;
+	}
+	ul.barra-empresas {
+		display: flex;
+		overflow-x: auto;
+		scrollbar-width: none;
+
+		gap: 8px;
+		& li {
+			flex: none;
+		}
+	}
+	ul button {
+		display: flex;
 	}
 	button.botao-filtro {
 		padding-inline: 16px;

@@ -4,14 +4,20 @@ import z from 'zod';
 
 export const schemaFiltro = z
 	.object({
-		emp: z.array(z.string()).optional()
+		emp: z.array(z.string()).optional(),
+		reg: z.array(z.string()).optional()
 	})
 	.catch({});
 
 export const storeFiltros = writable(browser ? carregarFiltros() : undefined);
 
 function carregarFiltros() {
-	return schemaFiltro.parse(localStorage.getItem('filtros'));
+	try {
+		const json = JSON.parse(localStorage.getItem('filtros') ?? '');
+		return schemaFiltro.parse(json);
+	} catch {
+		return {};
+	}
 }
 
 storeFiltros.subscribe((v) =>

@@ -13,7 +13,9 @@ export const schemaPesquisa = z.object({
 
 async function iniciarMotorPesquisa() {
 	if (motor) return;
+
 	await cacheEmpresas.iniciar();
+
 	motor = new Fuse<ItemPesquisa>(cacheEmpresas.itens(), {
 		keys: ['nome_linha', 'codigo_linha', 'nome_empresa'],
 		threshold: 0.4,
@@ -28,9 +30,11 @@ export default async function pesquisar(
 	await iniciarMotorPesquisa();
 
 	const filtrarEmpresa = (v: ItemPesquisa) => {
-		return !pesquisa.filtros?.emp || pesquisa.filtros?.emp?.includes(v.nome_empresa);
+		return !pesquisa.filtros?.emp || pesquisa.filtros.emp?.includes(v.nome_empresa.trim());
+		// return !pesquisa.filtros?.emp || pesquisa.filtros?.emp?.includes(v.nome_empresa);
 	};
 
+	console.log(pesquisa);
 	return motor
 		?.search(pesquisa.termo)
 		.map((v) => v.item)
