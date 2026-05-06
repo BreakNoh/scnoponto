@@ -1,21 +1,28 @@
 <script lang="ts">
 	import { browser } from '$app/environment';
 	import { pushState, replaceState } from '$app/navigation';
+	import { page } from '$app/state';
 	import Gaveta from '$lib/comps/Gaveta.svelte';
 	import NavPaginas from '$lib/comps/NavPaginas.svelte';
 	import { storeFiltros } from '$lib/stores/storeFiltros';
 	import { storeIdioma } from '$lib/stores/storeIdioma';
 	import { type ItemPesquisa } from '$lib/tipos';
 	import { CircleCheck, CircleDashed, ListFilter, Search, SearchX } from '@lucide/svelte';
-	import { onMount } from 'svelte';
 	import type { Attachment } from 'svelte/attachments';
 
 	let resultados: ItemPesquisa[] = $state([]);
 	let iniciado = $state(false);
+	const regioes = ['grande florianópolis', 'sul', 'serra', 'norte', 'oeste', 'vale do itajaí'];
 
 	function alternarGaveta() {
 		if (!browser) return;
-		replaceState('', { mostrarGaveta: true });
+
+		if (page.state.mostrarGaveta) {
+			history.back();
+			return;
+		}
+
+		pushState('', { mostrarGaveta: true });
 	}
 
 	const pesquisar: Attachment = (elemRaw) => {
@@ -39,7 +46,7 @@
 
 {#snippet ItemResultado(item: ItemPesquisa)}
 	<li>
-		<a href={`/horarios/${item.slug}`}>
+		<a href={`/horarios/${item.slug}`} class="item-resultado">
 			<span class="nome-linha">
 				{#if item.codigo_linha}
 					{`${item.codigo_linha} | `}
@@ -63,7 +70,7 @@
 
 <main>
 	{#if resultados.length > 0}
-		<ul>
+		<ul class="lista-resultados">
 			{#each resultados as i}
 				{@render ItemResultado(i)}
 			{/each}
@@ -81,7 +88,16 @@
 	{/if}
 </main>
 
-<Gaveta>abc</Gaveta>
+<Gaveta>
+	<h3>regiões</h3>
+	<ul class="regioes">
+		{#each regioes as reg, i}
+			<li>
+				<button class="botao-filtro" class:ativo={i & 1}>{reg}</button>
+			</li>
+		{/each}
+	</ul>
+</Gaveta>
 <NavPaginas ativo="horarios" />
 
 <style>
@@ -123,40 +139,30 @@
 		}
 	}
 
+	ul.regioes {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 8px;
+	}
+	button.botao-filtro {
+		padding-inline: 16px;
+		padding-block: 8px;
+
+		background-color: transparent;
+
+		border: 1px solid var(--cor-principal);
+		border-radius: 16px;
+		color: var(--cor-texto);
+
+		&.ativo {
+			background-color: var(--cor-principal);
+			color: var(--cor-texto-alt);
+		}
+	}
+
 	button.filtros {
 		background-color: transparent;
 		border: none;
-	}
-
-	div.filtros {
-		background-color: var(--cor-fundo-alta);
-		/* padding-inline: 16px; */
-		padding-block: 8px;
-
-		position: fixed;
-		bottom: 0;
-		left: 0;
-		right: 0;
-
-		z-index: 1;
-		max-height: 75vh;
-		/* overflow-y: auto; */
-		border-radius: 16px 16px 0 0;
-	}
-	div.filtros div.botoes-filtro {
-		display: flex;
-		justify-content: space-between;
-		margin-top: 8px;
-		padding-inline: 16px;
-	}
-
-	div.filtros div.botoes-filtro button {
-		background-color: var(--cor-fundo-media);
-		color: var(--cor-texto);
-		border-style: none;
-		border-radius: 16px;
-		padding: 16px;
-		min-width: 5rem;
 	}
 
 	div.card-nao-resultado {
@@ -169,11 +175,14 @@
 	}
 
 	ul {
+		padding: 0;
+	}
+
+	ul.lista-resultados {
 		display: flex;
 		flex-direction: column;
 		margin-top: 8px;
 
-		padding: 0;
 		gap: 4px;
 	}
 	li {
@@ -181,7 +190,7 @@
 		list-style-type: none;
 	}
 
-	a::before {
+	a.item-resultado::before {
 		position: absolute;
 		content: '';
 		left: 0;
@@ -192,7 +201,7 @@
 		border-radius: 16px 0 0 16px;
 	}
 
-	a {
+	a.item-resultado {
 		flex: 1;
 		display: grid;
 		position: relative;
@@ -203,17 +212,19 @@
 		background-color: var(--cor-fundo-alta);
 		border-radius: 8px;
 		padding: 16px;
-	}
-	a span {
-		white-space: nowrap;
-		text-overflow: ellipsis;
-		overflow: hidden;
-	}
-	a span.nome-linha {
-		font-size: 1rem;
-	}
-	a span.nome-empresa {
-		font-size: 0.75rem;
-		color: var(--cor-texto-sec);
+
+		& span {
+			white-space: nowrap;
+			text-overflow: ellipsis;
+			overflow: hidden;
+
+			&.nome-linha {
+				font-size: 1rem;
+			}
+			&.nome-empresa {
+				font-size: 0.75rem;
+				color: var(--cor-texto-sec);
+			}
+		}
 	}
 </style>
