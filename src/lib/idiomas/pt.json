@@ -1,30 +1,43 @@
 {
-	"nomeIdioma": "Português",
-	"genericos": {
-		"voltar": "voltar",
-		"semFavorito": "nenhuma linha favorita",
-		"linhasAqui": "linhas aparacem aqui",
-		"pesquisarLinha": "pesquisar linhas",
-		"semResultados": "nenhuma linha encontrada :("
+	"idioma": "Português",
+
+	"gen": {
+		"voltar": "voltar"
 	},
-	"pagina": {
+
+	"pag": {
+		"pesquisa": {
+			"semResultado": "nenhuma linha encontrada",
+			"linhasAqui": "linhas aparecem aqui",
+			"pesquisarLinhas": "pesquisar linhas"
+		},
+		"favoritos": {
+			"semFavorito": "nenhuma linha favorita"
+		},
+		"menu": {
+			"opcoes": {
+				"aparencia": "aparência"
+			}
+		},
+		"linha": {},
+		"aparencia": {
+			"tema": "tema",
+			"temas": {
+				"sys": "sistema",
+				"esc": "escuro",
+				"cla": "claro"
+			},
+			"cor": "cor destaque"
+		}
+	},
+
+	"nav": {
 		"pesquisa": "horários",
 		"favorito": "favoritos",
 		"menu": "menu"
 	},
-	"opcoesMenu": {
-		"aparencia": "aparência"
-	},
-	"aparencia": {
-		"tema": "tema",
-		"temas": {
-			"sys": "sistema",
-			"esc": "escuro",
-			"cla": "claro"
-		},
-		"cor": "cor destaque"
-	},
-	"dias": {
+
+	"dia": {
 		"uteis": "Dias úteis",
 		"sabado": "Sábado",
 		"domingo": "Domingo",
@@ -32,3 +45,4 @@
 		"todoDia": "Diariamente"
 	}
 }
+
