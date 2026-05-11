@@ -8,18 +8,18 @@
 
 	const opcoes: OpcaoNavBar[] = $derived([
 		{
-			rotulo: $storeIdioma.pagina.favorito,
+			rotulo: $storeIdioma.nav.favorito,
 			caminho: '/favoritos',
 			ativo: ativo == 'favoritos',
 			icone: Heart
 		},
 		{
-			rotulo: $storeIdioma.pagina.pesquisa,
+			rotulo: $storeIdioma.nav.pesquisa,
 			caminho: '/',
 			ativo: ativo == 'horarios',
 			icone: BusFront
 		},
-		{ rotulo: $storeIdioma.pagina.menu, caminho: '/menu', ativo: ativo == 'menu', icone: Menu }
+		{ rotulo: $storeIdioma.nav.menu, caminho: '/menu', ativo: ativo == 'menu', icone: Menu }
 	]);
 </script>
 

@@ -29,19 +29,19 @@
 
 	const opcoesTema: OpcaoNavBar[] = $derived([
 		{
-			rotulo: $storeIdioma.aparencia.temas.sys,
+			rotulo: $storeIdioma.pag.aparencia.temas.sys,
 			acao: mudarTema.bind(null, undefined),
 			ativo: $storeTema.escuro === undefined,
 			icone: SunMoon
 		},
 		{
-			rotulo: $storeIdioma.aparencia.temas.esc,
+			rotulo: $storeIdioma.pag.aparencia.temas.esc,
 			acao: mudarTema.bind(null, true),
 			ativo: $storeTema.escuro === true,
 			icone: Moon
 		},
 		{
-			rotulo: $storeIdioma.aparencia.temas.cla,
+			rotulo: $storeIdioma.pag.aparencia.temas.cla,
 			acao: mudarTema.bind(null, false),
 			ativo: $storeTema.escuro === false,
 			icone: Sun
@@ -49,16 +49,16 @@
 	]);
 </script>
 
-<a href="/menu" class="voltar"><ChevronLeft />{$storeIdioma.genericos.voltar}</a>
+<a href="/menu" class="voltar"><ChevronLeft />{$storeIdioma.gen.voltar}</a>
 <main>
 	<ul>
 		<li>
-			<h3>{$storeIdioma.aparencia.tema}</h3>
+			<h3>{$storeIdioma.pag.aparencia.tema}</h3>
 			<BarraNavegacao opcoes={opcoesTema} fixa={false} />
 		</li>
 
 		<li>
-			<h3>{$storeIdioma.aparencia.cor}</h3>
+			<h3>{$storeIdioma.pag.aparencia.cor}</h3>
 			<div class="tabela-cores">
 				{#each CORES.entries() as [nome, cor]}
 					<button

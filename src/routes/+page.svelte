@@ -41,12 +41,12 @@
 	{:else if query.length > 0}
 		<div class="card-nao-resultado">
 			<SearchX />
-			<p>{$storeIdioma.genericos.semResultados}</p>
+			<p>{$storeIdioma.pag.pesquisa.semResultado}</p>
 		</div>
 	{:else}
 		<div class="card-nao-resultado">
 			<Search />
-			<p>{$storeIdioma.genericos.linhasAqui}</p>
+			<p>{$storeIdioma.pag.pesquisa.linhasAqui}</p>
 		</div>
 	{/if}
 </main>

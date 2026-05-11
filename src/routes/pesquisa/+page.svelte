@@ -118,7 +118,7 @@
 		</div>
 		<input type="text" {@attach acaoPesquisa} bind:value={termo} />
 	</div>
-	<button class="filtros" onclick={alternarGaveta}><ListFilter /></button>
+	<button class="filtros" onclick={alternarGaveta} style:display="none"><ListFilter /></button>
 </header>
 
 <main>
@@ -145,12 +145,12 @@
 	{:else if iniciado}
 		<div class="card-nao-resultado">
 			<SearchX />
-			<p>{$storeIdioma.genericos.semResultados}</p>
+			<p>{$storeIdioma.pag.pesquisa.semResultado}</p>
 		</div>
 	{:else}
 		<div class="card-nao-resultado">
 			<Search />
-			<p>{$storeIdioma.genericos.linhasAqui}</p>
+			<p>{$storeIdioma.pag.pesquisa.linhasAqui}</p>
 		</div>
 	{/if}
 </main>
@@ -207,7 +207,9 @@
 
 			border-style: none;
 			border-radius: 8px;
+			background-color: white;
 		}
+
 		& input:focus {
 			outline: none;
 		}

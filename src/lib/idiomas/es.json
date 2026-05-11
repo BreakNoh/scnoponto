@@ -1,30 +1,44 @@
 {
-	"nomeIdioma": "Español",
-	"genericos": {
-		"voltar": "volver",
-		"semFavorito": "no hay líneas favoritas",
-		"linhasAqui": "las líneas aparecen aquí",
-		"pesquisarLinha": "buscar líneas",
-		"semResultados": "no se encontraron líneas :("
+	"idioma": "Español",
+
+	"gen": {
+		"voltar": "volver"
 	},
-	"pagina": {
+
+	"pag": {
+		"pesquisa": {
+			"semResultado": "no se encontraron líneas",
+			"linhasAqui": "las líneas aparecen aquí",
+			"pesquisarLinhas": "buscar líneas"
+		},
+		"favoritos": {
+			"semFavorito": "no hay líneas favoritas"
+		},
+		"menu": {
+			"opcoes": {
+				"aparencia": "apariencia",
+				"idioma": "lenguaje"
+			}
+		},
+		"linha": {},
+		"aparencia": {
+			"tema": "tema",
+			"temas": {
+				"sys": "sistema",
+				"esc": "oscuro",
+				"cla": "claro"
+			},
+			"cor": "color de acento"
+		}
+	},
+
+	"nav": {
 		"pesquisa": "horarios",
 		"favorito": "favoritos",
 		"menu": "menú"
 	},
-	"opcoesMenu": {
-		"aparencia": "apariencia"
-	},
-	"aparencia": {
-		"tema": "tema",
-		"temas": {
-			"sys": "sistema",
-			"esc": "oscuro",
-			"cla": "claro"
-		},
-		"cor": "color de acento"
-	},
-	"dias": {
+
+	"dia": {
 		"uteis": "Días laborables",
 		"sabado": "Sábado",
 		"domingo": "Domingo",

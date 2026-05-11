@@ -10,11 +10,11 @@
 	let dias = $derived(linha.servicos.keys().toArray());
 
 	const NOMES_DISPLAY_LONGO = new Map([
-		[DIAS.uteis, $storeIdioma.dias.uteis],
-		[DIAS.sabado, $storeIdioma.dias.sabado],
-		[DIAS.domingoFeriados, $storeIdioma.dias.domingo],
-		[DIAS.sabado | DIAS.domingoFeriados, $storeIdioma.dias.findes],
-		[127, $storeIdioma.dias.todoDia]
+		[DIAS.uteis, $storeIdioma.dia.uteis],
+		[DIAS.sabado, $storeIdioma.dia.sabado],
+		[DIAS.domingoFeriados, $storeIdioma.dia.domingo],
+		[DIAS.sabado | DIAS.domingoFeriados, $storeIdioma.dia.findes],
+		[127, $storeIdioma.dia.todoDia]
 	]);
 
 	let { empresa: slugEmp, linha: slugLin } = page.params;

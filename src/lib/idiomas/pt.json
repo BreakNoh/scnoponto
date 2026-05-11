@@ -16,7 +16,8 @@
 		},
 		"menu": {
 			"opcoes": {
-				"aparencia": "aparência"
+				"aparencia": "aparência",
+				"idioma": "idioma"
 			}
 		},
 		"linha": {},

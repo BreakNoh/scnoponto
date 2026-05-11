@@ -2,7 +2,7 @@
 	import NavPaginas from '$lib/comps/NavPaginas.svelte';
 	import PopUp from '$lib/comps/PopUp.svelte';
 	import { storeIdioma } from '$lib/stores/storeIdioma';
-	import { Moon, Paintbrush, Sun, SunMoon, type LucideIcon } from '@lucide/svelte';
+	import { Languages, Moon, Paintbrush, Sun, SunMoon, type LucideIcon } from '@lucide/svelte';
 </script>
 
 <NavPaginas ativo="menu" />
@@ -20,7 +20,11 @@
 	<ul>
 		<li>
 			<Paintbrush />
-			<a href="/menu/aparencia">{$storeIdioma.opcoesMenu.aparencia}</a>
+			<a href="/menu/aparencia">{$storeIdioma.pag.menu.opcoes.aparencia}</a>
+		</li>
+		<li>
+			<Languages />
+			<a href="/menu/idioma">{$storeIdioma.pag.menu.opcoes.idioma}</a>
 		</li>
 	</ul>
 </main>

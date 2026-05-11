@@ -11,7 +11,7 @@
 	{#if favoritos.length == 0}
 		<div class="sem-itens">
 			<HeartCrack size="128px" />
-			<p>{$storeIdioma.genericos.semFavorito}</p>
+			<p>{$storeIdioma.pag.favoritos.semFavorito}</p>
 		</div>
 	{:else}
 		<ul>
