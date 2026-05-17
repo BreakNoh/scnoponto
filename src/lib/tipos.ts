@@ -18,7 +18,7 @@ export type Linha = {
 	nome: string;
 	codigo?: string;
 	detalhe?: string;
-	servicos: Map<Dias, Servico[]>;
+	servicos: Record<Dias, Servico[]>;
 	slug: string;
 };
 

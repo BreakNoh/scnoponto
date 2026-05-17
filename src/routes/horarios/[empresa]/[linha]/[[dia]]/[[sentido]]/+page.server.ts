@@ -1,28 +1,35 @@
 import { type Linha, type Dias, DIAS, type Servico } from '$lib/tipos';
 import { readFile, glob } from 'node:fs/promises';
 import type { EntryGenerator, PageServerLoad, RouteParams } from './$types';
-import { cacheEmpresas, CAMINHO_DADOS } from '$lib/server/cache';
+import { cacheEmpresas, CAMINHO_DADOS, dadosEmpresa, dadosLinhas } from '$lib/server/cache';
 import { error, redirect } from '@sveltejs/kit';
 import { CODIGO_DIAS } from '$lib/utils';
 
-// export const prerender = true;
-
-async function carregarLinha(
-	empresa: string,
-	linha: string
-): Promise<[Linha, string | undefined] | undefined> {
+async function carregarLinha(empresa: string, linha: string): Promise<[Linha, string] | undefined> {
 	try {
-		const json = await readFile(`${CAMINHO_DADOS}/${empresa}/${linha}.json`, { encoding: 'utf-8' });
-		const jsonEmpresa = await readFile(`${CAMINHO_DADOS}/${empresa}/_self.json`, {
-			encoding: 'utf-8'
-		});
+		const nomeEmpresa =
+			(
+				Object.entries(dadosEmpresa)
+					.find(([k, _]) => k.includes(empresa))
+					?.at(1) as { nome: string } | undefined
+			)?.nome ?? 'empresa';
 
-		const linhaCarregada = JSON.parse(json) as Linha;
-		linhaCarregada.servicos = new Map(
-			Object.entries(linhaCarregada.servicos).map(([k, v]) => [Number(k), v as Servico[]])
-		);
+		const linhaCarregada = (
+			Object.entries(dadosLinhas)
+				.find(([caminho]) => caminho.includes(`${empresa}/${linha}`))
+				?.at(1) as { default: Linha } | undefined
+		)?.default;
 
-		return [linhaCarregada, JSON.parse(jsonEmpresa).nome];
+		if (!linhaCarregada) return undefined;
+
+		// linhaCarregada.servicos = new Map(
+		// 	Object.entries(linhaCarregada.servicos).map(([dia, servicos]) => [
+		// 		Number(dia),
+		// 		servicos as Servico[]
+		// 	])
+		// );
+
+		return [linhaCarregada, nomeEmpresa];
 	} catch {
 		return undefined;
 	}
@@ -97,6 +104,7 @@ export const load: PageServerLoad = async ({ params }) => {
 	}
 
 	const dados = await carregarLinha(params.empresa, params.linha);
+	// console.log(dados);
 
 	if (!dados) {
 		throw error(404, { message: 'linha não encontrada' });
@@ -104,17 +112,13 @@ export const load: PageServerLoad = async ({ params }) => {
 
 	const [linha, nomeEmpresa] = dados;
 
-	const diasServicos = linha.servicos.keys().toArray();
-
-	if (!diasServicos.includes(dia)) {
-		dia = diasServicos.at(0);
-	}
-
+	const diasServicos = Object.keys(linha.servicos);
 	let idxSentido = 0;
 
 	if (params.sentido) {
 		idxSentido = Number(params.sentido?.trim());
-		const s = linha.servicos.has(dia ?? 0);
+
+		const s = linha.servicos[dia];
 
 		if (isNaN(idxSentido) || !s) {
 			throw redirect(308, `/horarios/${params.empresa}/${params.linha}/${dia}`);
@@ -122,9 +126,20 @@ export const load: PageServerLoad = async ({ params }) => {
 	}
 
 	return {
+		dadosLinha: {
+			nome: linha.nome,
+			detalhe: linha.detalhe,
+			codigo: linha.codigo,
+			empresa: nomeEmpresa
+		},
+
+		dias: diasServicos,
+		dia: dia!,
+		servico: linha.servicos[dia][idxSentido],
+		servicos: linha.servicos[dia],
+
 		linha,
 		nomeEmpresa,
-		dia: dia!,
 		idxSentido,
 		itemPesquisa: nomeEmpresa ? cacheEmpresas.ler(nomeEmpresa, linha.nome, linha.codigo) : null
 	};

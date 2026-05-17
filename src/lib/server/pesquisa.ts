@@ -11,6 +11,8 @@ export const schemaPesquisa = z.object({
 	filtros: schemaFiltro.optional()
 });
 
+async function prepararItens() {}
+
 async function iniciarMotorPesquisa() {
 	if (motor) return;
 

@@ -5,9 +5,9 @@
 	import BarraNavegacao, { type OpcaoNavBar } from './BarraNavegacao.svelte';
 	import { storeIdioma } from '$lib/stores/storeIdioma';
 
-	let { linha, ativo }: { linha: Linha; ativo?: Dias } = $props();
+	let { dias, ativo }: { dias: Dias[] | string[]; ativo?: Dias } = $props();
 
-	let dias = $derived(linha.servicos.keys().toArray());
+	// let dias = $derived(linha.servicos.keys().toArray());
 
 	const NOMES_DISPLAY_LONGO = new Map([
 		[DIAS.uteis, $storeIdioma.dia.uteis],
@@ -23,17 +23,17 @@
 		return (d & DIAS.domingoFeriados) | ((d & DIAS.sabado) << 5) | ((d & DIAS.uteis) >> 1);
 	};
 
-	function gerarOpcoes(dias: Dias[]) {
+	function gerarOpcoes(dias: Dias[] | string[]) {
 		const opcoes: OpcaoNavBar[] = [];
 
 		dias
-			.filter((d) => NOMES_DISPLAY_LONGO.has(d))
-			.sort((a, b) => arrumarBitsDias(a) - arrumarBitsDias(b))
+			.filter((d) => NOMES_DISPLAY_LONGO.has(Number(d)))
+			.sort((a, b) => arrumarBitsDias(Number(a)) - arrumarBitsDias(Number(b)))
 			.forEach((d) => {
 				opcoes.push({
-					rotulo: NOMES_DISPLAY_LONGO.get(d)!,
-					ativo: !!((ativo ?? 0) & d),
-					caminho: `/horarios/${slugEmp}/${slugLin}/${CODIGO_DIAS.get(d) ?? ''}`
+					rotulo: NOMES_DISPLAY_LONGO.get(Number(d))!,
+					ativo: !!((ativo ?? 0) & Number(d)),
+					caminho: `/horarios/${slugEmp}/${slugLin}/${CODIGO_DIAS.get(Number(d)) ?? ''}`
 				});
 			});
 

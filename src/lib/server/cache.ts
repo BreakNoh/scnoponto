@@ -3,6 +3,15 @@ import { glob, readFile } from 'node:fs/promises';
 
 export const CAMINHO_DADOS = `${process.cwd()}/src/lib/server/dados`;
 
+export const dadosEmpresa = import.meta.glob('./*/_self.json', {
+	base: '/src/lib/server/dados',
+	eager: true
+});
+export const dadosLinhas = import.meta.glob(['!./*/_self.json', './*/*.json'], {
+	eager: true,
+	base: '/src/lib/server/dados'
+});
+
 class CacheEmpresa {
 	private dadosEmpresas = new Map<string, ItemPesquisa[]>();
 	private iniciado = false;

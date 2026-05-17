@@ -11,11 +11,9 @@
 
 	let { data } = $props();
 
-	let linha = $derived(data.linha);
-	let dia = $derived(data.dia);
+	let { dadosLinha, servico, servicos, dias, dia } = $derived(data);
 
-	let servicos = $derived(linha.servicos.get(dia));
-	let servicoAtual = $derived(servicos?.at(data.idxSentido));
+	let linha = $derived(data.linha);
 
 	let favorito = $derived(data.favorito);
 
@@ -41,23 +39,23 @@
 			<Heart fill={favorito ? 'var(--cor-texto-alt)' : 'transparent'} /></button
 		>
 	</nav>
-	<h1>{data.nomeEmpresa}</h1>
-	<h2 style={`font-size: ${linha.nome.length < 20 ? '2rem' : '1.5rem'}`}>
-		{#if linha.codigo}
-			{`${linha.codigo} |`}
+	<h1>{dadosLinha.empresa}</h1>
+	<h2 style={`font-size: ${dadosLinha.nome.length < 20 ? '2rem' : '1.5rem'}`}>
+		{#if dadosLinha.codigo}
+			{`${dadosLinha.codigo} |`}
 		{/if}
 
-		{linha.nome}
+		{dadosLinha.nome}
 	</h2>
-	{#if linha.detalhe}
+	{#if dadosLinha.detalhe}
 		<p>
-			{linha.detalhe}
+			{dadosLinha.detalhe}
 		</p>
 	{/if}
 </header>
 
 <div class="wrapper-nav">
-	<NavegacaoDias {linha} ativo={dia} />
+	<NavegacaoDias {dias} ativo={dia} />
 </div>
 
 {#snippet ListaSentidos()}
@@ -81,15 +79,15 @@
 {/snippet}
 
 <main>
-	{#if servicoAtual}
-		<Colapsavel titulo={servicoAtual.sentido} flutua>
+	{#if servico}
+		<Colapsavel titulo={servico.sentido} flutua>
 			<div class="wrapper-lista">
 				<ul class="lista-sentidos">
 					{@render ListaSentidos()}
 				</ul>
 			</div>
 		</Colapsavel>
-		<TabelaHorarios horarios={servicoAtual.horarios} sentido={servicoAtual.sentido} />
+		<TabelaHorarios horarios={servico.horarios} sentido={servico.sentido} />
 	{/if}
 </main>
 
