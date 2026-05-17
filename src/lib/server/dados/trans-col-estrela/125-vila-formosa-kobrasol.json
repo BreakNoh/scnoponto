@@ -1,0 +1,99 @@
+{
+    "nome": "Vila Formosa – Kobrasol",
+    "codigo": "125",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partidas Do Kobrasol",
+                "horarios": [
+                    {
+                        "hora": "07:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:00",
+                        "obs": [
+                            {
+                                "tipo": "RECOLHE_BAIRRO",
+                                "valor": "Recolhe no bairro"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "de Lima"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:40",
+                        "obs": [
+                            {
+                                "tipo": "RECOLHE_BAIRRO",
+                                "valor": "Recolhe no bairro"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "de Lima"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:15",
+                        "obs": [
+                            {
+                                "tipo": "RECOLHE_BAIRRO",
+                                "valor": "Recolhe no bairro"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "de Lima"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "125-vila-formosa-kobrasol"
+}

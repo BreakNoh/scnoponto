@@ -1,0 +1,20 @@
+{
+    "nome": "Canta Galo",
+    "codigo": "9AA",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Terminal Rodoviário",
+                "horarios": [
+                    {
+                        "hora": "08:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "9aa-canta-galo"
+}

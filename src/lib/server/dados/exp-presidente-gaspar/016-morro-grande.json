@@ -1,0 +1,121 @@
+{
+    "nome": "Morro Grande",
+    "codigo": "016",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Terminal Urbano",
+                "horarios": [
+                    {
+                        "hora": "04:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Morro Grande",
+                "horarios": [
+                    {
+                        "hora": "04:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:50",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Terminal Urbano",
+                "horarios": [
+                    {
+                        "hora": "04:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Morro Grande",
+                "horarios": [
+                    {
+                        "hora": "04:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:50",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "016-morro-grande"
+}

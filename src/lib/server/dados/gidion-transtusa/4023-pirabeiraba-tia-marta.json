@@ -1,0 +1,41 @@
+{
+    "nome": "Pirabeiraba / Tia Marta",
+    "codigo": "4023",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "11:52",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:32",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "05:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:02",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "4023-pirabeiraba-tia-marta"
+}

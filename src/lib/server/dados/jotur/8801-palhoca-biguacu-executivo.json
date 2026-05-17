@@ -1,0 +1,36 @@
+{
+    "nome": "Palhoça / Biguaçu (Executivo - Empresa Biguaçu",
+    "codigo": "8801",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:05",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "executivo",
+    "slug": "8801-palhoca-biguacu-executivo"
+}

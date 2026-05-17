@@ -1,0 +1,75 @@
+{
+    "nome": "Vila Nova X Criciuma",
+    "codigo": null,
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Vila",
+                "horarios": [
+                    {
+                        "hora": "05:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via ASFALTO"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via AURORA"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via SAPO-AURORA"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Criciuma",
+                "horarios": [
+                    {
+                        "hora": "10:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via AURORA"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via AURORA"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via AURORA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "vila-nova-x-criciuma"
+}

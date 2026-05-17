@@ -1,0 +1,29 @@
+{
+    "nome": "Linha Saúde - Região Fortaleza",
+    "codigo": "1229",
+    "detalhe": null,
+    "servicos": {
+        "64": [
+            {
+                "sentido": "Saída Bairro",
+                "horarios": [
+                    {
+                        "hora": "05:40",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Bairro",
+                "horarios": [
+                    {
+                        "hora": "05:40",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "1229-lin-saude-regiao-fortalez"
+}

@@ -1,0 +1,58 @@
+{
+    "nome": "Bela Vista / Shopping Continente",
+    "codigo": "11340",
+    "detalhe": "VIA PONTE DO IMARUIM/MARG BR 101",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "07:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:10",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "16:25",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            },
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "20:35",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "11340-bela-vista-shopping-cont"
+}

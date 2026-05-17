@@ -1,0 +1,69 @@
+{
+    "nome": "Executivo Biguaçu (",
+    "codigo": "76404",
+    "detalhe": "Via Fundos\nVia BR101-Marginas/Estreito",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Biguaçu - Via Fundos (Previsão De Horário",
+                "horarios": [
+                    {
+                        "hora": "05:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:55",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": [
+                    {
+                        "hora": "16:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:15",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Biguaçu - Via Fundos (Previsão De Horário",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Biguaçu - Via Fundos (Previsão De Horário",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "executivo",
+    "slug": "76404-executivo-biguacu-fundos"
+}

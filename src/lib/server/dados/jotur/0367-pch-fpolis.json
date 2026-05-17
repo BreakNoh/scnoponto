@@ -1,0 +1,32 @@
+{
+    "nome": "Pch / Fpolis",
+    "codigo": "0367",
+    "detalhe": "VIA PORTAL/VN/NOVA PH/MIR/BR 101/HOSP/IVO SILV",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:20",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0367-pch-fpolis"
+}

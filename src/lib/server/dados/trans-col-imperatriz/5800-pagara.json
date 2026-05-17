@@ -1,0 +1,49 @@
+{
+    "nome": "Pagará",
+    "codigo": "5800 ",
+    "detalhe": " Via Bairro São Francisco",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Pagara",
+                "horarios": [
+                    {
+                        "hora": "06:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Centro",
+                "horarios": [
+                    {
+                        "hora": "11:51",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:50",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "5800-pagara"
+}

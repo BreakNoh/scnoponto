@@ -1,0 +1,37 @@
+{
+    "nome": "Ribeirão Tigre",
+    "codigo": "1A2",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Da Rodoviária",
+                "horarios": [
+                    {
+                        "hora": "11:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:05",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Bairro",
+                "horarios": [
+                    {
+                        "hora": "06:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:45",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "1a2-ribeirao-tigre"
+}

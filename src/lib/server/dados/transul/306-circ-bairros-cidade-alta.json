@@ -1,0 +1,30 @@
+{
+    "nome": "Circular - Bairros - Cidade Alta",
+    "codigo": "306",
+    "detalhe": null,
+    "servicos": {
+        "1": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": []
+            },
+            {
+                "sentido": "Saída Bairro",
+                "horarios": [
+                    {
+                        "hora": "18:55",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "306-circ-bairros-cidade-alta"
+}

@@ -1,0 +1,2963 @@
+{
+    "nome": "São Pedro De Alcântara - Florianópolis",
+    "codigo": null,
+    "detalhe": null,
+    "servicos": {
+        "0": [
+            {
+                "sentido": "Saída São Pedro",
+                "horarios": [
+                    {
+                        "hora": "04:45",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "05:25",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA LAGOA VERMELHA"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:20",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:25",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA LAGOA VERMELHA"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA LAGOA VERMELHA"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:40",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:20",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:00",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:25",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA EXPRESSA"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "05:00",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "05:45",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:45",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:45",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:45",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:30",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:00",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:40",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "05:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída São Pedro",
+                "horarios": [
+                    {
+                        "hora": "04:45",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "05:25",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA LAGOA VERMELHA"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:20",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:25",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA LAGOA VERMELHA"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA LAGOA VERMELHA"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:40",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:20",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:00",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:25",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA EXPRESSA"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "05:00",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "05:45",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:45",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:45",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:45",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:30",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:00",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:40",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "05:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída São Pedro",
+                "horarios": [
+                    {
+                        "hora": "04:45",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "05:25",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA LAGOA VERMELHA"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:20",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:25",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA LAGOA VERMELHA"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA LAGOA VERMELHA"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:40",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:20",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:00",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:25",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA EXPRESSA"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "05:00",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "05:45",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:45",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:45",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:45",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:30",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:00",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:40",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "05:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída São Pedro",
+                "horarios": [
+                    {
+                        "hora": "04:45",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "05:25",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA LAGOA VERMELHA"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:20",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:25",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA LAGOA VERMELHA"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA LAGOA VERMELHA"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:40",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:20",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:00",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:25",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA EXPRESSA"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "05:00",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "05:45",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:45",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:45",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:45",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:30",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:00",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:40",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "05:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Ticen",
+                "horarios": [
+                    {
+                        "hora": "05:55",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:50",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA LAGOA VERMELHA"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:00",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:45",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:20",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:25",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA LAGOA VERMELHA"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA LAGOA VERMELHA"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:35",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "23:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:15",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:15",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Ticen",
+                "horarios": [
+                    {
+                        "hora": "05:55",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:50",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA LAGOA VERMELHA"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:00",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:45",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:20",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:25",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA LAGOA VERMELHA"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA LAGOA VERMELHA"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:35",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "23:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:15",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:15",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Ticen",
+                "horarios": [
+                    {
+                        "hora": "05:55",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:50",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA LAGOA VERMELHA"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:00",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:45",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:20",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:25",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA LAGOA VERMELHA"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA LAGOA VERMELHA"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:35",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "23:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:15",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:15",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Ticen",
+                "horarios": [
+                    {
+                        "hora": "05:55",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:50",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA LAGOA VERMELHA"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:00",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:45",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:20",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:25",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA LAGOA VERMELHA"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA LAGOA VERMELHA"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:35",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "23:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "VILA JUNCKES"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:15",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:15",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "sao-pedro-alcantara-fpolis"
+}

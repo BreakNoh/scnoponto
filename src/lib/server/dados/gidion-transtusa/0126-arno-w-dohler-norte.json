@@ -1,0 +1,113 @@
+{
+    "nome": "Arno W. Dohler / Norte",
+    "codigo": "0126",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:56",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:17",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:34",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:37",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:35",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "07:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:29",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:44",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:43",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:02",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:16",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:16",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:35",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0126-arno-w-dohler-norte"
+}

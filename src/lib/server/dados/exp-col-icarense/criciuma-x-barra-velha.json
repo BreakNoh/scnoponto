@@ -1,0 +1,50 @@
+{
+    "nome": "Criciuma X Barra Velha",
+    "codigo": null,
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Criciuma",
+                "horarios": [
+                    {
+                        "hora": "17:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via PV-MARILI-B.VISTA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Criciuma",
+                "horarios": [
+                    {
+                        "hora": "12:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via AURORA"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via ASFALTO"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "criciuma-x-barra-velha"
+}

@@ -1,0 +1,411 @@
+{
+    "nome": "Habitação",
+    "codigo": "322",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": [
+                    {
+                        "hora": "10:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Entra no condomínio Ponte Grande."
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Entra no condomínio Ponte Grande."
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Entra no condomínio Ponte Grande."
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:08",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Entra no condomínio Ponte Grande se houver passageiros para desembarque.\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Passa em frente Uniplac.\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Entra no condomínio Ponte Grande se houver passageiros para desembarque.\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Entra no condomínio Ponte Grande se houver passageiros para desembarque.\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Passa em frente Uniplac, vai pela AV. Brasil.\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna fazendo Linha da Popular.\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Entra no condomínio Ponte Grande se houver passageiros para desembarque.\t\t\t\t"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Bairro",
+                "horarios": [
+                    {
+                        "hora": "10:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Entra no condomínio Ponte Grande."
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Entra no condomínio Ponte Grande."
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Entra no condomínio Ponte Grande."
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Passa em frente Uniplac.\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Passa em frente Uniplac.\t\t\t\t"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": [
+                    {
+                        "hora": "7:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Entra no condomínio Ponte Grande."
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Linha Popular retorna fazendo linha da Habitação.\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Linha Popular retorna fazendo linha da Habitação.\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Linha Popular retorna fazendo linha da Habitação.\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Linha Popular retorna fazendo linha da Habitação.\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Linha Popular retorna fazendo linha da Habitação.\t\t\t\t"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Bairro",
+                "horarios": [
+                    {
+                        "hora": "07:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai do Industrial\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "8:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Entra no condomínio Ponte Grande."
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Linha Popular retorna fazendo linha da Habitação.\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Linha Popular retorna fazendo linha da Habitação.\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Linha Popular retorna fazendo linha da Habitação.\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Entra no condomínio Ponte Grande."
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Linha Popular retorna fazendo linha da Habitação.\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Entra no condomínio Ponte Grande."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": [
+                    {
+                        "hora": "07:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna fazendo Linha da Popular.\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna fazendo Linha da Popular.\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna fazendo Linha da Popular.\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna fazendo Linha da Popular.\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna fazendo Linha da Popular.\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna fazendo Linha da Popular.\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna fazendo Linha da Popular.\t\t\t\t"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Bairro",
+                "horarios": [
+                    {
+                        "hora": "06:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna fazendo Linha da Popular.\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna fazendo Linha da Popular.\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna fazendo Linha da Popular.\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna fazendo Linha da Popular.\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna fazendo Linha da Popular.\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna fazendo Linha da Popular.\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna fazendo Linha da Popular.\t\t\t\t"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "322-habitacao"
+}

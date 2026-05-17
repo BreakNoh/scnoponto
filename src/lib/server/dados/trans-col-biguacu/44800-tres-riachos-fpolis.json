@@ -1,0 +1,144 @@
+{
+    "nome": "Três Riachos / Florianópolis",
+    "codigo": "44800",
+    "detalhe": "Via: Estrada Geral Tres Riachos, BR-101, Estreito",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Bairro Tres Riachos - Biguaçu",
+                "horarios": [
+                    {
+                        "hora": "04:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "HorarioSeccionado"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "05:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "HorárioSeccionado"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "HorárioSeccionado"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:40",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma C - Fpolis",
+                "horarios": [
+                    {
+                        "hora": "07:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:25",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Bairro Tres Riachos - Biguaçu",
+                "horarios": [
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma C - Fpolis",
+                "horarios": [
+                    {
+                        "hora": "10:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:05",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Bairro Tres Riachos - Biguaçu",
+                "horarios": [
+                    {
+                        "hora": "06:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma C - Fpolis",
+                "horarios": [
+                    {
+                        "hora": "08:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:05",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "44800-tres-riachos-fpolis"
+}

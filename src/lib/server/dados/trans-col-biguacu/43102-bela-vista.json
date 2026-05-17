@@ -1,0 +1,54 @@
+{
+    "nome": "Bela Vista",
+    "codigo": "43102",
+    "detalhe": "Via Floresta e Expressa",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Bairro Bela Vista - São José",
+                "horarios": [
+                    {
+                        "hora": "19:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via FlorestaExpressa"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": [
+                    {
+                        "hora": "07:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Bairro Bela Vista - São José",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Bairro Bela Vista - São José",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "43102-bela-vista"
+}

@@ -1,0 +1,40 @@
+{
+    "nome": "Norte / Vila Nova",
+    "codigo": "0153",
+    "detalhe": "Via João Miers",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "05:13",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:33",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:05",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0153-norte-vila-nova-joao-mier"
+}

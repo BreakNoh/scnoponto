@@ -1,0 +1,80 @@
+{
+    "nome": "Palhoca / Guarda Tabuleiro Circ",
+    "codigo": "301",
+    "detalhe": "VIA NOVA PALHOCA (RETORNO ATE PALHOCA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:20",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "301-palhoca-guarda-tabuleiro-c"
+}

@@ -1,0 +1,20 @@
+{
+    "nome": "Itaum / Lepper",
+    "codigo": "1734",
+    "detalhe": "Via Guanabara",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "14:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "1734-itaum-lepper-guanabara"
+}

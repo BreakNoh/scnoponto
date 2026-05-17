@@ -1,0 +1,51 @@
+{
+    "nome": "Circular - Bairros - Norte",
+    "codigo": "305",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": [
+                    {
+                        "hora": "23:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai do Shopping as 23:05 Hs."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": [
+                    {
+                        "hora": "19:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Hs. (Sábados)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "305-circ-bairros-norte"
+}

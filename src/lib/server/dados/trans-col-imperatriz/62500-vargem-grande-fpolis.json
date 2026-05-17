@@ -1,0 +1,103 @@
+{
+    "nome": "Vargem Grande/Florianópolis",
+    "codigo": "62500",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Vargem Grande",
+                "horarios": [
+                    {
+                        "hora": "06:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:40",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Saida Teresópolis;"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Florianópolis",
+                "horarios": [
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:20",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Até Teresópolis;"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:15",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Saída Vargem Grande",
+                "horarios": [
+                    {
+                        "hora": "07:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:20",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Florianópolis",
+                "horarios": [
+                    {
+                        "hora": "10:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "62500-vargem-grande-fpolis"
+}

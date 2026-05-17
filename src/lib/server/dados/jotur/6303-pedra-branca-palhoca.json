@@ -1,0 +1,49 @@
+{
+    "nome": "Pedra Branca / Palhoça",
+    "codigo": "6303",
+    "detalhe": "VIA IFSC/CID UNIV/AQUARIUS/MARG BR 101/PH",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Pedra Branca / Palhoça",
+                "horarios": [
+                    {
+                        "hora": "12:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "07:45",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Pedra Branca / Palhoça",
+                "horarios": []
+            },
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Pedra Branca / Palhoça",
+                "horarios": []
+            },
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "6303-pedra-branca-palhoca"
+}

@@ -1,0 +1,200 @@
+{
+    "nome": "Travessa Santa Cruz",
+    "codigo": null,
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Do Terminal",
+                "horarios": [
+                    {
+                        "hora": "06:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:20",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Da Igreja Águas Claras",
+                "horarios": [
+                    {
+                        "hora": "05:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Saída Do Terminal",
+                "horarios": [
+                    {
+                        "hora": "06:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:55",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Da Igreja Águas Claras",
+                "horarios": [
+                    {
+                        "hora": "12:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Saída Do Terminal",
+                "horarios": [
+                    {
+                        "hora": "08:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "travessa-sta-cruz"
+}

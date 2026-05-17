@@ -1,0 +1,48 @@
+{
+    "nome": "Armação Da Piedade",
+    "codigo": "10301",
+    "detalhe": "Partida Biguaçu_|Viaduto Janaina sentido Biguaçu",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Armação Da Piedade - G C Ramos",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Biguaçu",
+                "horarios": [
+                    {
+                        "hora": "06:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:40",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Armação Da Piedade - G C Ramos",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Biguaçu",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Armação Da Piedade - G C Ramos",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Biguaçu",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "10301-armacao-piedade"
+}

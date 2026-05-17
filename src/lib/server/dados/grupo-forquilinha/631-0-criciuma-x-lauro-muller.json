@@ -1,0 +1,29 @@
+{
+    "nome": "Criciúma X Lauro Muller",
+    "codigo": "631-0",
+    "detalhe": "Via Cocal do Sul / Urussanga / Santana / Itanema",
+    "servicos": {
+        "1": [
+            {
+                "sentido": "Partida Criciúma",
+                "horarios": [
+                    {
+                        "hora": "16:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Lauro Muller",
+                "horarios": [
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "631-0-criciuma-x-lauro-muller"
+}

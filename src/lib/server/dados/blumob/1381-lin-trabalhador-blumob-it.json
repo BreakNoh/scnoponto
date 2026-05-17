@@ -1,0 +1,40 @@
+{
+    "nome": "Linha Trabalhador Blumob - Itoupavazinha/ Salto Norte",
+    "codigo": "1381",
+    "detalhe": null,
+    "servicos": {
+        "1": [
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "02:35",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "04:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "04:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "1381-lin-trabalhador-blumob-it"
+}

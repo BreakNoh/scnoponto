@@ -1,0 +1,149 @@
+{
+    "nome": "Rainha",
+    "codigo": "3A1",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Terminal Urbano",
+                "horarios": [
+                    {
+                        "hora": "05:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:10",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Rua Leopoldo Kurth",
+                "horarios": [
+                    {
+                        "hora": "05:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Terminal Urbano",
+                "horarios": [
+                    {
+                        "hora": "07:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:15",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Rua Leopoldo Kurth",
+                "horarios": [
+                    {
+                        "hora": "07:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "3a1-rainha"
+}

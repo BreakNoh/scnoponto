@@ -1,0 +1,143 @@
+{
+    "nome": "Linha Trabalhador Blumob - Fortaleza",
+    "codigo": "1390",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "02:10",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "02:10",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "02:10",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "02:10",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "02:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "02:10",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "02:10",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "02:10",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "02:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "04:25",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "04:25",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "04:25",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "04:25",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "0": [
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "02:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "1390-lin-trabalhador-blumob-fo"
+}

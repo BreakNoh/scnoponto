@@ -1,0 +1,1700 @@
+{
+    "nome": "Córrego Grande",
+    "codigo": "164",
+    "detalhe": "Via Poção",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Poção",
+                "horarios": [
+                    {
+                        "hora": "05:37",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:02",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:25",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:55",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:11",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:22",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:36",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:50",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:07",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:26",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:07",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:42",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:06",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:48",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:08",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:44",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:23",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:47",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:20",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:51",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:14",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:49",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:29",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:04",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:41",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:12",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:28",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:13",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:56",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:18",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:46",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:09",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:47",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:15",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:00",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:58",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "23:32",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Titri - Box 15",
+                "horarios": [
+                    {
+                        "hora": "05:15",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "05:40",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:03",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:30",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:45",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:55",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:07",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:23",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:38",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:55",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:40",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:15",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:40",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:20",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:40",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:15",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:47",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:15",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:40",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:15",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:44",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:20",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:35",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:35",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:50",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:25",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:07",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:40",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:16",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:43",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:20",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:50",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:35",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:35",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "23:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "00:30",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Saída Poção",
+                "horarios": [
+                    {
+                        "hora": "06:32",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:35",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:15",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:59",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:53",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:53",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:51",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:36",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:34",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:37",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:58",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:21",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:34",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:16",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:54",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:00",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:52",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "23:12",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "23:52",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Titri - Box 15",
+                "horarios": [
+                    {
+                        "hora": "06:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:50",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:35",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:30",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:30",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:25",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:30",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:55",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:50",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:30",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:35",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:30",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:50",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "23:30",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "00:30",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Saída Poção",
+                "horarios": [
+                    {
+                        "hora": "06:32",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:32",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:52",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:52",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:42",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:32",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:34",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:32",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:32",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:38",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:54",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:54",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:43",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:53",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:52",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:52",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "23:02",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "23:52",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Titri - Box 15",
+                "horarios": [
+                    {
+                        "hora": "06:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:30",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:30",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:20",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:15",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:30",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:20",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:30",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:30",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:30",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:40",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "23:30",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "00:30",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "164-corrego-grande-pocao"
+}

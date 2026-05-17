@@ -1,0 +1,32 @@
+{
+    "nome": "Aririu Formiga / Colégio João Silveira (Aririu",
+    "codigo": "3036",
+    "detalhe": "VIA GUARDA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:35",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "3036-aririu-formiga-colegio-jo"
+}

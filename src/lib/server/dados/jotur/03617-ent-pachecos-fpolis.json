@@ -1,0 +1,36 @@
+{
+    "nome": "Ent Pachecos / Fpolis",
+    "codigo": "03617",
+    "detalhe": "VIA PCH/PEDREGAL/PF BARRA/RG/PH/BR/HR/IVO SILV",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "03617-ent-pachecos-fpolis"
+}

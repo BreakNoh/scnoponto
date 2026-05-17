@@ -1,0 +1,47 @@
+{
+    "nome": "Linha Trabalhador Blumob - Fortaleza/ M.Esquerda/ It.Central",
+    "codigo": "1393",
+    "detalhe": null,
+    "servicos": {
+        "1": [
+            {
+                "sentido": "Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "23:25",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "23:25",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "23:25",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "23:25",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "1393-lin-trabalhador-blumob-fo"
+}

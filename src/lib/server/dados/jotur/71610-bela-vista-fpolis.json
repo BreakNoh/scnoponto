@@ -1,0 +1,49 @@
+{
+    "nome": "Bela Vista / Florianópolis",
+    "codigo": "71610",
+    "detalhe": "VIA BR 101/VIA EXPRESSA (DIRETO",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "16:45",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            },
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            },
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "71610-bela-vista-fpolis"
+}

@@ -1,0 +1,49 @@
+{
+    "nome": "Nova Palhoça / Biguaçu",
+    "codigo": "1333",
+    "detalhe": "VIA MARGINAL BR 101 (EXECUTIVO",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:50",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "07:50",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            },
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            },
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "executivo",
+    "slug": "1333-nova-palhoca-biguacu"
+}

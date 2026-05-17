@@ -1,0 +1,24 @@
+{
+    "nome": "Sul / Rodoviária",
+    "codigo": "7025",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "17:08",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:50",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "7025-sul-rodoviaria"
+}

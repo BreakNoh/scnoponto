@@ -1,0 +1,29 @@
+{
+    "nome": "Vila Macarini",
+    "codigo": "0320",
+    "detalhe": "Via Av. Assembleia Deus /Jardim Uniao",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:29",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "06:40",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0320-vila-macarini-av-assemble"
+}

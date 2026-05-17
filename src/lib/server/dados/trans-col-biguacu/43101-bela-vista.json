@@ -1,0 +1,58 @@
+{
+    "nome": "Bela Vista",
+    "codigo": "43101",
+    "detalhe": "Via Floresta",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Bairro Bela Vista - São José",
+                "horarios": [
+                    {
+                        "hora": "05:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Floresta"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:45",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": [
+                    {
+                        "hora": "12:05",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Bairro Bela Vista - São José",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Bairro Bela Vista - São José",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "43101-bela-vista"
+}

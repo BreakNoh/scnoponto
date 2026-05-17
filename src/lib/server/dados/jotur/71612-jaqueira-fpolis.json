@@ -1,0 +1,32 @@
+{
+    "nome": "Jaqueira / Florianópolis",
+    "codigo": "71612",
+    "detalhe": "VIA BR 101/VIA EXPRESSA/IVO SILVEIRA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "04:40",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "71612-jaqueira-fpolis"
+}

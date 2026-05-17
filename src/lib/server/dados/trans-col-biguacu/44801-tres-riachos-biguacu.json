@@ -1,0 +1,155 @@
+{
+    "nome": "Três Riachos / Biguaçu",
+    "codigo": "44801",
+    "detalhe": "Até Viaduto Janaína",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Bairro Tres Riachos - Biguaçu",
+                "horarios": [
+                    {
+                        "hora": "04:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Utilizar Linha44800 04h35"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "05:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "De Tres Riachosp/AVelino"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Utilizar linha44800"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:31",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Praça deBiguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Utilizar linha44800 seccionada"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:25",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Viaduto Janaína - Biguaçu",
+                "horarios": [
+                    {
+                        "hora": "07:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Saida UnivaliNova via Viad Janaina"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Bairro Tres Riachos - Biguaçu",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Viaduto Janaína - Biguaçu",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Bairro Tres Riachos - Biguaçu",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Viaduto Janaína - Biguaçu",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "44801-tres-riachos-biguacu"
+}

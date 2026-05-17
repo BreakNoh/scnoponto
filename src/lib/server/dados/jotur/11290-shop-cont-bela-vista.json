@@ -1,0 +1,36 @@
+{
+    "nome": "Shop Cont / Bela Vista",
+    "codigo": "11290",
+    "detalhe": "VIA MARG BR 101/P.IMARUIM/CENTRO PH/JAQUEIRA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "06:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:15",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "11290-shop-cont-bela-vista"
+}

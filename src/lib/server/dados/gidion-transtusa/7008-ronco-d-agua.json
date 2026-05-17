@@ -1,0 +1,36 @@
+{
+    "nome": "Ronco D' Água",
+    "codigo": "7008",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:37",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:58",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:46",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:28",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "7008-ronco-d-agua"
+}

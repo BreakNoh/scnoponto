@@ -1,0 +1,214 @@
+{
+    "nome": "Transul",
+    "fonte": "https://transullages.com.br",
+    "linhas": [
+        {
+            "nome_linha": "Bela Vista",
+            "codigo_linha": "291",
+            "nome_empresa": "Transul",
+            "slug": "transul/291-bela-vista"
+        },
+        {
+            "nome_linha": "Cidade Alta",
+            "codigo_linha": "302",
+            "nome_empresa": "Transul",
+            "slug": "transul/302-cidade-alta-br-282"
+        },
+        {
+            "nome_linha": "Cidade Alta",
+            "codigo_linha": "301",
+            "nome_empresa": "Transul",
+            "slug": "transul/301-cidade-alta-papa-joao-xxii"
+        },
+        {
+            "nome_linha": "Circular - Bairros - Cidade Alta",
+            "codigo_linha": "306",
+            "nome_empresa": "Transul",
+            "slug": "transul/306-circ-bairros-cidade-alta"
+        },
+        {
+            "nome_linha": "Circular - Bairros - Norte",
+            "codigo_linha": "305",
+            "nome_empresa": "Transul",
+            "slug": "transul/305-circ-bairros-norte"
+        },
+        {
+            "nome_linha": "Circular - Bairros - Sul",
+            "codigo_linha": "304",
+            "nome_empresa": "Transul",
+            "slug": "transul/304-circ-bairros-sul"
+        },
+        {
+            "nome_linha": "D. Pedro Ii / Pres. Vargas",
+            "codigo_linha": "311",
+            "nome_empresa": "Transul",
+            "slug": "transul/311-d-pedro-ii-pres-vargas"
+        },
+        {
+            "nome_linha": "D. Pedro Ii Mar. Floriano",
+            "codigo_linha": "312",
+            "nome_empresa": "Transul",
+            "slug": "transul/312-d-pedro-ii-mar-floriano"
+        },
+        {
+            "nome_linha": "Escolar / Cedup / Uniplac",
+            "codigo_linha": "503",
+            "nome_empresa": "Transul",
+            "slug": "transul/503-escolar-cedup-uniplac"
+        },
+        {
+            "nome_linha": "Escolar / Centro Educacional",
+            "codigo_linha": "504",
+            "nome_empresa": "Transul",
+            "slug": "transul/504-escolar-centro-educacional"
+        },
+        {
+            "nome_linha": "Escolar / Colégio Industrial",
+            "codigo_linha": "501",
+            "nome_empresa": "Transul",
+            "slug": "transul/501-escolar-colegio-ind"
+        },
+        {
+            "nome_linha": "Escolar / Facvest",
+            "codigo_linha": "502",
+            "nome_empresa": "Transul",
+            "slug": "transul/502-escolar-facvest"
+        },
+        {
+            "nome_linha": "Escolar / Ifsc",
+            "codigo_linha": "505",
+            "nome_empresa": "Transul",
+            "slug": "transul/505-escolar-ifsc"
+        },
+        {
+            "nome_linha": "Escolar / Senac",
+            "codigo_linha": "506",
+            "nome_empresa": "Transul",
+            "slug": "transul/506-escolar-senac"
+        },
+        {
+            "nome_linha": "Escolar / Senai",
+            "codigo_linha": "507",
+            "nome_empresa": "Transul",
+            "slug": "transul/507-escolar-senai"
+        },
+        {
+            "nome_linha": "Frei Rogério",
+            "codigo_linha": "271",
+            "nome_empresa": "Transul",
+            "slug": "transul/271-frei-rogerio"
+        },
+        {
+            "nome_linha": "Golin - Conte",
+            "codigo_linha": "101",
+            "nome_empresa": "Transul",
+            "slug": "transul/101-golin-conte"
+        },
+        {
+            "nome_linha": "Guarujá Campos Salles X Centro",
+            "codigo_linha": "263",
+            "nome_empresa": "Transul",
+            "slug": "transul/263-guaruja-campos-salles-x-ce"
+        },
+        {
+            "nome_linha": "Guarujá Duque De Caxias",
+            "codigo_linha": "262",
+            "nome_empresa": "Transul",
+            "slug": "transul/262-guaruja-duque-caxias"
+        },
+        {
+            "nome_linha": "Guarujá Jardim Cepar",
+            "codigo_linha": "204",
+            "nome_empresa": "Transul",
+            "slug": "transul/204-guaruja-jardim-cepar"
+        },
+        {
+            "nome_linha": "Guarujá",
+            "codigo_linha": "264",
+            "nome_empresa": "Transul",
+            "slug": "transul/264-guaruja-coral"
+        },
+        {
+            "nome_linha": "Guarujá",
+            "codigo_linha": "261",
+            "nome_empresa": "Transul",
+            "slug": "transul/261-guaruja-estadio"
+        },
+        {
+            "nome_linha": "Habitação",
+            "codigo_linha": "322",
+            "nome_empresa": "Transul",
+            "slug": "transul/322-habitacao"
+        },
+        {
+            "nome_linha": "Parque Centro",
+            "codigo_linha": "203",
+            "nome_empresa": "Transul",
+            "slug": "transul/203-parque-centro"
+        },
+        {
+            "nome_linha": "Penha",
+            "codigo_linha": "241",
+            "nome_empresa": "Transul",
+            "slug": "transul/241-penha"
+        },
+        {
+            "nome_linha": "Petrópolis",
+            "codigo_linha": "201",
+            "nome_empresa": "Transul",
+            "slug": "transul/201-petropolis"
+        },
+        {
+            "nome_linha": "Popular",
+            "codigo_linha": "231",
+            "nome_empresa": "Transul",
+            "slug": "transul/231-popular"
+        },
+        {
+            "nome_linha": "Rodoviária Av. Brasil",
+            "codigo_linha": "321",
+            "nome_empresa": "Transul",
+            "slug": "transul/321-rodoviaria-av-brasil"
+        },
+        {
+            "nome_linha": "Santa Catarina",
+            "codigo_linha": "221",
+            "nome_empresa": "Transul",
+            "slug": "transul/221-sta-catarina"
+        },
+        {
+            "nome_linha": "Santa Clara X Centro",
+            "codigo_linha": "222",
+            "nome_empresa": "Transul",
+            "slug": "transul/222-sta-clara-x-centro"
+        },
+        {
+            "nome_linha": "Santa Helena",
+            "codigo_linha": "211",
+            "nome_empresa": "Transul",
+            "slug": "transul/211-sta-helena"
+        },
+        {
+            "nome_linha": "São Paulo / São Francisco",
+            "codigo_linha": "284",
+            "nome_empresa": "Transul",
+            "slug": "transul/284-sao-paulo-sao-francisco"
+        },
+        {
+            "nome_linha": "Vila Mariza",
+            "codigo_linha": "205",
+            "nome_empresa": "Transul",
+            "slug": "transul/205-vila-mariza"
+        },
+        {
+            "nome_linha": "Vila Mariza Campos Salles",
+            "codigo_linha": "206",
+            "nome_empresa": "Transul",
+            "slug": "transul/206-vila-mariza-campos-salles"
+        }
+    ],
+    "regioes": [
+        "sul"
+    ],
+    "slug": "transul"
+}

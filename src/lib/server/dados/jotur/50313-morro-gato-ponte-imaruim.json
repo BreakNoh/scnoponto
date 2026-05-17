@@ -1,0 +1,49 @@
+{
+    "nome": "Morro Do Gato / Ponte Do Imaruim",
+    "codigo": "50313",
+    "detalhe": "VIA MADRI / ANICETO ZACCHI",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "17:40",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "16:45",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            },
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            },
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "50313-morro-gato-ponte-imaruim"
+}

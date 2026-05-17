@@ -1,0 +1,67 @@
+{
+    "nome": "Linha Trabalhador Blumob - Fortaleza",
+    "codigo": "1395",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Garagem Blumob",
+                "horarios": [
+                    {
+                        "hora": "23:40",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Garagem Blumob",
+                "horarios": [
+                    {
+                        "hora": "23:40",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Garagem Blumob",
+                "horarios": [
+                    {
+                        "hora": "23:40",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Garagem Blumob",
+                "horarios": [
+                    {
+                        "hora": "23:40",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Garagem Blumob",
+                "horarios": [
+                    {
+                        "hora": "23:40",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "0": [
+            {
+                "sentido": "Garagem Blumob",
+                "horarios": [
+                    {
+                        "hora": "23:33",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "1395-lin-trabalhador-blumob-fo"
+}

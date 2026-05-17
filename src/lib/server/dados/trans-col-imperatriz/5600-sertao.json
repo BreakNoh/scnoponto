@@ -1,0 +1,33 @@
+{
+    "nome": "Sertão",
+    "codigo": "5600",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Sertão",
+                "horarios": [
+                    {
+                        "hora": "06:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:35",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Centro",
+                "horarios": [
+                    {
+                        "hora": "11:50",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "5600-sertao"
+}

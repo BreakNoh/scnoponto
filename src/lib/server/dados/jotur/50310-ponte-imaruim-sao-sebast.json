@@ -1,0 +1,36 @@
+{
+    "nome": "Ponte Do Imaruim / São Sebastião",
+    "codigo": "50310",
+    "detalhe": "VIA PREFEITURA/PASSA VINTE",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "06:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:35",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "50310-ponte-imaruim-sao-sebast"
+}

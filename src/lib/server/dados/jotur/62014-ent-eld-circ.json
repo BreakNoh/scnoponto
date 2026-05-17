@@ -1,0 +1,40 @@
+{
+    "nome": "Ent Eld Circ",
+    "codigo": "62014",
+    "detalhe": "VIA ELD/CID UNIV/PALHOÇA/P.IMAR/ELD/CID UNIV/IFSC",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "10:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:35",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "62014-ent-eld-circ"
+}

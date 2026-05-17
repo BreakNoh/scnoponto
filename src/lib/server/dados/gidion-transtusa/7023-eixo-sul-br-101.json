@@ -1,0 +1,24 @@
+{
+    "nome": "Eixo Sul",
+    "codigo": "7023",
+    "detalhe": "Via Br 101",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "07:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:04",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "7023-eixo-sul-br-101"
+}

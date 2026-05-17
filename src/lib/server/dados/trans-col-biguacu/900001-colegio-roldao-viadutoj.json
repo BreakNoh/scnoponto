@@ -1,0 +1,49 @@
+{
+    "nome": "Colegio Roldão / Viadutojanaina",
+    "codigo": "900001",
+    "detalhe": "Via Saudade/Praça Biguaçu/Marginal/`Posto Petrus",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Colegio Roldão",
+                "horarios": [
+                    {
+                        "hora": "11:45",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Roldão, V.Brasil Atacadista, Praça, Mª da Glória, V. Prado, V. Brasil Atacadista, Praça, Posto Petros Janaina."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Posto Petrus",
+                "horarios": []
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Colegio Roldão",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Posto Petrus",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Colegio Roldão",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Posto Petrus",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "900001-colegio-roldao-viadutoj"
+}

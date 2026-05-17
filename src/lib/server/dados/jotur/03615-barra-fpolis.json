@@ -1,0 +1,61 @@
+{
+    "nome": "Barra / Fpolis",
+    "codigo": "03615",
+    "detalhe": "VIA RIO GRANDE/CENTRO PH/BR 101/VIA EXPRESSA/IVO SILV",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "04:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:05",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "11:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            },
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            },
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "03615-barra-fpolis"
+}

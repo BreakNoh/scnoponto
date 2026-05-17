@@ -1,0 +1,33 @@
+{
+    "nome": "Sul / Campus",
+    "codigo": "0022",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:15",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "22:35",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0022-sul-campus"
+}

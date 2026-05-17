@@ -1,0 +1,90 @@
+{
+    "nome": "Ent Eldorado / Fpolis",
+    "codigo": "6534",
+    "detalhe": "VIA ELDORADO/CID UNIV/AQUÁRIUS/FAZENDA/IVO SIL",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "04:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:45",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:40",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "6534-ent-eldorado-fpolis"
+}

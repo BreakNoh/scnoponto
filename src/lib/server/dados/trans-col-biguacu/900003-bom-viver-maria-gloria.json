@@ -1,0 +1,158 @@
+{
+    "nome": "Bom Viver/Maria Da Gloria",
+    "codigo": "900003",
+    "detalhe": "Atendimento Colegios Biguaçu",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Bom Viver(Biguaçu",
+                "horarios": [
+                    {
+                        "hora": "06:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "B. Viver,TMara,Barreira, V. Janaína, Eloísa, PJ Rosa,JB, MªGlória, Prado, Godinho, Emérita, Avelino"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:26",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "B. Viver, TâniaMara, Barreira, V. Real, Emérita, Morro Bela Vista, Avelino, V. Furacão, JB, Mª da Glória"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "B. Viver, TâniaMara, Barreira, V. Real, Madeireira Dico, Emérita, V. Furacão, JB, Mª da Glória, V. Prado, SC-407, Avelino, Praça"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "B. Viver, TâniaMara, Ofertão, V. Janaína, JB, Mª da Glória, V. Prado, SC-407, Avelino, Emérita"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:45",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "B. Viver, TâniaMara, Barreira, V. Real, Godinho, V. Janaína, Eloísa, PJ Rosa, Rua Sete, JB, Mª da Glória"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Maria Da Gloria(Colegios",
+                "horarios": [
+                    {
+                        "hora": "11:34",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "JB, Praça, Mªda Gloria, V. Prado, SC-407, Avelino, UPA, Emérita, Cequipel, Janaína, Barreira, Tânia Mara, B. Viver"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Emérita,Madeireira Dico, V. Real, Godinho, Janaína, Barreira, Tânia Mara, B. Viver"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "JB, Maria daGlória, Viaduto Prado, Morro da Boa Vista, Cemitério, Emérita, Viaduto Janaína, Barreira, Tânia Mara e Bom Viver"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:45",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Emérita,Madeireira, V. Real, Univali, Godinho, Janaína, Barreira, Tânia Mara, B. Viver"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Avelino,Emérita, Madeireira Dico, V. Real, Godinho, Janaína, Barreira, Tânia Mara, B. Viver"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Maria Gloria.Viaduto Furacao, Koch, Emerita, Madei_Dico, Barreira, Tania Mara, Bom Viver"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Maria daGlória, Viaduto Brasil, Viaduto Furacão, Rua Batalhão, Praia João Rosa, Eloísa, Viaduto Furacão, Emérita, Madeireira do Dico, Vila Real, Godinho, Janaína, Barreira, Tânia Mara e Bom Viver"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Mª da Glória,Rua Sete, PJ Rosa, Eloísa, V. Prado, Emérita, Madeireira Dico, V. Real, Godinho, Janaina, Barreira, Tânia Mara, B. Viver"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Bom Viver(Biguaçu",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Maria Da Gloria(Colegios",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Bom Viver(Biguaçu",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Maria Da Gloria(Colegios",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "900003-bom-viver-maria-gloria"
+}

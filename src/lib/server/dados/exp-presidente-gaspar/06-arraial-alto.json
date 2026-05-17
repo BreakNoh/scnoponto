@@ -1,0 +1,89 @@
+{
+    "nome": "Arraial Alto",
+    "codigo": "06",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Terminal Urbano",
+                "horarios": [
+                    {
+                        "hora": "11:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:20",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Arraial Alto",
+                "horarios": [
+                    {
+                        "hora": "05:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:05",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "0": [
+            {
+                "sentido": "Terminal Urbano",
+                "horarios": [
+                    {
+                        "hora": "18:40",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Arraial Alto",
+                "horarios": [
+                    {
+                        "hora": "19:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Terminal Urbano",
+                "horarios": [
+                    {
+                        "hora": "13:15",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Arraial Alto",
+                "horarios": [
+                    {
+                        "hora": "07:05",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "06-arraial-alto"
+}

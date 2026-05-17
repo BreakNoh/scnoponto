@@ -1,0 +1,20 @@
+{
+    "nome": "Colégio Celso Ramos / Sul",
+    "codigo": "1720",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "12:05",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "1720-colegio-celso-ramos-sul"
+}

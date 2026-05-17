@@ -1,0 +1,57 @@
+{
+    "nome": "Tupy / Iririú",
+    "codigo": "0138",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:19",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:53",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:23",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:44",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "05:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:53",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:41",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:33",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0138-tupy-iririu"
+}

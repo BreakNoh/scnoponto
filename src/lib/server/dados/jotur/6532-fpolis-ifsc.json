@@ -1,0 +1,32 @@
+{
+    "nome": "Fpolis / Ifsc",
+    "codigo": "6532",
+    "detalhe": "VIA IVO SILVEIRA/PONTA BAIXO/FAZENDA/ELDORADO",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "22:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "6532-fpolis-ifsc"
+}

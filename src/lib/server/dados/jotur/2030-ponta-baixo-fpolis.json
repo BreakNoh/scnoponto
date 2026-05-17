@@ -1,0 +1,32 @@
+{
+    "nome": "Ponta De Baixo / Florianópolis",
+    "codigo": "2030",
+    "detalhe": "VIA PANIFICADORA/IVO SILVEIRA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "08:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "2030-ponta-baixo-fpolis"
+}

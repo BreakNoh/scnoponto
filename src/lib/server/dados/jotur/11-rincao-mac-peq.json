@@ -1,0 +1,53 @@
+{
+    "nome": "Rincao / Mac Peq",
+    "codigo": "11",
+    "detalhe": "VIA MORRETES I E II/GUARDA/PINHEIRA/MORRETES/RINCAO",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:50",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            },
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            },
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "11-rincao-mac-peq"
+}

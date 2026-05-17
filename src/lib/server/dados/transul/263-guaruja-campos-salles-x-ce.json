@@ -1,0 +1,29 @@
+{
+    "nome": "Guarujá Campos Salles X Centro",
+    "codigo": "263",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": [
+                    {
+                        "hora": "18:10",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Bairro",
+                "horarios": [
+                    {
+                        "hora": "07:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "263-guaruja-campos-salles-x-ce"
+}

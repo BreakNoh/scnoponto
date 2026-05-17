@@ -1,0 +1,143 @@
+{
+    "nome": "Linha Trabalhador Blumob - Fonte",
+    "codigo": "1371",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "03:18",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "03:18",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "03:18",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "03:18",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "03:18",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "03:18",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "03:18",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "03:18",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "03:18",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:20",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:20",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:20",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:20",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "0": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "03:20",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "1371-lin-trabalhador-blumob-fo"
+}

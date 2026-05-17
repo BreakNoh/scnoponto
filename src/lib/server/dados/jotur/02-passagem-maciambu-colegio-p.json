@@ -1,0 +1,36 @@
+{
+    "nome": "Passagem Maciambu / Colegio Da Pinheira",
+    "codigo": "02",
+    "detalhe": "VIA PRAIA DO SONHO",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "02-passagem-maciambu-colegio-p"
+}

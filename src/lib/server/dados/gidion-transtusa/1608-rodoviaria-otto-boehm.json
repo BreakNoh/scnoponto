@@ -1,0 +1,32 @@
+{
+    "nome": "Rodoviária",
+    "codigo": "1608",
+    "detalhe": "Via Otto Boehm",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "04:27",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:50",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "1608-rodoviaria-otto-boehm"
+}

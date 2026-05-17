@@ -1,0 +1,73 @@
+{
+    "nome": "Tpi /Boa Vista",
+    "codigo": "0504",
+    "detalhe": "Via Santo Antonio /Paraiso /Tce",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:14",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:32",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:26",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:44",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:38",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:54",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "06:47",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:07",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:59",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:53",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:13",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:26",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0504-tpi-boa-vista-sto-antonio"
+}

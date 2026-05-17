@@ -1,0 +1,158 @@
+{
+    "nome": "São Miguel - Biguaçu",
+    "codigo": "10902",
+    "detalhe": "Atendimento Colegio Conego e rodovias municipais",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Bairros",
+                "horarios": [
+                    {
+                        "hora": "06:14",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Saida Rotula,Biguaçu, Prado, São Miguel, Cônego"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Saida ColegioSanto Antonio, Cachoeira, Caldeirão, Loro, Floranda, Tijuquinhas, Rótula e Cônego"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:54",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Saida Conego,Borracharia, Carolina, Madeireira, Biguaçu_Prado, São Miguel, Cônego"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Saida Cônego,Viaduto G C Ramos, Carolina, Caldeirão, Loro, Floranda, Cônego"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Colegio Cônego - Bairros",
+                "horarios": [
+                    {
+                        "hora": "06:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Saida Cônego,Borracharia, V. GC Ramos, Areias Cima, Estiva, Lixão, BR-101, Carolina, Madeireira, Cônego"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Saida Cônego,Borracharia, V. GC Ramos, Areias Cima, Estiva, Lixão, BR-101, Carolina, Madeireira, Cônego"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:49",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Saida Cônego,V. GC Ramos, Areias de Cima, Carolina, Madeireira, São Miguel, V. Brasil Atacadista, São Miguel e Cônego"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Saida Cônego,V. Palmas, Floranda, Carolina, Estiva"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:51",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Saída Cônego,V. GC Ramos, Areias de Cima, Carolina, Caldeirão, Loro, Madeireira, Rótula Tijuquinhas e Cônego"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:52",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Saida Cônego,V. Palmas, Floranda, Carolina, Marginal BR101, Tijuquinhas, Conego"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:49",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Saida Cônego,V. GC Ramos, Floranda, Loro, e Caldeirão"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Saida Conego, V.GC Ramos, Areias de Cima, Carolina, Madeirreira, V. Brasil Atacadista e São Miguel"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:51",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Saida Conego, V.Palmas, Floranda, Carolina e Estiva"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Bairros",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Colegio Cônego - Bairros",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Bairros",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Colegio Cônego - Bairros",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "10902-sao-miguel-biguacu"
+}

@@ -1,0 +1,40 @@
+{
+    "nome": "Ent Eldorado / Fpolis",
+    "codigo": "6535",
+    "detalhe": "VIA ELD/IFSC/CID UNIV/AQUÁRIUS/FAZ/IVO SILVEIRA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "6535-ent-eldorado-fpolis"
+}

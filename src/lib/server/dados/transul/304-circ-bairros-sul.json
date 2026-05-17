@@ -1,0 +1,27 @@
+{
+    "nome": "Circular - Bairros - Sul",
+    "codigo": "304",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": []
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "304-circ-bairros-sul"
+}

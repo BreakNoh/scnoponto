@@ -1,0 +1,89 @@
+{
+    "nome": "Paraíso / Iririú",
+    "codigo": "0236",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "04:36",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:32",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:25",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "03:52",
+                        "obs": []
+                    },
+                    {
+                        "hora": "04:56",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:33",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:12",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:57",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:33",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:02",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:47",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0236-paraiso-iririu"
+}

@@ -1,0 +1,604 @@
+{
+    "nome": "Blumob",
+    "fonte": "https://www.blumob.com.br",
+    "linhas": [
+        {
+            "nome_linha": "Troncal -",
+            "codigo_linha": "10",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/10-troncal-r-sao-paulo"
+        },
+        {
+            "nome_linha": "Troncal -",
+            "codigo_linha": "11",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/11-troncal-r-2-setembro"
+        },
+        {
+            "nome_linha": "Troncal -",
+            "codigo_linha": "12",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/12-troncal-escola-agricola"
+        },
+        {
+            "nome_linha": "Troncal -",
+            "codigo_linha": "15",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/15-troncal-ponte-tamarindo"
+        },
+        {
+            "nome_linha": "Troncal -",
+            "codigo_linha": "30",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/30-troncal-gov-jorge-lacerda"
+        },
+        {
+            "nome_linha": "Troncal -",
+            "codigo_linha": "31",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/31-troncal-r-cacadores"
+        },
+        {
+            "nome_linha": "Troncal -",
+            "codigo_linha": "32",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/32-troncal-agua-verde"
+        },
+        {
+            "nome_linha": "Troncal - Proeb / Aterro",
+            "codigo_linha": "70",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/70-troncal-proeb-aterro"
+        },
+        {
+            "nome_linha": "Troncal -",
+            "codigo_linha": "80",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/80-troncal-pedro-zimmermann"
+        },
+        {
+            "nome_linha": "Troncal -",
+            "codigo_linha": "81",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/81-troncal-gustavo-zimmermann"
+        },
+        {
+            "nome_linha": "Troncal -",
+            "codigo_linha": "82",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/82-troncal-jacob-ineichen"
+        },
+        {
+            "nome_linha": "Erich Belz",
+            "codigo_linha": "109",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/109-erich-belz"
+        },
+        {
+            "nome_linha": "Santa Clara",
+            "codigo_linha": "111",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/111-sta-clara"
+        },
+        {
+            "nome_linha": "Jardim Germânico",
+            "codigo_linha": "120",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/120-jardim-germanico"
+        },
+        {
+            "nome_linha": "Distrito Industrial",
+            "codigo_linha": "121",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/121-distrito-ind"
+        },
+        {
+            "nome_linha": "Via Moinho",
+            "codigo_linha": "122",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/122-moinho"
+        },
+        {
+            "nome_linha": "Itoupavazinha",
+            "codigo_linha": "123",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/123-itoupavazinha"
+        },
+        {
+            "nome_linha": "Felipe Bauler",
+            "codigo_linha": "124",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/124-felipe-bauler"
+        },
+        {
+            "nome_linha": "Franz Volles",
+            "codigo_linha": "125",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/125-franz-volles"
+        },
+        {
+            "nome_linha": "Testo Salto",
+            "codigo_linha": "151",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/151-testo-salto"
+        },
+        {
+            "nome_linha": "Salto Do Norte",
+            "codigo_linha": "153",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/153-salto-norte"
+        },
+        {
+            "nome_linha": "Divisa Indaial",
+            "codigo_linha": "154",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/154-divisa-indaial"
+        },
+        {
+            "nome_linha": "Badenfurt",
+            "codigo_linha": "155",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/155-badenfurt"
+        },
+        {
+            "nome_linha": "Oscar Dickmann",
+            "codigo_linha": "158",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/158-oscar-dickmann"
+        },
+        {
+            "nome_linha": "Interbairros I -",
+            "codigo_linha": "300",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/300-interbairros-i-r-bahia"
+        },
+        {
+            "nome_linha": "Girassol",
+            "codigo_linha": "301",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/301-girassol"
+        },
+        {
+            "nome_linha": "Ristow",
+            "codigo_linha": "302",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/302-ristow"
+        },
+        {
+            "nome_linha": "Franz Muller",
+            "codigo_linha": "303",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/303-franz-muller"
+        },
+        {
+            "nome_linha": "Hermann Kratz",
+            "codigo_linha": "305",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/305-hermann-kratz"
+        },
+        {
+            "nome_linha": "Bruno Ruediger",
+            "codigo_linha": "306",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/306-bruno-ruediger"
+        },
+        {
+            "nome_linha": "Bernardo Reiter",
+            "codigo_linha": "308",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/308-bernardo-reiter"
+        },
+        {
+            "nome_linha": "Dona Edith",
+            "codigo_linha": "311",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/311-dona-edith"
+        },
+        {
+            "nome_linha": "Interbairros Iii -",
+            "codigo_linha": "320",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/320-interbairros-iii-badenfurt"
+        },
+        {
+            "nome_linha": "Emílio Tallmann",
+            "codigo_linha": "401",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/401-emilio-tallmann"
+        },
+        {
+            "nome_linha": "Rui Barbosa",
+            "codigo_linha": "402",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/402-rui-barbosa"
+        },
+        {
+            "nome_linha": "Progresso / Santa Maria",
+            "codigo_linha": "403",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/403-progresso-sta-maria"
+        },
+        {
+            "nome_linha": "Nova Russia",
+            "codigo_linha": "404",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/404-nova-russia"
+        },
+        {
+            "nome_linha": "Jordão",
+            "codigo_linha": "405",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/405-jordao"
+        },
+        {
+            "nome_linha": "Leopoldo Heringer / Rua Guarapari",
+            "codigo_linha": "406",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/406-leopoldo-heringer-r-guarap"
+        },
+        {
+            "nome_linha": "Manoel Salvador",
+            "codigo_linha": "407",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/407-manoel-salvador"
+        },
+        {
+            "nome_linha": "André Nicoletti",
+            "codigo_linha": "408",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/408-andre-nicoletti"
+        },
+        {
+            "nome_linha": "Belo Horizonte",
+            "codigo_linha": "421",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/421-belo-horizonte"
+        },
+        {
+            "nome_linha": "Rua Brusque",
+            "codigo_linha": "422",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/422-r-brusque"
+        },
+        {
+            "nome_linha": "Grevsmuehl",
+            "codigo_linha": "423",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/423-grevsmuehl"
+        },
+        {
+            "nome_linha": "Bom Retiro",
+            "codigo_linha": "501",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/501-bom-retiro"
+        },
+        {
+            "nome_linha": "Pedro Krauss",
+            "codigo_linha": "503",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/503-pedro-krauss"
+        },
+        {
+            "nome_linha": "Araranguá",
+            "codigo_linha": "504",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/504-ararangua"
+        },
+        {
+            "nome_linha": "Itapuí / Engenheiro Odebrecht",
+            "codigo_linha": "505",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/505-itapui-engenheiro-odebrech"
+        },
+        {
+            "nome_linha": "Pastor Oswaldo Hesse (Garuva",
+            "codigo_linha": "506",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/506-pastor-oswaldo-hesse-garuv"
+        },
+        {
+            "nome_linha": "Vorstadt",
+            "codigo_linha": "507",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/507-vorstadt"
+        },
+        {
+            "nome_linha": "República Argentina",
+            "codigo_linha": "508",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/508-republica-argentina"
+        },
+        {
+            "nome_linha": "Zendron",
+            "codigo_linha": "509",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/509-zendron"
+        },
+        {
+            "nome_linha": "Oscar Burger",
+            "codigo_linha": "510",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/510-oscar-burger"
+        },
+        {
+            "nome_linha": "Santa Fé",
+            "codigo_linha": "511",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/511-sta-fe"
+        },
+        {
+            "nome_linha": "Fortaleza",
+            "codigo_linha": "601",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/601-fortaleza"
+        },
+        {
+            "nome_linha": "Tribess",
+            "codigo_linha": "603",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/603-tribess"
+        },
+        {
+            "nome_linha": "Rodoviária",
+            "codigo_linha": "605",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/605-rodoviaria"
+        },
+        {
+            "nome_linha": "Romário Badia",
+            "codigo_linha": "606",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/606-romario-badia"
+        },
+        {
+            "nome_linha": "Nova Esperança",
+            "codigo_linha": "607",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/607-nova-esperanca"
+        },
+        {
+            "nome_linha": "25 De Julho",
+            "codigo_linha": "616",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/616-25-julho"
+        },
+        {
+            "nome_linha": "Circular Terminal Fortaleza",
+            "codigo_linha": "617",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/617-circ-term-fortaleza"
+        },
+        {
+            "nome_linha": "José Deeke",
+            "codigo_linha": "701",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/701-jose-deeke"
+        },
+        {
+            "nome_linha": "Passo Manso",
+            "codigo_linha": "704",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/704-passo-manso"
+        },
+        {
+            "nome_linha": "Ponte Do Salto",
+            "codigo_linha": "705",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/705-ponte-salto"
+        },
+        {
+            "nome_linha": "Concórdia",
+            "codigo_linha": "707",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/707-concordia"
+        },
+        {
+            "nome_linha": "Boa Vista",
+            "codigo_linha": "709",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/709-boa-vista"
+        },
+        {
+            "nome_linha": "Circular Ponta Aguda",
+            "codigo_linha": "711",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/711-circ-ponta-aguda"
+        },
+        {
+            "nome_linha": "Margem Esquerda",
+            "codigo_linha": "802",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/802-margem-esquerda"
+        },
+        {
+            "nome_linha": "Itoupava Rega",
+            "codigo_linha": "803",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/803-itoupava-rega"
+        },
+        {
+            "nome_linha": "Vila Itoupava",
+            "codigo_linha": "804",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/804-vila-itoupava"
+        },
+        {
+            "nome_linha": "Divisa Massaranduba",
+            "codigo_linha": "805",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/805-divisa-massaranduba"
+        },
+        {
+            "nome_linha": "Arnoldo Beck",
+            "codigo_linha": "808",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/808-arnoldo-beck"
+        },
+        {
+            "nome_linha": "Divinópolis",
+            "codigo_linha": "901",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/901-divinopolis"
+        },
+        {
+            "nome_linha": "Loteamento Primavera",
+            "codigo_linha": "902",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/902-lot-primavera"
+        },
+        {
+            "nome_linha": "Eça De Queiroz",
+            "codigo_linha": "903",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/903-eca-queiroz"
+        },
+        {
+            "nome_linha": "Lúcio Esteves / Coripós",
+            "codigo_linha": "904",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/904-lucio-esteves-coripos"
+        },
+        {
+            "nome_linha": "Leite Trevo",
+            "codigo_linha": "905",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/905-leite-trevo"
+        },
+        {
+            "nome_linha": "Linha Saúde - Região Fortaleza",
+            "codigo_linha": "1229",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/1229-lin-saude-regiao-fortalez"
+        },
+        {
+            "nome_linha": "Linha Trabalhador Blumob - Velha",
+            "codigo_linha": "1360",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/1360-lin-trabalhador-blumob-ve"
+        },
+        {
+            "nome_linha": "Linha Trabalhador Blumob - Velha",
+            "codigo_linha": "1361",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/1361-lin-trabalhador-blumob-ve"
+        },
+        {
+            "nome_linha": "Linha Trabalhador Blumob - Velha",
+            "codigo_linha": "1362",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/1362-lin-trabalhador-blumob-ve"
+        },
+        {
+            "nome_linha": "Linha Trabalhador Blumob - Garcia",
+            "codigo_linha": "1370",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/1370-lin-trabalhador-blumob-ga"
+        },
+        {
+            "nome_linha": "Linha Trabalhador Blumob - Fonte",
+            "codigo_linha": "1371",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/1371-lin-trabalhador-blumob-fo"
+        },
+        {
+            "nome_linha": "Linha Trabalhador Blumob - Garcia",
+            "codigo_linha": "1372",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/1372-lin-trabalhador-blumob-ga"
+        },
+        {
+            "nome_linha": "Linha Trabalhador Blumob - Centro",
+            "codigo_linha": "1373",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/1373-lin-trabalhador-blumob-ce"
+        },
+        {
+            "nome_linha": "Linha Trabalhador Blumob - Itoupava Central",
+            "codigo_linha": "1380",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/1380-lin-trabalhador-blumob-it"
+        },
+        {
+            "nome_linha": "Linha Trabalhador Blumob - Itoupavazinha/ Salto Norte",
+            "codigo_linha": "1381",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/1381-lin-trabalhador-blumob-it"
+        },
+        {
+            "nome_linha": "Linha Trabalhador Blumob - Aterro",
+            "codigo_linha": "1382",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/1382-lin-trabalhador-blumob-at"
+        },
+        {
+            "nome_linha": "Linha Trabalhador Blumob - Itoupava Central",
+            "codigo_linha": "1383",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/1383-lin-trabalhador-blumob-it"
+        },
+        {
+            "nome_linha": "Linha Trabalhador Blumob - Escola Acrícola",
+            "codigo_linha": "1384",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/1384-lin-trabalhador-blumob-es"
+        },
+        {
+            "nome_linha": "Linha Trabalhador Blumob - Salto Norte/ Itoupavazinha",
+            "codigo_linha": "1385",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/1385-lin-trabalhador-blumob-sa"
+        },
+        {
+            "nome_linha": "Linha Trabalhador Blumob - Fortaleza",
+            "codigo_linha": "1386",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/1386-lin-trabalhador-blumob-fo"
+        },
+        {
+            "nome_linha": "Linha Trabalhador Blumob - Franz Volles",
+            "codigo_linha": "1387",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/1387-lin-trabalhador-blumob-fr"
+        },
+        {
+            "nome_linha": "Linha Trabalhador Blumob - Fortaleza",
+            "codigo_linha": "1390",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/1390-lin-trabalhador-blumob-fo"
+        },
+        {
+            "nome_linha": "Linha Trabalhador Blumob - Fortaleza",
+            "codigo_linha": "1391",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/1391-lin-trabalhador-blumob-fo"
+        },
+        {
+            "nome_linha": "Linha Trabalhador Blumob - Fortaleza/ It.Central/ Itoupavazinha",
+            "codigo_linha": "1392",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/1392-lin-trabalhador-blumob-fo"
+        },
+        {
+            "nome_linha": "Linha Trabalhador Blumob - Fortaleza/ M.Esquerda/ It.Central",
+            "codigo_linha": "1393",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/1393-lin-trabalhador-blumob-fo"
+        },
+        {
+            "nome_linha": "Linha Trabalhador Blumob - Centro/ Fortaleza",
+            "codigo_linha": "1394",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/1394-lin-trabalhador-blumob-ce"
+        },
+        {
+            "nome_linha": "Linha Trabalhador Blumob - Fortaleza",
+            "codigo_linha": "1395",
+            "nome_empresa": "Blumob",
+            "slug": "blumob/1395-lin-trabalhador-blumob-fo"
+        }
+    ],
+    "regioes": [
+        "vale_do_itajai"
+    ],
+    "slug": "blumob"
+}

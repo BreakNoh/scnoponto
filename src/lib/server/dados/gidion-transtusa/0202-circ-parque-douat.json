@@ -1,0 +1,52 @@
+{
+    "nome": "Circular Parque Douat",
+    "codigo": "0202",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "04:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:23",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:56",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:48",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:26",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:25",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0202-circ-parque-douat"
+}

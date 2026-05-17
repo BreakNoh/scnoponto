@@ -1,0 +1,86 @@
+{
+    "nome": "Janaina(Mar Das Pedras) - Colegio Eloisa",
+    "codigo": "900020",
+    "detalhe": "Rodovias Municipais(Atendimento Colegios)",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Janaina(Mar Das Pedras",
+                "horarios": [
+                    {
+                        "hora": "06:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "R. JoséZimermann - MAR DAS PEDRAS R. Alexandre Sergio Godinho Av. Luiz Gonçalves R. José Francisco de Amaral R. Castro Alves R. Victor Meireles R. Tiradentes R. Paulo Pedro R. Geraldino de Azevedo Marginal BR 101/R. R. José Zeferino Souza R. 17 de Maio Colegio EloisaMaria Prazeres de Farias"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Biguaçu_Colegio Eloisa",
+                "horarios": [
+                    {
+                        "hora": "11:36",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Colegio Eloisa,Marginal Br 101, Viaduto Dona Wanda, Marginal Sentido Biguaçu,R. José Zimermann - MAR DAS PEDRAS R Retorma ate o colegio via rodovias municipais"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Colegio Eloisa,Marginal Br 101, Viaduto Dona Wanda, Marginal Sentido Biguaçu,R. José Zimermann - MAR DAS PEDRAS R Retorma ate o colegio via rodovias municipais"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:36",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Colegio Eloisa,Marginal Br 101, Viaduto Dona Wanda, Marginal Sentido Biguaçu,R. José Zimermann - MAR DAS PEDRAS R Retorma ate o colegio via rodovias municipais"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:21",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Colegio Eloisa,Marginal Br 101, Viaduto Dona Wanda, Marginal Sentido Biguaçu,R. José Zimermann - MAR DAS PEDRAS R Retorma ate o colegio via rodovias municipais"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Janaina(Mar Das Pedras",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Biguaçu_Colegio Eloisa",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Janaina(Mar Das Pedras",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Biguaçu_Colegio Eloisa",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "900020-janaina-mar-pedras-cole"
+}

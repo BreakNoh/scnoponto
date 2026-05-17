@@ -1,0 +1,24 @@
+{
+    "nome": "Madrugadão Centro / Vila Nova",
+    "codigo": "0504",
+    "detalhe": null,
+    "servicos": {
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "01:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "25:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0504-madrugadao-centro-vila-no"
+}

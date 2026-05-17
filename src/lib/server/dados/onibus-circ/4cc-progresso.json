@@ -1,0 +1,49 @@
+{
+    "nome": "Progresso",
+    "codigo": "4CC",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Terminal Rodoviário",
+                "horarios": [
+                    {
+                        "hora": "07:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Lot Miranda",
+                "horarios": [
+                    {
+                        "hora": "06:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "4cc-progresso"
+}

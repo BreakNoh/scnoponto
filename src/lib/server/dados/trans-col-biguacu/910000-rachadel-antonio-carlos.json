@@ -1,0 +1,75 @@
+{
+    "nome": "Rachadel / Antônio Carlos",
+    "codigo": "910000",
+    "detalhe": "Até Vila 12",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Bairro Rachadel - Antonio Carlos",
+                "horarios": [
+                    {
+                        "hora": "06:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:15",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Rodoviaria - Antônio Carlos",
+                "horarios": [
+                    {
+                        "hora": "11:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rachadel ViaGuimara"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rachadel ViaGuimara"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Bairro Rachadel - Antonio Carlos",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Rodoviaria - Antônio Carlos",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Bairro Rachadel - Antonio Carlos",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Rodoviaria - Antônio Carlos",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "910000-rachadel-antonio-carlos"
+}

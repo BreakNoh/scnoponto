@@ -1,0 +1,83 @@
+{
+    "nome": "Bom Viver / Biguaçu",
+    "codigo": "900056",
+    "detalhe": "Via Bairro Janaína, Praia João Rosa e UPA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Bairro Bom Viver - Biguaçu",
+                "horarios": [
+                    {
+                        "hora": "05:30",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:55",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Cicob - Após Hospital De Biguaçu",
+                "horarios": [
+                    {
+                        "hora": "11:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Cicob, SC-407,Viaduto Brasil, Praça, Maria da Glória, Rua Sete, Eloísa, Viaduto Furacão, Emérita, Godinho, Vila Real, Barreira, Tânia Mara e Bom Viver"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:50",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Bairro Bom Viver - Biguaçu",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Cicob - Após Hospital De Biguaçu",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Bairro Bom Viver - Biguaçu",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Cicob - Após Hospital De Biguaçu",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "900056-bom-viver-biguacu"
+}

@@ -1,0 +1,205 @@
+{
+    "nome": "Alto Aririu / Ponte Do Imaruim",
+    "codigo": "353",
+    "detalhe": "VIA LOTEAMENTO SCHUTZ/ANICETO ZACCHI",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "05:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:40",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            },
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            },
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "353-alto-aririu-ponte-imaruim"
+}

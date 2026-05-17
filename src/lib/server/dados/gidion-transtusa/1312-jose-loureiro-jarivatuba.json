@@ -1,0 +1,20 @@
+{
+    "nome": "José Loureiro",
+    "codigo": "1312",
+    "detalhe": "Via Jarivatuba",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "04:42",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "1312-jose-loureiro-jarivatuba"
+}

@@ -1,0 +1,57 @@
+{
+    "nome": "Executivo Governador Celso Ramos",
+    "codigo": "44701",
+    "detalhe": "Via Estreito",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Palmas - Governador Celso Ramos",
+                "horarios": [
+                    {
+                        "hora": "05:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:45",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": [
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Palmas - Governador Celso Ramos",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Palmas - Governador Celso Ramos",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "executivo",
+    "slug": "44701-executivo-gov-celso-ramo"
+}

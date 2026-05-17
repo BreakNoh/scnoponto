@@ -1,0 +1,40 @@
+{
+    "nome": "Fpolis / Aririu Formiga",
+    "codigo": "6753",
+    "detalhe": "VIA MARG BR 101/CENTRO PH/ARIRIU/GUARDA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "14:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:05",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "6753-fpolis-aririu-formiga"
+}

@@ -1,0 +1,187 @@
+{
+    "nome": "Serraria – Forquilhinhas",
+    "codigo": "105",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partidas De Serraria",
+                "horarios": [
+                    {
+                        "hora": "05:50",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Biguaçú\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:30",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Estrela\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:15",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Santa Terezinha\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:10",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Biguaçú\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Santa Terezinha\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Biguaçú\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:35",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Estrela\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:50",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Biguaçú\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:20",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Estrela\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:45",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Estrela\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Estrela\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:55",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Santa Terezinha\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Santa Terezinha\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:45",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Santa Terezinha\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:30",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Estrela\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:40",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Santa Terezinha\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:05",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Biguaçú\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:45",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Biguaçú\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Estrela\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "105-serraria-forquilhinhas"
+}

@@ -1,0 +1,91 @@
+{
+    "nome": "Palhoca (Mercado Publico) / Senai (Eldorado",
+    "codigo": "630",
+    "detalhe": "VIA PONTE DO IMARUIM",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "08:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:50",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "11:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:15",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "08:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:05",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "15:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:15",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            },
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "630-palhoca-mercado-publico-se"
+}

@@ -1,0 +1,20 @@
+{
+    "nome": "Iririu / Pirabeiraba",
+    "codigo": "0299",
+    "detalhe": null,
+    "servicos": {
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "08:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0299-iririu-pirabeiraba"
+}

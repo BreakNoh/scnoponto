@@ -1,0 +1,40 @@
+{
+    "nome": "Potecas – Kobrasol",
+    "codigo": "135",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partidas Do Kobrasol",
+                "horarios": [
+                    {
+                        "hora": "07:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:35",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "135-potecas-kobrasol"
+}

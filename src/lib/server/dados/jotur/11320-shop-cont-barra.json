@@ -1,0 +1,37 @@
+{
+    "nome": "Shop Cont / Barra",
+    "codigo": "11320",
+    "detalhe": "VIA MARG BR 101/P.IMAR/MIRIAM/N PHV.NOVA/PCH",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "22:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "22:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "11320-shop-cont-barra"
+}

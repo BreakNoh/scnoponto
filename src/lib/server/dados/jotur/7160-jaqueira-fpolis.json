@@ -1,0 +1,36 @@
+{
+    "nome": "Jaqueira / Fpolis",
+    "codigo": "7160",
+    "detalhe": "VIA BELA VISTA/JARDINS/PONTE DO IMARUIM/IVO SILVEIRA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "04:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:50",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "7160-jaqueira-fpolis"
+}

@@ -1,0 +1,32 @@
+{
+    "nome": "Jardim Aquárius / Fpolis",
+    "codigo": "7150",
+    "detalhe": "VIA MARG.BR 101/VIA EXPRESSA/IVO SILVEIRA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "7150-jardim-aquarius-fpolis"
+}

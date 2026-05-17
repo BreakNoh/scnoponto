@@ -1,0 +1,101 @@
+{
+    "nome": "Imperatriz / Santa Luzia",
+    "codigo": "0318",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:08",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:25",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "06:46",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:14",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:46",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:01",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:31",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:01",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:56",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:31",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:01",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:31",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0318-imperatriz-sta-luzia"
+}

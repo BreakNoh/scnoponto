@@ -1,0 +1,32 @@
+{
+    "nome": "Colégio Morretes / Rincão",
+    "codigo": "05",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "17:05",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "05-colegio-morretes-rincao"
+}

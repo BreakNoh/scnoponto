@@ -1,0 +1,183 @@
+{
+    "nome": "Oscar Burger",
+    "codigo": "510",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Term. Fonte",
+                "horarios": [
+                    {
+                        "hora": "06:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:28",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:27",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Term. Fonte",
+                "horarios": [
+                    {
+                        "hora": "06:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:28",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:27",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Term. Fonte",
+                "horarios": [
+                    {
+                        "hora": "06:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:28",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:27",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Term. Fonte",
+                "horarios": [
+                    {
+                        "hora": "06:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:28",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:27",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Term. Fonte",
+                "horarios": [
+                    {
+                        "hora": "06:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:28",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:27",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "0": [
+            {
+                "sentido": "Saída Term. Fonte",
+                "horarios": [
+                    {
+                        "hora": "06:18",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:28",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:27",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "510-oscar-burger"
+}

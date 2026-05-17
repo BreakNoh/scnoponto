@@ -1,0 +1,29 @@
+{
+    "nome": "Pirabeiraba / Estrada Mildau",
+    "codigo": "4012",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "12:20",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "12:44",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "4012-pirabeiraba-estrada-milda"
+}

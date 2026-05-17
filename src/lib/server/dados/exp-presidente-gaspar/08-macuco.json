@@ -1,0 +1,97 @@
+{
+    "nome": "Macuco",
+    "codigo": "08",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Terminal Urbano",
+                "horarios": [
+                    {
+                        "hora": "06:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:20",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Macuco",
+                "horarios": [
+                    {
+                        "hora": "05:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Terminal Urbano",
+                "horarios": [
+                    {
+                        "hora": "07:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:15",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Macuco",
+                "horarios": [
+                    {
+                        "hora": "07:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:35",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "08-macuco"
+}

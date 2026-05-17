@@ -1,0 +1,93 @@
+{
+    "nome": "Pirabeiraba / Rio Bonito",
+    "codigo": "4025",
+    "detalhe": "Via Canela",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:53",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:54",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:03",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:12",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:01",
+                        "obs": []
+                    },
+                    {
+                        "hora": "24:05",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "03:38",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:31",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:27",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:33",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:58",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "4025-pirabeiraba-rio-bonito-ca"
+}

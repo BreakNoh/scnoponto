@@ -1,0 +1,25 @@
+{
+    "nome": "Criciuma X Campo Bom",
+    "codigo": null,
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Criciuma",
+                "horarios": [
+                    {
+                        "hora": "17:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via B.ESPLANADA-AURORA-TORNEIRO"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "criciuma-x-campo-bom"
+}

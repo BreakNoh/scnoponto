@@ -1,0 +1,57 @@
+{
+    "nome": "Sorocaba",
+    "codigo": "64200",
+    "detalhe": "Via BR101 - Via Estreito",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Bairro Sorocaba - Biguaçu",
+                "horarios": [
+                    {
+                        "hora": "05:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:40",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": [
+                    {
+                        "hora": "12:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Bairro Sorocaba - Biguaçu",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Bairro Sorocaba - Biguaçu",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "64200-sorocaba"
+}

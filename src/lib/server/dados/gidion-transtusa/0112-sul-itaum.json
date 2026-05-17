@@ -1,0 +1,41 @@
+{
+    "nome": "Sul / Itaum",
+    "codigo": "0112",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "07:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "23:03",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "07:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:35",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0112-sul-itaum"
+}

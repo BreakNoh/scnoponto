@@ -1,0 +1,32 @@
+{
+    "nome": "Ent. Do Pachecos / Hr",
+    "codigo": "0366",
+    "detalhe": "VIA/PACHECOS/RIO GRANDE/CENTRO PH/P.IMARUIM",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "14:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0366-ent-pachecos-hr"
+}

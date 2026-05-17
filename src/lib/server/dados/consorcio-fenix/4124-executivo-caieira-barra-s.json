@@ -1,0 +1,263 @@
+{
+    "nome": "Executivo Caieira Da Barra Do Sul",
+    "codigo": "4124",
+    "detalhe": "Via Tapera",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Caieira Da Barra Do Sul",
+                "horarios": [
+                    {
+                        "hora": "05:30",
+                        "obs": [
+                            {
+                                "tipo": "MEIA_VIAGEM",
+                                "valor": "Meia viagem"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:00",
+                        "obs": [
+                            {
+                                "tipo": "MEIA_VIAGEM",
+                                "valor": "Meia viagem"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:20",
+                        "obs": [
+                            {
+                                "tipo": "MEIA_VIAGEM",
+                                "valor": "Meia viagem"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:35",
+                        "obs": [
+                            {
+                                "tipo": "MEIA_VIAGEM",
+                                "valor": "Meia viagem"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:50",
+                        "obs": [
+                            {
+                                "tipo": "MEIA_VIAGEM",
+                                "valor": "Meia viagem"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:10",
+                        "obs": [
+                            {
+                                "tipo": "MEIA_VIAGEM",
+                                "valor": "Meia viagem"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:55",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:43",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:23",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:14",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:15",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:15",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:13",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:24",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:04",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:15",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Tecif - Plataforma 4 - Box 7",
+                "horarios": [
+                    {
+                        "hora": "06:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Saída Caieira Da Barra Do Sul",
+                "horarios": [
+                    {
+                        "hora": "07:13",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:18",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Tecif - Plataforma 4 - Box 7",
+                "horarios": [
+                    {
+                        "hora": "06:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "executivo",
+    "slug": "4124-executivo-caieira-barra-s"
+}

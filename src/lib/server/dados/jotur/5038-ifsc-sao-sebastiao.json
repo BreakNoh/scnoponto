@@ -1,0 +1,32 @@
+{
+    "nome": "Ifsc / São Sebastião",
+    "codigo": "5038",
+    "detalhe": "VIA CID UNIV/AQUÁRIUS/PONTE DO IMARUIM/MADRI",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "17:40",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "5038-ifsc-sao-sebastiao"
+}

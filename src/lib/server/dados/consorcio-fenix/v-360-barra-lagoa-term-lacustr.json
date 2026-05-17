@@ -1,0 +1,175 @@
+{
+    "nome": "Barra Da Lagoa",
+    "codigo": "V-360",
+    "detalhe": "Via Terminal Lacustre",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Barra Da Lagoa",
+                "horarios": [
+                    {
+                        "hora": "07:53",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:32",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:33",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:19",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:34",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:58",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:09",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Tilag - Box 5",
+                "horarios": [
+                    {
+                        "hora": "07:25",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:05",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:05",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:52",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:28",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:40",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "v-360-barra-lagoa-term-lacustr"
+}

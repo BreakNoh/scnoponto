@@ -1,0 +1,32 @@
+{
+    "nome": "Bela Vista / Fpolis",
+    "codigo": "7162",
+    "detalhe": "VIA CENTRO DE PALHOÇA/BR 101/VIA EXP/IVO SILVEIRA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "7162-bela-vista-fpolis"
+}

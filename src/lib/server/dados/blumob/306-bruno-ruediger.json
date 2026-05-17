@@ -1,0 +1,115 @@
+{
+    "nome": "Bruno Ruediger",
+    "codigo": "306",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Terminal Velha",
+                "horarios": [
+                    {
+                        "hora": "06:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:25",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Velha",
+                "horarios": [
+                    {
+                        "hora": "06:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:25",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Velha",
+                "horarios": [
+                    {
+                        "hora": "06:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:25",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Velha",
+                "horarios": [
+                    {
+                        "hora": "06:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:25",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Velha",
+                "horarios": [
+                    {
+                        "hora": "06:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:25",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "0": [
+            {
+                "sentido": "Saída Terminal Velha",
+                "horarios": [
+                    {
+                        "hora": "06:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:25",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "306-bruno-ruediger"
+}

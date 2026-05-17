@@ -1,0 +1,32 @@
+{
+    "nome": "Shopping Continente / Guarda Do Tabuleiro",
+    "codigo": "03512",
+    "detalhe": "VIA P.IMAR/ARIRIU/GUARDA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "11:25",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "03512-shopping-continente-guar"
+}

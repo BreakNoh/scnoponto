@@ -1,0 +1,569 @@
+{
+    "nome": "Popular",
+    "codigo": "231",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": [
+                    {
+                        "hora": "6:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "vai pelo Centro\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai condomínio Ponte Grande\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pela Rua Cirilo V. Ramos, Rui Barbosa (Antigo Pronto Socorro)\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pela Rua Cirilo V. Ramos, Rui Barbosa (Antigo Pronto Socorro)\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pela Rua Cirilo V. Ramos, Rui Barbosa (Antigo Pronto Socorro)\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pela Rua Cirilo V. Ramos, Rui Barbosa (Antigo Pronto Socorro)\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai condomínio Ponte Grande, se houver desembarque.\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Linha Habitação Retorna pela Popular\t\t\t\t"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Bairro",
+                "horarios": [
+                    {
+                        "hora": "06:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai 1º Maio, Rua Cirilo Vieira Ramos, Entra Rua Erva Mate."
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai Predinhos, Não desce Ferrovia.\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai condomínio Ponte Grande\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai Rua Alvaro Neri dos Santos\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai Predinhos, Não desce Ferrovia.\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai condomínio Ponte Grande\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pela Rua Cirilo V. Ramos, Rui Barbosa (Antigo Pronto Socorro)\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pela Rua Cirilo V. Ramos, Rui Barbosa (Antigo Pronto Socorro)\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pela Rua Cirilo V. Ramos, Rui Barbosa (Antigo Pronto Socorro)\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pela Rua Cirilo V. Ramos, Rui Barbosa (Antigo Pronto Socorro)\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai condomínio Ponte Grande, se houver desembarque.\t\t\t\t"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": [
+                    {
+                        "hora": "07:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "vai pelo Centro\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "vai pelo Centro\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna fazendo linha Habitação\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai Ferrovia\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna fazendo linha Habitação\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai Ferrovia\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna fazendo linha Habitação\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna fazendo linha Habitação\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai condomínio Ponte Grande, se houver desembarque.\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai na Ferrovia, se houver desembarque."
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna fazendo linha Habitação\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai condomínio Ponte Grande, se houver desembarque.\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai na Ferrovia, se houver desembarque."
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna fazendo linha Habitação\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai na Ferrovia, se houver desembarque."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Bairro",
+                "horarios": [
+                    {
+                        "hora": "06:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai 1º Maio, Rua Cirilo Vieira Ramos, Entra Rua Erva Mate."
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai Ferrovia\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna fazendo linha Habitação\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai Ferrovia\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna fazendo linha Habitação\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai Ferrovia\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna fazendo linha Habitação\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna fazendo linha Habitação\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai condomínio Ponte Grande, se houver desembarque.\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai na Ferrovia, se houver desembarque."
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna fazendo linha Habitação\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai condomínio Ponte Grande, se houver desembarque.\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai na Ferrovia, se houver desembarque."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": [
+                    {
+                        "hora": "07:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai Ferrovia\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Linha Habitação Retorna pela Popular\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai Ferrovia\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Linha Habitação Retorna pela Popular\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai Ferrovia\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Linha Habitação Retorna pela Popular\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai Ferrovia\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Linha Habitação Retorna pela Popular\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai Ferrovia\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Linha Habitação Retorna pela Popular\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai Ferrovia\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Linha Habitação Retorna pela Popular\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai Ferrovia\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Linha Habitação Retorna pela Popular\t\t\t\t"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Bairro",
+                "horarios": [
+                    {
+                        "hora": "06:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai Ferrovia\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Linha Habitação Retorna pela Popular\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai Ferrovia\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Linha Habitação Retorna pela Popular\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai Ferrovia\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Linha Habitação Retorna pela Popular\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai Ferrovia\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Linha Habitação Retorna pela Popular\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai Ferrovia\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Linha Habitação Retorna pela Popular\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai Ferrovia\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Linha Habitação Retorna pela Popular\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai Ferrovia\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Linha Habitação Retorna pela Popular\t\t\t\t"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "231-popular"
+}

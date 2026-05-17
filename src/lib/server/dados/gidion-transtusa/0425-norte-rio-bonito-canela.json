@@ -1,0 +1,245 @@
+{
+    "nome": "Norte / Rio Bonito",
+    "codigo": "0425",
+    "detalhe": "Via Canela",
+    "servicos": {
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "11:03",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:55",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "11:28",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:15",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "03:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:11",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:58",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:50",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "04:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:07",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:41",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:28",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:20",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "12:51",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:48",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:45",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "13:13",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:07",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:07",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:17",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "23:07",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "03:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:32",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:32",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:32",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:32",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:43",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "04:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:02",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:02",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:02",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:02",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:13",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0425-norte-rio-bonito-canela"
+}

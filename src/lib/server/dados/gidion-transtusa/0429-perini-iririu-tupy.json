@@ -1,0 +1,20 @@
+{
+    "nome": "Perini / Iririú / Tupy",
+    "codigo": "0429",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "17:35",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0429-perini-iririu-tupy"
+}

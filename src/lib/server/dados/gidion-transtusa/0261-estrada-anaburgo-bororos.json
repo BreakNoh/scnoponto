@@ -1,0 +1,41 @@
+{
+    "nome": "Estrada Anaburgo",
+    "codigo": "0261",
+    "detalhe": "Via Bororós",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "07:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "24:48",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "08:07",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:32",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0261-estrada-anaburgo-bororos"
+}

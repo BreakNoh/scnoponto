@@ -1,0 +1,109 @@
+{
+    "nome": "São Sebastião / Ponte Do Imaruim",
+    "codigo": "5037",
+    "detalhe": "VIA MADRI/ANICETO ZACCHI",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:50",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "07:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:05",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            },
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            },
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "5037-sao-sebastiao-ponte-imaru"
+}

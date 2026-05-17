@@ -1,0 +1,53 @@
+{
+    "nome": "Bom Retiro",
+    "codigo": "0214",
+    "detalhe": "Via Barão De Teffé",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "07:13",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:02",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:13",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "07:31",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:26",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:29",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0214-bom-retiro-barao-teffe"
+}

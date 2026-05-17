@@ -1,0 +1,153 @@
+{
+    "nome": "07-Maicé",
+    "codigo": null,
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Maicé Para Centro - Castelhano",
+                "horarios": [
+                    {
+                        "hora": "07:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Castelhano Para Centro - Maicé",
+                "horarios": [
+                    {
+                        "hora": "06:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:25",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Maicé Para Centro - Castelhano",
+                "horarios": [
+                    {
+                        "hora": "07:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Castelhano Para Centro - Maicé",
+                "horarios": [
+                    {
+                        "hora": "07:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:25",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "07-maice"
+}

@@ -1,0 +1,41 @@
+{
+    "nome": "Tpi /Paraiso",
+    "codigo": "0502",
+    "detalhe": "Via Rua Henrique Lage /Tce",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "07:39",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "17:02",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:02",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:02",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:26",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0502-tpi-paraiso-r-henrique-la"
+}

@@ -1,0 +1,52 @@
+{
+    "nome": "Expresso Presidente Riomafra",
+    "fonte": "https://expressopresidente.com.br",
+    "linhas": [
+        {
+            "nome_linha": "Faxinal / Bom Jesus",
+            "codigo_linha": "100",
+            "nome_empresa": "Expresso Presidente Riomafra",
+            "slug": "exp-presidente-riomafra/100-faxinal-bom-jesus"
+        },
+        {
+            "nome_linha": "Jardim América / Vila Ivete",
+            "codigo_linha": "200",
+            "nome_empresa": "Expresso Presidente Riomafra",
+            "slug": "exp-presidente-riomafra/200-jardim-america-vila-ivete"
+        },
+        {
+            "nome_linha": "São Lourenço",
+            "codigo_linha": "201",
+            "nome_empresa": "Expresso Presidente Riomafra",
+            "slug": "exp-presidente-riomafra/201-sao-lourenco"
+        },
+        {
+            "nome_linha": "Km 9",
+            "codigo_linha": "202",
+            "nome_empresa": "Expresso Presidente Riomafra",
+            "slug": "exp-presidente-riomafra/202-km-9"
+        },
+        {
+            "nome_linha": "Primavera",
+            "codigo_linha": "203",
+            "nome_empresa": "Expresso Presidente Riomafra",
+            "slug": "exp-presidente-riomafra/203-primavera"
+        },
+        {
+            "nome_linha": "Fronteira",
+            "codigo_linha": "300",
+            "nome_empresa": "Expresso Presidente Riomafra",
+            "slug": "exp-presidente-riomafra/300-fronteira"
+        },
+        {
+            "nome_linha": "Roseira",
+            "codigo_linha": "301",
+            "nome_empresa": "Expresso Presidente Riomafra",
+            "slug": "exp-presidente-riomafra/301-roseira"
+        }
+    ],
+    "regioes": [
+        "norte"
+    ],
+    "slug": "exp-presidente-riomafra"
+}

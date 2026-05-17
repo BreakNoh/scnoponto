@@ -1,0 +1,65 @@
+{
+    "nome": "Pirabeiraba / Quiriri Final",
+    "codigo": "4033",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "04:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:39",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:58",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:25",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "05:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:38",
+                        "obs": []
+                    },
+                    {
+                        "hora": "23:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "23:46",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "4033-pirabeiraba-quiriri-final"
+}

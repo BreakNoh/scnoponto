@@ -1,0 +1,139 @@
+{
+    "nome": "Girassol",
+    "codigo": "301",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Terminal Velha",
+                "horarios": [
+                    {
+                        "hora": "06:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:04",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:10",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Velha",
+                "horarios": [
+                    {
+                        "hora": "06:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:04",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:10",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Velha",
+                "horarios": [
+                    {
+                        "hora": "06:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:04",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:10",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Velha",
+                "horarios": [
+                    {
+                        "hora": "06:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:04",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:10",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Velha",
+                "horarios": [
+                    {
+                        "hora": "06:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:04",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "0": [
+            {
+                "sentido": "Saída Terminal Velha",
+                "horarios": [
+                    {
+                        "hora": "06:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:04",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "301-girassol"
+}

@@ -1,0 +1,32 @@
+{
+    "nome": "Morro Do Gato / Ponte Do Imaruim",
+    "codigo": "502",
+    "detalhe": "VIA PASSA VINTE/ELZA LUCHI",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "13:05",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "502-morro-gato-ponte-imaruim"
+}

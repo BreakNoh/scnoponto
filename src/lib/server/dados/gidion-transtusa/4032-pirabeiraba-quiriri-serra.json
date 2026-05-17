@@ -1,0 +1,45 @@
+{
+    "nome": "Pirabeiraba / Quiriri",
+    "codigo": "4032",
+    "detalhe": "Via Serra",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "14:07",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:47",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:50",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "05:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:59",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "4032-pirabeiraba-quiriri-serra"
+}

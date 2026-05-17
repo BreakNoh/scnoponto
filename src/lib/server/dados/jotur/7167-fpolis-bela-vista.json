@@ -1,0 +1,53 @@
+{
+    "nome": "Fpolis / Bela Vista",
+    "codigo": "7167",
+    "detalhe": "VIA EXPRESSA/MARG BR 101/CENTRO DE PALHOÇA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "14:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:35",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "06:40",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "7167-fpolis-bela-vista"
+}

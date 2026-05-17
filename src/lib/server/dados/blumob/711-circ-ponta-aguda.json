@@ -1,0 +1,222 @@
+{
+    "nome": "Circular Ponta Aguda",
+    "codigo": "711",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:48",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:06",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:13",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:20",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:48",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:06",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:13",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:20",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:48",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:06",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:13",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:20",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:48",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:06",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:13",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:20",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:48",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:06",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:13",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:20",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "711-circ-ponta-aguda"
+}

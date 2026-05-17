@@ -1,0 +1,101 @@
+{
+    "nome": "Executivo Dona Wanda",
+    "codigo": "43404",
+    "detalhe": "Via BR-101/marginais e Estreito",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Bairro Dona Wanda - São José (Previsão De Horário",
+                "horarios": [
+                    {
+                        "hora": "05:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:50",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": [
+                    {
+                        "hora": "14:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:25",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Bairro Dona Wanda - São José (Previsão De Horário",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Bairro Dona Wanda - São José (Previsão De Horário",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "executivo",
+    "slug": "43404-executivo-dona-wanda"
+}

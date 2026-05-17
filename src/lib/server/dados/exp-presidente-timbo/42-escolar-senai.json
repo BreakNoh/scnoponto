@@ -1,0 +1,20 @@
+{
+    "nome": "Escolar / Senai",
+    "codigo": "42",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Escolar / Senai",
+                "horarios": [
+                    {
+                        "hora": "16:55",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "42-escolar-senai"
+}

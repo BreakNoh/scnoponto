@@ -1,0 +1,73 @@
+{
+    "nome": "Bem Bom - Sentido Bc",
+    "codigo": null,
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Via Rodoviária Itajaí - Rodoviária Baln. Camboriú",
+                "horarios": [
+                    {
+                        "hora": "06:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Via Prefeitura Itajaí - Rodoviária Baln. Camboriú",
+                "horarios": [
+                    {
+                        "hora": "08:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:05",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "bem-bom-sentido-bc"
+}

@@ -1,0 +1,32 @@
+{
+    "nome": "Bela Vista / Florianópolis",
+    "codigo": "7169",
+    "detalhe": "VIA MARGINAL BR 101/VIA EXPRESSA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:40",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "7169-bela-vista-fpolis"
+}

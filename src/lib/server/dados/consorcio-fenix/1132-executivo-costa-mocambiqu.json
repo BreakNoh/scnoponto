@@ -1,0 +1,125 @@
+{
+    "nome": "Executivo Costa Do Moçambique",
+    "codigo": "1132",
+    "detalhe": "Via Vargem Grande",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Costa Do Moçambique",
+                "horarios": [
+                    {
+                        "hora": "06:35",
+                        "obs": [
+                            {
+                                "tipo": "MEIA_VIAGEM",
+                                "valor": "Meia viagem"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:05",
+                        "obs": [
+                            {
+                                "tipo": "MEIA_VIAGEM",
+                                "valor": "Meia viagem"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:56",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:00",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:08",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:54",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:45",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:46",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Tecif - Plataforma 3 - Box 4",
+                "horarios": [
+                    {
+                        "hora": "08:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:03",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:20",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "executivo",
+    "slug": "1132-executivo-costa-mocambiqu"
+}

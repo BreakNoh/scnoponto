@@ -1,0 +1,169 @@
+{
+    "nome": "Divisa Massaranduba",
+    "codigo": "805",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Terminal Itoupava",
+                "horarios": [
+                    {
+                        "hora": "05:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:02",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Itoupava",
+                "horarios": [
+                    {
+                        "hora": "05:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:02",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Itoupava",
+                "horarios": [
+                    {
+                        "hora": "05:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:02",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Itoupava",
+                "horarios": [
+                    {
+                        "hora": "05:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:02",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:05",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Itoupava",
+                "horarios": [
+                    {
+                        "hora": "05:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:02",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:05",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Saída Terminal Itoupava",
+                "horarios": [
+                    {
+                        "hora": "07:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Itoupava",
+                "horarios": [
+                    {
+                        "hora": "07:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Itoupava",
+                "horarios": [
+                    {
+                        "hora": "07:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Itoupava",
+                "horarios": [
+                    {
+                        "hora": "07:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "0": [
+            {
+                "sentido": "Saída Terminal Itoupava",
+                "horarios": [
+                    {
+                        "hora": "05:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:02",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "805-divisa-massaranduba"
+}

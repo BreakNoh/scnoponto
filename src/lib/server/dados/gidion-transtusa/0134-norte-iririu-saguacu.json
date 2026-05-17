@@ -1,0 +1,101 @@
+{
+    "nome": "Norte / Iririú",
+    "codigo": "0134",
+    "detalhe": "Via Saguaçú",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "04:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:31",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:26",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:41",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:36",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:05",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "04:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:13",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:48",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:59",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:46",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:21",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:27",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0134-norte-iririu-saguacu"
+}

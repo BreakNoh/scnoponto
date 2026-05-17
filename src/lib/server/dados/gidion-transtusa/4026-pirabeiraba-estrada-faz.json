@@ -1,0 +1,29 @@
+{
+    "nome": "Pirabeiraba / Estrada Fazenda",
+    "codigo": "4026",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "12:35",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "12:50",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "4026-pirabeiraba-estrada-faz"
+}

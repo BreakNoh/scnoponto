@@ -1,0 +1,97 @@
+{
+    "nome": "20-Fim De Semana",
+    "codigo": null,
+    "detalhe": null,
+    "servicos": {
+        "1": [
+            {
+                "sentido": "Mutirão Para Centro",
+                "horarios": [
+                    {
+                        "hora": "15:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "São Cristovão Para Centro",
+                "horarios": [
+                    {
+                        "hora": "14:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Mutirão Para Centro",
+                "horarios": [
+                    {
+                        "hora": "09:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "São Cristovão Para Centro",
+                "horarios": [
+                    {
+                        "hora": "08:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "20-fim-semana"
+}

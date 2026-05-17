@@ -1,0 +1,53 @@
+{
+    "nome": "Jativoca/Centro",
+    "codigo": "1514",
+    "detalhe": "Via Olaria",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:37",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:56",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:25",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "05:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:07",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:28",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "1514-jativoca-centro-olaria"
+}

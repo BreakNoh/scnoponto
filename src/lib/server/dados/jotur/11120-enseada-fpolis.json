@@ -1,0 +1,113 @@
+{
+    "nome": "Enseada / Fpolis",
+    "codigo": "11120",
+    "detalhe": "VIA MARIVONE/PRAIA DE FORA/CENTRO PH/P.IMARUIM/I.SILV",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "04:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:45",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "07:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:50",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "13:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "21:20",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "11120-enseada-fpolis"
+}

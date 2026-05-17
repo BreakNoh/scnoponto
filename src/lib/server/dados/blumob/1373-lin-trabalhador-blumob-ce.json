@@ -1,0 +1,47 @@
+{
+    "nome": "Linha Trabalhador Blumob - Centro",
+    "codigo": "1373",
+    "detalhe": null,
+    "servicos": {
+        "64": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "23:45",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "23:45",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "23:45",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "23:45",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "1373-lin-trabalhador-blumob-ce"
+}

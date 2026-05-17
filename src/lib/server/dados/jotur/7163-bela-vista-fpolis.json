@@ -1,0 +1,32 @@
+{
+    "nome": "Bela Vista / Fpolis",
+    "codigo": "7163",
+    "detalhe": "VIA PORTAL/PONTE DO IMARUIM/SÃO JOSÉ/IVO SILVEIRA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "07:15",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "7163-bela-vista-fpolis"
+}

@@ -1,0 +1,32 @@
+{
+    "nome": "Guarda Tabuleiro/ Shop Cont",
+    "codigo": "0356",
+    "detalhe": "VIA FORMIGA/BR 101/CENTRO PH/P.IMA/MARG BR",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "12:20",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0356-guarda-tabuleiro-shop-con"
+}

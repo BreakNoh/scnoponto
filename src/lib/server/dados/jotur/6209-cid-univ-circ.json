@@ -1,0 +1,32 @@
+{
+    "nome": "Cid Univ Circ",
+    "codigo": "6209",
+    "detalhe": "VIA AQUÁRIUS/PALHOÇA/PONTE DO IMARUIM/SENAI/ELDORADO",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "07:15",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "6209-cid-univ-circ"
+}

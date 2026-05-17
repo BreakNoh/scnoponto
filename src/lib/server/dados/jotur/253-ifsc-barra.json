@@ -1,0 +1,58 @@
+{
+    "nome": "Ifsc / Barra",
+    "codigo": "253",
+    "detalhe": "VIA MARG BR 101/VIAD P. VINTE/CENTRO PH/PACHECOS",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "21:55",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:45",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            },
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "07:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            },
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "253-ifsc-barra"
+}

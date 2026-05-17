@@ -1,0 +1,29 @@
+{
+    "nome": "Queçaba/Florianópolis",
+    "codigo": "6600",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Queçaba",
+                "horarios": [
+                    {
+                        "hora": "04:55",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Ticen - Plataforma C (Fpolis",
+                "horarios": [
+                    {
+                        "hora": "16:50",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "6600-quecaba-fpolis"
+}

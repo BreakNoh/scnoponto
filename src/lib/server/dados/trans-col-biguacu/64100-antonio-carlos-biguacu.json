@@ -1,0 +1,111 @@
+{
+    "nome": "Antônio Carlos / Biguaçu",
+    "codigo": "64100",
+    "detalhe": "Até Viaduto Janaína",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Antônio Carlos",
+                "horarios": [
+                    {
+                        "hora": "12:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Russia"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Utilizar linha10500"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Saida ColegioAltamir Via Russia"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Utilizar linha10500"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Viaduto Janaína - Biguaçu",
+                "horarios": [
+                    {
+                        "hora": "06:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "V.Russia_fimasfalto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:15",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "23:20",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Antônio Carlos",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Viaduto Janaína - Biguaçu",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Antônio Carlos",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Viaduto Janaína - Biguaçu",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "64100-antonio-carlos-biguacu"
+}

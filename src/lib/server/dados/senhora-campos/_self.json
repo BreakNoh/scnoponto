@@ -1,0 +1,184 @@
+{
+    "nome": "Senhora Dos Campos",
+    "fonte": "https://www.senhoradoscampos.com.br",
+    "linhas": [
+        {
+            "nome_linha": "Circular Central -",
+            "codigo_linha": "001",
+            "nome_empresa": "Senhora Dos Campos",
+            "slug": "senhora-campos/001-circ-central-joao-ayroso"
+        },
+        {
+            "nome_linha": "Circular Marina Frutuoso",
+            "codigo_linha": "1.1",
+            "nome_empresa": "Senhora Dos Campos",
+            "slug": "senhora-campos/1-1-circ-marina-frutuoso"
+        },
+        {
+            "nome_linha": "Circular Scar",
+            "codigo_linha": "002",
+            "nome_empresa": "Senhora Dos Campos",
+            "slug": "senhora-campos/002-circ-scar"
+        },
+        {
+            "nome_linha": "Circular Rodolfo H",
+            "codigo_linha": "003",
+            "nome_empresa": "Senhora Dos Campos",
+            "slug": "senhora-campos/003-circ-rodolfo-h"
+        },
+        {
+            "nome_linha": "Circular Centenário",
+            "codigo_linha": "004",
+            "nome_empresa": "Senhora Dos Campos",
+            "slug": "senhora-campos/004-circ-centenario"
+        },
+        {
+            "nome_linha": "Circular Venâncio",
+            "codigo_linha": "005",
+            "nome_empresa": "Senhora Dos Campos",
+            "slug": "senhora-campos/005-circ-venancio"
+        },
+        {
+            "nome_linha": "Troncal Terminal Barra / Terminal Centro",
+            "codigo_linha": "50",
+            "nome_empresa": "Senhora Dos Campos",
+            "slug": "senhora-campos/50-troncal-term-barra-term-cen"
+        },
+        {
+            "nome_linha": "Três Rios",
+            "codigo_linha": "100",
+            "nome_empresa": "Senhora Dos Campos",
+            "slug": "senhora-campos/100-tres-rios"
+        },
+        {
+            "nome_linha": "Nereu",
+            "codigo_linha": "200",
+            "nome_empresa": "Senhora Dos Campos",
+            "slug": "senhora-campos/200-nereu"
+        },
+        {
+            "nome_linha": "Braço / Salto / Ribeirão Cavalo",
+            "codigo_linha": "210",
+            "nome_empresa": "Senhora Dos Campos",
+            "slug": "senhora-campos/210-braco-salto-ribeirao-caval"
+        },
+        {
+            "nome_linha": "Ribeirão Grande",
+            "codigo_linha": "230",
+            "nome_empresa": "Senhora Dos Campos",
+            "slug": "senhora-campos/230-ribeirao-grande"
+        },
+        {
+            "nome_linha": "Rau",
+            "codigo_linha": "240",
+            "nome_empresa": "Senhora Dos Campos",
+            "slug": "senhora-campos/240-rau"
+        },
+        {
+            "nome_linha": "Estrada Nova",
+            "codigo_linha": "260",
+            "nome_empresa": "Senhora Dos Campos",
+            "slug": "senhora-campos/260-estrada-nova"
+        },
+        {
+            "nome_linha": "Chico De Paulo",
+            "codigo_linha": "270",
+            "nome_empresa": "Senhora Dos Campos",
+            "slug": "senhora-campos/270-chico-paulo"
+        },
+        {
+            "nome_linha": "São Luís",
+            "codigo_linha": "410",
+            "nome_empresa": "Senhora Dos Campos",
+            "slug": "senhora-campos/410-sao-luis"
+        },
+        {
+            "nome_linha": "Madre Paulina",
+            "codigo_linha": "420",
+            "nome_empresa": "Senhora Dos Campos",
+            "slug": "senhora-campos/420-madre-paulina"
+        },
+        {
+            "nome_linha": "Cruz De Malta",
+            "codigo_linha": "500",
+            "nome_empresa": "Senhora Dos Campos",
+            "slug": "senhora-campos/500-cruz-malta"
+        },
+        {
+            "nome_linha": "Ouro Verde / Jaraguá 84",
+            "codigo_linha": "510",
+            "nome_empresa": "Senhora Dos Campos",
+            "slug": "senhora-campos/510-ouro-verde-jaragua-84"
+        },
+        {
+            "nome_linha": "Rio Molha",
+            "codigo_linha": "520",
+            "nome_empresa": "Senhora Dos Campos",
+            "slug": "senhora-campos/520-rio-molha"
+        },
+        {
+            "nome_linha": "Santo Estevão (Garibaldi",
+            "codigo_linha": "530",
+            "nome_empresa": "Senhora Dos Campos",
+            "slug": "senhora-campos/530-sto-estevao-garibaldi"
+        },
+        {
+            "nome_linha": "Rio Da Luz",
+            "codigo_linha": "540",
+            "nome_empresa": "Senhora Dos Campos",
+            "slug": "senhora-campos/540-rio-luz"
+        },
+        {
+            "nome_linha": "Alto Da Serra",
+            "codigo_linha": "550",
+            "nome_empresa": "Senhora Dos Campos",
+            "slug": "senhora-campos/550-alto-serra"
+        },
+        {
+            "nome_linha": "Figueira",
+            "codigo_linha": "700",
+            "nome_empresa": "Senhora Dos Campos",
+            "slug": "senhora-campos/700-figueira"
+        },
+        {
+            "nome_linha": "Boa Vista",
+            "codigo_linha": "710",
+            "nome_empresa": "Senhora Dos Campos",
+            "slug": "senhora-campos/710-boa-vista"
+        },
+        {
+            "nome_linha": "Águas Claras",
+            "codigo_linha": "720",
+            "nome_empresa": "Senhora Dos Campos",
+            "slug": "senhora-campos/720-aguas-claras"
+        },
+        {
+            "nome_linha": "João Pessoa",
+            "codigo_linha": "800",
+            "nome_empresa": "Senhora Dos Campos",
+            "slug": "senhora-campos/800-joao-pessoa"
+        },
+        {
+            "nome_linha": "Centenário",
+            "codigo_linha": "820",
+            "nome_empresa": "Senhora Dos Campos",
+            "slug": "senhora-campos/820-centenario"
+        },
+        {
+            "nome_linha": "Santa Luzia",
+            "codigo_linha": "830",
+            "nome_empresa": "Senhora Dos Campos",
+            "slug": "senhora-campos/830-sta-luzia"
+        },
+        {
+            "nome_linha": "Teste Linha",
+            "codigo_linha": "999",
+            "nome_empresa": "Senhora Dos Campos",
+            "slug": "senhora-campos/999-teste-lin"
+        }
+    ],
+    "regioes": [
+        "norte"
+    ],
+    "slug": "senhora-campos"
+}

@@ -1,0 +1,169 @@
+{
+    "nome": "São Seb / Fpolis",
+    "codigo": "0249",
+    "detalhe": "VIA MADRI/AV DAS TORRES/MARG BR101/HOSP REG/IVO SILV",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "09:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:25",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "14:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:15",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "15:15",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "14:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:40",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0249-sao-seb-fpolis"
+}

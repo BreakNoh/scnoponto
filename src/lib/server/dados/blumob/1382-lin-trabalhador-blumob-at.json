@@ -1,0 +1,47 @@
+{
+    "nome": "Linha Trabalhador Blumob - Aterro",
+    "codigo": "1382",
+    "detalhe": null,
+    "servicos": {
+        "1": [
+            {
+                "sentido": "Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "03:20",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "03:20",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "03:20",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "03:20",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "1382-lin-trabalhador-blumob-at"
+}

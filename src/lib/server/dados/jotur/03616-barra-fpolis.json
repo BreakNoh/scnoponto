@@ -1,0 +1,36 @@
+{
+    "nome": "Barra / Fpolis",
+    "codigo": "03616",
+    "detalhe": "VIA PCH/MIRIAM/BR 101/HOSP/ IVO SILVEIRA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:05",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "03616-barra-fpolis"
+}

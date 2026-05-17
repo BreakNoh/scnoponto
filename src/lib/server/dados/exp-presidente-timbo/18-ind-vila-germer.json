@@ -1,0 +1,20 @@
+{
+    "nome": "Industrial",
+    "codigo": "18",
+    "detalhe": "Via Vila Germer",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Industrial Via Vila Germer",
+                "horarios": [
+                    {
+                        "hora": "04:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "18-ind-vila-germer"
+}

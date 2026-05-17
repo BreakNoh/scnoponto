@@ -1,0 +1,24 @@
+{
+    "nome": "Canto Do Rio",
+    "codigo": "0272",
+    "detalhe": "Via Arno W. Dohler",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "04:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:52",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0272-canto-rio-arno-w-dohler"
+}

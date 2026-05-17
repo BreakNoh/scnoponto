@@ -1,0 +1,29 @@
+{
+    "nome": "Urussanga X Lauro Muller",
+    "codigo": "396-0",
+    "detalhe": "Via Orleans",
+    "servicos": {
+        "1": [
+            {
+                "sentido": "Partida Urussanga",
+                "horarios": [
+                    {
+                        "hora": "09:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Lauro Muller",
+                "horarios": [
+                    {
+                        "hora": "06:05",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "396-0-urussanga-x-lauro-muller"
+}

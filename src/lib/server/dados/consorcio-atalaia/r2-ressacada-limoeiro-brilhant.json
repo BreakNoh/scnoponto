@@ -1,0 +1,173 @@
+{
+    "nome": "Ressacada / Limoeiro / Brilhante",
+    "codigo": "R2",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "04:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:50",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "05:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:55",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "04:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:45",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "05:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:54",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:57",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:43",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "04:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:45",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "05:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:44",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:57",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:43",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "r2-ressacada-limoeiro-brilhant"
+}

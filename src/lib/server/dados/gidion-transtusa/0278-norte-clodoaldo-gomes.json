@@ -1,0 +1,20 @@
+{
+    "nome": "Norte / Clodoaldo Gomes",
+    "codigo": "0278",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "17:27",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0278-norte-clodoaldo-gomes"
+}

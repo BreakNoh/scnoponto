@@ -1,0 +1,32 @@
+{
+    "nome": "Los Angeles",
+    "codigo": "763",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partidas Do Ticen / Fpolis. (Volta",
+                "horarios": [
+                    {
+                        "hora": "12:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:50",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "763-los-angeles"
+}

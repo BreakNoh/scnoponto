@@ -1,0 +1,430 @@
+{
+    "nome": "Coletivo Rainha",
+    "fonte": "https://editor.mobilibus.com/web/timetable/1db0m",
+    "linhas": [
+        {
+            "nome_linha": "Progresso",
+            "codigo_linha": "101",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/101-progresso"
+        },
+        {
+            "nome_linha": "Rio Vermelho Estação",
+            "codigo_linha": "102",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/102-rio-vermelho-est"
+        },
+        {
+            "nome_linha": "25 De Julho",
+            "codigo_linha": "103",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/103-25-julho"
+        },
+        {
+            "nome_linha": "Rio Vermelho Estação/Povoado",
+            "codigo_linha": "104",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/104-rio-vermelho-est-povoado"
+        },
+        {
+            "nome_linha": "Rio Natal",
+            "codigo_linha": "105",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/105-rio-natal"
+        },
+        {
+            "nome_linha": "T. Central/T. Oxford",
+            "codigo_linha": "2000",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/2000-t-central-t-oxford"
+        },
+        {
+            "nome_linha": "T. Oxford/T. Central",
+            "codigo_linha": "2001",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/2001-t-oxford-t-central"
+        },
+        {
+            "nome_linha": "T. Central/T. Oxford -",
+            "codigo_linha": "2002",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/2002-t-central-t-oxford-av-sao"
+        },
+        {
+            "nome_linha": "T. Oxford/T. Central -",
+            "codigo_linha": "2003",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/2003-t-oxford-t-central-av-sao"
+        },
+        {
+            "nome_linha": "Cruzeiro",
+            "codigo_linha": "201",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/201-cruzeiro"
+        },
+        {
+            "nome_linha": "Estrada Cruzeiro",
+            "codigo_linha": "202",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/202-estrada-cruzeiro"
+        },
+        {
+            "nome_linha": "Lençol/Alpestre",
+            "codigo_linha": "203",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/203-lencol-alpestre"
+        },
+        {
+            "nome_linha": "Residencial União",
+            "codigo_linha": "204",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/204-residencial-uniao"
+        },
+        {
+            "nome_linha": "Parque Versalles",
+            "codigo_linha": "205",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/205-parque-versalles"
+        },
+        {
+            "nome_linha": "Mato Preto",
+            "codigo_linha": "206",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/206-mato-preto"
+        },
+        {
+            "nome_linha": "Mato Preto/Estrada Fundão",
+            "codigo_linha": "207",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/207-mato-preto-estrada-fundao"
+        },
+        {
+            "nome_linha": "Boehmerwald",
+            "codigo_linha": "208",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/208-boehmerwald"
+        },
+        {
+            "nome_linha": "Dona Francisca",
+            "codigo_linha": "209",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/209-dona-francisca"
+        },
+        {
+            "nome_linha": "T. Oxford/Brasília",
+            "codigo_linha": "210",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/210-t-oxford-brasilia"
+        },
+        {
+            "nome_linha": "Brasília/T. Oxford",
+            "codigo_linha": "211",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/211-brasilia-t-oxford"
+        },
+        {
+            "nome_linha": "Cruzeiro/Mato Preto",
+            "codigo_linha": "212",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/212-cruzeiro-mato-preto"
+        },
+        {
+            "nome_linha": "T. Central/T. Serra Alta",
+            "codigo_linha": "3000",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/3000-t-central-t-serra-alta"
+        },
+        {
+            "nome_linha": "T. Serra Alta/T. Central",
+            "codigo_linha": "3001",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/3001-t-serra-alta-t-central"
+        },
+        {
+            "nome_linha": "Independência",
+            "codigo_linha": "301",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/301-independencia"
+        },
+        {
+            "nome_linha": "Bercka",
+            "codigo_linha": "302",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/302-bercka"
+        },
+        {
+            "nome_linha": "Capelinha",
+            "codigo_linha": "303",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/303-capelinha"
+        },
+        {
+            "nome_linha": "Jardim Lisboa",
+            "codigo_linha": "304",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/304-jardim-lisboa"
+        },
+        {
+            "nome_linha": "T. Central/T. Centenário",
+            "codigo_linha": "4000",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/4000-t-central-t-centenario"
+        },
+        {
+            "nome_linha": "T. Centenário/T. Central",
+            "codigo_linha": "4001",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/4001-t-centenario-t-central"
+        },
+        {
+            "nome_linha": "T. Centenário/T. Oxford",
+            "codigo_linha": "4002",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/4002-t-centenario-t-oxford"
+        },
+        {
+            "nome_linha": "T. Oxford/T. Centenário",
+            "codigo_linha": "4003",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/4003-t-oxford-t-centenario"
+        },
+        {
+            "nome_linha": "Rio Vermelho Povoado",
+            "codigo_linha": "401",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/401-rio-vermelho-povoado"
+        },
+        {
+            "nome_linha": "Brasília",
+            "codigo_linha": "402",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/402-brasilia"
+        },
+        {
+            "nome_linha": "Brasília -",
+            "codigo_linha": "403",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/403-brasilia-morro-jaragua"
+        },
+        {
+            "nome_linha": "Centenário/Residencial Endler",
+            "codigo_linha": "404",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/404-centenario-residencial-end"
+        },
+        {
+            "nome_linha": "Santa Fé",
+            "codigo_linha": "405",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/405-sta-fe"
+        },
+        {
+            "nome_linha": "Bela Aliança",
+            "codigo_linha": "406",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/406-bela-alianca"
+        },
+        {
+            "nome_linha": "Interbairros Brasília",
+            "codigo_linha": "502/A",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/502-interbairros-brasilia"
+        },
+        {
+            "nome_linha": "Interbairros Brasília",
+            "codigo_linha": "502/B",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/502-b-interbairros-brasilia"
+        },
+        {
+            "nome_linha": "Interbairros Brasília",
+            "codigo_linha": "502/C",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/502-c-interbairros-brasilia"
+        },
+        {
+            "nome_linha": "Interbairros Brasília",
+            "codigo_linha": "502/D",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/502-d-interbairros-brasilia"
+        },
+        {
+            "nome_linha": "Interbairros Industrial Sudoeste",
+            "codigo_linha": "503/A",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/503-interbairros-ind-sudoeste"
+        },
+        {
+            "nome_linha": "Interbairros Industrial Sudoeste",
+            "codigo_linha": "503/B",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/503-b-interbairros-ind-sudoest"
+        },
+        {
+            "nome_linha": "Interbairros Lençol",
+            "codigo_linha": "503/C",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/503-c-interbairros-lencol"
+        },
+        {
+            "nome_linha": "Centenário Dias Letivos",
+            "codigo_linha": "601/A",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/601-centenario-dias-letivos"
+        },
+        {
+            "nome_linha": "Centenário Dias Letivos",
+            "codigo_linha": "601/B",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/601-b-centenario-dias-letivos"
+        },
+        {
+            "nome_linha": "Centenário Dias Letivos",
+            "codigo_linha": "601/C",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/601-c-centenario-dias-letivos"
+        },
+        {
+            "nome_linha": "Centenário Dias Letivos",
+            "codigo_linha": "601/D",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/601-d-centenario-dias-letivos"
+        },
+        {
+            "nome_linha": "Centenário Dias Letivos",
+            "codigo_linha": "601/E",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/601-centenario-dias-letivos"
+        },
+        {
+            "nome_linha": "Centenário Dias Letivos",
+            "codigo_linha": "601/F",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/601-f-centenario-dias-letivos"
+        },
+        {
+            "nome_linha": "Centenário Dias Letivos",
+            "codigo_linha": "601/G",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/601-g-centenario-dias-letivos"
+        },
+        {
+            "nome_linha": "Oxford Dias Letivos",
+            "codigo_linha": "602/A",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/602-oxford-dias-letivos"
+        },
+        {
+            "nome_linha": "Oxford Dias Letivos",
+            "codigo_linha": "602/B",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/602-b-oxford-dias-letivos"
+        },
+        {
+            "nome_linha": "Oxford Dias Letivos",
+            "codigo_linha": "602/D",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/602-d-oxford-dias-letivos"
+        },
+        {
+            "nome_linha": "Oxford Dias Letivos",
+            "codigo_linha": "602/E",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/602-oxford-dias-letivos"
+        },
+        {
+            "nome_linha": "Oxford Dias Letivos",
+            "codigo_linha": "602/F",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/602-f-oxford-dias-letivos"
+        },
+        {
+            "nome_linha": "Serra Alta Dias Letivos",
+            "codigo_linha": "604/A",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/604-serra-alta-dias-letivos"
+        },
+        {
+            "nome_linha": "Serra Alta Dias Letivos",
+            "codigo_linha": "604/B",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/604-b-serra-alta-dias-letivos"
+        },
+        {
+            "nome_linha": "Serra Alta Dias Letivos",
+            "codigo_linha": "604/C",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/604-c-serra-alta-dias-letivos"
+        },
+        {
+            "nome_linha": "Lençol Dias Letivos",
+            "codigo_linha": "605/A",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/605-lencol-dias-letivos"
+        },
+        {
+            "nome_linha": "Lençol Dias Letivos",
+            "codigo_linha": "605/D",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/605-d-lencol-dias-letivos"
+        },
+        {
+            "nome_linha": "Lençol Dias Letivos",
+            "codigo_linha": "605/F",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/605-f-lencol-dias-letivos"
+        },
+        {
+            "nome_linha": "Lençol Dias Letivos",
+            "codigo_linha": "605/G",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/605-g-lencol-dias-letivos"
+        },
+        {
+            "nome_linha": "Lençol Dias Letivos",
+            "codigo_linha": "605/I",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/605-i-lencol-dias-letivos"
+        },
+        {
+            "nome_linha": "Lençol Dias Letivos",
+            "codigo_linha": "605/J",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/605-j-lencol-dias-letivos"
+        },
+        {
+            "nome_linha": "Boehmerwald Dias Letivos",
+            "codigo_linha": "606/A",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/606-boehmerwald-dias-letivos"
+        },
+        {
+            "nome_linha": "Boehmerwald Dias Letivos",
+            "codigo_linha": "606/B",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/606-b-boehmerwald-dias-letivos"
+        },
+        {
+            "nome_linha": "Senai Dias Letivos",
+            "codigo_linha": "608/A",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/608-senai-dias-letivos"
+        },
+        {
+            "nome_linha": "Senai Dias Letivos",
+            "codigo_linha": "608/B",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/608-b-senai-dias-letivos"
+        },
+        {
+            "nome_linha": "Instituto Federal",
+            "codigo_linha": "609/A",
+            "nome_empresa": "Coletivo Rainha",
+            "slug": "col-rainha/609-instituto-federal"
+        }
+    ],
+    "regioes": [
+        "norte"
+    ],
+    "slug": "col-rainha"
+}

@@ -1,0 +1,20 @@
+{
+    "nome": "Rodoviã¡Ria",
+    "codigo": "24",
+    "detalhe": "Via R. Blumenau",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Rodoviã¡Ria Via R. Blumenau",
+                "horarios": [
+                    {
+                        "hora": "06:50",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "24-rod-ria-r-blumenau"
+}

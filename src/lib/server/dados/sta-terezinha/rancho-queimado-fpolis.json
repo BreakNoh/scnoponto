@@ -1,0 +1,65 @@
+{
+    "nome": "Rancho Queimado - Florianópolis",
+    "codigo": null,
+    "detalhe": null,
+    "servicos": {
+        "0": [
+            {
+                "sentido": "Saída Rancho Queimado",
+                "horarios": [
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Rancho Queimado",
+                "horarios": [
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Rancho Queimado",
+                "horarios": [
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Florianópolis (Ticen",
+                "horarios": [
+                    {
+                        "hora": "17:25",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Florianópolis (Ticen",
+                "horarios": [
+                    {
+                        "hora": "17:25",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Florianópolis (Ticen",
+                "horarios": [
+                    {
+                        "hora": "17:25",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "rancho-queimado-fpolis"
+}

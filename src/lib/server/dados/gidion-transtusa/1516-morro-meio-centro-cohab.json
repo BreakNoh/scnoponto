@@ -1,0 +1,44 @@
+{
+    "nome": "Morro Do Meio/Centro",
+    "codigo": "1516",
+    "detalhe": "Via Cohab",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:48",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:18",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "1516-morro-meio-centro-cohab"
+}

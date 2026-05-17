@@ -1,0 +1,101 @@
+{
+    "nome": "Aeroporto",
+    "codigo": "0240",
+    "detalhe": "Via Emilio Landmann",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "04:38",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:14",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:53",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:37",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:47",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:23",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:53",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "04:51",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:19",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:11",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:08",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:58",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:08",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:43",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:08",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0240-aeroporto-emilio-landmann"
+}

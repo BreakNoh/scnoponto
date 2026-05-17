@@ -1,0 +1,20 @@
+{
+    "nome": "Pomeranos / Vila Germer",
+    "codigo": "25",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Pomeranos / Vila Germer",
+                "horarios": [
+                    {
+                        "hora": "06:50",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "25-pomeranos-vila-germer"
+}

@@ -1,0 +1,61 @@
+{
+    "nome": "Km 11",
+    "codigo": "7026",
+    "detalhe": "Via Cidade De Luziana",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:01",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:34",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "06:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:28",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:52",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:48",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "7026-km-11-cidade-luziana"
+}

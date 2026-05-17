@@ -1,0 +1,36 @@
+{
+    "nome": "Shop Cont",
+    "codigo": "11362",
+    "detalhe": "VIAD MAC VIA P.IMARUIM/CENTRO DE PH/BR 101 (SEMIDIRETO",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "05:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:55",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "11362-shop-cont"
+}

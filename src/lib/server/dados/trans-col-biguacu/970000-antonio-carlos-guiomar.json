@@ -1,0 +1,53 @@
+{
+    "nome": "Antonio Carlos / Guiomar",
+    "codigo": "970000",
+    "detalhe": "Via Canudos/Guiomar - municipais",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Antonio Carlos - Colegio Altamiro Guimaraes",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Antonio Carlos - Colegio Altamiro Guimarães",
+                "horarios": [
+                    {
+                        "hora": "06:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rodov_Coleg_Canu_Guio"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Antonio Carlos - Colegio Altamiro Guimaraes",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Antonio Carlos - Colegio Altamiro Guimarães",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Antonio Carlos - Colegio Altamiro Guimaraes",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Antonio Carlos - Colegio Altamiro Guimarães",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "970000-antonio-carlos-guiomar"
+}

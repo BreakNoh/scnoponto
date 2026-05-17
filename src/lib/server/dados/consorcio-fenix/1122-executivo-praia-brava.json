@@ -1,0 +1,328 @@
+{
+    "nome": "Executivo Praia Brava",
+    "codigo": "1122",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Praia Brava",
+                "horarios": [
+                    {
+                        "hora": "05:45",
+                        "obs": [
+                            {
+                                "tipo": "MEIA_VIAGEM",
+                                "valor": "Meia viagem"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:25",
+                        "obs": [
+                            {
+                                "tipo": "MEIA_VIAGEM",
+                                "valor": "Meia viagem"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:50",
+                        "obs": [
+                            {
+                                "tipo": "MEIA_VIAGEM",
+                                "valor": "Meia viagem"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:15",
+                        "obs": [
+                            {
+                                "tipo": "MEIA_VIAGEM",
+                                "valor": "Meia viagem"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:23",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:23",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:07",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:11",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:06",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:46",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:38",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:27",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:14",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:13",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:03",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:54",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Tecif - Plataforma 3 - Box 1",
+                "horarios": [
+                    {
+                        "hora": "07:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:03",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Saída Praia Brava",
+                "horarios": [
+                    {
+                        "hora": "06:40",
+                        "obs": [
+                            {
+                                "tipo": "MEIA_VIAGEM",
+                                "valor": "Meia viagem"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:20",
+                        "obs": [
+                            {
+                                "tipo": "MEIA_VIAGEM",
+                                "valor": "Meia viagem"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:50",
+                        "obs": [
+                            {
+                                "tipo": "MEIA_VIAGEM",
+                                "valor": "Meia viagem"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:45",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:38",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:31",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:16",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Tecif - Plataforma 3 - Box 1",
+                "horarios": [
+                    {
+                        "hora": "07:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "executivo",
+    "slug": "1122-executivo-praia-brava"
+}

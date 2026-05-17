@@ -1,0 +1,35 @@
+{
+    "nome": "Circular Centenário",
+    "codigo": "004",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": [
+                    {
+                        "hora": "16:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:45",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": [
+                    {
+                        "hora": "05:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "004-circ-centenario"
+}

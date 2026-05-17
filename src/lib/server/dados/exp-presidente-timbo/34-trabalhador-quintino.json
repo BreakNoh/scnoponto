@@ -1,0 +1,20 @@
+{
+    "nome": "Trabalhador",
+    "codigo": "34",
+    "detalhe": "Via Quintino",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Trabalhador Via Quintino",
+                "horarios": [
+                    {
+                        "hora": "12:55",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "34-trabalhador-quintino"
+}

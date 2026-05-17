@@ -1,0 +1,34 @@
+{
+    "nome": "Guarujá",
+    "codigo": "261",
+    "detalhe": "Via Estádio",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Bairro",
+                "horarios": [
+                    {
+                        "hora": "07:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai Moradas Lages"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai Moradas Lages"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "261-guaruja-estadio"
+}

@@ -1,0 +1,76 @@
+{
+    "nome": "Escolinha / Centro",
+    "codigo": "0703",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:51",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:58",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:12",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:17",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:31",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:37",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:43",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:49",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:59",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:21",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:32",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:43",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0703-escolinha-centro"
+}

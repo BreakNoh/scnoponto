@@ -1,0 +1,36 @@
+{
+    "nome": "Rodoviária",
+    "codigo": "1607",
+    "detalhe": "Via Sociesc",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "17:54",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:25",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "1607-rodoviaria-sociesc"
+}

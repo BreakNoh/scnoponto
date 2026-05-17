@@ -1,0 +1,37 @@
+{
+    "nome": "São Sebastião",
+    "codigo": "0324",
+    "detalhe": "Via Santo André",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:39",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:27",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "06:47",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:46",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0324-sao-sebastiao-sto-andre"
+}

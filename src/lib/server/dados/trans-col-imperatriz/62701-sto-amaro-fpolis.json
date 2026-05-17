@@ -1,0 +1,37 @@
+{
+    "nome": "Santo Amaro/Florianópolis",
+    "codigo": "62701 ",
+    "detalhe": " Via Sertão",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Santo Amaro Da Imperatriz",
+                "horarios": [
+                    {
+                        "hora": "05:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:22",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Florianópolis",
+                "horarios": [
+                    {
+                        "hora": "07:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:50",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "62701-sto-amaro-fpolis"
+}

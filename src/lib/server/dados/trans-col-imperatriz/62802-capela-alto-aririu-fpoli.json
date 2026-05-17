@@ -1,0 +1,24 @@
+{
+    "nome": "Capela Alto Aririú/Florianopolis",
+    "codigo": "62802",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Capela Alto Aririú",
+                "horarios": [
+                    {
+                        "hora": "06:35",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Ticen - Plataforma C (Fpolis",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "62802-capela-alto-aririu-fpoli"
+}

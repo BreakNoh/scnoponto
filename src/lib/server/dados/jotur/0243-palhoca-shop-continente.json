@@ -1,0 +1,73 @@
+{
+    "nome": "Palhoça / Shop Continente",
+    "codigo": "0243",
+    "detalhe": "VIA P.IMARUIM/BR 101/VIAD FORQUILHINHA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "08:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "18:15",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0243-palhoca-shop-continente"
+}

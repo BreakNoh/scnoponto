@@ -1,0 +1,33 @@
+{
+    "nome": "Iririú / Campus",
+    "codigo": "0132",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "07:05",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "07:24",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:35",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0132-iririu-campus"
+}

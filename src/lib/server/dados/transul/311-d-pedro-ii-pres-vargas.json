@@ -1,0 +1,120 @@
+{
+    "nome": "D. Pedro Ii / Pres. Vargas",
+    "codigo": "311",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": [
+                    {
+                        "hora": "07:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai até a Igreja dos Pobres.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai até a Igreja dos Pobres.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai até a Igreja dos Pobres.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Desce rua São joaquim/passa na Maternidade ás 19:02 hs"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Bairro",
+                "horarios": [
+                    {
+                        "hora": "6:23",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai até a creche do Moranguinho."
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai até a Igreja dos Pobres.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai até a Igreja dos Pobres.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai até a Igreja dos Pobres.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Desce rua São joaquim/passa na Maternidade ás 19:02 hs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": []
+            },
+            {
+                "sentido": "Saída Bairro",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "311-d-pedro-ii-pres-vargas"
+}

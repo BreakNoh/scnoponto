@@ -1,0 +1,45 @@
+{
+    "nome": "Roseira",
+    "codigo": "301",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Roseira",
+                "horarios": [
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Praça João Pessoa",
+                "horarios": [
+                    {
+                        "hora": "06:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:15",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "301-roseira"
+}

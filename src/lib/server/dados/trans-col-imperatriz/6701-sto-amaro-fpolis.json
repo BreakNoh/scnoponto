@@ -1,0 +1,29 @@
+{
+    "nome": "Santo Amaro/Florianópolis",
+    "codigo": "6701",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Santo Amaro Da Imperatriz",
+                "horarios": [
+                    {
+                        "hora": "07:25",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Ticen - Plataforma C",
+                "horarios": [
+                    {
+                        "hora": "12:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "6701-sto-amaro-fpolis"
+}

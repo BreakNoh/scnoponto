@@ -1,0 +1,139 @@
+{
+    "nome": "André Nicoletti",
+    "codigo": "408",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Term. Garcia",
+                "horarios": [
+                    {
+                        "hora": "07:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:45",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Term. Garcia",
+                "horarios": [
+                    {
+                        "hora": "07:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:45",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Term. Garcia",
+                "horarios": [
+                    {
+                        "hora": "07:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:45",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Term. Garcia",
+                "horarios": [
+                    {
+                        "hora": "07:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:45",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Term. Garcia",
+                "horarios": [
+                    {
+                        "hora": "07:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:45",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "0": [
+            {
+                "sentido": "Saída Term. Garcia",
+                "horarios": [
+                    {
+                        "hora": "07:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:45",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "408-andre-nicoletti"
+}

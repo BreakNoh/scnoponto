@@ -1,0 +1,235 @@
+{
+    "nome": "Eça De Queiroz",
+    "codigo": "903",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Term. Proeb",
+                "horarios": [
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:47",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:23",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:48",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:10",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Term. Proeb",
+                "horarios": [
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:47",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:23",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:53",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:10",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Term. Proeb",
+                "horarios": [
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:47",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:23",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:53",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:10",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Term. Proeb",
+                "horarios": [
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:47",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:23",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:53",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:10",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Term. Proeb",
+                "horarios": [
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:47",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:23",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:53",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "0": [
+            {
+                "sentido": "Saída Term. Proeb",
+                "horarios": [
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:47",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:23",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:05",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "903-eca-queiroz"
+}

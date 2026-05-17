@@ -1,0 +1,143 @@
+{
+    "nome": "Linha Trabalhador Blumob - Escola Acrícola",
+    "codigo": "1384",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Terminal Fonte",
+                "horarios": [
+                    {
+                        "hora": "23:50",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Terminal Fonte",
+                "horarios": [
+                    {
+                        "hora": "23:50",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Terminal Fonte",
+                "horarios": [
+                    {
+                        "hora": "23:50",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Terminal Fonte",
+                "horarios": [
+                    {
+                        "hora": "23:50",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Terminal Fonte",
+                "horarios": [
+                    {
+                        "hora": "23:50",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Terminal Fonte",
+                "horarios": [
+                    {
+                        "hora": "22:50",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Terminal Fonte",
+                "horarios": [
+                    {
+                        "hora": "22:50",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Terminal Fonte",
+                "horarios": [
+                    {
+                        "hora": "22:50",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Terminal Fonte",
+                "horarios": [
+                    {
+                        "hora": "22:50",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Terminal Fonte",
+                "horarios": [
+                    {
+                        "hora": "23:50",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Terminal Fonte",
+                "horarios": [
+                    {
+                        "hora": "23:50",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Terminal Fonte",
+                "horarios": [
+                    {
+                        "hora": "23:50",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Terminal Fonte",
+                "horarios": [
+                    {
+                        "hora": "23:50",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "0": [
+            {
+                "sentido": "Terminal Fonte",
+                "horarios": [
+                    {
+                        "hora": "23:50",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "1384-lin-trabalhador-blumob-es"
+}

@@ -1,0 +1,375 @@
+{
+    "nome": "Parque Centro",
+    "codigo": "203",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": [
+                    {
+                        "hora": "06:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai pelo Pizani, Moradas Lages, Rua 31 de Março, Rua Ponte Grande."
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Desce Tiresolys, Guarujá, Pisani e Vai Guadalajara.\t\t\t\t"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Bairro",
+                "horarios": [
+                    {
+                        "hora": "06:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai DAgostini, Posto Petrolages, Itin. Normal. \t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:45",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai da Rótula\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:03",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai REX\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara, passa Garagem e desce pelo Estádio\t\t\t\t"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": [
+                    {
+                        "hora": "06:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara\t\t\t\t"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Bairro",
+                "horarios": [
+                    {
+                        "hora": "06:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Guadalajara\t\t\t\t"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "203-parque-centro"
+}

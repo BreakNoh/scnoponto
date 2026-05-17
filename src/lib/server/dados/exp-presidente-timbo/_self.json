@@ -1,0 +1,238 @@
+{
+    "nome": "Expresso Presidente Timbó",
+    "fonte": "https://expressopresidente.com.br",
+    "linhas": [
+        {
+            "nome_linha": "Tiroleses / Dona Clara",
+            "codigo_linha": "14",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/14-tiroleses-dona-clara"
+        },
+        {
+            "nome_linha": "Industrial",
+            "codigo_linha": "16",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/16-ind-pe-martinho"
+        },
+        {
+            "nome_linha": "Industrial",
+            "codigo_linha": "17",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/17-ind-r-blumenau"
+        },
+        {
+            "nome_linha": "Industrial",
+            "codigo_linha": "18",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/18-ind-vila-germer"
+        },
+        {
+            "nome_linha": "Terminal",
+            "codigo_linha": "19",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/19-term-vila-germer"
+        },
+        {
+            "nome_linha": "Dona Clara / Tiroleses",
+            "codigo_linha": "21",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/21-dona-clara-tiroleses"
+        },
+        {
+            "nome_linha": "Tiroleses / Dona Clara",
+            "codigo_linha": "21",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/21-tiroleses-dona-clara"
+        },
+        {
+            "nome_linha": "Mulde",
+            "codigo_linha": "22",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/22-mulde"
+        },
+        {
+            "nome_linha": "Naã§Ãµes / Imigrantes",
+            "codigo_linha": "23",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/23-naaSSaues-imigrantes"
+        },
+        {
+            "nome_linha": "Rodoviã¡Ria",
+            "codigo_linha": "24",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/24-rod-ria-r-blumenau"
+        },
+        {
+            "nome_linha": "Pomeranos / Vila Germer",
+            "codigo_linha": "25",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/25-pomeranos-vila-germer"
+        },
+        {
+            "nome_linha": "Dona Clara / Tiroleses",
+            "codigo_linha": "27",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/27-dona-clara-tiroleses"
+        },
+        {
+            "nome_linha": "Vila Germer / Imigrantes",
+            "codigo_linha": "28",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/28-vila-germer-imigrantes"
+        },
+        {
+            "nome_linha": "Tiroleses / Capitais",
+            "codigo_linha": "29",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/29-tiroleses-capitais"
+        },
+        {
+            "nome_linha": "Mulde",
+            "codigo_linha": "30",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/30-mulde"
+        },
+        {
+            "nome_linha": "Tiroleses / Dona Clara",
+            "codigo_linha": "31",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/31-tiroleses-dona-clara"
+        },
+        {
+            "nome_linha": "Rodoviã¡Ria",
+            "codigo_linha": "32",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/32-rod-ria-araponguinhas"
+        },
+        {
+            "nome_linha": "Trabalhador",
+            "codigo_linha": "33",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/33-trabalhador-r-blumenau"
+        },
+        {
+            "nome_linha": "Trabalhador",
+            "codigo_linha": "34",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/34-trabalhador-quintino"
+        },
+        {
+            "nome_linha": "Pe. Martinho",
+            "codigo_linha": "35",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/35-pe-martinho"
+        },
+        {
+            "nome_linha": "Rodoviã¡Ria / Vila Germer",
+            "codigo_linha": "36",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/36-rod-ria-vila-germer"
+        },
+        {
+            "nome_linha": "Dona Clara / Tiroleses",
+            "codigo_linha": "37",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/37-dona-clara-tiroleses"
+        },
+        {
+            "nome_linha": "Vila Germer / Rodoviã¡Ria",
+            "codigo_linha": "38",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/38-vila-germer-rod-ria"
+        },
+        {
+            "nome_linha": "Rodoviã¡Ria",
+            "codigo_linha": "39",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/39-rod-ria-r-blumenau"
+        },
+        {
+            "nome_linha": "Tiroleses",
+            "codigo_linha": "40",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/40-tiroleses"
+        },
+        {
+            "nome_linha": "Escolar / Senai",
+            "codigo_linha": "42",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/42-escolar-senai"
+        },
+        {
+            "nome_linha": "Tiroleses / Pe. Martinho",
+            "codigo_linha": "43",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/43-tiroleses-pe-martinho"
+        },
+        {
+            "nome_linha": "Rodoviã¡Ria",
+            "codigo_linha": "44",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/44-rod-ria-fritz-lorenz"
+        },
+        {
+            "nome_linha": "Dona Clara / Tiroleses",
+            "codigo_linha": "46",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/46-dona-clara-tiroleses"
+        },
+        {
+            "nome_linha": "Rodoviã¡Ria",
+            "codigo_linha": "47",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/47-rod-ria-r-amazonas"
+        },
+        {
+            "nome_linha": "Quintino / Rodoviã¡Ria",
+            "codigo_linha": "48",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/48-quintino-rod-ria"
+        },
+        {
+            "nome_linha": "Trabalhador / Quintino",
+            "codigo_linha": "49",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/49-trabalhador-quintino"
+        },
+        {
+            "nome_linha": "Trabalhador / Fritz Lorenz",
+            "codigo_linha": "50",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/50-trabalhador-fritz-lorenz"
+        },
+        {
+            "nome_linha": "Rodoviã¡Ria / Mulde",
+            "codigo_linha": "51",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/51-rod-ria-mulde"
+        },
+        {
+            "nome_linha": "Dona Clara / Tiroleses",
+            "codigo_linha": "53",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/53-dona-clara-tiroleses"
+        },
+        {
+            "nome_linha": "Vila Germer / Rodoviã¡Ria",
+            "codigo_linha": "56",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/56-vila-germer-rod-ria"
+        },
+        {
+            "nome_linha": "Vila Germer / Fritz Lorenz",
+            "codigo_linha": "63",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/63-vila-germer-fritz-lorenz"
+        },
+        {
+            "nome_linha": "Pomeranos / Mulde",
+            "codigo_linha": "64",
+            "nome_empresa": "Expresso Presidente Timbó",
+            "slug": "exp-presidente-timbo/64-pomeranos-mulde"
+        }
+    ],
+    "regioes": [
+        "vale_do_itajai"
+    ],
+    "slug": "exp-presidente-timbo"
+}

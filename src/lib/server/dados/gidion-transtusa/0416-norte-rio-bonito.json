@@ -1,0 +1,229 @@
+{
+    "nome": "Norte / Rio Bonito",
+    "codigo": "0416",
+    "detalhe": null,
+    "servicos": {
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "04:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:28",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "23:45",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:48",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:01",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "24:05",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "09:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:36",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:45",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "09:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:01",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:08",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "23:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "03:09",
+                        "obs": []
+                    },
+                    {
+                        "hora": "04:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:45",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "03:27",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:07",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:07",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:07",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:07",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "15:37",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:37",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:47",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "23:32",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "16:02",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:02",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:12",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "23:53",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0416-norte-rio-bonito"
+}

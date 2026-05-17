@@ -1,0 +1,81 @@
+{
+    "nome": "Bom Retiro",
+    "codigo": "0212",
+    "detalhe": "Via Edgar N. Meister",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:47",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:23",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:37",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:58",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:53",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "05:57",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:53",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:13",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:07",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:08",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0212-bom-retiro-edgar-n-meiste"
+}

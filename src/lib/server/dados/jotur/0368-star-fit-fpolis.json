@@ -1,0 +1,32 @@
+{
+    "nome": "Star Fit / Fpolis",
+    "codigo": "0368",
+    "detalhe": "VIA PORTAL/V.NOVA/N PH/MIRIAM/BR 101/EXP/IVO SILV",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:55",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0368-star-fit-fpolis"
+}

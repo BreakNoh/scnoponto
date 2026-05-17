@@ -1,0 +1,85 @@
+{
+    "nome": "Caic / Sta. Teresinha / Menegazzo / Tarumã / Kurtz",
+    "codigo": "35-Caic",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Caic Para Centro - Tarumã - Vila Kurtz",
+                "horarios": [
+                    {
+                        "hora": "08:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Parque Central Para Centro - Caic",
+                "horarios": [
+                    {
+                        "hora": "08:36",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:36",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:36",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:36",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:36",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:36",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:36",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:36",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "35-caic-caic-sta-teresinha-men"
+}

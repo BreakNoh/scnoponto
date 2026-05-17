@@ -1,0 +1,477 @@
+{
+    "nome": "Santa Helena",
+    "codigo": "211",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": [
+                    {
+                        "hora": "18:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pelo Conte"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pelo Conte"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pelo Conte"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pelo Conte"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pelo Conte"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Bairro",
+                "horarios": [
+                    {
+                        "hora": "07:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pelo Conte"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:45",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pelo Conte"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pelo Conte"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pelo Conte"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pelo Conte"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": [
+                    {
+                        "hora": "06:52",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai até Hospital Maternidade e retorna\t\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pelo Conte"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pelo Conte"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pelo Conte"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pelo Conte"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pelo Conte"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pelo Conte"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pelo Conte"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai Terminal, passa ponto Santa Cruz, Maternidade, desce Rua São Joaquim, Av. Carah, posto Copacabana, Santa Helena e vai até Bela Vista.\t\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai Terminal, passa ponto Santa Cruz, Maternidade, desce Rua São Joaquim, Av. Carah, posto Copacabana, Santa Helena e vai até Bela Vista.\t\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai Terminal, passa ponto Santa Cruz, Maternidade, desce Rua São Joaquim, Av. Carah, posto Copacabana, Santa Helena e vai até Bela Vista.\t\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai Terminal, passa ponto Santa Cruz, Maternidade, desce Rua São Joaquim, Av. Carah, posto Copacabana, Santa Helena e vai até Bela Vista.\t\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai Terminal, passa ponto Santa Cruz, Maternidade, desce Rua São Joaquim, Av. Carah, posto Copacabana, Santa Helena e vai até Bela Vista.\t\t\t\t\t"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Bairro",
+                "horarios": [
+                    {
+                        "hora": "06:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pelo Conte"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pelo Conte"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pelo Conte"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pelo Conte"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pelo Conte"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pelo Conte"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pelo Conte"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna pelo Conte"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai Terminal, passa ponto Santa Cruz, Maternidade, desce Rua São Joaquim, Av. Carah, posto Copacabana, Santa Helena e vai até Bela Vista.\t\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai Terminal, passa ponto Santa Cruz, Maternidade, desce Rua São Joaquim, Av. Carah, posto Copacabana, Santa Helena e vai até Bela Vista.\t\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai Terminal, passa ponto Santa Cruz, Maternidade, desce Rua São Joaquim, Av. Carah, posto Copacabana, Santa Helena e vai até Bela Vista.\t\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai Terminal, passa ponto Santa Cruz, Maternidade, desce Rua São Joaquim, Av. Carah, posto Copacabana, Santa Helena e vai até Bela Vista.\t\t\t\t\t"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": [
+                    {
+                        "hora": "07:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai Terminal, passa ponto Santa Cruz, Maternidade, desce Rua São Joaquim, Av. Carah, posto Copacabana, Santa Helena e vai até Bela Vista.\t\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai Terminal, passa ponto Santa Cruz, Maternidade, desce Rua São Joaquim, Av. Carah, posto Copacabana, Santa Helena e vai até Bela Vista.\t\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai Terminal, passa ponto Santa Cruz, Maternidade, desce Rua São Joaquim, Av. Carah, posto Copacabana, Santa Helena e vai até Bela Vista.\t\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai Terminal, passa ponto Santa Cruz, Maternidade, desce Rua São Joaquim, Av. Carah, posto Copacabana, Santa Helena e vai até Bela Vista.\t\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai Terminal, passa ponto Santa Cruz, Maternidade, desce Rua São Joaquim, Av. Carah, posto Copacabana, Santa Helena e vai até Bela Vista.\t\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai Terminal, passa ponto Santa Cruz, Maternidade, desce Rua São Joaquim, Av. Carah, posto Copacabana, Santa Helena e vai até Bela Vista.\t\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai Terminal, passa ponto Santa Cruz, Maternidade, desce Rua São Joaquim, Av. Carah, posto Copacabana, Santa Helena e vai até Bela Vista.\t\t\t\t\t"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Bairro",
+                "horarios": [
+                    {
+                        "hora": "07:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai Terminal, passa ponto Santa Cruz, Maternidade, desce Rua São Joaquim, Av. Carah, posto Copacabana, Santa Helena e vai até Bela Vista.\t\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai Terminal, passa ponto Santa Cruz, Maternidade, desce Rua São Joaquim, Av. Carah, posto Copacabana, Santa Helena e vai até Bela Vista.\t\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai Terminal, passa ponto Santa Cruz, Maternidade, desce Rua São Joaquim, Av. Carah, posto Copacabana, Santa Helena e vai até Bela Vista.\t\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai Terminal, passa ponto Santa Cruz, Maternidade, desce Rua São Joaquim, Av. Carah, posto Copacabana, Santa Helena e vai até Bela Vista.\t\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai Terminal, passa ponto Santa Cruz, Maternidade, desce Rua São Joaquim, Av. Carah, posto Copacabana, Santa Helena e vai até Bela Vista.\t\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai Terminal, passa ponto Santa Cruz, Maternidade, desce Rua São Joaquim, Av. Carah, posto Copacabana, Santa Helena e vai até Bela Vista.\t\t\t\t\t"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "211-sta-helena"
+}

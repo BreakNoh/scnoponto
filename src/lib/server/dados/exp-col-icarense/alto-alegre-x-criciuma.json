@@ -1,0 +1,25 @@
+{
+    "nome": "Alto Alegre X Criciuma",
+    "codigo": null,
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Alto",
+                "horarios": [
+                    {
+                        "hora": "5:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via TORNEIRO"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "alto-alegre-x-criciuma"
+}

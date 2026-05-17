@@ -1,0 +1,32 @@
+{
+    "nome": "Fpolis / Barra",
+    "codigo": "03614",
+    "detalhe": "VIA IVO SILVEIRA/P.IMARUIM/R.GRANDE/LARANJEIRAS",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "18:55",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "03614-fpolis-barra"
+}

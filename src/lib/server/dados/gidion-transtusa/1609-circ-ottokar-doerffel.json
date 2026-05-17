@@ -1,0 +1,20 @@
+{
+    "nome": "Circular Ottokar Doerffel",
+    "codigo": "1609",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "07:25",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "1609-circ-ottokar-doerffel"
+}

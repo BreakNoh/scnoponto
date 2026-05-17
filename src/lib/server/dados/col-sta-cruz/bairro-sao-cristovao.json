@@ -1,0 +1,48 @@
+{
+    "nome": "Bairro São Cristovão",
+    "codigo": null,
+    "detalhe": null,
+    "servicos": {
+        "1": [
+            {
+                "sentido": "Valor Da Passagem Saídas Do Terminal Urbano",
+                "horarios": [
+                    {
+                        "hora": "07:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "bairro-sao-cristovao"
+}

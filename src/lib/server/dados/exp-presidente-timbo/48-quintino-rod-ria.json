@@ -1,0 +1,20 @@
+{
+    "nome": "Quintino / Rodoviã¡Ria",
+    "codigo": "48",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Quintino / Rodoviã¡Ria",
+                "horarios": [
+                    {
+                        "hora": "18:20",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "48-quintino-rod-ria"
+}

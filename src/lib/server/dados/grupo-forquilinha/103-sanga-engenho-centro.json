@@ -1,0 +1,65 @@
+{
+    "nome": "Sanga Do Engenho / Centro",
+    "codigo": "103",
+    "detalhe": "Via Santa Terezinha / Sanga do Café",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Centro",
+                "horarios": [
+                    {
+                        "hora": "05:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:37",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "B"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:23",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Sanga Do Engenho",
+                "horarios": [
+                    {
+                        "hora": "06:06",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:18",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "B"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:40",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "103-sanga-engenho-centro"
+}

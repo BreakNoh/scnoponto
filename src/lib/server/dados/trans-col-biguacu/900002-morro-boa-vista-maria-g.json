@@ -1,0 +1,86 @@
+{
+    "nome": "Morro Boa Vista / Maria Da Gloria",
+    "codigo": "900002",
+    "detalhe": "Via Rodovias Municipais (Atendimento Colegios)",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Morro Boa Vista(Biguaçu",
+                "horarios": [
+                    {
+                        "hora": "06:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Roldão, V.Brasil Atacadista, Praça, Mª da Glória, V. Prado, V. Brasil Atacadista, Praça, Posto Petros Janaina"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Saida Morro daBoa Vista, Avelino"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Morro BelaVista, Emérita, Morro da Boa Vista, Avelino, Mª da Glória, Praça, Rua Sete e Eloisa"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Maria Da Gloria(Colegios",
+                "horarios": [
+                    {
+                        "hora": "11:36",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Emérita,Avelino, Boa Vista e Bela Vista"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Avelino, V.Furacão, JB, Mª da Glória, Praça, V. Brasil Atacadista, Emérita, Morro Bela Vista, Emérita, Morro Boa Vista, V. Brasil atacadista, Mª da Glória"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Morro Boa Vista(Biguaçu",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Maria Da Gloria(Colegios",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Morro Boa Vista(Biguaçu",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Maria Da Gloria(Colegios",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "900002-morro-boa-vista-maria-g"
+}

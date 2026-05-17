@@ -1,0 +1,37 @@
+{
+    "nome": "Upa B.Vista / Fpolis",
+    "codigo": "0387",
+    "detalhe": "VIA PALHOÇA/BR 101/EXPRESSA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "18:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "18:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0387-upa-b-vista-fpolis"
+}

@@ -1,0 +1,52 @@
+{
+    "nome": "Bcbus",
+    "fonte": "https://bcbus.com.br",
+    "linhas": [
+        {
+            "nome_linha": "Linha Verde",
+            "codigo_linha": null,
+            "nome_empresa": "Bcbus",
+            "slug": "bcbus/lin-verde"
+        },
+        {
+            "nome_linha": "Linha Azul",
+            "codigo_linha": null,
+            "nome_empresa": "Bcbus",
+            "slug": "bcbus/lin-azul"
+        },
+        {
+            "nome_linha": "Linha Amarela",
+            "codigo_linha": null,
+            "nome_empresa": "Bcbus",
+            "slug": "bcbus/lin-amarela"
+        },
+        {
+            "nome_linha": "Linha Violeta",
+            "codigo_linha": null,
+            "nome_empresa": "Bcbus",
+            "slug": "bcbus/lin-violeta"
+        },
+        {
+            "nome_linha": "Linha Laranja",
+            "codigo_linha": null,
+            "nome_empresa": "Bcbus",
+            "slug": "bcbus/lin-laranja"
+        },
+        {
+            "nome_linha": "Linha Vermelha",
+            "codigo_linha": null,
+            "nome_empresa": "Bcbus",
+            "slug": "bcbus/lin-vermelha"
+        },
+        {
+            "nome_linha": "Linha Anil",
+            "codigo_linha": null,
+            "nome_empresa": "Bcbus",
+            "slug": "bcbus/lin-anil"
+        }
+    ],
+    "regioes": [
+        "vale_do_itajai"
+    ],
+    "slug": "bcbus"
+}

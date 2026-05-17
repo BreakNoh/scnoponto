@@ -1,0 +1,143 @@
+{
+    "nome": "Linha Trabalhador Blumob - Itoupava Central",
+    "codigo": "1383",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "02:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "02:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "02:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "02:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "02:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "02:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "02:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "02:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "02:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "04:05",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "04:05",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "04:05",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "04:05",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "0": [
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "02:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "1383-lin-trabalhador-blumob-it"
+}

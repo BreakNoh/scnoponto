@@ -1,0 +1,189 @@
+{
+    "nome": "11-Vila Sta. Catarina",
+    "codigo": null,
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Rancho Fundo Para Centro - Vila Santa Catarina",
+                "horarios": [
+                    {
+                        "hora": "07:18",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:15",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Vila Santa Catarina Para Centro - Rancho Fundo",
+                "horarios": [
+                    {
+                        "hora": "06:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:45",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Rancho Fundo Para Centro - Vila Santa Catarina",
+                "horarios": [
+                    {
+                        "hora": "06:18",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:18",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:15",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Vila Santa Catarina Para Centro - Rancho Fundo",
+                "horarios": [
+                    {
+                        "hora": "06:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:45",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "11-vila-sta-catarina"
+}

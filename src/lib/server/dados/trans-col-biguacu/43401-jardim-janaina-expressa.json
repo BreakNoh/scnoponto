@@ -1,0 +1,49 @@
+{
+    "nome": "Jardim Janaína (",
+    "codigo": "43401",
+    "detalhe": "Via Expressa\nVia Expressa(BR 282)",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Bairro Jardim Janaína",
+                "horarios": [
+                    {
+                        "hora": "06:59",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Expressa"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma C - Fpolis",
+                "horarios": []
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Bairro Jardim Janaína",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma C - Fpolis",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Bairro Jardim Janaína",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma C - Fpolis",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "43401-jardim-janaina-expressa"
+}

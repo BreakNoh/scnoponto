@@ -1,0 +1,97 @@
+{
+    "nome": "Executivo Biguaçu Palhoça",
+    "codigo": "8801",
+    "detalhe": "Vias_Br101_e marginais",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Biguaçu (Horários Compartilhados",
+                "horarios": [
+                    {
+                        "hora": "06:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Pedra Branca"
+                            },
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:05",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:20",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Palhoça (Horários Compartilhados",
+                "horarios": [
+                    {
+                        "hora": "06:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:10",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:20",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:45",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Biguaçu (Horários Compartilhados",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Palhoça (Horários Compartilhados",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Biguaçu (Horários Compartilhados",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Palhoça (Horários Compartilhados",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "executivo",
+    "slug": "8801-executivo-biguacu-palhoca"
+}

@@ -1,0 +1,76 @@
+{
+    "nome": "Armação Da Piedade / Florianópolis",
+    "codigo": "10300",
+    "detalhe": "Via SC-410-BR-101-Estreito",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Armação Da Piedade - G C Ramos",
+                "horarios": [
+                    {
+                        "hora": "04:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "HorarioSeccionado"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "HorarioSeccionado"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "HorárioSeccionado"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": [
+                    {
+                        "hora": "06:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:15",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Armação Da Piedade - G C Ramos",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Armação Da Piedade - G C Ramos",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "10300-armacao-piedade-fpolis"
+}

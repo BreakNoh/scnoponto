@@ -1,0 +1,37 @@
+{
+    "nome": "Viad Mac / Shop Cont",
+    "codigo": "11360",
+    "detalhe": "VIA GUARDA/PINHEIRA/P.SONHO/BR101/CENTRO PH/P.IMA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "21:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "21:55",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "11360-viad-mac-shop-cont"
+}

@@ -1,0 +1,28 @@
+{
+    "nome": "Ronco D' Água",
+    "codigo": "7017",
+    "detalhe": "Via Thaiti",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "07:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:07",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "7017-ronco-d-agua-thaiti"
+}

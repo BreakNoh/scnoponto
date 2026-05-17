@@ -1,0 +1,65 @@
+{
+    "nome": "Ticen / Cachoeira Do Bom Jesus",
+    "codigo": "D-260",
+    "detalhe": "Via Mauro Ramos",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Cachoeira Do Bom Jesus",
+                "horarios": [
+                    {
+                        "hora": "07:15",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "MEIA_VIAGEM",
+                                "valor": "Meia viagem"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:29",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            },
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Ticen - Plataforma B - Box 16",
+                "horarios": [
+                    {
+                        "hora": "10:55",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:20",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "d-260-ticen-cachoeira-bom-jesu"
+}

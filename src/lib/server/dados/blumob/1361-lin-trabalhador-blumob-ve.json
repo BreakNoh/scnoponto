@@ -1,0 +1,47 @@
+{
+    "nome": "Linha Trabalhador Blumob - Velha",
+    "codigo": "1361",
+    "detalhe": null,
+    "servicos": {
+        "64": [
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "04:15",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "04:15",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "04:15",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "04:15",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "1361-lin-trabalhador-blumob-ve"
+}

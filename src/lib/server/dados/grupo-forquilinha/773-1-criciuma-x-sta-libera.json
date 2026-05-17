@@ -1,0 +1,61 @@
+{
+    "nome": "Criciúma X Santa Líbera",
+    "codigo": "773-1",
+    "detalhe": "Via Loteamentos / Santa Cruz",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida Criciúma",
+                "horarios": [
+                    {
+                        "hora": "06:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:36",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:45",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Santa Líbera",
+                "horarios": [
+                    {
+                        "hora": "06:32",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:57",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:14",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "773-1-criciuma-x-sta-libera"
+}

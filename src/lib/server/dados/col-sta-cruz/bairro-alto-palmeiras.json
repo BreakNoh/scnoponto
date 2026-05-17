@@ -1,0 +1,131 @@
+{
+    "nome": "Bairro Alto Das Palmeiras",
+    "codigo": null,
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saídas Do Terminal Rodoviário",
+                "horarios": [
+                    {
+                        "hora": "06:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:35",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Saídas Do Terminal Urbano",
+                "horarios": [
+                    {
+                        "hora": "06:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:35",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "bairro-alto-palmeiras"
+}

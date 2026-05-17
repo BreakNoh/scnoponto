@@ -1,0 +1,105 @@
+{
+    "nome": "Ceasa Santos Saraiva",
+    "codigo": "328",
+    "detalhe": "Via Kobrasol",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partidas Do Ticen / Fpolis. (Volta",
+                "horarios": [
+                    {
+                        "hora": "07:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:50",
+                        "obs": [
+                            {
+                                "tipo": "RECOLHE_BAIRRO",
+                                "valor": "Recolhe no bairro"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "de Lima"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "328-ceasa-santos-saraiva-kobra"
+}

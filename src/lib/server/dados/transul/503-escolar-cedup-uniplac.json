@@ -1,0 +1,43 @@
+{
+    "nome": "Escolar / Cedup / Uniplac",
+    "codigo": "503",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Bairro",
+                "horarios": [
+                    {
+                        "hora": "11:51",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Saída UNIPLAC/CEDUP (Períodos de Aula)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:55",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Saída UNIPLAC/CEDUP (Períodos de Aula)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Saída UNIPLAC/CEDUP (Linha Habitação)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "503-escolar-cedup-uniplac"
+}

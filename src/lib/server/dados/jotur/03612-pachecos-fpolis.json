@@ -1,0 +1,32 @@
+{
+    "nome": "Pachecos / Fpolis",
+    "codigo": "03612",
+    "detalhe": "VIA PORTAL/V.NOVA/MIRIAM/BR 101/VIA EXP/IVO SILVEIRA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:25",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "03612-pachecos-fpolis"
+}

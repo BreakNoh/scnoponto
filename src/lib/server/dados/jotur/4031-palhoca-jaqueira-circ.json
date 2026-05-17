@@ -1,0 +1,52 @@
+{
+    "nome": "Palhoca / Jaqueira Circular",
+    "codigo": "4031",
+    "detalhe": "VIA PORTAL/UPA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "14:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:20",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "4031-palhoca-jaqueira-circ"
+}

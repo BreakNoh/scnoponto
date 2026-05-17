@@ -1,0 +1,97 @@
+{
+    "nome": "Troncal Terminal Barra / Terminal Centro",
+    "codigo": "50",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "00:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "04:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "04:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:12",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:55",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "10:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:23",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:50",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "50-troncal-term-barra-term-cen"
+}

@@ -1,0 +1,37 @@
+{
+    "nome": "Pirabeiraba / Quiriri Final",
+    "codigo": "4034",
+    "detalhe": "Via Serra",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "19:23",
+                        "obs": []
+                    },
+                    {
+                        "hora": "23:10",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "09:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:55",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "4034-pirabeiraba-quiriri-final"
+}

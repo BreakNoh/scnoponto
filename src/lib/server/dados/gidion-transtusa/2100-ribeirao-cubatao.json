@@ -1,0 +1,45 @@
+{
+    "nome": "Ribeirão Do Cubatão",
+    "codigo": "2100",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:37",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "05:58",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:34",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:04",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "2100-ribeirao-cubatao"
+}

@@ -1,0 +1,126 @@
+{
+    "nome": "Goes Monteiro Circular",
+    "codigo": "0405",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "03:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:41",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:12",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:26",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:58",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:21",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:36",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:04",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:03",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:55",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "03:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:52",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "23:20",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "03:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:23",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "23:35",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0405-goes-monteiro-circ"
+}

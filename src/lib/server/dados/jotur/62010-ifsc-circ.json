@@ -1,0 +1,32 @@
+{
+    "nome": "Ifsc Circ",
+    "codigo": "62010",
+    "detalhe": "VIA CID UNIV/AQUARIUS/PH/P.IMARUIM/ELD/SENAI/CID UNIV/IFSC",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "17:40",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "62010-ifsc-circ"
+}

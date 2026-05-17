@@ -1,0 +1,178 @@
+{
+    "nome": "Consórcio Atalaia",
+    "fonte": "https://consorcioatalaia.com.br",
+    "linhas": [
+        {
+            "nome_linha": "Cordeiros / Ressacada -",
+            "codigo_linha": "A1",
+            "nome_empresa": "Consórcio Atalaia",
+            "slug": "consorcio-atalaia/a1-cordeiros-ressacada-indaial"
+        },
+        {
+            "nome_linha": "Fazenda / São Vicente -",
+            "codigo_linha": "A2",
+            "nome_empresa": "Consórcio Atalaia",
+            "slug": "consorcio-atalaia/a2-faz-sao-vicente-estefano"
+        },
+        {
+            "nome_linha": "Cordeiros / Ressacada -",
+            "codigo_linha": "A3",
+            "nome_empresa": "Consórcio Atalaia",
+            "slug": "consorcio-atalaia/a3-cordeiros-ressacada-cidade"
+        },
+        {
+            "nome_linha": "Fazenda / Cidade Nova -",
+            "codigo_linha": "C1",
+            "nome_empresa": "Consórcio Atalaia",
+            "slug": "consorcio-atalaia/c1-faz-cidade-nova-prefeitura"
+        },
+        {
+            "nome_linha": "Centro / Bambuzal - Imarui -",
+            "codigo_linha": "C2",
+            "nome_empresa": "Consórcio Atalaia",
+            "slug": "consorcio-atalaia/c2-centro-bambuzal-imarui-este"
+        },
+        {
+            "nome_linha": "Fazenda / Rio Bonito -",
+            "codigo_linha": "C3",
+            "nome_empresa": "Consórcio Atalaia",
+            "slug": "consorcio-atalaia/c3-faz-rio-bonito-campos-novos"
+        },
+        {
+            "nome_linha": "Cordeiros / Odílio Garcia -",
+            "codigo_linha": "C4",
+            "nome_empresa": "Consórcio Atalaia",
+            "slug": "consorcio-atalaia/c4-cordeiros-odilio-garcia-upa"
+        },
+        {
+            "nome_linha": "Murta / C. Cavalcanti -",
+            "codigo_linha": "C5",
+            "nome_empresa": "Consórcio Atalaia",
+            "slug": "consorcio-atalaia/c5-murta-c-cavalcanti-gdc"
+        },
+        {
+            "nome_linha": "C. Cavalcanti / Murta -",
+            "codigo_linha": "C6",
+            "nome_empresa": "Consórcio Atalaia",
+            "slug": "consorcio-atalaia/c6-c-cavalcanti-murta-mario-ur"
+        },
+        {
+            "nome_linha": "Cordeiros / Pedra De Amolar -",
+            "codigo_linha": "C7",
+            "nome_empresa": "Consórcio Atalaia",
+            "slug": "consorcio-atalaia/c7-cordeiros-pedra-amolar-port"
+        },
+        {
+            "nome_linha": "Cordeiros / Espinheiros -",
+            "codigo_linha": "C8",
+            "nome_empresa": "Consórcio Atalaia",
+            "slug": "consorcio-atalaia/c8-cordeiros-espinheiros-porta"
+        },
+        {
+            "nome_linha": "Santa Regina / São Francisco",
+            "codigo_linha": "C9",
+            "nome_empresa": "Consórcio Atalaia",
+            "slug": "consorcio-atalaia/c9-sta-regina-sao-francisco"
+        },
+        {
+            "nome_linha": "Lazer E Turismo | Fazenda / Cabeçudas -",
+            "codigo_linha": "LA",
+            "nome_empresa": "Consórcio Atalaia",
+            "slug": "consorcio-atalaia/la-lazer-turismo-faz-cabecudas"
+        },
+        {
+            "nome_linha": "Cordeiros / Salseiros / Volta De Cima",
+            "codigo_linha": "P1",
+            "nome_empresa": "Consórcio Atalaia",
+            "slug": "consorcio-atalaia/p1-cordeiros-salseiros-vlt-cim"
+        },
+        {
+            "nome_linha": "Cordeiros / São Roque - Volta Campos Novos",
+            "codigo_linha": "P2",
+            "nome_empresa": "Consórcio Atalaia",
+            "slug": "consorcio-atalaia/p2-cordeiros-sao-roque-vlt-cam"
+        },
+        {
+            "nome_linha": "Ressacada / Campeche / Limoeiro",
+            "codigo_linha": "R1",
+            "nome_empresa": "Consórcio Atalaia",
+            "slug": "consorcio-atalaia/r1-ressacada-campeche-limoeiro"
+        },
+        {
+            "nome_linha": "Ressacada / Limoeiro / Brilhante",
+            "codigo_linha": "R2",
+            "nome_empresa": "Consórcio Atalaia",
+            "slug": "consorcio-atalaia/r2-ressacada-limoeiro-brilhant"
+        },
+        {
+            "nome_linha": "Ressacada / Paciência / São Pedro",
+            "codigo_linha": "R3",
+            "nome_empresa": "Consórcio Atalaia",
+            "slug": "consorcio-atalaia/r3-ressacada-paciencia-sao-ped"
+        },
+        {
+            "nome_linha": "Ressacada / Canhanduba / São Pedro",
+            "codigo_linha": "R4",
+            "nome_empresa": "Consórcio Atalaia",
+            "slug": "consorcio-atalaia/r4-ressacada-canhanduba-sao-pe"
+        },
+        {
+            "nome_linha": "Cordeiros / Fazenda",
+            "codigo_linha": "T1A",
+            "nome_empresa": "Consórcio Atalaia",
+            "slug": "consorcio-atalaia/t1a-cordeiros-faz"
+        },
+        {
+            "nome_linha": "Fazenda / Santa Regina -",
+            "codigo_linha": "T1B",
+            "nome_empresa": "Consórcio Atalaia",
+            "slug": "consorcio-atalaia/t1b-faz-sta-regina-schmithause"
+        },
+        {
+            "nome_linha": "Fazenda / N. Bittencourt -",
+            "codigo_linha": "T2A",
+            "nome_empresa": "Consórcio Atalaia",
+            "slug": "consorcio-atalaia/t2a-faz-n-bittencourt-rodoviar"
+        },
+        {
+            "nome_linha": "Fazenda / Cidade Nova -",
+            "codigo_linha": "T2B",
+            "nome_empresa": "Consórcio Atalaia",
+            "slug": "consorcio-atalaia/t2b-faz-cidade-nova-rodoviaria"
+        },
+        {
+            "nome_linha": "Fazenda / Santa Regina –",
+            "codigo_linha": "T2C",
+            "nome_empresa": "Consórcio Atalaia",
+            "slug": "consorcio-atalaia/t2c-faz-sta-regina-rodoviaria"
+        },
+        {
+            "nome_linha": "Fazenda / Itaipava -",
+            "codigo_linha": "T3A",
+            "nome_empresa": "Consórcio Atalaia",
+            "slug": "consorcio-atalaia/t3a-faz-itaipava-brusque"
+        },
+        {
+            "nome_linha": "Fazenda / Itaipava -",
+            "codigo_linha": "T3B",
+            "nome_empresa": "Consórcio Atalaia",
+            "slug": "consorcio-atalaia/t3b-faz-itaipava-contorno-sul"
+        },
+        {
+            "nome_linha": "Fazenda / Praia Brava -",
+            "codigo_linha": "T4A",
+            "nome_empresa": "Consórcio Atalaia",
+            "slug": "consorcio-atalaia/t4a-faz-praia-brava-osvaldo-re"
+        },
+        {
+            "nome_linha": "Fazenda / Ariribá -",
+            "codigo_linha": "T4B",
+            "nome_empresa": "Consórcio Atalaia",
+            "slug": "consorcio-atalaia/t4b-faz-aririba-osvaldo-reis"
+        }
+    ],
+    "regioes": [
+        "vale_do_itajai"
+    ],
+    "slug": "consorcio-atalaia"
+}

@@ -1,0 +1,75 @@
+{
+    "nome": "Campinas",
+    "codigo": "317",
+    "detalhe": "Via Kobrasol",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partidas Do Bairro (Ida",
+                "horarios": [
+                    {
+                        "hora": "05:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:45",
+                        "obs": [
+                            {
+                                "tipo": "PREVISTO",
+                                "valor": "Horário previsto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Partidas Do Ticen / Fpolis. (Volta",
+                "horarios": [
+                    {
+                        "hora": "06:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partidas Do Bairro (Ida",
+                "horarios": [
+                    {
+                        "hora": "06:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Partidas Do Ticen / Fpolis. (Volta",
+                "horarios": [
+                    {
+                        "hora": "07:15",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "317-campinas-kobrasol"
+}

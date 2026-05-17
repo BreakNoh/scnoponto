@@ -1,0 +1,49 @@
+{
+    "nome": "Santo Amaro/Florianópolis",
+    "codigo": "62700 ",
+    "detalhe": " Via Sul do Rio",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Santo Amaro Da Imperatriz",
+                "horarios": [
+                    {
+                        "hora": "05:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:05",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Florianópolis",
+                "horarios": [
+                    {
+                        "hora": "06:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:50",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "62700-sto-amaro-fpolis"
+}

@@ -1,0 +1,49 @@
+{
+    "nome": "Barreiros",
+    "codigo": "60100",
+    "detalhe": "Via Expressa\nVia Expressa",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Bairro Barreiros - São José",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma C - Fpolis",
+                "horarios": [
+                    {
+                        "hora": "06:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Expressa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Bairro Barreiros - São José",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma C - Fpolis",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Bairro Barreiros - São José",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma C - Fpolis",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "60100-barreiros-expressa"
+}

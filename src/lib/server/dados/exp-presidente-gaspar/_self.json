@@ -1,0 +1,88 @@
+{
+    "nome": "Expresso Presidente Gaspar",
+    "fonte": "https://expressopresidente.com.br",
+    "linhas": [
+        {
+            "nome_linha": "Bela Vista",
+            "codigo_linha": "001",
+            "nome_empresa": "Expresso Presidente Gaspar",
+            "slug": "exp-presidente-gaspar/001-bela-vista"
+        },
+        {
+            "nome_linha": "Águas Negras",
+            "codigo_linha": "02",
+            "nome_empresa": "Expresso Presidente Gaspar",
+            "slug": "exp-presidente-gaspar/02-aguas-negras-figueira"
+        },
+        {
+            "nome_linha": "Barracão / Óleo Grande",
+            "codigo_linha": "004",
+            "nome_empresa": "Expresso Presidente Gaspar",
+            "slug": "exp-presidente-gaspar/004-barracao-oleo-grande"
+        },
+        {
+            "nome_linha": "Gaspar Mirim",
+            "codigo_linha": "05",
+            "nome_empresa": "Expresso Presidente Gaspar",
+            "slug": "exp-presidente-gaspar/05-gaspar-mirim"
+        },
+        {
+            "nome_linha": "Arraial Alto",
+            "codigo_linha": "06",
+            "nome_empresa": "Expresso Presidente Gaspar",
+            "slug": "exp-presidente-gaspar/06-arraial-alto"
+        },
+        {
+            "nome_linha": "Lagoa",
+            "codigo_linha": "07",
+            "nome_empresa": "Expresso Presidente Gaspar",
+            "slug": "exp-presidente-gaspar/07-lagoa"
+        },
+        {
+            "nome_linha": "Macuco",
+            "codigo_linha": "08",
+            "nome_empresa": "Expresso Presidente Gaspar",
+            "slug": "exp-presidente-gaspar/08-macuco"
+        },
+        {
+            "nome_linha": "Sertão Verde / Loteamento Arabias",
+            "codigo_linha": "009",
+            "nome_empresa": "Expresso Presidente Gaspar",
+            "slug": "exp-presidente-gaspar/009-sertao-verde-lot-arabias"
+        },
+        {
+            "nome_linha": "Belchior",
+            "codigo_linha": "010",
+            "nome_empresa": "Expresso Presidente Gaspar",
+            "slug": "exp-presidente-gaspar/010-belchior"
+        },
+        {
+            "nome_linha": "Gaspar Grande",
+            "codigo_linha": "011",
+            "nome_empresa": "Expresso Presidente Gaspar",
+            "slug": "exp-presidente-gaspar/011-gaspar-grande"
+        },
+        {
+            "nome_linha": "Poço Grande / Pocinho",
+            "codigo_linha": "12",
+            "nome_empresa": "Expresso Presidente Gaspar",
+            "slug": "exp-presidente-gaspar/12-poco-grande-pocinho"
+        },
+        {
+            "nome_linha": "Alto Gasparinho",
+            "codigo_linha": "13",
+            "nome_empresa": "Expresso Presidente Gaspar",
+            "slug": "exp-presidente-gaspar/13-alto-gasparinho"
+        },
+        {
+            "nome_linha": "Morro Grande",
+            "codigo_linha": "016",
+            "nome_empresa": "Expresso Presidente Gaspar",
+            "slug": "exp-presidente-gaspar/016-morro-grande"
+        }
+    ],
+    "regioes": [
+        "norte"
+    ],
+    "slug": "exp-presidente-gaspar"
+}

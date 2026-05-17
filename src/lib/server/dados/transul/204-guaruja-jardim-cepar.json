@@ -1,0 +1,19 @@
+{
+    "nome": "Guarujá Jardim Cepar",
+    "codigo": "204",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": []
+            },
+            {
+                "sentido": "Saída Bairro",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "204-guaruja-jardim-cepar"
+}

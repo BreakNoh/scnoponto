@@ -1,0 +1,436 @@
+{
+    "nome": "Cribus",
+    "fonte": "https://www.cribus.com.br",
+    "linhas": [
+        {
+            "nome_linha": "Av. Centenario - Tpi / Tce / Tpro",
+            "codigo_linha": "0101",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0101-av-centenario-tpi-tce-tpr"
+        },
+        {
+            "nome_linha": "Av. Centenario Tpi /Tce",
+            "codigo_linha": "101A",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/101a-av-centenario-tpi-tce"
+        },
+        {
+            "nome_linha": "Rio Maina",
+            "codigo_linha": "0200",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0200-rio-maina-hosp-sta-catari"
+        },
+        {
+            "nome_linha": "Portinari",
+            "codigo_linha": "0201",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0201-portinari-quarta-lin"
+        },
+        {
+            "nome_linha": "Laranjinha",
+            "codigo_linha": "0202",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0202-laranjinha-upa-esc-miguel"
+        },
+        {
+            "nome_linha": "Jardim Esteves",
+            "codigo_linha": "0203",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0203-jardim-esteves-pedro-zani"
+        },
+        {
+            "nome_linha": "Vila Zuleima",
+            "codigo_linha": "0204",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0204-vila-zuleima-monte-castel"
+        },
+        {
+            "nome_linha": "Morro Bonito",
+            "codigo_linha": "0205",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0205-morro-bonito-jardim-estev"
+        },
+        {
+            "nome_linha": "Morro Cechinel / Cruzeiro Do Sul",
+            "codigo_linha": "0206",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0206-morro-cechinel-cruzeiro-s"
+        },
+        {
+            "nome_linha": "Maria Ceu",
+            "codigo_linha": "0208",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0208-maria-ceu-operaria"
+        },
+        {
+            "nome_linha": "Paço Municipal",
+            "codigo_linha": "0209",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0209-paco-municipal-forum-mila"
+        },
+        {
+            "nome_linha": "Sao Simao",
+            "codigo_linha": "0210",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0210-sao-simao-hosp-sao-jose"
+        },
+        {
+            "nome_linha": "Sao Domingos",
+            "codigo_linha": "0211",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0211-sao-domingos-quarta-lin-v"
+        },
+        {
+            "nome_linha": "Mina Do Toco",
+            "codigo_linha": "0212",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0212-mina-toco-hosp-sta-catari"
+        },
+        {
+            "nome_linha": "1 Linha / Sao Joao / Sest Senat",
+            "codigo_linha": "0213",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0213-1-lin-sao-joao-sest-senat"
+        },
+        {
+            "nome_linha": "Mina Do Mato",
+            "codigo_linha": "0214",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0214-mina-mato-r-alvaro-catao"
+        },
+        {
+            "nome_linha": "Mina Brasil",
+            "codigo_linha": "0216",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0216-mina-brasil-hospitais"
+        },
+        {
+            "nome_linha": "Tce / Satc",
+            "codigo_linha": "0217",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0217-tce-satc-r-henrique-lage"
+        },
+        {
+            "nome_linha": "Rio Maina",
+            "codigo_linha": "0218",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0218-rio-maina-boa-vista-sto-a"
+        },
+        {
+            "nome_linha": "Maria Zanete /Naspolini /Mina Do Mato",
+            "codigo_linha": "0220",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0220-maria-zanete-naspolini-mi"
+        },
+        {
+            "nome_linha": "Sao Marcos",
+            "codigo_linha": "0222",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0222-sao-marcos-laranjinha-rio"
+        },
+        {
+            "nome_linha": "Colonial",
+            "codigo_linha": "0224",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0224-colonial-francesa-rio-mai"
+        },
+        {
+            "nome_linha": "Ifsc / Tce",
+            "codigo_linha": "0226",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0226-ifsc-tce"
+        },
+        {
+            "nome_linha": "Vila Zuleima / Sao Jose /Rio Maina",
+            "codigo_linha": "0228",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0228-vila-zuleima-sao-jose-rio"
+        },
+        {
+            "nome_linha": "Metropol",
+            "codigo_linha": "0230",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0230-metropol-laranjinha-rio-b"
+        },
+        {
+            "nome_linha": "Montevideo",
+            "codigo_linha": "0300",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0300-montevideo-sao-defende"
+        },
+        {
+            "nome_linha": "Mae Luzia",
+            "codigo_linha": "0301",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0301-mae-luzia-sao-defende"
+        },
+        {
+            "nome_linha": "Cidade Mineira Velha",
+            "codigo_linha": "0302",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0302-cidade-mineira-velha-av-a"
+        },
+        {
+            "nome_linha": "Nova Esperança",
+            "codigo_linha": "0303",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0303-nova-esperanca-lot-cameli"
+        },
+        {
+            "nome_linha": "Manaus / Cidade Mineira Nova",
+            "codigo_linha": "0304",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0304-manaus-cidade-mineira-nov"
+        },
+        {
+            "nome_linha": "Verdinho",
+            "codigo_linha": "0305",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0305-verdinho-iparque-sangao"
+        },
+        {
+            "nome_linha": "Vila Macarini",
+            "codigo_linha": "0306",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0306-vila-macarini-sta-luzia-j"
+        },
+        {
+            "nome_linha": "Morro Albino",
+            "codigo_linha": "0307",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0307-morro-albino-br-101-lotea"
+        },
+        {
+            "nome_linha": "Sao Marcos /Colonial",
+            "codigo_linha": "0308",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0308-sao-marcos-colonial-rio-m"
+        },
+        {
+            "nome_linha": "Sao Sebastiao",
+            "codigo_linha": "0309",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0309-sao-sebastiao-lot-eliza-i"
+        },
+        {
+            "nome_linha": "Colonial",
+            "codigo_linha": "0310",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0310-colonial-rio-maina"
+        },
+        {
+            "nome_linha": "Loteamento Cechinel",
+            "codigo_linha": "0311",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0311-lot-cechinel-sao-defende"
+        },
+        {
+            "nome_linha": "Vila Zuleima /Boa Vista /L.Anthuriun /Parque Imigrantes /Tpi",
+            "codigo_linha": "0312",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0312-vila-zuleima-boa-vista-l"
+        },
+        {
+            "nome_linha": "Jardim Uniao Av. Progresso /Vila Vitoria",
+            "codigo_linha": "0314",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0314-jardim-uniao-av-progresso"
+        },
+        {
+            "nome_linha": "Portinari /Primeira Linha / Tpi",
+            "codigo_linha": "0315",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0315-portinari-primeira-lin-tp"
+        },
+        {
+            "nome_linha": "Cidade Mineira Nova / Progresso",
+            "codigo_linha": "0316",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0316-cidade-mineira-nova-progr"
+        },
+        {
+            "nome_linha": "Tpi X Satc",
+            "codigo_linha": "0317",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0317-tpi-x-satc"
+        },
+        {
+            "nome_linha": "Imperatriz / Santa Luzia",
+            "codigo_linha": "0318",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0318-imperatriz-sta-luzia"
+        },
+        {
+            "nome_linha": "Vila Macarini",
+            "codigo_linha": "0320",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0320-vila-macarini-av-assemble"
+        },
+        {
+            "nome_linha": "Metropol",
+            "codigo_linha": "0322",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0322-metropol-rio-maina"
+        },
+        {
+            "nome_linha": "São Sebastião",
+            "codigo_linha": "0324",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0324-sao-sebastiao-sto-andre"
+        },
+        {
+            "nome_linha": "Linha Anta",
+            "codigo_linha": "0400",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0400-lin-anta-demboski"
+        },
+        {
+            "nome_linha": "Ana Maria / Jardim Maristela",
+            "codigo_linha": "0401",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0401-ana-maria-jardim-maristel"
+        },
+        {
+            "nome_linha": "Demboski",
+            "codigo_linha": "0402",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0402-demboski-rod-otavio-dasso"
+        },
+        {
+            "nome_linha": "Argentina",
+            "codigo_linha": "0404",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0404-argentina-residencial-tur"
+        },
+        {
+            "nome_linha": "Renascer",
+            "codigo_linha": "0405",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0405-renascer-bosque-repouso"
+        },
+        {
+            "nome_linha": "Linha Batista (Centro De Eventos",
+            "codigo_linha": "0406",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0406-lin-batista-centro-evento"
+        },
+        {
+            "nome_linha": "Nossa Senhora Da Salete / Cristo Redentor / Vila Natureza I",
+            "codigo_linha": "0407",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0407-nossa-senhora-salete-cris"
+        },
+        {
+            "nome_linha": "Demboski",
+            "codigo_linha": "0410",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0410-demboski-vila-rica"
+        },
+        {
+            "nome_linha": "Naçoes Shopping",
+            "codigo_linha": "0412",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0412-nacoes-shopping-nove"
+        },
+        {
+            "nome_linha": "Linha Batista (Igreja São Casimiro) /Buenos Aires",
+            "codigo_linha": "0414",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0414-lin-batista-igreja-sao-ca"
+        },
+        {
+            "nome_linha": "Tpi /Boa Vista",
+            "codigo_linha": "0500",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0500-tpi-boa-vista-sto-antonio"
+        },
+        {
+            "nome_linha": "Tpi /Sao Luis/ Jardim Angelica /Forum/ Av. Stos Dumont /Tce",
+            "codigo_linha": "0501",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0501-tpi-sao-luis-jardim-angel"
+        },
+        {
+            "nome_linha": "Tpi /Paraiso",
+            "codigo_linha": "0502",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0502-tpi-paraiso-r-henrique-la"
+        },
+        {
+            "nome_linha": "Tpi /Pinheirinho Alto /Fábio Silva / Recanto Verde /Tce",
+            "codigo_linha": "0503",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0503-tpi-pinheirinho-alto-fabi"
+        },
+        {
+            "nome_linha": "Tpi /Boa Vista",
+            "codigo_linha": "0504",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0504-tpi-boa-vista-sto-antonio"
+        },
+        {
+            "nome_linha": "Tpi /Primeira Linha /Rodovia Antonio Just /Tce",
+            "codigo_linha": "0505",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0505-tpi-primeira-lin-rod-anto"
+        },
+        {
+            "nome_linha": "Tpi /Cidade Mineira Nova",
+            "codigo_linha": "0506",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0506-tpi-cidade-mineira-nova-s"
+        },
+        {
+            "nome_linha": "Tpi /Santa Barbara",
+            "codigo_linha": "0509",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0509-tpi-sta-barbara-r-henriqu"
+        },
+        {
+            "nome_linha": "Tpi /Sao Luiz",
+            "codigo_linha": "0511",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0511-tpi-sao-luiz-forum-tce"
+        },
+        {
+            "nome_linha": "Tpro /Unimed /Ceara /Tce",
+            "codigo_linha": "0601",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0601-tpro-unimed-ceara-tce"
+        },
+        {
+            "nome_linha": "Interbairros Tpi / Sta Luzia / Rio Maina",
+            "codigo_linha": "0700",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0700-interbairros-tpi-sta-luzi"
+        },
+        {
+            "nome_linha": "Interbairros Tpro /Cristo Redentor / Ana Maria / Renascer",
+            "codigo_linha": "0704",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0704-interbairros-tpro-cristo"
+        },
+        {
+            "nome_linha": "Expresso Tpi / Tce",
+            "codigo_linha": "0800",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0800-exp-tpi-tce"
+        },
+        {
+            "nome_linha": "Expresso Tpro / Tce",
+            "codigo_linha": "0801",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0801-exp-tpro-tce"
+        },
+        {
+            "nome_linha": "Expresso Tpi / Tce / Tpro",
+            "codigo_linha": "0802",
+            "nome_empresa": "Cribus",
+            "slug": "cribus/0802-exp-tpi-tce-tpro"
+        }
+    ],
+    "regioes": [
+        "sul"
+    ],
+    "slug": "cribus"
+}

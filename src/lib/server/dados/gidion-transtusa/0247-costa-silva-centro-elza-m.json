@@ -1,0 +1,103 @@
+{
+    "nome": "Costa E Silva / Centro",
+    "codigo": "0247",
+    "detalhe": "Via Elza Meinert",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "10:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:33",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:32",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:32",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:28",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:47",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:55",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "11:12",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:53",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:52",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:56",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:54",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:12",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:18",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "04:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "04:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0247-costa-silva-centro-elza-m"
+}

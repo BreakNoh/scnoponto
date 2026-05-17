@@ -1,0 +1,32 @@
+{
+    "nome": "São Sebastião / Ponte Do Imaruim",
+    "codigo": "5022",
+    "detalhe": "VIA MADRI/ELZA LUCHI",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "11:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "5022-sao-sebastiao-ponte-imaru"
+}

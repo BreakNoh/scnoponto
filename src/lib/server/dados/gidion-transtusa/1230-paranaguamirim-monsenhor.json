@@ -1,0 +1,44 @@
+{
+    "nome": "Paranaguamirim",
+    "codigo": "1230",
+    "detalhe": "Via Monsenhor Gercino",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "04:32",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:12",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:59",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:51",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:09",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:35",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "1230-paranaguamirim-monsenhor"
+}

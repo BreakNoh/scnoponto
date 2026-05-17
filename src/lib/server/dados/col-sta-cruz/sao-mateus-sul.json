@@ -1,0 +1,33 @@
+{
+    "nome": "São Mateus Do Sul",
+    "codigo": null,
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saídas De Canoinhas",
+                "horarios": [
+                    {
+                        "hora": "06:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saídas De São Mateus Do Sul",
+                "horarios": [
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "sao-mateus-sul"
+}

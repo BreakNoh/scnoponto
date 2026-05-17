@@ -1,0 +1,73 @@
+{
+    "nome": "Executivo Dona Adélia",
+    "codigo": "9902",
+    "detalhe": "Via Estreito",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Dona Adélia - São José (Previsão De Horário",
+                "horarios": [
+                    {
+                        "hora": "05:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:10",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma C - Fpolis",
+                "horarios": [
+                    {
+                        "hora": "06:57",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:20",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Dona Adélia - São José (Previsão De Horário",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma C - Fpolis",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Dona Adélia - São José (Previsão De Horário",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma C - Fpolis",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "executivo",
+    "slug": "9902-executivo-dona-adelia"
+}

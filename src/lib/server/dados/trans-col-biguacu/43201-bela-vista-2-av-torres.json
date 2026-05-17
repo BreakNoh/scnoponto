@@ -1,0 +1,53 @@
+{
+    "nome": "Bela Vista 2-(Avenida Das Torres",
+    "codigo": "43201",
+    "detalhe": "Via Expressa",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Bela Vista 2(Avenida Das Torres - São José",
+                "horarios": [
+                    {
+                        "hora": "07:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Expressa"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": []
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Bela Vista 2(Avenida Das Torres - São José",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Bela Vista 2(Avenida Das Torres - São José",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "43201-bela-vista-2-av-torres"
+}

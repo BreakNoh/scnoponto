@@ -1,0 +1,106 @@
+{
+    "nome": "Consórcio Nosso Brusque",
+    "fonte": "https://www.nossobrusque.com.br",
+    "linhas": [
+        {
+            "nome_linha": "Aguas Claras",
+            "codigo_linha": null,
+            "nome_empresa": "Consórcio Nosso Brusque",
+            "slug": "consorcio-nosso-brusque/aguas-claras"
+        },
+        {
+            "nome_linha": "Barracão",
+            "codigo_linha": null,
+            "nome_empresa": "Consórcio Nosso Brusque",
+            "slug": "consorcio-nosso-brusque/barracao"
+        },
+        {
+            "nome_linha": "Bateas",
+            "codigo_linha": null,
+            "nome_empresa": "Consórcio Nosso Brusque",
+            "slug": "consorcio-nosso-brusque/bateas"
+        },
+        {
+            "nome_linha": "Beco Pavesi",
+            "codigo_linha": null,
+            "nome_empresa": "Consórcio Nosso Brusque",
+            "slug": "consorcio-nosso-brusque/beco-pavesi"
+        },
+        {
+            "nome_linha": "Cedro Grande",
+            "codigo_linha": null,
+            "nome_empresa": "Consórcio Nosso Brusque",
+            "slug": "consorcio-nosso-brusque/cedro-grande"
+        },
+        {
+            "nome_linha": "Dom Joaquim",
+            "codigo_linha": null,
+            "nome_empresa": "Consórcio Nosso Brusque",
+            "slug": "consorcio-nosso-brusque/dom-joaquim"
+        },
+        {
+            "nome_linha": "Limeira Alta",
+            "codigo_linha": null,
+            "nome_empresa": "Consórcio Nosso Brusque",
+            "slug": "consorcio-nosso-brusque/limeira-alta"
+        },
+        {
+            "nome_linha": "Limeira Baixa",
+            "codigo_linha": null,
+            "nome_empresa": "Consórcio Nosso Brusque",
+            "slug": "consorcio-nosso-brusque/limeira-baixa"
+        },
+        {
+            "nome_linha": "Nova Itália",
+            "codigo_linha": null,
+            "nome_empresa": "Consórcio Nosso Brusque",
+            "slug": "consorcio-nosso-brusque/nova-italia"
+        },
+        {
+            "nome_linha": "Planalto",
+            "codigo_linha": null,
+            "nome_empresa": "Consórcio Nosso Brusque",
+            "slug": "consorcio-nosso-brusque/planalto"
+        },
+        {
+            "nome_linha": "Poço Fundo E Ponta Russa",
+            "codigo_linha": null,
+            "nome_empresa": "Consórcio Nosso Brusque",
+            "slug": "consorcio-nosso-brusque/poco-fundo-ponta-russa"
+        },
+        {
+            "nome_linha": "Rua Nova Trento",
+            "codigo_linha": null,
+            "nome_empresa": "Consórcio Nosso Brusque",
+            "slug": "consorcio-nosso-brusque/r-nova-trento"
+        },
+        {
+            "nome_linha": "Sorocaba",
+            "codigo_linha": null,
+            "nome_empresa": "Consórcio Nosso Brusque",
+            "slug": "consorcio-nosso-brusque/sorocaba"
+        },
+        {
+            "nome_linha": "Tomaz Coelho",
+            "codigo_linha": null,
+            "nome_empresa": "Consórcio Nosso Brusque",
+            "slug": "consorcio-nosso-brusque/tomaz-coelho"
+        },
+        {
+            "nome_linha": "Travessa Santa Cruz",
+            "codigo_linha": null,
+            "nome_empresa": "Consórcio Nosso Brusque",
+            "slug": "consorcio-nosso-brusque/travessa-sta-cruz"
+        },
+        {
+            "nome_linha": "Zantão",
+            "codigo_linha": null,
+            "nome_empresa": "Consórcio Nosso Brusque",
+            "slug": "consorcio-nosso-brusque/zantao"
+        }
+    ],
+    "regioes": [
+        "vale_do_itajai"
+    ],
+    "slug": "consorcio-nosso-brusque"
+}

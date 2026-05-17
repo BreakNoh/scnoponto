@@ -1,0 +1,77 @@
+{
+    "nome": "Willy Tilp",
+    "codigo": "1604",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:02",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:14",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:33",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:17",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:59",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "06:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:28",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:43",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:02",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:27",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "1604-willy-tilp"
+}

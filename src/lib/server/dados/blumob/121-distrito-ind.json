@@ -1,0 +1,91 @@
+{
+    "nome": "Distrito Industrial",
+    "codigo": "121",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Term. Aterro",
+                "horarios": [
+                    {
+                        "hora": "07:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Term. Aterro",
+                "horarios": [
+                    {
+                        "hora": "07:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Term. Aterro",
+                "horarios": [
+                    {
+                        "hora": "07:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Term. Aterro",
+                "horarios": [
+                    {
+                        "hora": "07:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Term. Aterro",
+                "horarios": [
+                    {
+                        "hora": "07:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "0": [
+            {
+                "sentido": "Saída Term. Aterro",
+                "horarios": [
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "121-distrito-ind"
+}

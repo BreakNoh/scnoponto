@@ -1,0 +1,49 @@
+{
+    "nome": "Bela Vista",
+    "codigo": "55900",
+    "detalhe": "Via Expressa\nVia Expressa",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Bairro Bela Vista - São José",
+                "horarios": [
+                    {
+                        "hora": "17:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Expressa"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": []
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Bairro Bela Vista - São José",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Bairro Bela Vista - São José",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "55900-bela-vista-expressa"
+}

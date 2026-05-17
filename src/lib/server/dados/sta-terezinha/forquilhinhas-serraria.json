@@ -1,0 +1,1383 @@
+{
+    "nome": "Forquilhinhas - Serraria",
+    "codigo": null,
+    "detalhe": null,
+    "servicos": {
+        "0": [
+            {
+                "sentido": "Saída Forquilhinhas",
+                "horarios": [
+                    {
+                        "hora": "05:30",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:10",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:05",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:10",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:05",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:50",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:40",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:20",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:10",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:40",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:25",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:15",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:45",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:05",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:40",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:35",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:40",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:10",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Forquilhinhas",
+                "horarios": [
+                    {
+                        "hora": "05:30",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:10",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:05",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:10",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:05",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:50",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:40",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:20",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:10",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:40",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:25",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:15",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:45",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:05",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:40",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:35",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:40",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:10",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Forquilhinhas",
+                "horarios": [
+                    {
+                        "hora": "05:30",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:10",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:05",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:10",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:05",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:50",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:40",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:20",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:10",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:40",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:25",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:15",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:45",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:05",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:40",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:35",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:40",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:10",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Forquilhinhas",
+                "horarios": [
+                    {
+                        "hora": "05:30",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:10",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:05",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:10",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:05",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:50",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:40",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:20",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:10",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:40",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:25",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:15",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:45",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:05",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:40",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:35",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:40",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:10",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Serraria",
+                "horarios": [
+                    {
+                        "hora": "06:10",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:35",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:45",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:00",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:40",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:45",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:30",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:50",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:45",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:05",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:00",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:15",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:20",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:55",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:30",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Serraria",
+                "horarios": [
+                    {
+                        "hora": "06:10",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:35",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:45",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:00",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:40",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:45",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:30",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:50",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:45",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:05",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:00",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:15",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:20",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:55",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:30",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Serraria",
+                "horarios": [
+                    {
+                        "hora": "06:10",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:35",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:45",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:00",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:40",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:45",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:30",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:50",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:45",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:05",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:00",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:15",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:20",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:55",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:30",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Serraria",
+                "horarios": [
+                    {
+                        "hora": "06:10",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:35",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:45",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:00",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:40",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:45",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:30",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:50",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:45",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:05",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:00",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:15",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Biguaçu"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:20",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:55",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Santa Terezinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:30",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "forquilhinhas-serraria"
+}

@@ -1,0 +1,32 @@
+{
+    "nome": "Presidente Kennedy / Barra",
+    "codigo": "03619",
+    "detalhe": "VIA PONTE IMARUIM/RIO GRANDE/LARANJEIRAS",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "17:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "03619-presidente-kennedy-barra"
+}

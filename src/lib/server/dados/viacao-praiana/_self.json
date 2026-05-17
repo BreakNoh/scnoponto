@@ -1,0 +1,82 @@
+{
+    "nome": "Viação Praiana",
+    "fonte": "https://praiana.com.br",
+    "linhas": [
+        {
+            "nome_linha": "Bem Bom - Sentido Bc",
+            "codigo_linha": null,
+            "nome_empresa": "Viação Praiana",
+            "slug": "viacao-praiana/bem-bom-sentido-bc"
+        },
+        {
+            "nome_linha": "Bem Bom - Sentido Itajaí",
+            "codigo_linha": null,
+            "nome_empresa": "Viação Praiana",
+            "slug": "viacao-praiana/bem-bom-sentido-itajai"
+        },
+        {
+            "nome_linha": "Camboriú - Itajaí",
+            "codigo_linha": null,
+            "nome_empresa": "Viação Praiana",
+            "slug": "viacao-praiana/camboriu-itajai"
+        },
+        {
+            "nome_linha": "Circular Itapema",
+            "codigo_linha": null,
+            "nome_empresa": "Viação Praiana",
+            "slug": "viacao-praiana/circ-itapema"
+        },
+        {
+            "nome_linha": "Circular Porto Belo",
+            "codigo_linha": null,
+            "nome_empresa": "Viação Praiana",
+            "slug": "viacao-praiana/circ-porto-belo"
+        },
+        {
+            "nome_linha": "Itajaí - Camboriú",
+            "codigo_linha": null,
+            "nome_empresa": "Viação Praiana",
+            "slug": "viacao-praiana/itajai-camboriu"
+        },
+        {
+            "nome_linha": "Itajaí - Porto Belo",
+            "codigo_linha": null,
+            "nome_empresa": "Viação Praiana",
+            "slug": "viacao-praiana/itajai-porto-belo"
+        },
+        {
+            "nome_linha": "Monte Alegre - Unimed Bc",
+            "codigo_linha": null,
+            "nome_empresa": "Viação Praiana",
+            "slug": "viacao-praiana/monte-alegre-unimed-bc"
+        },
+        {
+            "nome_linha": "Porto Belo - Itajaí",
+            "codigo_linha": null,
+            "nome_empresa": "Viação Praiana",
+            "slug": "viacao-praiana/porto-belo-itajai"
+        },
+        {
+            "nome_linha": "Porto Belo - Tijucas",
+            "codigo_linha": null,
+            "nome_empresa": "Viação Praiana",
+            "slug": "viacao-praiana/porto-belo-tijucas"
+        },
+        {
+            "nome_linha": "Seletivo Itapema",
+            "codigo_linha": null,
+            "nome_empresa": "Viação Praiana",
+            "slug": "viacao-praiana/seletivo-itapema"
+        },
+        {
+            "nome_linha": "Unimed Bc - Monte Alegre",
+            "codigo_linha": null,
+            "nome_empresa": "Viação Praiana",
+            "slug": "viacao-praiana/unimed-bc-monte-alegre"
+        }
+    ],
+    "regioes": [
+        "vale_do_itajai"
+    ],
+    "slug": "viacao-praiana"
+}

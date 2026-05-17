@@ -1,0 +1,49 @@
+{
+    "nome": "Fpolis / Barra",
+    "codigo": "03620",
+    "detalhe": "VIA EXPRESSA/MARG BR 101/CENTRO DE PALHOÇA/PACHECOS",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "13:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "13:15",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "03620-fpolis-barra"
+}

@@ -1,0 +1,37 @@
+{
+    "nome": "12-Taquara Verde",
+    "codigo": null,
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Taquara Verde Para Centro De Caçador",
+                "horarios": [
+                    {
+                        "hora": "07:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:55",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Transpupo Caçador Para Centro - Taquara Verde",
+                "horarios": [
+                    {
+                        "hora": "10:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "12-taquara-verde"
+}

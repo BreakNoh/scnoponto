@@ -1,0 +1,511 @@
+{
+    "nome": "Itapuí / Engenheiro Odebrecht",
+    "codigo": "505",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Term. Fonte",
+                "horarios": [
+                    {
+                        "hora": "05:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:38",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:40",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Term. Fonte",
+                "horarios": [
+                    {
+                        "hora": "05:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:38",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:40",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Term. Fonte",
+                "horarios": [
+                    {
+                        "hora": "05:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:38",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:40",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Term. Fonte",
+                "horarios": [
+                    {
+                        "hora": "05:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:36",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:38",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:40",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Term. Fonte",
+                "horarios": [
+                    {
+                        "hora": "05:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:36",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:38",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:40",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Itapuí/ Eng. Odebrecht",
+                "horarios": [
+                    {
+                        "hora": "03:45",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Itapuí/ Eng. Odebrecht",
+                "horarios": [
+                    {
+                        "hora": "03:45",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Itapuí/ Eng. Odebrecht",
+                "horarios": [
+                    {
+                        "hora": "03:45",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Itapuí/ Eng. Odebrecht",
+                "horarios": [
+                    {
+                        "hora": "03:45",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Itapuí/ Eng. Odebrecht",
+                "horarios": [
+                    {
+                        "hora": "03:45",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Saída Term. Fonte",
+                "horarios": [
+                    {
+                        "hora": "06:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:58",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Term. Fonte",
+                "horarios": [
+                    {
+                        "hora": "06:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:58",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Term. Fonte",
+                "horarios": [
+                    {
+                        "hora": "06:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:58",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Term. Fonte",
+                "horarios": [
+                    {
+                        "hora": "06:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:58",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "0": [
+            {
+                "sentido": "Saída Term. Fonte",
+                "horarios": [
+                    {
+                        "hora": "05:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:38",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:40",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Itapuí/ Eng. Odebrecht",
+                "horarios": [
+                    {
+                        "hora": "03:45",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "505-itapui-engenheiro-odebrech"
+}

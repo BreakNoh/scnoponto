@@ -1,0 +1,643 @@
+{
+    "nome": "Potecas Santos Saraiva",
+    "codigo": "020.0/1/2/3",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partidas Do Ticen / Fpolis. (Volta",
+                "horarios": [
+                    {
+                        "hora": "07:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Recanto da Natureza (020.2)"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Natureza)"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Natureza)"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Natureza)"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Natureza)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Recanto da Natureza (020.2)"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Natureza)"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Natureza)"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Natureza)"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Natureza)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:45",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partidas Do Ticen / Fpolis. (Volta",
+                "horarios": [
+                    {
+                        "hora": "07:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Recanto da Natureza (020.2)"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Natureza)"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Natureza)"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Natureza)"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Natureza)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partidas Do Ticen / Fpolis. (Volta",
+                "horarios": [
+                    {
+                        "hora": "07:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Até o Ponto Final do Arruda (020.0)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "020-0-1-2-3-potecas-santos-sar"
+}

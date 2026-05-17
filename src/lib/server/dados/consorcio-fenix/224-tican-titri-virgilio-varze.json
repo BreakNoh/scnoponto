@@ -1,0 +1,34 @@
+{
+    "nome": "Tican / Titri",
+    "codigo": "224",
+    "detalhe": "Via Virgílio Várzea",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Tican - Box 8",
+                "horarios": [
+                    {
+                        "hora": "06:08",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:53",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "224-tican-titri-virgilio-varze"
+}

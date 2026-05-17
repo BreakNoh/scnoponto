@@ -1,0 +1,67 @@
+{
+    "nome": "Linha Trabalhador Blumob - Franz Volles",
+    "codigo": "1387",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "02:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "02:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "02:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "02:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "02:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "0": [
+            {
+                "sentido": "Saída Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "02:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "1387-lin-trabalhador-blumob-fr"
+}

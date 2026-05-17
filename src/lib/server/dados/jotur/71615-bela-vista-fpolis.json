@@ -1,0 +1,32 @@
+{
+    "nome": "Bela Vista / Fpolis",
+    "codigo": "71615",
+    "detalhe": "VIA CENTRO DE PALHOÇA/MARG BR101/HOSP REG/IVO SILV",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:55",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "71615-bela-vista-fpolis"
+}

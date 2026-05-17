@@ -1,0 +1,41 @@
+{
+    "nome": "Ruy Barbosa",
+    "codigo": "7AA",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Terminal Rodoviário",
+                "horarios": [
+                    {
+                        "hora": "11:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:55",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Ruy Barbosa(Divisa Aurora",
+                "horarios": [
+                    {
+                        "hora": "06:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "7aa-ruy-barbosa"
+}

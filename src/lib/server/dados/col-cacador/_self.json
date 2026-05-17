@@ -1,0 +1,82 @@
+{
+    "nome": "Coletivo Caçador",
+    "fonte": "https://autocoletivo.com.br",
+    "linhas": [
+        {
+            "nome_linha": "01-Jonas",
+            "codigo_linha": null,
+            "nome_empresa": "Coletivo Caçador",
+            "slug": "col-cacador/01-jonas"
+        },
+        {
+            "nome_linha": "02-Figueroa",
+            "codigo_linha": null,
+            "nome_empresa": "Coletivo Caçador",
+            "slug": "col-cacador/02-figueroa"
+        },
+        {
+            "nome_linha": "03-Berguer",
+            "codigo_linha": null,
+            "nome_empresa": "Coletivo Caçador",
+            "slug": "col-cacador/03-berguer"
+        },
+        {
+            "nome_linha": "05-Luiz T",
+            "codigo_linha": null,
+            "nome_empresa": "Coletivo Caçador",
+            "slug": "col-cacador/05-luiz-t"
+        },
+        {
+            "nome_linha": "Jung / Bom Jesus / Sincol / Jonas Ramos",
+            "codigo_linha": "06-Jung",
+            "nome_empresa": "Coletivo Caçador",
+            "slug": "col-cacador/06-jung-jung-bom-jesus-sincol"
+        },
+        {
+            "nome_linha": "07-Maicé",
+            "codigo_linha": null,
+            "nome_empresa": "Coletivo Caçador",
+            "slug": "col-cacador/07-maice"
+        },
+        {
+            "nome_linha": "08-Morada Do Sol",
+            "codigo_linha": null,
+            "nome_empresa": "Coletivo Caçador",
+            "slug": "col-cacador/08-morada-sol"
+        },
+        {
+            "nome_linha": "09-Mutirão",
+            "codigo_linha": null,
+            "nome_empresa": "Coletivo Caçador",
+            "slug": "col-cacador/09-mutirao"
+        },
+        {
+            "nome_linha": "11-Vila Sta. Catarina",
+            "codigo_linha": null,
+            "nome_empresa": "Coletivo Caçador",
+            "slug": "col-cacador/11-vila-sta-catarina"
+        },
+        {
+            "nome_linha": "12-Taquara Verde",
+            "codigo_linha": null,
+            "nome_empresa": "Coletivo Caçador",
+            "slug": "col-cacador/12-taquara-verde"
+        },
+        {
+            "nome_linha": "20-Fim De Semana",
+            "codigo_linha": null,
+            "nome_empresa": "Coletivo Caçador",
+            "slug": "col-cacador/20-fim-semana"
+        },
+        {
+            "nome_linha": "Caic / Sta. Teresinha / Menegazzo / Tarumã / Kurtz",
+            "codigo_linha": "35-Caic",
+            "nome_empresa": "Coletivo Caçador",
+            "slug": "col-cacador/35-caic-caic-sta-teresinha-men"
+        }
+    ],
+    "regioes": [
+        "oeste"
+    ],
+    "slug": "col-cacador"
+}

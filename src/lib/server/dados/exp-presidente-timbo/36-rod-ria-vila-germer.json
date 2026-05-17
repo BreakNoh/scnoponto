@@ -1,0 +1,20 @@
+{
+    "nome": "Rodoviã¡Ria / Vila Germer",
+    "codigo": "36",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Rodoviã¡Ria / Vila Germer",
+                "horarios": [
+                    {
+                        "hora": "13:35",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "36-rod-ria-vila-germer"
+}

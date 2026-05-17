@@ -1,0 +1,20 @@
+{
+    "nome": "Naã§Ãµes / Imigrantes",
+    "codigo": "23",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Naã§Ãµes / Imigrantes",
+                "horarios": [
+                    {
+                        "hora": "06:25",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "23-naaSSaues-imigrantes"
+}

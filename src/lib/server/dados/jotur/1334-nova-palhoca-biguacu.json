@@ -1,0 +1,32 @@
+{
+    "nome": "Nova Palhoça / Biguaçu",
+    "codigo": "1334",
+    "detalhe": "VIA CID. UNIVERSITÁRIA/MARG BR 101 (EXECUTIVO",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "17:45",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "executivo",
+    "slug": "1334-nova-palhoca-biguacu"
+}

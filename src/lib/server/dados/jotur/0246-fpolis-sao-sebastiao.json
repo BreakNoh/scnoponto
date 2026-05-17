@@ -1,0 +1,42 @@
+{
+    "nome": "Fpolis / São Sebastião",
+    "codigo": "0246",
+    "detalhe": "VIA IVO SILVEIRA/PONTE DO IMARUIM/MADRI",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "23:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "23:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "23:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0246-fpolis-sao-sebastiao"
+}

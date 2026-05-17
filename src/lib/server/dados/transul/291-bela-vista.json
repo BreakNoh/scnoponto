@@ -1,0 +1,530 @@
+{
+    "nome": "Bela Vista",
+    "codigo": "291",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": [
+                    {
+                        "hora": "06:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai pela Av. Mar. Floriano, Conte.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:43",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não Vai Madepar e Não desce Igreja.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai pela Av. Mar. Floriano, Conte.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai Madepar\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai pela Av. Mar. Floriano, Conte.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai pela Av. Mar. Floriano, Conte.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai pela Av. Mar. Floriano, Conte.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai pela Av. Mar. Floriano, Conte.\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Desce na Blue Forest ás 17:05 h.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai pela Av. Mar. Floriano, Conte.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não Vai Madepar e Não desce Igreja.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai Madepar\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai pela Av. Mar. Floriano, Conte.\t\t\t"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Bairro",
+                "horarios": [
+                    {
+                        "hora": "06:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai Madepar\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não Vai Madepar e Não desce Igreja.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:13",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não Vai Madepar e Não desce Igreja.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não Vai Madepar e Não desce Igreja.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não Vai Madepar e Não desce Igreja.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Desce na Blue Forest ás 17:05 h.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai até Coperplan (17:30 e 18:00 hs)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai até Coperplan (17:30 e 18:00 hs)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não desce na Igreja"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não Vai Madepar e Não desce Igreja.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai Madepar\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não Vai Madepar e Não desce Igreja.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não Vai Madepar e Não desce Igreja.\t\t\t"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": [
+                    {
+                        "hora": "06:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai pela Av. Mar. Floriano, Conte.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai pela Av. Mar. Floriano, Conte.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai Madepar\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A linha Santa Helena Faz também a linha Bela Vista.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A linha Santa Helena Faz também a linha Bela Vista.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A linha Santa Helena Faz também a linha Bela Vista.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A linha Santa Helena Faz também a linha Bela Vista.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A linha Santa Helena Faz também a linha Bela Vista.\t\t\t"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Bairro",
+                "horarios": [
+                    {
+                        "hora": "06:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai Madepar\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai Madepar\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai Madepar\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A linha Santa Helena Faz também a linha Bela Vista.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A linha Santa Helena Faz também a linha Bela Vista.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A linha Santa Helena Faz também a linha Bela Vista.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A linha Santa Helena Faz também a linha Bela Vista.\t\t\t"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": [
+                    {
+                        "hora": "07:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A linha Santa Helena Faz também a linha Bela Vista.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A linha Santa Helena Faz também a linha Bela Vista.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A linha Santa Helena Faz também a linha Bela Vista.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A linha Santa Helena Faz também a linha Bela Vista.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A linha Santa Helena Faz também a linha Bela Vista.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A linha Santa Helena Faz também a linha Bela Vista.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A linha Santa Helena Faz também a linha Bela Vista.\t\t\t"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Bairro",
+                "horarios": [
+                    {
+                        "hora": "06:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A linha Santa Helena Faz também a linha Bela Vista.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A linha Santa Helena Faz também a linha Bela Vista.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A linha Santa Helena Faz também a linha Bela Vista.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A linha Santa Helena Faz também a linha Bela Vista.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A linha Santa Helena Faz também a linha Bela Vista.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A linha Santa Helena Faz também a linha Bela Vista.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A linha Santa Helena Faz também a linha Bela Vista.\t\t\t"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "291-bela-vista"
+}

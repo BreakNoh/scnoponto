@@ -1,0 +1,44 @@
+{
+    "nome": "Ent Eld Circ",
+    "codigo": "11353",
+    "detalhe": "VIA ELD/IFSC/CID UNIV/AQUÁRIUS/PH/P.IMAR/ELDO/SHOP CONT",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:05",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "11353-ent-eld-circ"
+}

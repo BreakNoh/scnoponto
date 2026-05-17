@@ -1,0 +1,49 @@
+{
+    "nome": "Kobrasol",
+    "codigo": "141",
+    "detalhe": "Via Expressa",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partidas Do Ticen / Fpolis. (Volta",
+                "horarios": [
+                    {
+                        "hora": "06:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:25",
+                        "obs": [
+                            {
+                                "tipo": "RECOLHE_BAIRRO",
+                                "valor": "Recolhe no bairro"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "de Lima"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:20",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "141-kobrasol-expressa"
+}

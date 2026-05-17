@@ -1,0 +1,1084 @@
+{
+    "nome": "Jotur",
+    "fonte": "https://www2.jotur.com.br",
+    "linhas": [
+        {
+            "nome_linha": "Alto Aririu / Ponte Do Imaruim",
+            "codigo_linha": "353",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/353-alto-aririu-ponte-imaruim"
+        },
+        {
+            "nome_linha": "Aririu / Florianópolis",
+            "codigo_linha": "0355",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0355-aririu-fpolis"
+        },
+        {
+            "nome_linha": "Aririu Formiga / Colégio Enseada",
+            "codigo_linha": "09",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/09-aririu-formiga-colegio-ense"
+        },
+        {
+            "nome_linha": "Aririu Formiga / Colégio João Silveira (Aririu",
+            "codigo_linha": "3036",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/3036-aririu-formiga-colegio-jo"
+        },
+        {
+            "nome_linha": "Aririu Formiga / Fpolis",
+            "codigo_linha": "6751",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/6751-aririu-formiga-fpolis"
+        },
+        {
+            "nome_linha": "Barra / Florianópolis",
+            "codigo_linha": "0362",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0362-barra-fpolis"
+        },
+        {
+            "nome_linha": "Barra / Fpolis",
+            "codigo_linha": "03616",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/03616-barra-fpolis"
+        },
+        {
+            "nome_linha": "Barra / Fpolis",
+            "codigo_linha": "03611",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/03611-barra-fpolis"
+        },
+        {
+            "nome_linha": "Barra / Fpolis",
+            "codigo_linha": "03615",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/03615-barra-fpolis"
+        },
+        {
+            "nome_linha": "Barra / Fpolis",
+            "codigo_linha": "0369",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0369-barra-fpolis"
+        },
+        {
+            "nome_linha": "Barra / Palhoça (Praça",
+            "codigo_linha": "213",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/213-barra-palhoca-praca"
+        },
+        {
+            "nome_linha": "Barra / Palhoça",
+            "codigo_linha": "223",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/223-barra-palhoca"
+        },
+        {
+            "nome_linha": "Barra / Ponte Do Imaruim",
+            "codigo_linha": "222",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/222-barra-ponte-imaruim"
+        },
+        {
+            "nome_linha": "Barra Do Aririu / Barreiros",
+            "codigo_linha": "0270",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0270-barra-aririu-barreiros"
+        },
+        {
+            "nome_linha": "Bela Vista / Colegio Claudete",
+            "codigo_linha": "403",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/403-bela-vista-colegio-claudet"
+        },
+        {
+            "nome_linha": "Bela Vista / Colégio Claudete",
+            "codigo_linha": "4034",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/4034-bela-vista-colegio-claude"
+        },
+        {
+            "nome_linha": "Bela Vista / Florianópolis",
+            "codigo_linha": "71613",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/71613-bela-vista-fpolis"
+        },
+        {
+            "nome_linha": "Bela Vista / Florianópolis",
+            "codigo_linha": "71610",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/71610-bela-vista-fpolis"
+        },
+        {
+            "nome_linha": "Bela Vista / Florianópolis",
+            "codigo_linha": "7165",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/7165-bela-vista-fpolis"
+        },
+        {
+            "nome_linha": "Bela Vista / Florianópolis",
+            "codigo_linha": "7169",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/7169-bela-vista-fpolis"
+        },
+        {
+            "nome_linha": "Bela Vista / Florianópolis",
+            "codigo_linha": "7161",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/7161-bela-vista-fpolis"
+        },
+        {
+            "nome_linha": "Bela Vista / Florianópolis",
+            "codigo_linha": "7166",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/7166-bela-vista-fpolis"
+        },
+        {
+            "nome_linha": "Bela Vista / Florianópolis",
+            "codigo_linha": "7164",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/7164-bela-vista-fpolis"
+        },
+        {
+            "nome_linha": "Bela Vista / Fpolis",
+            "codigo_linha": "7162",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/7162-bela-vista-fpolis"
+        },
+        {
+            "nome_linha": "Bela Vista / Fpolis",
+            "codigo_linha": "71615",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/71615-bela-vista-fpolis"
+        },
+        {
+            "nome_linha": "Bela Vista / Fpolis",
+            "codigo_linha": "7163",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/7163-bela-vista-fpolis"
+        },
+        {
+            "nome_linha": "Bela Vista / Fpolis",
+            "codigo_linha": "7168",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/7168-bela-vista-fpolis"
+        },
+        {
+            "nome_linha": "Bela Vista / Ponte Do Imaruim",
+            "codigo_linha": "40311",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/40311-bela-vista-ponte-imaruim"
+        },
+        {
+            "nome_linha": "Bela Vista / Shopping Continente",
+            "codigo_linha": "11340",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/11340-bela-vista-shopping-cont"
+        },
+        {
+            "nome_linha": "Biguaçu / Palhoça (Empresa Biguaçu",
+            "codigo_linha": "8800",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/8800-biguacu-palhoca-empresa-b"
+        },
+        {
+            "nome_linha": "C.Novo / Fpolis",
+            "codigo_linha": "02811",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/02811-c-novo-fpolis"
+        },
+        {
+            "nome_linha": "Cd Imperatriz / Biguaçu",
+            "codigo_linha": "1331",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/1331-cd-imperatriz-biguacu"
+        },
+        {
+            "nome_linha": "Cid Univ Circ",
+            "codigo_linha": "6203",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/6203-cid-univ-circ"
+        },
+        {
+            "nome_linha": "Cid Univ Circ",
+            "codigo_linha": "6208",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/6208-cid-univ-circ"
+        },
+        {
+            "nome_linha": "Cid Univ Circ",
+            "codigo_linha": "6202",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/6202-cid-univ-circ"
+        },
+        {
+            "nome_linha": "Cid Univ Circ",
+            "codigo_linha": "11350",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/11350-cid-univ-circ"
+        },
+        {
+            "nome_linha": "Cid Univ Circ",
+            "codigo_linha": "6209",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/6209-cid-univ-circ"
+        },
+        {
+            "nome_linha": "Cidade Universitária / Florianópolis",
+            "codigo_linha": "6531",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/6531-cidade-universitaria-fpol"
+        },
+        {
+            "nome_linha": "Cidade Universitária Circ",
+            "codigo_linha": "620",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/620-cidade-universitaria-circ"
+        },
+        {
+            "nome_linha": "Colégio João Silveira (Aririu) / Colégio Da Guarda",
+            "codigo_linha": "3038",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/3038-colegio-joao-silveira-ari"
+        },
+        {
+            "nome_linha": "Enseada / Florianópolis",
+            "codigo_linha": "11150",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/11150-enseada-fpolis"
+        },
+        {
+            "nome_linha": "Enseada / Fpolis",
+            "codigo_linha": "11120",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/11120-enseada-fpolis"
+        },
+        {
+            "nome_linha": "Enseada / Shopping Continente",
+            "codigo_linha": "11371",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/11371-enseada-shopping-contine"
+        },
+        {
+            "nome_linha": "Enseada / Shopping Continente",
+            "codigo_linha": "11370",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/11370-enseada-shopping-contine"
+        },
+        {
+            "nome_linha": "Ent Do Eldorado/Florianópolis",
+            "codigo_linha": "6330",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/6330-ent-eldorado-fpolis"
+        },
+        {
+            "nome_linha": "Ent Eld / Fpolis",
+            "codigo_linha": "0250",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0250-ent-eld-fpolis"
+        },
+        {
+            "nome_linha": "Ent Eld Circ",
+            "codigo_linha": "62011",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/62011-ent-eld-circ"
+        },
+        {
+            "nome_linha": "Ent Eld Circ",
+            "codigo_linha": "62012",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/62012-ent-eld-circ"
+        },
+        {
+            "nome_linha": "Ent Eld Circ",
+            "codigo_linha": "62014",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/62014-ent-eld-circ"
+        },
+        {
+            "nome_linha": "Ent Eld Circ",
+            "codigo_linha": "11353",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/11353-ent-eld-circ"
+        },
+        {
+            "nome_linha": "Ent Eld Circ",
+            "codigo_linha": "62013",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/62013-ent-eld-circ"
+        },
+        {
+            "nome_linha": "Ent Eldorado / Fpolis",
+            "codigo_linha": "6535",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/6535-ent-eldorado-fpolis"
+        },
+        {
+            "nome_linha": "Ent Eldorado / Fpolis",
+            "codigo_linha": "6534",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/6534-ent-eldorado-fpolis"
+        },
+        {
+            "nome_linha": "Ent Pachecos / Fpolis",
+            "codigo_linha": "03617",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/03617-ent-pachecos-fpolis"
+        },
+        {
+            "nome_linha": "Ent. Do Pachecos / Hr",
+            "codigo_linha": "0366",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0366-ent-pachecos-hr"
+        },
+        {
+            "nome_linha": "Ent. Vila Nova / Fpolis",
+            "codigo_linha": "03613",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/03613-ent-vila-nova-fpolis"
+        },
+        {
+            "nome_linha": "Entrada Do Eldorado Circ",
+            "codigo_linha": "6204",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/6204-entrada-eldorado-circ"
+        },
+        {
+            "nome_linha": "Florianópolis / Área Industrial",
+            "codigo_linha": "0260",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0260-fpolis-area-ind"
+        },
+        {
+            "nome_linha": "Formiga / Fpolis",
+            "codigo_linha": "0359",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0359-formiga-fpolis"
+        },
+        {
+            "nome_linha": "Formiga / Shopping Continente",
+            "codigo_linha": "6755",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/6755-formiga-shopping-continen"
+        },
+        {
+            "nome_linha": "Guarda / Fpolis",
+            "codigo_linha": "0350",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0350-guarda-fpolis"
+        },
+        {
+            "nome_linha": "Guarda / Fpolis",
+            "codigo_linha": "0352",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0352-guarda-fpolis"
+        },
+        {
+            "nome_linha": "Guarda Do Tabuleiro / Fpolis",
+            "codigo_linha": "6754",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/6754-guarda-tabuleiro-fpolis"
+        },
+        {
+            "nome_linha": "Guarda Tabuleiro/ Shop Cont",
+            "codigo_linha": "0356",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0356-guarda-tabuleiro-shop-con"
+        },
+        {
+            "nome_linha": "Hospital Regional / Florianópolis",
+            "codigo_linha": "2020",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/2020-hosp-regional-fpolis"
+        },
+        {
+            "nome_linha": "Ifsc / Florianópolis",
+            "codigo_linha": "6536",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/6536-ifsc-fpolis"
+        },
+        {
+            "nome_linha": "Ifsc Circ",
+            "codigo_linha": "62010",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/62010-ifsc-circ"
+        },
+        {
+            "nome_linha": "Ifsc Circ",
+            "codigo_linha": "6207",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/6207-ifsc-circ"
+        },
+        {
+            "nome_linha": "Ifsc Circ",
+            "codigo_linha": "6205",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/6205-ifsc-circ"
+        },
+        {
+            "nome_linha": "Ifsc Circular",
+            "codigo_linha": "11351",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/11351-ifsc-circ"
+        },
+        {
+            "nome_linha": "Irineu Comelli / Florianópolis",
+            "codigo_linha": "6760",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/6760-irineu-comelli-fpolis"
+        },
+        {
+            "nome_linha": "Jaqueira / Florianópolis",
+            "codigo_linha": "71616",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/71616-jaqueira-fpolis"
+        },
+        {
+            "nome_linha": "Jaqueira / Florianópolis",
+            "codigo_linha": "71612",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/71612-jaqueira-fpolis"
+        },
+        {
+            "nome_linha": "Jaqueira / Fpolis",
+            "codigo_linha": "7160",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/7160-jaqueira-fpolis"
+        },
+        {
+            "nome_linha": "Jaqueira / Palhoça (Praça",
+            "codigo_linha": "4036",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/4036-jaqueira-palhoca-praca"
+        },
+        {
+            "nome_linha": "Jardim Aquárius / Fpolis",
+            "codigo_linha": "7150",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/7150-jardim-aquarius-fpolis"
+        },
+        {
+            "nome_linha": "Jomar / Fpolis",
+            "codigo_linha": "0354",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0354-jomar-fpolis"
+        },
+        {
+            "nome_linha": "Jomar / Guarda (Posto De Saúde",
+            "codigo_linha": "311",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/311-jomar-guarda-posto-saude"
+        },
+        {
+            "nome_linha": "Madri / Florianópolis",
+            "codigo_linha": "0244",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0244-madri-fpolis"
+        },
+        {
+            "nome_linha": "Morretes / Ponte Imaruim",
+            "codigo_linha": "06",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/06-morretes-ponte-imaruim"
+        },
+        {
+            "nome_linha": "Morro Do Gato - Fpolis",
+            "codigo_linha": "02410",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/02410-morro-gato-fpolis"
+        },
+        {
+            "nome_linha": "Morro Do Gato / Palhoça (Praça",
+            "codigo_linha": "5033",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/5033-morro-gato-palhoca-praca"
+        },
+        {
+            "nome_linha": "Morro Do Gato / Ponte Do Imaruim",
+            "codigo_linha": "50313",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/50313-morro-gato-ponte-imaruim"
+        },
+        {
+            "nome_linha": "Morro Do Gato / Ponte Do Imaruim",
+            "codigo_linha": "5023",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/5023-morro-gato-ponte-imaruim"
+        },
+        {
+            "nome_linha": "Morro Do Gato / Ponte Do Imaruim",
+            "codigo_linha": "502",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/502-morro-gato-ponte-imaruim"
+        },
+        {
+            "nome_linha": "Morro Do Gato / Shop Continente",
+            "codigo_linha": "11330",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/11330-morro-gato-shop-continen"
+        },
+        {
+            "nome_linha": "Morro Do Gato/Ponte Do Imaruim",
+            "codigo_linha": "5032",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/5032-morro-gato-ponte-imaruim"
+        },
+        {
+            "nome_linha": "Nova Palhoça / Biguaçu",
+            "codigo_linha": "1332",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/1332-nova-palhoca-biguacu"
+        },
+        {
+            "nome_linha": "Nova Palhoça / Biguaçu",
+            "codigo_linha": "1334",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/1334-nova-palhoca-biguacu"
+        },
+        {
+            "nome_linha": "Nova Palhoça / Biguaçu",
+            "codigo_linha": "1333",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/1333-nova-palhoca-biguacu"
+        },
+        {
+            "nome_linha": "Nova Palhoça / Biguaçu",
+            "codigo_linha": "1330",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/1330-nova-palhoca-biguacu"
+        },
+        {
+            "nome_linha": "Nova Palhoça / Florianópolis",
+            "codigo_linha": "6350",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/6350-nova-palhoca-fpolis"
+        },
+        {
+            "nome_linha": "Nova Palhoça / Florianópolis",
+            "codigo_linha": "0381",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0381-nova-palhoca-fpolis"
+        },
+        {
+            "nome_linha": "Nova Palhoça / Florianópolis",
+            "codigo_linha": "0380",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0380-nova-palhoca-fpolis"
+        },
+        {
+            "nome_linha": "Pachecos / Florianópolis",
+            "codigo_linha": "03610",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/03610-pachecos-fpolis"
+        },
+        {
+            "nome_linha": "Pachecos / Florianópolis",
+            "codigo_linha": "0360",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0360-pachecos-fpolis"
+        },
+        {
+            "nome_linha": "Pachecos / Fpolis",
+            "codigo_linha": "03612",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/03612-pachecos-fpolis"
+        },
+        {
+            "nome_linha": "Palhoca / A.Formiga Circular",
+            "codigo_linha": "303",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/303-palhoca-formiga-circ"
+        },
+        {
+            "nome_linha": "Palhoca / Guarda Tabuleiro Circ",
+            "codigo_linha": "301",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/301-palhoca-guarda-tabuleiro-c"
+        },
+        {
+            "nome_linha": "Palhoca / Jaqueira Circular",
+            "codigo_linha": "4031",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/4031-palhoca-jaqueira-circ"
+        },
+        {
+            "nome_linha": "Palhoça / Biguaçu (Executivo - Empresa Biguaçu",
+            "codigo_linha": "8801",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/8801-palhoca-biguacu-executivo"
+        },
+        {
+            "nome_linha": "Palhoça / Shop Continente",
+            "codigo_linha": "0243",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0243-palhoca-shop-continente"
+        },
+        {
+            "nome_linha": "Passagem Maciambu / Colegio Da Pinheira",
+            "codigo_linha": "02",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/02-passagem-maciambu-colegio-p"
+        },
+        {
+            "nome_linha": "Pch / Fpolis",
+            "codigo_linha": "0367",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0367-pch-fpolis"
+        },
+        {
+            "nome_linha": "Pedra Branca / Fpolis",
+            "codigo_linha": "6530",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/6530-pedra-branca-fpolis"
+        },
+        {
+            "nome_linha": "Pedra Branca / Palhoça",
+            "codigo_linha": "6303",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/6303-pedra-branca-palhoca"
+        },
+        {
+            "nome_linha": "Pedra Branca / Palhoça",
+            "codigo_linha": "50314",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/50314-pedra-branca-palhoca"
+        },
+        {
+            "nome_linha": "Ponta De Baixo / Florianópolis",
+            "codigo_linha": "2030",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/2030-ponta-baixo-fpolis"
+        },
+        {
+            "nome_linha": "Ponte Do Imaruim Circular",
+            "codigo_linha": "720",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/720-ponte-imaruim-circ"
+        },
+        {
+            "nome_linha": "Ponte Imaruim / Fpolis",
+            "codigo_linha": "2060",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/2060-ponte-imaruim-fpolis"
+        },
+        {
+            "nome_linha": "Portal Da Barra / Palhoça",
+            "codigo_linha": "280",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/280-portal-barra-palhoca"
+        },
+        {
+            "nome_linha": "Portal Da Barra / Palhoça",
+            "codigo_linha": "281",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/281-portal-barra-palhoca"
+        },
+        {
+            "nome_linha": "Sao Seb / Fpolis",
+            "codigo_linha": "0242",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0242-sao-seb-fpolis"
+        },
+        {
+            "nome_linha": "Star Fit / Fpolis",
+            "codigo_linha": "0368",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0368-star-fit-fpolis"
+        },
+        {
+            "nome_linha": "São José / Florianópolis",
+            "codigo_linha": "6340",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/6340-sao-jose-fpolis"
+        },
+        {
+            "nome_linha": "São José / Florianópolis",
+            "codigo_linha": "0370",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0370-sao-jose-fpolis"
+        },
+        {
+            "nome_linha": "São José / Florianópolis",
+            "codigo_linha": "0371",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0371-sao-jose-fpolis"
+        },
+        {
+            "nome_linha": "São José / Fpolis",
+            "codigo_linha": "0372",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0372-sao-jose-fpolis"
+        },
+        {
+            "nome_linha": "São Seb / Fpolis",
+            "codigo_linha": "0247",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0247-sao-seb-fpolis"
+        },
+        {
+            "nome_linha": "São Seb / Fpolis",
+            "codigo_linha": "0249",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0249-sao-seb-fpolis"
+        },
+        {
+            "nome_linha": "São Seb / Fpolis",
+            "codigo_linha": "0248",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0248-sao-seb-fpolis"
+        },
+        {
+            "nome_linha": "São Sebastião / Palhoça (Praça",
+            "codigo_linha": "5039",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/5039-sao-sebastiao-palhoca-pra"
+        },
+        {
+            "nome_linha": "São Sebastião / Palhoça (Praça",
+            "codigo_linha": "503",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/503-sao-sebastiao-palhoca-prac"
+        },
+        {
+            "nome_linha": "São Sebastião / Ponte Do Imaruim",
+            "codigo_linha": "5037",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/5037-sao-sebastiao-ponte-imaru"
+        },
+        {
+            "nome_linha": "São Sebastião / Ponte Do Imaruim",
+            "codigo_linha": "5022",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/5022-sao-sebastiao-ponte-imaru"
+        },
+        {
+            "nome_linha": "São Sebastião / Ponte Do Imaruim",
+            "codigo_linha": "5036",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/5036-sao-sebastiao-ponte-imaru"
+        },
+        {
+            "nome_linha": "São Sebastião / Shop Continente",
+            "codigo_linha": "0245",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0245-sao-sebastiao-shop-contin"
+        },
+        {
+            "nome_linha": "Terra Nova / Florianópolis",
+            "codigo_linha": "0289",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0289-terra-nova-fpolis"
+        },
+        {
+            "nome_linha": "Terra Nova / Florianópolis",
+            "codigo_linha": "02810",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/02810-terra-nova-fpolis"
+        },
+        {
+            "nome_linha": "Terra Nova / Florianópolis",
+            "codigo_linha": "0287",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0287-terra-nova-fpolis"
+        },
+        {
+            "nome_linha": "Terra Nova / Fpolis",
+            "codigo_linha": "0286",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0286-terra-nova-fpolis"
+        },
+        {
+            "nome_linha": "Terra Nova / Fpolis",
+            "codigo_linha": "0288",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0288-terra-nova-fpolis"
+        },
+        {
+            "nome_linha": "Terra Nova / Fpolis",
+            "codigo_linha": "0285",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0285-terra-nova-fpolis"
+        },
+        {
+            "nome_linha": "Terra Nova / Palhoça (Praça",
+            "codigo_linha": "543",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/543-terra-nova-palhoca-praca"
+        },
+        {
+            "nome_linha": "Três Barras / Passag",
+            "codigo_linha": "01",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/01-tres-barras-passag"
+        },
+        {
+            "nome_linha": "Upa B.Vista / Fpolis",
+            "codigo_linha": "0387",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0387-upa-b-vista-fpolis"
+        },
+        {
+            "nome_linha": "Viad Furadinho / Rincão",
+            "codigo_linha": "12",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/12-viad-furadinho-rincao"
+        },
+        {
+            "nome_linha": "Viad Mac / Shop Cont",
+            "codigo_linha": "11360",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/11360-viad-mac-shop-cont"
+        },
+        {
+            "nome_linha": "Viad Maciambu / Fpolis",
+            "codigo_linha": "11140",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/11140-viad-maciambu-fpolis"
+        },
+        {
+            "nome_linha": "Cid Univ / Barra",
+            "codigo_linha": "233",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/233-cid-univ-barra"
+        },
+        {
+            "nome_linha": "Col T.Nova / Shop Cat",
+            "codigo_linha": "101",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/101-col-t-nova-shop-cat"
+        },
+        {
+            "nome_linha": "Colégio Claudete / São Sebastião",
+            "codigo_linha": "5035",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/5035-colegio-claudete-sao-seba"
+        },
+        {
+            "nome_linha": "Colégio Morretes / Rincão",
+            "codigo_linha": "05",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/05-colegio-morretes-rincao"
+        },
+        {
+            "nome_linha": "Escola Municipal De Palhoça / Bela Vista",
+            "codigo_linha": "4033",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/4033-escola-municipal-palhoca"
+        },
+        {
+            "nome_linha": "Florianóplis / Ponta De Baixo",
+            "codigo_linha": "2031",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/2031-florianoplis-ponta-baixo"
+        },
+        {
+            "nome_linha": "Florianópolis / Aririu",
+            "codigo_linha": "03510",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/03510-fpolis-aririu"
+        },
+        {
+            "nome_linha": "Florianópolis / Barra",
+            "codigo_linha": "0361",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0361-fpolis-barra"
+        },
+        {
+            "nome_linha": "Florianópolis / Hospital Regional",
+            "codigo_linha": "7620",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/7620-fpolis-hosp-regional"
+        },
+        {
+            "nome_linha": "Florianópolis / Ifsc",
+            "codigo_linha": "6533",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/6533-fpolis-ifsc"
+        },
+        {
+            "nome_linha": "Florianópolis / Nova Palhoça",
+            "codigo_linha": "0385",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0385-fpolis-nova-palhoca"
+        },
+        {
+            "nome_linha": "Florianópolis / São Sebastião",
+            "codigo_linha": "0240",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0240-fpolis-sao-sebastiao"
+        },
+        {
+            "nome_linha": "Fpolis / Aririu Formiga",
+            "codigo_linha": "6753",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/6753-fpolis-aririu-formiga"
+        },
+        {
+            "nome_linha": "Fpolis / Aririu",
+            "codigo_linha": "03511",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/03511-fpolis-aririu"
+        },
+        {
+            "nome_linha": "Fpolis / Barra",
+            "codigo_linha": "03620",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/03620-fpolis-barra"
+        },
+        {
+            "nome_linha": "Fpolis / Barra",
+            "codigo_linha": "03618",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/03618-fpolis-barra"
+        },
+        {
+            "nome_linha": "Fpolis / Barra",
+            "codigo_linha": "03614",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/03614-fpolis-barra"
+        },
+        {
+            "nome_linha": "Fpolis / Bela Vista",
+            "codigo_linha": "7167",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/7167-fpolis-bela-vista"
+        },
+        {
+            "nome_linha": "Fpolis / Formiga",
+            "codigo_linha": "6750",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/6750-fpolis-formiga"
+        },
+        {
+            "nome_linha": "Fpolis / Guarda Tabuleiro",
+            "codigo_linha": "6752",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/6752-fpolis-guarda-tabuleiro"
+        },
+        {
+            "nome_linha": "Fpolis / Ifsc",
+            "codigo_linha": "6532",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/6532-fpolis-ifsc"
+        },
+        {
+            "nome_linha": "Fpolis / São Sebastião",
+            "codigo_linha": "02411",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/02411-fpolis-sao-sebastiao"
+        },
+        {
+            "nome_linha": "Fpolis / São Sebastião",
+            "codigo_linha": "0246",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0246-fpolis-sao-sebastiao"
+        },
+        {
+            "nome_linha": "Fpolis / Terra Nova",
+            "codigo_linha": "0280",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/0280-fpolis-terra-nova"
+        },
+        {
+            "nome_linha": "Ifsc / Barra",
+            "codigo_linha": "253",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/253-ifsc-barra"
+        },
+        {
+            "nome_linha": "Ifsc / São Sebastião",
+            "codigo_linha": "5038",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/5038-ifsc-sao-sebastiao"
+        },
+        {
+            "nome_linha": "Palhoca (Mercado Publico) / Senai (Eldorado",
+            "codigo_linha": "630",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/630-palhoca-mercado-publico-se"
+        },
+        {
+            "nome_linha": "Palhoça (Caixa Econômica) / Cidade Universitária",
+            "codigo_linha": "6302",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/6302-palhoca-caixa-economica-c"
+        },
+        {
+            "nome_linha": "Palhoça / Morro Do Gato",
+            "codigo_linha": "50312",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/50312-palhoca-morro-gato"
+        },
+        {
+            "nome_linha": "Palhoça / Vila Nova",
+            "codigo_linha": "263",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/263-palhoca-vila-nova"
+        },
+        {
+            "nome_linha": "Ponte Do Imaruim / Enseada (Até A Igreja",
+            "codigo_linha": "13",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/13-ponte-imaruim-enseada-igrej"
+        },
+        {
+            "nome_linha": "Ponte Do Imaruim / São Sebastião",
+            "codigo_linha": "50310",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/50310-ponte-imaruim-sao-sebast"
+        },
+        {
+            "nome_linha": "Pres. Kennedy / Sao Seb",
+            "codigo_linha": "02412",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/02412-pres-kennedy-sao-seb"
+        },
+        {
+            "nome_linha": "Presidente Kennedy / Barra",
+            "codigo_linha": "03619",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/03619-presidente-kennedy-barra"
+        },
+        {
+            "nome_linha": "Rincao / Mac Peq",
+            "codigo_linha": "11",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/11-rincao-mac-peq"
+        },
+        {
+            "nome_linha": "Shop Cont / Barra",
+            "codigo_linha": "11320",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/11320-shop-cont-barra"
+        },
+        {
+            "nome_linha": "Shop Cont / Bela Vista",
+            "codigo_linha": "11290",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/11290-shop-cont-bela-vista"
+        },
+        {
+            "nome_linha": "Shop Cont",
+            "codigo_linha": "11362",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/11362-shop-cont"
+        },
+        {
+            "nome_linha": "Shopping Continente / Guarda Do Tabuleiro",
+            "codigo_linha": "03512",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/03512-shopping-continente-guar"
+        },
+        {
+            "nome_linha": "Shopping Continente / Terra Nova",
+            "codigo_linha": "11310",
+            "nome_empresa": "Jotur",
+            "slug": "jotur/11310-shopping-continente-terr"
+        }
+    ],
+    "regioes": [
+        "grande_floripa"
+    ],
+    "slug": "jotur"
+}

@@ -1,0 +1,502 @@
+{
+    "nome": "Transporte Coletivo Biguaçu",
+    "fonte": "https://www.tcbiguacu.com.br",
+    "linhas": [
+        {
+            "nome_linha": "Antônio Carlos / Biguaçu",
+            "codigo_linha": "64100",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/64100-antonio-carlos-biguacu"
+        },
+        {
+            "nome_linha": "Antônio Carlos / Florianópolis",
+            "codigo_linha": "10500",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/10500-antonio-carlos-fpolis"
+        },
+        {
+            "nome_linha": "Antonio Carlos / Guiomar",
+            "codigo_linha": "970000",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/970000-antonio-carlos-guiomar"
+        },
+        {
+            "nome_linha": "Araucária",
+            "codigo_linha": "11302",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/11302-araucaria"
+        },
+        {
+            "nome_linha": "Armação Da Piedade",
+            "codigo_linha": "10301",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/10301-armacao-piedade"
+        },
+        {
+            "nome_linha": "Armação Da Piedade / Florianópolis",
+            "codigo_linha": "10300",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/10300-armacao-piedade-fpolis"
+        },
+        {
+            "nome_linha": "Avenida Das Torres",
+            "codigo_linha": "84500",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/84500-av-torres"
+        },
+        {
+            "nome_linha": "Bairro Ipiranga",
+            "codigo_linha": "10400",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/10400-bairro-ipiranga"
+        },
+        {
+            "nome_linha": "Bairro Ipiranga",
+            "codigo_linha": "66800",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/66800-bairro-ipiranga-expressa"
+        },
+        {
+            "nome_linha": "Bairro São Pedro",
+            "codigo_linha": "10200",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/10200-bairro-sao-pedro"
+        },
+        {
+            "nome_linha": "Barreiros",
+            "codigo_linha": "44200",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/44200-barreiros"
+        },
+        {
+            "nome_linha": "Barreiros",
+            "codigo_linha": "60100",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/60100-barreiros-expressa"
+        },
+        {
+            "nome_linha": "Bela Vista",
+            "codigo_linha": "43100",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/43100-bela-vista"
+        },
+        {
+            "nome_linha": "Bela Vista",
+            "codigo_linha": "43101",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/43101-bela-vista"
+        },
+        {
+            "nome_linha": "Bela Vista",
+            "codigo_linha": "43102",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/43102-bela-vista"
+        },
+        {
+            "nome_linha": "Bela Vista 2-(Avenida Das Torres",
+            "codigo_linha": "43201",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/43201-bela-vista-2-av-torres"
+        },
+        {
+            "nome_linha": "Bela Vista",
+            "codigo_linha": "55900",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/55900-bela-vista-expressa"
+        },
+        {
+            "nome_linha": "Biguaçu",
+            "codigo_linha": "44300",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/44300-biguacu"
+        },
+        {
+            "nome_linha": "Biguaçu / Palhoça",
+            "codigo_linha": "8800",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/8800-biguacu-palhoca"
+        },
+        {
+            "nome_linha": "Biguaçu",
+            "codigo_linha": "55700",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/55700-biguacu-expressa"
+        },
+        {
+            "nome_linha": "Bom Viver",
+            "codigo_linha": "10000",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/10000-bom-viver"
+        },
+        {
+            "nome_linha": "Bom Viver / Biguaçu",
+            "codigo_linha": "900056",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/900056-bom-viver-biguacu"
+        },
+        {
+            "nome_linha": "Bom Viver",
+            "codigo_linha": "10001",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/10001-bom-viver-expressa"
+        },
+        {
+            "nome_linha": "Bom Viver/Maria Da Gloria",
+            "codigo_linha": "900003",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/900003-bom-viver-maria-gloria"
+        },
+        {
+            "nome_linha": "Catarina",
+            "codigo_linha": "14600",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/14600-catarina"
+        },
+        {
+            "nome_linha": "Ceasa",
+            "codigo_linha": "43500",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/43500-ceasa"
+        },
+        {
+            "nome_linha": "Circular Barreiros",
+            "codigo_linha": "90900",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/90900-circ-barreiros"
+        },
+        {
+            "nome_linha": "Circular Biguaçu Municipal",
+            "codigo_linha": "900006",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/900006-circ-biguacu-municipal"
+        },
+        {
+            "nome_linha": "Circular Fundos",
+            "codigo_linha": "900007",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/900007-circ-fundos"
+        },
+        {
+            "nome_linha": "Circular Governador Celso Ramos",
+            "codigo_linha": "80001",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/80001-circ-gov-celso-ramos"
+        },
+        {
+            "nome_linha": "Colegio Roldão / Viadutojanaina",
+            "codigo_linha": "900001",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/900001-colegio-roldao-viadutoj"
+        },
+        {
+            "nome_linha": "Diretão",
+            "codigo_linha": "90800",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/90800-diretao"
+        },
+        {
+            "nome_linha": "Dona Adélia",
+            "codigo_linha": "9900",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/9900-dona-adelia"
+        },
+        {
+            "nome_linha": "Dona Adélia",
+            "codigo_linha": "9901",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/9901-dona-adelia-expressa"
+        },
+        {
+            "nome_linha": "Dona Wanda",
+            "codigo_linha": "43402",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/43402-dona-wanda"
+        },
+        {
+            "nome_linha": "Dona Wanda",
+            "codigo_linha": "43403",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/43403-dona-wanda-expressa"
+        },
+        {
+            "nome_linha": "Egito / Antônio Carlos",
+            "codigo_linha": "920000",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/920000-egito-antonio-carlos"
+        },
+        {
+            "nome_linha": "Fazendinha - Biguaçu",
+            "codigo_linha": "44304",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/44304-fazendinha-biguacu"
+        },
+        {
+            "nome_linha": "Floresta",
+            "codigo_linha": "2200",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/2200-floresta"
+        },
+        {
+            "nome_linha": "Floresta",
+            "codigo_linha": "66900",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/66900-floresta-expressa"
+        },
+        {
+            "nome_linha": "Fundos",
+            "codigo_linha": "76400",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/76400-fundos"
+        },
+        {
+            "nome_linha": "Governador Celso Ramos / Florianópolis",
+            "codigo_linha": "44600",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/44600-gov-celso-ramos-fpolis"
+        },
+        {
+            "nome_linha": "Governador Celso Ramos / Florianópolis",
+            "codigo_linha": "44700",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/44700-gov-celso-ramos-fpolis"
+        },
+        {
+            "nome_linha": "Governador Celso Ramos/Biguaçu",
+            "codigo_linha": "54600",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/54600-gov-celso-ramos-biguacu"
+        },
+        {
+            "nome_linha": "Heriberto Hulse",
+            "codigo_linha": "44201",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/44201-heriberto-hulse"
+        },
+        {
+            "nome_linha": "Janaina(Mar Das Pedras) - Colegio Eloisa",
+            "codigo_linha": "900020",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/900020-janaina-mar-pedras-cole"
+        },
+        {
+            "nome_linha": "Jardim Das Acácias",
+            "codigo_linha": "75900",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/75900-jardim-acacias"
+        },
+        {
+            "nome_linha": "Jardim Janaína",
+            "codigo_linha": "43400",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/43400-jardim-janaina"
+        },
+        {
+            "nome_linha": "Jardim Janaína (",
+            "codigo_linha": "43401",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/43401-jardim-janaina-expressa"
+        },
+        {
+            "nome_linha": "Jardim Zanellato",
+            "codigo_linha": "11300",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/11300-jardim-zanellato"
+        },
+        {
+            "nome_linha": "Jardim Zanellato",
+            "codigo_linha": "11301",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/11301-jardim-zanellato"
+        },
+        {
+            "nome_linha": "José Nitro",
+            "codigo_linha": "10002",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/10002-jose-nitro"
+        },
+        {
+            "nome_linha": "Morro Boa Vista / Maria Da Gloria",
+            "codigo_linha": "900002",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/900002-morro-boa-vista-maria-g"
+        },
+        {
+            "nome_linha": "Palmas / Biguaçu",
+            "codigo_linha": "43302",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/43302-palmas-biguacu"
+        },
+        {
+            "nome_linha": "Palmas / Florianópolis",
+            "codigo_linha": "43300",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/43300-palmas-fpolis"
+        },
+        {
+            "nome_linha": "Prado",
+            "codigo_linha": "10901",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/10901-prado"
+        },
+        {
+            "nome_linha": "Praia João Rosa",
+            "codigo_linha": "44301",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/44301-praia-joao-rosa"
+        },
+        {
+            "nome_linha": "Rachadel / Antônio Carlos",
+            "codigo_linha": "910000",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/910000-rachadel-antonio-carlos"
+        },
+        {
+            "nome_linha": "Roçado",
+            "codigo_linha": "67200",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/67200-rocado"
+        },
+        {
+            "nome_linha": "Rua Santo Antônio",
+            "codigo_linha": "64001",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/64001-r-sto-antonio"
+        },
+        {
+            "nome_linha": "Russia - Biguaçu",
+            "codigo_linha": "10502",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/10502-russia-biguacu"
+        },
+        {
+            "nome_linha": "São Miguel",
+            "codigo_linha": "10900",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/10900-sao-miguel"
+        },
+        {
+            "nome_linha": "São Miguel - Biguaçu",
+            "codigo_linha": "10902",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/10902-sao-miguel-biguacu"
+        },
+        {
+            "nome_linha": "São Pedro",
+            "codigo_linha": "69500",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/69500-sao-pedro-expressa"
+        },
+        {
+            "nome_linha": "Saudade",
+            "codigo_linha": "44303",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/44303-saudade"
+        },
+        {
+            "nome_linha": "Serraria / Forquilhinhas",
+            "codigo_linha": "90700",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/90700-serraria-forquilhinhas"
+        },
+        {
+            "nome_linha": "Shopping Center Itaguaçu",
+            "codigo_linha": "12400",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/12400-shopping-center-itaguacu"
+        },
+        {
+            "nome_linha": "Sorocaba",
+            "codigo_linha": "64200",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/64200-sorocaba"
+        },
+        {
+            "nome_linha": "Sorocaba / Biguaçu",
+            "codigo_linha": "64201",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/64201-sorocaba-biguacu"
+        },
+        {
+            "nome_linha": "Três Riachos / Biguaçu",
+            "codigo_linha": "44801",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/44801-tres-riachos-biguacu"
+        },
+        {
+            "nome_linha": "Três Riachos / Florianópolis",
+            "codigo_linha": "44800",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/44800-tres-riachos-fpolis"
+        },
+        {
+            "nome_linha": "Executivo Antônio Carlos",
+            "codigo_linha": "10501",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/10501-executivo-antonio-carlos"
+        },
+        {
+            "nome_linha": "Executivo Bairro Ipiranga",
+            "codigo_linha": "10401",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/10401-executivo-bairro-ipirang"
+        },
+        {
+            "nome_linha": "Executivo Bela Vista",
+            "codigo_linha": "43103",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/43103-executivo-bela-vista"
+        },
+        {
+            "nome_linha": "Executivo Biguaçu",
+            "codigo_linha": "76403",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/76403-executivo-biguacu"
+        },
+        {
+            "nome_linha": "Executivo Biguaçu (",
+            "codigo_linha": "76404",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/76404-executivo-biguacu-fundos"
+        },
+        {
+            "nome_linha": "Executivo Biguaçu Palhoça",
+            "codigo_linha": "8801",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/8801-executivo-biguacu-palhoca"
+        },
+        {
+            "nome_linha": "Executivo Dona Adélia",
+            "codigo_linha": "9902",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/9902-executivo-dona-adelia"
+        },
+        {
+            "nome_linha": "Executivo Dona Wanda",
+            "codigo_linha": "43404",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/43404-executivo-dona-wanda"
+        },
+        {
+            "nome_linha": "Executivo Governador Celso Ramos",
+            "codigo_linha": "44701",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/44701-executivo-gov-celso-ramo"
+        },
+        {
+            "nome_linha": "Executivo Praia J Rosa",
+            "codigo_linha": "76405",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/76405-executivo-praia-j-rosa"
+        },
+        {
+            "nome_linha": "Executivo Zenaide",
+            "codigo_linha": "14601",
+            "nome_empresa": "Transporte Coletivo Biguaçu",
+            "slug": "trans-col-biguacu/14601-executivo-zenaide"
+        }
+    ],
+    "regioes": [
+        "grande_floripa"
+    ],
+    "slug": "trans-col-biguacu"
+}

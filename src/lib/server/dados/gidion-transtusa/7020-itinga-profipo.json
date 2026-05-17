@@ -1,0 +1,94 @@
+{
+    "nome": "Itinga",
+    "codigo": "7020",
+    "detalhe": "Via Profipo",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "19:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:02",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "23:52",
+                        "obs": []
+                    },
+                    {
+                        "hora": "24:49",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "23:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "24:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "24:45",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "20:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:11",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:46",
+                        "obs": []
+                    },
+                    {
+                        "hora": "23:37",
+                        "obs": []
+                    },
+                    {
+                        "hora": "24:45",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "7020-itinga-profipo"
+}

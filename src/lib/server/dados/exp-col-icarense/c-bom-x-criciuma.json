@@ -1,0 +1,25 @@
+{
+    "nome": "C.Bom X Criciuma",
+    "codigo": null,
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "C.Bom",
+                "horarios": [
+                    {
+                        "hora": "5:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via B.ESPLANADA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "c-bom-x-criciuma"
+}

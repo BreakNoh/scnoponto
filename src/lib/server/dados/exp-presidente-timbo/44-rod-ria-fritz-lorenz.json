@@ -1,0 +1,20 @@
+{
+    "nome": "Rodoviã¡Ria",
+    "codigo": "44",
+    "detalhe": "Via Fritz Lorenz",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Rodoviã¡Ria Via Fritz Lorenz",
+                "horarios": [
+                    {
+                        "hora": "17:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "44-rod-ria-fritz-lorenz"
+}

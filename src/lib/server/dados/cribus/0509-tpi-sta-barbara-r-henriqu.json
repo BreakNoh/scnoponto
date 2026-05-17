@@ -1,0 +1,20 @@
+{
+    "nome": "Tpi /Santa Barbara",
+    "codigo": "0509",
+    "detalhe": "Via Rua Henrique Lage /Tce",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "18:08",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0509-tpi-sta-barbara-r-henriqu"
+}

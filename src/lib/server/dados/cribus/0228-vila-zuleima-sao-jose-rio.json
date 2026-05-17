@@ -1,0 +1,85 @@
+{
+    "nome": "Vila Zuleima / Sao Jose /Rio Maina",
+    "codigo": "0228",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:27",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:28",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:17",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "06:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:37",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:26",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:26",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:26",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:51",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:41",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:43",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0228-vila-zuleima-sao-jose-rio"
+}

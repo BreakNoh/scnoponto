@@ -1,0 +1,32 @@
+{
+    "nome": "Florianópolis / Aririu",
+    "codigo": "03510",
+    "detalhe": "VIA EXPRESSA/BR101/CENTRO DE PALHOÇA (DIRETO",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "19:50",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "03510-fpolis-aririu"
+}

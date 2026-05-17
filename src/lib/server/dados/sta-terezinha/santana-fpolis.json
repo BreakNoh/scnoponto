@@ -1,0 +1,1101 @@
+{
+    "nome": "Santana - Florianópolis",
+    "codigo": null,
+    "detalhe": null,
+    "servicos": {
+        "64": [
+            {
+                "sentido": "Saída Santana",
+                "horarios": [
+                    {
+                        "hora": "05:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:37",
+                        "obs": [
+                            {
+                                "tipo": "DURANTE",
+                                "valor": "Período Escolar"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:20",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA EXPRESSA"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:45",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Santana",
+                "horarios": [
+                    {
+                        "hora": "05:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:37",
+                        "obs": [
+                            {
+                                "tipo": "DURANTE",
+                                "valor": "Período Escolar"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:20",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA EXPRESSA"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:45",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Santana",
+                "horarios": [
+                    {
+                        "hora": "05:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:37",
+                        "obs": [
+                            {
+                                "tipo": "DURANTE",
+                                "valor": "Período Escolar"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:20",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:10",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA EXPRESSA"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:45",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "0": [
+            {
+                "sentido": "Saída Florianópolis",
+                "horarios": [
+                    {
+                        "hora": "06:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:15",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:55",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:45",
+                        "obs": [
+                            {
+                                "tipo": "DURANTE",
+                                "valor": "Período Escolar"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:05",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:50",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:15",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Florianópolis",
+                "horarios": [
+                    {
+                        "hora": "06:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:15",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:55",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:45",
+                        "obs": [
+                            {
+                                "tipo": "DURANTE",
+                                "valor": "Período Escolar"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:05",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:50",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:15",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Florianópolis",
+                "horarios": [
+                    {
+                        "hora": "06:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:15",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:55",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:45",
+                        "obs": [
+                            {
+                                "tipo": "DURANTE",
+                                "valor": "Período Escolar"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:05",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:50",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:15",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Florianópolis",
+                "horarios": [
+                    {
+                        "hora": "06:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:15",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:55",
+                        "obs": [
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:45",
+                        "obs": [
+                            {
+                                "tipo": "DURANTE",
+                                "valor": "Período Escolar"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:05",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:50",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:15",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "santana-fpolis"
+}

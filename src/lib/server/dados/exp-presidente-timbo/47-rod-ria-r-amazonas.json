@@ -1,0 +1,20 @@
+{
+    "nome": "Rodoviã¡Ria",
+    "codigo": "47",
+    "detalhe": "Via Rua Amazonas",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Rodoviã¡Ria Via Rua Amazonas",
+                "horarios": [
+                    {
+                        "hora": "17:45",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "47-rod-ria-r-amazonas"
+}

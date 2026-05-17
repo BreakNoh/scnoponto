@@ -1,0 +1,36 @@
+{
+    "nome": "Cid Univ Circ",
+    "codigo": "6208",
+    "detalhe": "VIA AQUÁRIUS/PALHOÇA/P.IMARUIM/ELDORADO/TECNOPARK",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "08:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "6208-cid-univ-circ"
+}

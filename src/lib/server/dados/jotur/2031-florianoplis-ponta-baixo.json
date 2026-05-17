@@ -1,0 +1,32 @@
+{
+    "nome": "Florianóplis / Ponta De Baixo",
+    "codigo": "2031",
+    "detalhe": "VIA MADEIREIRA / IVO SILVEIRA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "07:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "2031-florianoplis-ponta-baixo"
+}

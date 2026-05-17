@@ -1,0 +1,37 @@
+{
+    "nome": "Circular Oeste",
+    "codigo": "0443",
+    "detalhe": "Via Estrada Blumenau",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "04:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:55",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "05:22",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:37",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0443-circ-oeste-estrada-blumen"
+}

@@ -1,0 +1,20 @@
+{
+    "nome": "Circular Anita Garibaldi",
+    "codigo": "1610",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:28",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "1610-circ-anita-garibaldi"
+}

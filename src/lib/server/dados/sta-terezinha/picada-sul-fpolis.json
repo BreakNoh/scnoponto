@@ -1,0 +1,115 @@
+{
+    "nome": "Picada Do Sul - Florianópolis",
+    "codigo": null,
+    "detalhe": null,
+    "servicos": {
+        "0": [
+            {
+                "sentido": "Saída Picadas",
+                "horarios": [
+                    {
+                        "hora": "05:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:30",
+                        "obs": [
+                            {
+                                "tipo": "SAIDA_DE",
+                                "valor": "Horários que saem do Residencial Garden Ville"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Picadas",
+                "horarios": [
+                    {
+                        "hora": "05:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:30",
+                        "obs": [
+                            {
+                                "tipo": "SAIDA_DE",
+                                "valor": "Horários que saem do Residencial Garden Ville"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Picadas",
+                "horarios": [
+                    {
+                        "hora": "05:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:30",
+                        "obs": [
+                            {
+                                "tipo": "SAIDA_DE",
+                                "valor": "Horários que saem do Residencial Garden Ville"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Picadas",
+                "horarios": [
+                    {
+                        "hora": "05:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:30",
+                        "obs": [
+                            {
+                                "tipo": "SAIDA_DE",
+                                "valor": "Horários que saem do Residencial Garden Ville"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Ticen",
+                "horarios": []
+            },
+            {
+                "sentido": "Saída Ticen",
+                "horarios": []
+            },
+            {
+                "sentido": "Saída Ticen",
+                "horarios": []
+            },
+            {
+                "sentido": "Saída Ticen",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "picada-sul-fpolis"
+}

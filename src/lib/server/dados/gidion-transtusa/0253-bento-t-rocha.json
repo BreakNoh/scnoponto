@@ -1,0 +1,36 @@
+{
+    "nome": "Bento T. Da Rocha",
+    "codigo": "0253",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:47",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:32",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0253-bento-t-rocha"
+}

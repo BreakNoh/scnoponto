@@ -1,0 +1,25 @@
+{
+    "nome": "Escolar / Senac",
+    "codigo": "506",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Bairro",
+                "horarios": [
+                    {
+                        "hora": "17:30",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Saída SENAC (Período de Aula)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "506-escolar-senac"
+}

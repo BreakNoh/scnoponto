@@ -1,0 +1,1551 @@
+{
+    "nome": "Sertão - Florianópolis",
+    "codigo": null,
+    "detalhe": null,
+    "servicos": {
+        "0": [
+            {
+                "sentido": "Saída Sertão",
+                "horarios": [
+                    {
+                        "hora": "05:45",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA UNIVALI"
+                            },
+                            {
+                                "tipo": "SAIDA_DE",
+                                "valor": "Horário que sai do condomínio Beija Flor"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "05:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA AERO CLUBE"
+                            },
+                            {
+                                "tipo": "SAIDA_DE",
+                                "valor": "Horário que sai do condomínio Beija Flor"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA AERO CLUBE"
+                            },
+                            {
+                                "tipo": "SAIDA_DE",
+                                "valor": "Horário que sai do condomínio Beija Flor"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA AERO CLUBE"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA UNIVALI"
+                            },
+                            {
+                                "tipo": "SAIDA_DE",
+                                "valor": "Horário que sai do condomínio Beija Flor"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA UNIVALI"
+                            },
+                            {
+                                "tipo": "SAIDA_DE",
+                                "valor": "Horário que sai do condomínio Beija Flor"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA EXPRESSA"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:45",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Sertão",
+                "horarios": [
+                    {
+                        "hora": "05:45",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA UNIVALI"
+                            },
+                            {
+                                "tipo": "SAIDA_DE",
+                                "valor": "Horário que sai do condomínio Beija Flor"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "05:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA AERO CLUBE"
+                            },
+                            {
+                                "tipo": "SAIDA_DE",
+                                "valor": "Horário que sai do condomínio Beija Flor"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA AERO CLUBE"
+                            },
+                            {
+                                "tipo": "SAIDA_DE",
+                                "valor": "Horário que sai do condomínio Beija Flor"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA AERO CLUBE"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA UNIVALI"
+                            },
+                            {
+                                "tipo": "SAIDA_DE",
+                                "valor": "Horário que sai do condomínio Beija Flor"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA UNIVALI"
+                            },
+                            {
+                                "tipo": "SAIDA_DE",
+                                "valor": "Horário que sai do condomínio Beija Flor"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA EXPRESSA"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:45",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Sertão",
+                "horarios": [
+                    {
+                        "hora": "05:45",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA UNIVALI"
+                            },
+                            {
+                                "tipo": "SAIDA_DE",
+                                "valor": "Horário que sai do condomínio Beija Flor"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "05:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA AERO CLUBE"
+                            },
+                            {
+                                "tipo": "SAIDA_DE",
+                                "valor": "Horário que sai do condomínio Beija Flor"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA AERO CLUBE"
+                            },
+                            {
+                                "tipo": "SAIDA_DE",
+                                "valor": "Horário que sai do condomínio Beija Flor"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA AERO CLUBE"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA UNIVALI"
+                            },
+                            {
+                                "tipo": "SAIDA_DE",
+                                "valor": "Horário que sai do condomínio Beija Flor"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA UNIVALI"
+                            },
+                            {
+                                "tipo": "SAIDA_DE",
+                                "valor": "Horário que sai do condomínio Beija Flor"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA EXPRESSA"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:45",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Sertão",
+                "horarios": [
+                    {
+                        "hora": "05:45",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA UNIVALI"
+                            },
+                            {
+                                "tipo": "SAIDA_DE",
+                                "valor": "Horário que sai do condomínio Beija Flor"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "05:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA AERO CLUBE"
+                            },
+                            {
+                                "tipo": "SAIDA_DE",
+                                "valor": "Horário que sai do condomínio Beija Flor"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA AERO CLUBE"
+                            },
+                            {
+                                "tipo": "SAIDA_DE",
+                                "valor": "Horário que sai do condomínio Beija Flor"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA AERO CLUBE"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA UNIVALI"
+                            },
+                            {
+                                "tipo": "SAIDA_DE",
+                                "valor": "Horário que sai do condomínio Beija Flor"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA UNIVALI"
+                            },
+                            {
+                                "tipo": "SAIDA_DE",
+                                "valor": "Horário que sai do condomínio Beija Flor"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA EXPRESSA"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:45",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:30",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Rua Luiz Fagundes até Armazem Vieira (Via Shopping Continente)"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Ticen",
+                "horarios": [
+                    {
+                        "hora": "07:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA EXPRESSA"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA EXPRESSA"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA EXPRESSA E BR 101"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "SAIDA_DE",
+                                "valor": "Horário que sai do condomínio Beija Flor"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:33",
+                        "obs": [
+                            {
+                                "tipo": "DURANTE",
+                                "valor": "Período Escolar"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA UNIVALI"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:05",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA UNIVALI"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA UNIVALI"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA UNIVALI"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:50",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:15",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Ticen",
+                "horarios": [
+                    {
+                        "hora": "07:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA EXPRESSA"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA EXPRESSA"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA EXPRESSA E BR 101"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "SAIDA_DE",
+                                "valor": "Horário que sai do condomínio Beija Flor"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:33",
+                        "obs": [
+                            {
+                                "tipo": "DURANTE",
+                                "valor": "Período Escolar"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA UNIVALI"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:05",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA UNIVALI"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA UNIVALI"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA UNIVALI"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:50",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:15",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Ticen",
+                "horarios": [
+                    {
+                        "hora": "07:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA EXPRESSA"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA EXPRESSA"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA EXPRESSA E BR 101"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "SAIDA_DE",
+                                "valor": "Horário que sai do condomínio Beija Flor"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:33",
+                        "obs": [
+                            {
+                                "tipo": "DURANTE",
+                                "valor": "Período Escolar"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA UNIVALI"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:05",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA UNIVALI"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA UNIVALI"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA UNIVALI"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:50",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:15",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Ticen",
+                "horarios": [
+                    {
+                        "hora": "07:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA EXPRESSA"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA EXPRESSA"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA EXPRESSA E BR 101"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "SAIDA_DE",
+                                "valor": "Horário que sai do condomínio Beija Flor"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:33",
+                        "obs": [
+                            {
+                                "tipo": "DURANTE",
+                                "valor": "Período Escolar"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA UNIVALI"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:05",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA UNIVALI"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA UNIVALI"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "VIA UNIVALI"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:50",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:15",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Shopping Continente"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "HORÁRIOS ENTRAM NO RESIDENCIAL SANTOS DUMMONT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "sertao-fpolis"
+}

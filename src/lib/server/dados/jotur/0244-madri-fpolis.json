@@ -1,0 +1,32 @@
+{
+    "nome": "Madri / Florianópolis",
+    "codigo": "0244",
+    "detalhe": "VIA PAGANI/MARGINAL BR 101/EXP/IVO SILVEIRA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0244-madri-fpolis"
+}

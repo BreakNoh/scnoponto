@@ -1,0 +1,89 @@
+{
+    "nome": "Norte / Vila Nova",
+    "codigo": "0152",
+    "detalhe": "Via Ifsc",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "07:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:03",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:01",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:28",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:02",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:35",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "06:53",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:04",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:28",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:57",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:40",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0152-norte-vila-nova-ifsc"
+}

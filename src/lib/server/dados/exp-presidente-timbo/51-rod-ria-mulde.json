@@ -1,0 +1,20 @@
+{
+    "nome": "Rodoviã¡Ria / Mulde",
+    "codigo": "51",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Rodoviã¡Ria / Mulde",
+                "horarios": [
+                    {
+                        "hora": "22:20",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "51-rod-ria-mulde"
+}

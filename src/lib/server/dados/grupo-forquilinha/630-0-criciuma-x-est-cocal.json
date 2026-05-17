@@ -1,0 +1,37 @@
+{
+    "nome": "Criciúma X Estação Cocal",
+    "codigo": "630-0",
+    "detalhe": "Via Cocal do Sul",
+    "servicos": {
+        "1": [
+            {
+                "sentido": "Partida Criciúma",
+                "horarios": [
+                    {
+                        "hora": "06:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Estação Cocal",
+                "horarios": [
+                    {
+                        "hora": "07:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:45",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "630-0-criciuma-x-est-cocal"
+}

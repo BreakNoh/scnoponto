@@ -1,0 +1,32 @@
+{
+    "nome": "C.Novo / Fpolis",
+    "codigo": "02811",
+    "detalhe": "VIA T.NOVA/JARDINS/B.VISTA/RUA PARANÁ/P.IMAR/IVO SILV",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "04:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "02811-c-novo-fpolis"
+}

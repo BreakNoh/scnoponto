@@ -1,0 +1,85 @@
+{
+    "nome": "Egito / Antônio Carlos",
+    "codigo": "920000",
+    "detalhe": "Via Santa Maria",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Bairro Egito - Antonio Carlos",
+                "horarios": [
+                    {
+                        "hora": "06:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via SantaBarbara"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "ViaStaBarbara_Igreja"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Rodoviaria - Antônio Carlos",
+                "horarios": [
+                    {
+                        "hora": "11:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Egito ViaCanudos"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Egito ViaCanudos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Bairro Egito - Antonio Carlos",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Rodoviaria - Antônio Carlos",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Bairro Egito - Antonio Carlos",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Rodoviaria - Antônio Carlos",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "920000-egito-antonio-carlos"
+}

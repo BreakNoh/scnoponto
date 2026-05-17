@@ -1,0 +1,20 @@
+{
+    "nome": "Vila Germer / Fritz Lorenz",
+    "codigo": "63",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Vila Germer / Fritz Lorenz",
+                "horarios": [
+                    {
+                        "hora": "17:05",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "63-vila-germer-fritz-lorenz"
+}

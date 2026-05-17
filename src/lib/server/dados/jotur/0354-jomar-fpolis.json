@@ -1,0 +1,32 @@
+{
+    "nome": "Jomar / Fpolis",
+    "codigo": "0354",
+    "detalhe": "VIA FORMIGA/GUARDA/ARIRIU/BR 101/VIA EXP/IVO SILVEIRA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0354-jomar-fpolis"
+}

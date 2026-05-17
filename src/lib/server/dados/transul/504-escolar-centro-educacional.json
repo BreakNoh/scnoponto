@@ -1,0 +1,25 @@
+{
+    "nome": "Escolar / Centro Educacional",
+    "codigo": "504",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Bairro",
+                "horarios": [
+                    {
+                        "hora": "11:53",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Saída Centro Educacional         ( Período de Aula)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "504-escolar-centro-educacional"
+}

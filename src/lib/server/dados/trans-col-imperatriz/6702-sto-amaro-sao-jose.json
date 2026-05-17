@@ -1,0 +1,29 @@
+{
+    "nome": "Santo Amaro/São José",
+    "codigo": "6702",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Santo Amaro Da Imperatriz",
+                "horarios": []
+            },
+            {
+                "sentido": "Saída São José",
+                "horarios": [
+                    {
+                        "hora": "06:10",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Sai Pres. Kennedy - Ref.: Casas Orion;"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "6702-sto-amaro-sao-jose"
+}

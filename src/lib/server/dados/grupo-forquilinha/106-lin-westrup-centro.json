@@ -1,0 +1,55 @@
+{
+    "nome": "Linha Westrup / Centro",
+    "codigo": "106",
+    "detalhe": "Via Linha São José / Ouro Negro",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Centro",
+                "horarios": [
+                    {
+                        "hora": "05:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:39",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Linha Westrup",
+                "horarios": [
+                    {
+                        "hora": "06:07",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:09",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:37",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "106-lin-westrup-centro"
+}

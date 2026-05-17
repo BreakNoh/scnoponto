@@ -1,0 +1,20 @@
+{
+    "nome": "Colégio Dom Pio / Sul",
+    "codigo": "1748",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "11:35",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "1748-colegio-dom-pio-sul"
+}

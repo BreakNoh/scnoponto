@@ -1,0 +1,20 @@
+{
+    "nome": "Mulde",
+    "codigo": "30",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Mulde",
+                "horarios": [
+                    {
+                        "hora": "11:25",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "30-mulde"
+}

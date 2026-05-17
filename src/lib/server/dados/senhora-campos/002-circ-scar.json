@@ -1,0 +1,20 @@
+{
+    "nome": "Circular Scar",
+    "codigo": "002",
+    "detalhe": null,
+    "servicos": {
+        "1": [
+            {
+                "sentido": "Circular Scar",
+                "horarios": [
+                    {
+                        "hora": "19:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "002-circ-scar"
+}

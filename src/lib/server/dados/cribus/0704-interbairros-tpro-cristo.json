@@ -1,0 +1,94 @@
+{
+    "nome": "Interbairros Tpro /Cristo Redentor / Ana Maria / Renascer",
+    "codigo": "0704",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "23:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "23:47",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "15:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "23:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "23:47",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "21:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "23:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0704-interbairros-tpro-cristo"
+}

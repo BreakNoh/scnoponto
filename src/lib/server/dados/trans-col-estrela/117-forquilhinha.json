@@ -1,0 +1,25 @@
+{
+    "nome": "Forquilhinha",
+    "codigo": "117",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partidas Do Ticen / Fpolis. (Volta",
+                "horarios": [
+                    {
+                        "hora": "17:15",
+                        "obs": [
+                            {
+                                "tipo": "RECOLHE_BAIRRO",
+                                "valor": "Recolhe no bairro"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "117-forquilhinha"
+}

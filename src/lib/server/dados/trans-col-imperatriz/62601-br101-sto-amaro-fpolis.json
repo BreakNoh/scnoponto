@@ -1,0 +1,49 @@
+{
+    "nome": "Santo Amaro/Florianópolis",
+    "codigo": "62601   Via BR101",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Santo Amaro Da Imperatriz",
+                "horarios": [
+                    {
+                        "hora": "05:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:45",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Ticen - Plataforma C (Fpolis",
+                "horarios": [
+                    {
+                        "hora": "11:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "62601-br101-sto-amaro-fpolis"
+}

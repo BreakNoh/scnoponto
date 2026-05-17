@@ -1,0 +1,29 @@
+{
+    "nome": "Pirabeiraba / Estrada Do Oeste",
+    "codigo": "4022",
+    "detalhe": "Via Canela",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:15",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "06:27",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "4022-pirabeiraba-estrada-oeste"
+}

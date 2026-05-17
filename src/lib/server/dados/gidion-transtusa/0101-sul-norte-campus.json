@@ -1,0 +1,29 @@
+{
+    "nome": "Sul / Norte",
+    "codigo": "0101",
+    "detalhe": "Via Campus",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "22:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "06:35",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0101-sul-norte-campus"
+}

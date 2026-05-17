@@ -1,0 +1,136 @@
+{
+    "nome": "Ônibus Circular",
+    "fonte": "https://onibuscircular.com.br",
+    "linhas": [
+        {
+            "nome_linha": "Atalanta",
+            "codigo_linha": "0-40",
+            "nome_empresa": "Ônibus Circular",
+            "slug": "onibus-circ/0-40-atalanta"
+        },
+        {
+            "nome_linha": "Barra Do Trombudo",
+            "codigo_linha": "1A1",
+            "nome_empresa": "Ônibus Circular",
+            "slug": "onibus-circ/1a1-barra-trombudo"
+        },
+        {
+            "nome_linha": "Ribeirão Tigre",
+            "codigo_linha": "1A2",
+            "nome_empresa": "Ônibus Circular",
+            "slug": "onibus-circ/1a2-ribeirao-tigre"
+        },
+        {
+            "nome_linha": "Barra",
+            "codigo_linha": "1BB",
+            "nome_empresa": "Ônibus Circular",
+            "slug": "onibus-circ/1bb-barra-br470"
+        },
+        {
+            "nome_linha": "Bela Aliança",
+            "codigo_linha": "2A1",
+            "nome_empresa": "Ônibus Circular",
+            "slug": "onibus-circ/2a1-bela-alianca"
+        },
+        {
+            "nome_linha": "Alto Bela Aliança (Alto Matador",
+            "codigo_linha": "2BB",
+            "nome_empresa": "Ônibus Circular",
+            "slug": "onibus-circ/2bb-alto-bela-alianca-alto-mat"
+        },
+        {
+            "nome_linha": "Taboão",
+            "codigo_linha": "2C1",
+            "nome_empresa": "Ônibus Circular",
+            "slug": "onibus-circ/2c1-taboao"
+        },
+        {
+            "nome_linha": "Rainha",
+            "codigo_linha": "3A1",
+            "nome_empresa": "Ônibus Circular",
+            "slug": "onibus-circ/3a1-rainha"
+        },
+        {
+            "nome_linha": "Fundo Canoas",
+            "codigo_linha": "4AA",
+            "nome_empresa": "Ônibus Circular",
+            "slug": "onibus-circ/4aa-fundo-canoas"
+        },
+        {
+            "nome_linha": "Serra Canoas",
+            "codigo_linha": "4BB",
+            "nome_empresa": "Ônibus Circular",
+            "slug": "onibus-circ/4bb-serra-canoas"
+        },
+        {
+            "nome_linha": "Progresso",
+            "codigo_linha": "4CC",
+            "nome_empresa": "Ônibus Circular",
+            "slug": "onibus-circ/4cc-progresso"
+        },
+        {
+            "nome_linha": "Fundo Cobras",
+            "codigo_linha": "5B1",
+            "nome_empresa": "Ônibus Circular",
+            "slug": "onibus-circ/5b1-fundo-cobras"
+        },
+        {
+            "nome_linha": "Fundos Itoupava",
+            "codigo_linha": "5C1",
+            "nome_empresa": "Ônibus Circular",
+            "slug": "onibus-circ/5c1-fundos-itoupava"
+        },
+        {
+            "nome_linha": "Boa Vista",
+            "codigo_linha": "6AA",
+            "nome_empresa": "Ônibus Circular",
+            "slug": "onibus-circ/6aa-boa-vista"
+        },
+        {
+            "nome_linha": "Ruy Barbosa",
+            "codigo_linha": "7AA",
+            "nome_empresa": "Ônibus Circular",
+            "slug": "onibus-circ/7aa-ruy-barbosa"
+        },
+        {
+            "nome_linha": "Albertina",
+            "codigo_linha": "8AA",
+            "nome_empresa": "Ônibus Circular",
+            "slug": "onibus-circ/8aa-albertina"
+        },
+        {
+            "nome_linha": "Canta Galo",
+            "codigo_linha": "9AA",
+            "nome_empresa": "Ônibus Circular",
+            "slug": "onibus-circ/9aa-canta-galo"
+        },
+        {
+            "nome_linha": "Agronômica",
+            "codigo_linha": "326",
+            "nome_empresa": "Ônibus Circular",
+            "slug": "onibus-circ/326-agronomica"
+        },
+        {
+            "nome_linha": "Rio Do Sul - Riachuelo",
+            "codigo_linha": "327",
+            "nome_empresa": "Ônibus Circular",
+            "slug": "onibus-circ/327-rio-sul-riachuelo"
+        },
+        {
+            "nome_linha": "Rio Do Oeste - Laurentino",
+            "codigo_linha": "611",
+            "nome_empresa": "Ônibus Circular",
+            "slug": "onibus-circ/611-rio-oeste-laurentino"
+        },
+        {
+            "nome_linha": "Taió",
+            "codigo_linha": "0805-2",
+            "nome_empresa": "Ônibus Circular",
+            "slug": "onibus-circ/0805-2-taio"
+        }
+    ],
+    "regioes": [
+        "vale_do_itajai"
+    ],
+    "slug": "onibus-circ"
+}

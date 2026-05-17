@@ -1,0 +1,68 @@
+{
+    "nome": "Circular Fundos",
+    "codigo": "900007",
+    "detalhe": "Arendimento Cicob_Via Praia J Rosa;",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Cicob",
+                "horarios": [
+                    {
+                        "hora": "07:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Cicob, Emérita,Barreira, V. Janaína, Eloísa, PJ Rosa, Rua Sete, JB, Praça"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Cicob, Emérita,Barreira, V. Janaína, Eloísa, PJ Rosa, Rua Sete, JB, Praça"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Fundos",
+                "horarios": [
+                    {
+                        "hora": "06:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "V. Janaína, JB,Mª da Glória, V. Prado, SC-407, Cicob"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Cicob",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Fundos",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Cicob",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Fundos",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "900007-circ-fundos"
+}

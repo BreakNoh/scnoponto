@@ -1,0 +1,32 @@
+{
+    "nome": "Ent Eld Circ",
+    "codigo": "62011",
+    "detalhe": "VIA ELD/BREJARU/CID UNIV/IFSC/CID UNIV/AQU/PH/P.IMAR/ELD",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "11:40",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "62011-ent-eld-circ"
+}

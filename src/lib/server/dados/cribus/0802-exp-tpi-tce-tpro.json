@@ -1,0 +1,49 @@
+{
+    "nome": "Expresso Tpi / Tce / Tpro",
+    "codigo": "0802",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "07:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:22",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:55",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "07:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:51",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:29",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0802-exp-tpi-tce-tpro"
+}

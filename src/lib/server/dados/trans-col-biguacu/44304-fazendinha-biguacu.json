@@ -1,0 +1,113 @@
+{
+    "nome": "Fazendinha - Biguaçu",
+    "codigo": "44304",
+    "detalhe": "Via Rodovias municipais",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Fazendinha - Sorocaba",
+                "horarios": [
+                    {
+                        "hora": "06:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "G. Sorocaba,Faz. de Dentro, Madeireira, Abatedouro, Geral Saudade, MªGloria, Emerita, JB"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "G. Sorocaba,Faz. de Dentro, Madeireira, Abatedouro, Geral Saudade, Emérita, V. Furacão, JB e Mª da Glória"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Faz. de Dentro,Madeireira, Abatedouro, Geral Saudade, V. Brasil Atacadista e Praça"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Faz. de Dentro,Madeireira, Abatedouro, Geral Saudade, V. Brasil Atacadista e Praça"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Biguaçu - Colegios",
+                "horarios": [
+                    {
+                        "hora": "11:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Eloísa,Emérita, Avelino, JB, Mª da Glória, Geral Saudade, Geral Sorocaba, Faz. de Dentro"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:36",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "JB, Mª. daGlória, V. Prado, Geral Saudade, Estrada Geral Sorocaba e Faz. de Dentro."
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Avelino,Emérita, V. Furacão, JB, Mª da Glória, V. Prado, Geral Saudade, Geral Sorocaba, Faz. de Fora."
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Mª da Glória,V.Prado, Geral Saudade, Fazendinha, Faz. de Fora, Madeireira, Abatedouro, Geral Saudade, Praça."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Fazendinha - Sorocaba",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Biguaçu - Colegios",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Fazendinha - Sorocaba",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Biguaçu - Colegios",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "44304-fazendinha-biguacu"
+}

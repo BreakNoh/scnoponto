@@ -1,0 +1,167 @@
+{
+    "nome": "Grupo Forquilinha",
+    "fonte": "https://www.grupoforquilhinha.com.br",
+    "linhas": [
+        {
+            "nome_linha": "Urussanga X Lauro Muller",
+            "codigo_linha": "396-0",
+            "nome_empresa": "Grupo Forquilinha",
+            "slug": "grupo-forquilinha/396-0-urussanga-x-lauro-muller"
+        },
+        {
+            "nome_linha": "Criciúma X Urussanga",
+            "codigo_linha": "402-0",
+            "nome_empresa": "Grupo Forquilinha",
+            "slug": "grupo-forquilinha/402-0-criciuma-x-urussanga"
+        },
+        {
+            "nome_linha": "Criciúma X Cocal Do Sul",
+            "codigo_linha": "537-0",
+            "nome_empresa": "Grupo Forquilinha",
+            "slug": "grupo-forquilinha/537-0-criciuma-x-cocal-sul"
+        },
+        {
+            "nome_linha": "Criciúma X Estação Cocal",
+            "codigo_linha": "630-0",
+            "nome_empresa": "Grupo Forquilinha",
+            "slug": "grupo-forquilinha/630-0-criciuma-x-est-cocal"
+        },
+        {
+            "nome_linha": "Criciúma X Lauro Muller",
+            "codigo_linha": "631-0",
+            "nome_empresa": "Grupo Forquilinha",
+            "slug": "grupo-forquilinha/631-0-criciuma-x-lauro-muller"
+        },
+        {
+            "nome_linha": "Criciúma X Forquilhinha",
+            "codigo_linha": "772-0",
+            "nome_empresa": "Grupo Forquilinha",
+            "slug": "grupo-forquilinha/772-0-criciuma-x-forquilhinha"
+        },
+        {
+            "nome_linha": "Criciúma X Forquilhinha",
+            "codigo_linha": "772-1",
+            "nome_empresa": "Grupo Forquilinha",
+            "slug": "grupo-forquilinha/772-1-criciuma-x-forquilhinha"
+        },
+        {
+            "nome_linha": "Ouro Negro X Criciúma",
+            "codigo_linha": "772-2",
+            "nome_empresa": "Grupo Forquilinha",
+            "slug": "grupo-forquilinha/772-2-ouro-negro-x-criciuma"
+        },
+        {
+            "nome_linha": "Criciúma X Santa Cruz",
+            "codigo_linha": "773-0",
+            "nome_empresa": "Grupo Forquilinha",
+            "slug": "grupo-forquilinha/773-0-criciuma-x-sta-cruz"
+        },
+        {
+            "nome_linha": "Criciúma X Santa Líbera",
+            "codigo_linha": "773-1",
+            "nome_empresa": "Grupo Forquilinha",
+            "slug": "grupo-forquilinha/773-1-criciuma-x-sta-libera"
+        },
+        {
+            "nome_linha": "Criciúma X Santa Cruz",
+            "codigo_linha": "773-2",
+            "nome_empresa": "Grupo Forquilinha",
+            "slug": "grupo-forquilinha/773-2-criciuma-x-sta-cruz"
+        },
+        {
+            "nome_linha": "Criciúma X Forquilhinha",
+            "codigo_linha": "774-0",
+            "nome_empresa": "Grupo Forquilinha",
+            "slug": "grupo-forquilinha/774-0-criciuma-x-forquilhinha"
+        },
+        {
+            "nome_linha": "Criciúma X Forquilhinha",
+            "codigo_linha": "774-1",
+            "nome_empresa": "Grupo Forquilinha",
+            "slug": "grupo-forquilinha/774-1-criciuma-x-forquilhinha"
+        },
+        {
+            "nome_linha": "Criciúma X Forquilhinha",
+            "codigo_linha": "774-2",
+            "nome_empresa": "Grupo Forquilinha",
+            "slug": "grupo-forquilinha/774-2-criciuma-x-forquilhinha"
+        },
+        {
+            "nome_linha": "Criciúma X Vila Maria",
+            "codigo_linha": "071-0",
+            "nome_empresa": "Grupo Forquilinha",
+            "slug": "grupo-forquilinha/071-0-criciuma-x-vila-maria"
+        },
+        {
+            "nome_linha": "Criciúma X Nova Veneza",
+            "codigo_linha": "072-0",
+            "nome_empresa": "Grupo Forquilinha",
+            "slug": "grupo-forquilinha/072-0-criciuma-x-nova-veneza"
+        },
+        {
+            "nome_linha": "Criciúma X Nova Veneza",
+            "codigo_linha": "606-0",
+            "nome_empresa": "Grupo Forquilinha",
+            "slug": "grupo-forquilinha/606-0-criciuma-x-nova-veneza"
+        },
+        {
+            "nome_linha": "Criciúma X Nova Veneza",
+            "codigo_linha": "606-1",
+            "nome_empresa": "Grupo Forquilinha",
+            "slug": "grupo-forquilinha/606-1-criciuma-x-nova-veneza"
+        },
+        {
+            "nome_linha": "Criciúma X Treviso",
+            "codigo_linha": "185-0",
+            "nome_empresa": "Grupo Forquilinha",
+            "slug": "grupo-forquilinha/185-0-criciuma-x-treviso"
+        },
+        {
+            "nome_linha": "Criciúma X Siderópolis",
+            "codigo_linha": "188-0",
+            "nome_empresa": "Grupo Forquilinha",
+            "slug": "grupo-forquilinha/188-0-criciuma-x-sideropolis"
+        },
+        {
+            "nome_linha": "Vila Lourdes / Centro",
+            "codigo_linha": "100",
+            "nome_empresa": "Grupo Forquilinha",
+            "slug": "grupo-forquilinha/100-vila-lourdes-centro"
+        },
+        {
+            "nome_linha": "Santa Cruz / Centro",
+            "codigo_linha": "101",
+            "nome_empresa": "Grupo Forquilinha",
+            "slug": "grupo-forquilinha/101-sta-cruz-centro"
+        },
+        {
+            "nome_linha": "Cidade Alta / Centro",
+            "codigo_linha": "102",
+            "nome_empresa": "Grupo Forquilinha",
+            "slug": "grupo-forquilinha/102-cidade-alta-centro"
+        },
+        {
+            "nome_linha": "Sanga Do Engenho / Centro",
+            "codigo_linha": "103",
+            "nome_empresa": "Grupo Forquilinha",
+            "slug": "grupo-forquilinha/103-sanga-engenho-centro"
+        },
+        {
+            "nome_linha": "Santa Líbera / Centro",
+            "codigo_linha": "105",
+            "nome_empresa": "Grupo Forquilinha",
+            "slug": "grupo-forquilinha/105-sta-libera-centro"
+        },
+        {
+            "nome_linha": "Linha Westrup / Centro",
+            "codigo_linha": "106",
+            "nome_empresa": "Grupo Forquilinha",
+            "slug": "grupo-forquilinha/106-lin-westrup-centro"
+        }
+    ],
+    "regioes": [
+        "grande_floripa",
+        "sul"
+    ],
+    "slug": "grupo-forquilinha"
+}

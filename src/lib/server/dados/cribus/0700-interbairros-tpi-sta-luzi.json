@@ -1,0 +1,50 @@
+{
+    "nome": "Interbairros Tpi / Sta Luzia / Rio Maina",
+    "codigo": "0700",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "23:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "23:47",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "23:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "23:47",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "23:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0700-interbairros-tpi-sta-luzi"
+}

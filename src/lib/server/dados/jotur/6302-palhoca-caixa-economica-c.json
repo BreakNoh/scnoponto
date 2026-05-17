@@ -1,0 +1,32 @@
+{
+    "nome": "Palhoça (Caixa Econômica) / Cidade Universitária",
+    "codigo": "6302",
+    "detalhe": "VIA ELZA LUCHI",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "06:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "6302-palhoca-caixa-economica-c"
+}

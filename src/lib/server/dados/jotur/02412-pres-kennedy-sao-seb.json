@@ -1,0 +1,32 @@
+{
+    "nome": "Pres. Kennedy / Sao Seb",
+    "codigo": "02412",
+    "detalhe": "VIA P.COMP/VIAD FORQ/MAR BR/AV. TORRES/MADRI",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "17:15",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "02412-pres-kennedy-sao-seb"
+}

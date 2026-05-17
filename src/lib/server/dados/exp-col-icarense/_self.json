@@ -1,0 +1,76 @@
+{
+    "nome": "Expresso Coletivo Içarense",
+    "fonte": "https://icarense.com.br",
+    "linhas": [
+        {
+            "nome_linha": "Criciuma X Barra Velha",
+            "codigo_linha": null,
+            "nome_empresa": "Expresso Coletivo Içarense",
+            "slug": "exp-col-icarense/criciuma-x-barra-velha"
+        },
+        {
+            "nome_linha": "Criciuma X Bal.Rincão",
+            "codigo_linha": null,
+            "nome_empresa": "Expresso Coletivo Içarense",
+            "slug": "exp-col-icarense/criciuma-x-bal-rincao"
+        },
+        {
+            "nome_linha": "B.Velha X Criciuma",
+            "codigo_linha": null,
+            "nome_empresa": "Expresso Coletivo Içarense",
+            "slug": "exp-col-icarense/b-velha-x-criciuma"
+        },
+        {
+            "nome_linha": "Criciuma X Campo Bom",
+            "codigo_linha": null,
+            "nome_empresa": "Expresso Coletivo Içarense",
+            "slug": "exp-col-icarense/criciuma-x-campo-bom"
+        },
+        {
+            "nome_linha": "Barracão X Içara",
+            "codigo_linha": null,
+            "nome_empresa": "Expresso Coletivo Içarense",
+            "slug": "exp-col-icarense/barracao-x-icara"
+        },
+        {
+            "nome_linha": "Vila Nova X Criciuma",
+            "codigo_linha": null,
+            "nome_empresa": "Expresso Coletivo Içarense",
+            "slug": "exp-col-icarense/vila-nova-x-criciuma"
+        },
+        {
+            "nome_linha": "Içara X Criciuma",
+            "codigo_linha": null,
+            "nome_empresa": "Expresso Coletivo Içarense",
+            "slug": "exp-col-icarense/icara-x-criciuma"
+        },
+        {
+            "nome_linha": "Barracão X Criciuma",
+            "codigo_linha": null,
+            "nome_empresa": "Expresso Coletivo Içarense",
+            "slug": "exp-col-icarense/barracao-x-criciuma"
+        },
+        {
+            "nome_linha": "Içara X B.Velha",
+            "codigo_linha": null,
+            "nome_empresa": "Expresso Coletivo Içarense",
+            "slug": "exp-col-icarense/icara-x-b-velha"
+        },
+        {
+            "nome_linha": "C.Bom X Criciuma",
+            "codigo_linha": null,
+            "nome_empresa": "Expresso Coletivo Içarense",
+            "slug": "exp-col-icarense/c-bom-x-criciuma"
+        },
+        {
+            "nome_linha": "Alto Alegre X Criciuma",
+            "codigo_linha": null,
+            "nome_empresa": "Expresso Coletivo Içarense",
+            "slug": "exp-col-icarense/alto-alegre-x-criciuma"
+        }
+    ],
+    "regioes": [
+        "sul"
+    ],
+    "slug": "exp-col-icarense"
+}

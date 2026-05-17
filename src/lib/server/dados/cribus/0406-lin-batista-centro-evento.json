@@ -1,0 +1,101 @@
+{
+    "nome": "Linha Batista (Centro De Eventos",
+    "codigo": "0406",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:33",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:32",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:33",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:45",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "05:58",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:03",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:12",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:43",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:43",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:06",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:02",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:02",
+                        "obs": []
+                    },
+                    {
+                        "hora": "23:20",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0406-lin-batista-centro-evento"
+}

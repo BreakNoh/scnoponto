@@ -1,0 +1,32 @@
+{
+    "nome": "Ent. Vila Nova / Fpolis",
+    "codigo": "03613",
+    "detalhe": "VIA NOVA PALHOCA/BR 101/EXPRESSA/IVO SILVEIRA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "03613-ent-vila-nova-fpolis"
+}

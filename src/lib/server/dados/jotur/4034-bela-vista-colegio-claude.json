@@ -1,0 +1,32 @@
+{
+    "nome": "Bela Vista / Colégio Claudete",
+    "codigo": "4034",
+    "detalhe": "VIA ANICETO ZACCHI",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:20",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "4034-bela-vista-colegio-claude"
+}

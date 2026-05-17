@@ -1,0 +1,45 @@
+{
+    "nome": "Sul Do Rio",
+    "codigo": "5700",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Sul Do Rio",
+                "horarios": []
+            },
+            {
+                "sentido": "Saída Centro",
+                "horarios": [
+                    {
+                        "hora": "11:50",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Saida Colegio Nereu;"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "5700-sul-rio"
+}

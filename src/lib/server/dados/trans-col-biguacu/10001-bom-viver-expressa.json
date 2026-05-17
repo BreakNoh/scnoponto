@@ -1,0 +1,72 @@
+{
+    "nome": "Bom Viver",
+    "codigo": "10001",
+    "detalhe": "Via Expressa\nVia Expressa(BR282)",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Bom Viver - Biguaçu",
+                "horarios": [
+                    {
+                        "hora": "21:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Expressa"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma C - Fpolis",
+                "horarios": [
+                    {
+                        "hora": "07:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Expressa"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Expressa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Bom Viver - Biguaçu",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma C - Fpolis",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Bom Viver - Biguaçu",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma C - Fpolis",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "10001-bom-viver-expressa"
+}

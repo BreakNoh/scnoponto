@@ -1,0 +1,48 @@
+{
+    "nome": "Escolar / Facvest",
+    "codigo": "502",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": [
+                    {
+                        "hora": "18:08",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "(Períodos de Aula)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Bairro",
+                "horarios": [
+                    {
+                        "hora": "21:55",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Saída Facvest   (Períodos de Aula)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Saída Facvest   (Linha Santa Catarina)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "502-escolar-facvest"
+}

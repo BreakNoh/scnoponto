@@ -1,0 +1,66 @@
+{
+    "nome": "Escolar / Colégio Industrial",
+    "codigo": "501",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": [
+                    {
+                        "hora": "07:30",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "(Período de Aula)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:35",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "(Período de Aula)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Bairro",
+                "horarios": [
+                    {
+                        "hora": "11:53",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Saída Col. Industrial  (Período de Aula)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:35",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Saída Col. Industrial  (Período de Aula)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:35",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Saída Col. Industrial  (Período de Aula)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "501-escolar-colegio-ind"
+}

@@ -1,0 +1,32 @@
+{
+    "nome": "Bela Vista / Florianópolis",
+    "codigo": "7166",
+    "detalhe": "VIA PORTAL/BR 101/HOSP REG/IVO SILVEIRA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:15",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "7166-bela-vista-fpolis"
+}

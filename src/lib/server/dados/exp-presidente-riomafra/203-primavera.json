@@ -1,0 +1,45 @@
+{
+    "nome": "Primavera",
+    "codigo": "203",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Rua Do Portão",
+                "horarios": [
+                    {
+                        "hora": "07:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:45",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Praça Hercílio Luz",
+                "horarios": [
+                    {
+                        "hora": "07:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "203-primavera"
+}

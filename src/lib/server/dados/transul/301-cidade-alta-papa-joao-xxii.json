@@ -1,0 +1,195 @@
+{
+    "nome": "Cidade Alta",
+    "codigo": "301",
+    "detalhe": "Via Papa João Xxiii",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": [
+                    {
+                        "hora": "07:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sobe e retorna pela Papa João XXIII.\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai H. Planalto e no Zapelini.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:53",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Vista alegre e Não vai H. Planalto e no Zapelini\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Vista alegre e Não vai H. Planalto e no Zapelini\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:43",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai H. Planalto e no Zapelini.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai H. Planalto e no Zapelini.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai H. Planalto e no Zapelini.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai H. Planalto e no Zapelini.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai H. Planalto, Vai Zapelini, passa IFSC no retorno.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Vista alegre Não Vai Zapelini\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Vista alegre\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Entra Petropolis\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Só vai no Zapelini se tiver desembarque"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Entra Santa Candida e vai Vista Alegre\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Só vai no Zapelini se tiver desembarque"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Bairro",
+                "horarios": [
+                    {
+                        "hora": "14:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai H. Planalto e no Zapelini.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai H. Planalto e no Zapelini.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai H. Planalto e no Zapelini.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai H. Planalto e no Zapelini.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai H. Planalto, Vai Zapelini, passa IFSC no retorno.\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Vista alegre Não Vai Zapelini\t\t\t"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "301-cidade-alta-papa-joao-xxii"
+}

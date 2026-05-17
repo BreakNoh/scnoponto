@@ -1,0 +1,37 @@
+{
+    "nome": "Ifsc",
+    "codigo": "0264",
+    "detalhe": "Via Elza Meinert / Centro",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "11:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:10",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "12:02",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:39",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0264-ifsc-elza-meinert-centro"
+}

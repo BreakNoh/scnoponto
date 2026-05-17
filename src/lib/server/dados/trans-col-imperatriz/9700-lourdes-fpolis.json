@@ -1,0 +1,29 @@
+{
+    "nome": "Lourdes/Florianópolis",
+    "codigo": "9700",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Lourdes",
+                "horarios": [
+                    {
+                        "hora": "05:55",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Ticen - Plataforma C (Fpolis",
+                "horarios": [
+                    {
+                        "hora": "17:35",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "9700-lourdes-fpolis"
+}

@@ -1,0 +1,20 @@
+{
+    "nome": "Industrial",
+    "codigo": "16",
+    "detalhe": "Via. Pe. Martinho",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Industrial Via. Pe. Martinho",
+                "horarios": [
+                    {
+                        "hora": "04:15",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "16-ind-pe-martinho"
+}

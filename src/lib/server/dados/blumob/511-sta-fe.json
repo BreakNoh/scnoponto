@@ -1,0 +1,387 @@
+{
+    "nome": "Santa Fé",
+    "codigo": "511",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Terminal Fonte",
+                "horarios": [
+                    {
+                        "hora": "04:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:40",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Fonte",
+                "horarios": [
+                    {
+                        "hora": "04:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:40",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Fonte",
+                "horarios": [
+                    {
+                        "hora": "04:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:40",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Fonte",
+                "horarios": [
+                    {
+                        "hora": "04:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:40",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Fonte",
+                "horarios": [
+                    {
+                        "hora": "04:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:40",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Santa Fé",
+                "horarios": [
+                    {
+                        "hora": "03:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Santa Fé",
+                "horarios": [
+                    {
+                        "hora": "03:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Santa Fé",
+                "horarios": [
+                    {
+                        "hora": "03:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Santa Fé",
+                "horarios": [
+                    {
+                        "hora": "03:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Santa Fé",
+                "horarios": [
+                    {
+                        "hora": "03:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Saída Terminal Fonte",
+                "horarios": [
+                    {
+                        "hora": "07:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Fonte",
+                "horarios": [
+                    {
+                        "hora": "07:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Fonte",
+                "horarios": [
+                    {
+                        "hora": "07:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Fonte",
+                "horarios": [
+                    {
+                        "hora": "07:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Santa Fé",
+                "horarios": [
+                    {
+                        "hora": "03:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Santa Fé",
+                "horarios": [
+                    {
+                        "hora": "03:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Santa Fé",
+                "horarios": [
+                    {
+                        "hora": "03:42",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Santa Fé",
+                "horarios": [
+                    {
+                        "hora": "03:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "0": [
+            {
+                "sentido": "Saída Terminal Fonte",
+                "horarios": [
+                    {
+                        "hora": "04:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:33",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Santa Fé",
+                "horarios": [
+                    {
+                        "hora": "03:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "511-sta-fe"
+}

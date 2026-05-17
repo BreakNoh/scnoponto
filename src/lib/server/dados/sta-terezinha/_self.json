@@ -1,0 +1,70 @@
+{
+    "nome": "Santa Terezinha",
+    "fonte": "https://santaterezinha.com",
+    "linhas": [
+        {
+            "nome_linha": "Santana - Kobrasol",
+            "codigo_linha": null,
+            "nome_empresa": "Santa Terezinha",
+            "slug": "sta-terezinha/santana-kobrasol"
+        },
+        {
+            "nome_linha": "Santana - Florianópolis",
+            "codigo_linha": null,
+            "nome_empresa": "Santa Terezinha",
+            "slug": "sta-terezinha/santana-fpolis"
+        },
+        {
+            "nome_linha": "Diretão",
+            "codigo_linha": null,
+            "nome_empresa": "Santa Terezinha",
+            "slug": "sta-terezinha/diretao"
+        },
+        {
+            "nome_linha": "Flor De Nápolis - Florianópolis",
+            "codigo_linha": null,
+            "nome_empresa": "Santa Terezinha",
+            "slug": "sta-terezinha/flor-napolis-fpolis"
+        },
+        {
+            "nome_linha": "Picada Do Sul - Florianópolis",
+            "codigo_linha": null,
+            "nome_empresa": "Santa Terezinha",
+            "slug": "sta-terezinha/picada-sul-fpolis"
+        },
+        {
+            "nome_linha": "São Pedro De Alcântara - Florianópolis",
+            "codigo_linha": null,
+            "nome_empresa": "Santa Terezinha",
+            "slug": "sta-terezinha/sao-pedro-alcantara-fpolis"
+        },
+        {
+            "nome_linha": "Continente Park Shopping - Florianópolis",
+            "codigo_linha": null,
+            "nome_empresa": "Santa Terezinha",
+            "slug": "sta-terezinha/continente-park-shopping-fpoli"
+        },
+        {
+            "nome_linha": "Rancho Queimado - Florianópolis",
+            "codigo_linha": null,
+            "nome_empresa": "Santa Terezinha",
+            "slug": "sta-terezinha/rancho-queimado-fpolis"
+        },
+        {
+            "nome_linha": "Sertão - Florianópolis",
+            "codigo_linha": null,
+            "nome_empresa": "Santa Terezinha",
+            "slug": "sta-terezinha/sertao-fpolis"
+        },
+        {
+            "nome_linha": "Forquilhinhas - Serraria",
+            "codigo_linha": null,
+            "nome_empresa": "Santa Terezinha",
+            "slug": "sta-terezinha/forquilhinhas-serraria"
+        }
+    ],
+    "regioes": [
+        "grande_floripa"
+    ],
+    "slug": "sta-terezinha"
+}

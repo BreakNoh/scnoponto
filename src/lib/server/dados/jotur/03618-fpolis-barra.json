@@ -1,0 +1,36 @@
+{
+    "nome": "Fpolis / Barra",
+    "codigo": "03618",
+    "detalhe": "VIA IVO SILV/P. IMARUIM/CENTRO PH/PACHECOS/VILA NOVA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "18:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "03618-fpolis-barra"
+}

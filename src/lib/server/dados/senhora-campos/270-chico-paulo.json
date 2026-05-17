@@ -1,0 +1,177 @@
+{
+    "nome": "Chico De Paulo",
+    "codigo": "270",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Chico De Paulo",
+                "horarios": [
+                    {
+                        "hora": "00:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "03:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "04:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "23:55",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Urbano",
+                "horarios": [
+                    {
+                        "hora": "03:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "03:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:48",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:12",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:28",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "23:12",
+                        "obs": []
+                    },
+                    {
+                        "hora": "23:34",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Saída Chico De Paulo",
+                "horarios": [
+                    {
+                        "hora": "07:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:05",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Terminal Urbano",
+                "horarios": [
+                    {
+                        "hora": "07:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:45",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "270-chico-paulo"
+}

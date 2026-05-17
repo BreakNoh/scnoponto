@@ -1,0 +1,59 @@
+{
+    "nome": "Penha",
+    "codigo": "241",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": [
+                    {
+                        "hora": "16:55",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Sai Empório das Carnes"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Bairro",
+                "horarios": [
+                    {
+                        "hora": "07:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Desce Rua Nossa Senhora da Penha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": []
+            },
+            {
+                "sentido": "Saída Bairro",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": []
+            },
+            {
+                "sentido": "Saída Bairro",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "241-penha"
+}

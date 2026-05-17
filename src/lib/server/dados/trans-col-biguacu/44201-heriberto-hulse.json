@@ -1,0 +1,44 @@
+{
+    "nome": "Heriberto Hulse",
+    "codigo": "44201",
+    "detalhe": "Via Estreito",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Rua Heriberto Hulse - São José",
+                "horarios": [
+                    {
+                        "hora": "11:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma C - Fpolis",
+                "horarios": []
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Rua Heriberto Hulse - São José",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma C - Fpolis",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Rua Heriberto Hulse - São José",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma C - Fpolis",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "44201-heriberto-hulse"
+}

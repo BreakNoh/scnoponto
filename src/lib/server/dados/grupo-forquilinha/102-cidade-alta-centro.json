@@ -1,0 +1,93 @@
+{
+    "nome": "Cidade Alta / Centro",
+    "codigo": "102",
+    "detalhe": "Via Ouro Negro",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Centro",
+                "horarios": [
+                    {
+                        "hora": "06:58",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:36",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "B"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:48",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "C"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:58",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "D"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Cidade Alta",
+                "horarios": [
+                    {
+                        "hora": "06:07",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "B"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:45",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "C"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "102-cidade-alta-centro"
+}

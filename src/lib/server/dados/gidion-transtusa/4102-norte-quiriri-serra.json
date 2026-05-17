@@ -1,0 +1,29 @@
+{
+    "nome": "Norte / Quiriri",
+    "codigo": "4102",
+    "detalhe": "Via Serra",
+    "servicos": {
+        "1": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "07:20",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "07:57",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "4102-norte-quiriri-serra"
+}

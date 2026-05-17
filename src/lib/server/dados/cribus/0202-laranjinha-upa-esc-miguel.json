@@ -1,0 +1,117 @@
+{
+    "nome": "Laranjinha",
+    "codigo": "0202",
+    "detalhe": "Via Upa /Esc. Miguel Giacca",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:08",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:06",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:12",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:56",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:52",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:52",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:16",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:14",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:12",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:40",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "06:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:39",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:39",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:22",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:22",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:18",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:46",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:52",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:07",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0202-laranjinha-upa-esc-miguel"
+}

@@ -1,0 +1,36 @@
+{
+    "nome": "Dom Gregório Warmeling",
+    "codigo": "0407",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:03",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:16",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:23",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:56",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:55",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0407-dom-gregorio-warmeling"
+}

@@ -1,0 +1,99 @@
+{
+    "nome": "Itajaí - Porto Belo",
+    "codigo": null,
+    "detalhe": null,
+    "servicos": {
+        "1": [
+            {
+                "sentido": "Itajaí -> Porto Belo",
+                "horarios": [
+                    {
+                        "hora": "06:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:20",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "62": [
+            {
+                "sentido": "Itajaí -> Porto Belo",
+                "horarios": [
+                    {
+                        "hora": "04:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:25",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "itajai-porto-belo"
+}

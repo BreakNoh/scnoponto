@@ -1,0 +1,32 @@
+{
+    "nome": "Shopping Continente / Terra Nova",
+    "codigo": "11310",
+    "detalhe": "VIA P.IMARUIM/A.ZACCHI/C.NOVO",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "22:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "11310-shopping-continente-terr"
+}

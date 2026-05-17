@@ -1,0 +1,32 @@
+{
+    "nome": "Nova Palhoça / Florianópolis",
+    "codigo": "0381",
+    "detalhe": "VIA P.IMARUIM/BR101/FAZENDA/IVO SILVEIRA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "22:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0381-nova-palhoca-fpolis"
+}

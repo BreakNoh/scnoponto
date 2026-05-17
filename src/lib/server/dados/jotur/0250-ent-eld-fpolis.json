@@ -1,0 +1,32 @@
+{
+    "nome": "Ent Eld / Fpolis",
+    "codigo": "0250",
+    "detalhe": "VIA ELDORADO/CID UNIV/AQUÁRIUS/FAZ/IVO SILVEIRA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "04:55",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0250-ent-eld-fpolis"
+}

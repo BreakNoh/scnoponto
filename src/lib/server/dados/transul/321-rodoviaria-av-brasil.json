@@ -1,0 +1,33 @@
+{
+    "nome": "Rodoviária Av. Brasil",
+    "codigo": "321",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": [
+                    {
+                        "hora": "18:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Não vai Condomínio Ponte Grande"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai só até o Barracão Eventos"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Bairro",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "321-rodoviaria-av-brasil"
+}

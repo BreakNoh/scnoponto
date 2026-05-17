@@ -1,0 +1,20 @@
+{
+    "nome": "Vila Nova",
+    "codigo": "0267",
+    "detalhe": "Via Estrada Do Sul",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "18:08",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0267-vila-nova-estrada-sul"
+}

@@ -1,0 +1,24 @@
+{
+    "nome": "Anhanguera / Centro",
+    "codigo": "0248",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "21:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:15",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0248-anhanguera-centro"
+}

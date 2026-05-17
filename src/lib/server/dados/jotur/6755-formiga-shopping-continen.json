@@ -1,0 +1,32 @@
+{
+    "nome": "Formiga / Shopping Continente",
+    "codigo": "6755",
+    "detalhe": "VIA GUARDA/M.QUADROS/ARIRIU/P.IMARUIM",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "6755-formiga-shopping-continen"
+}

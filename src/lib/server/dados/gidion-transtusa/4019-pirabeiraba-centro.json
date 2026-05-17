@@ -1,0 +1,20 @@
+{
+    "nome": "Pirabeiraba/Centro",
+    "codigo": "4019",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "14:35",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "4019-pirabeiraba-centro"
+}

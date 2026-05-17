@@ -1,0 +1,125 @@
+{
+    "nome": "Circular Porto Belo",
+    "codigo": null,
+    "detalhe": null,
+    "servicos": {
+        "1": [
+            {
+                "sentido": "Via Sertão Do Valongo - Centro",
+                "horarios": [
+                    {
+                        "hora": "06:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Via Centro - Sertão Do Valongo",
+                "horarios": [
+                    {
+                        "hora": "11:45",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Via Araçá - Rodoviária Porto Belo",
+                "horarios": [
+                    {
+                        "hora": "07:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Via Rodoviária Porto Belo - Araçá",
+                "horarios": [
+                    {
+                        "hora": "06:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "62": [
+            {
+                "sentido": "Via Sertão Do Valongo - Centro",
+                "horarios": [
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:45",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Via Centro - Sertão Do Valongo",
+                "horarios": [
+                    {
+                        "hora": "11:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:45",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Via Araçá - Rodoviária Porto Belo",
+                "horarios": [
+                    {
+                        "hora": "06:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Via Rodoviária Porto Belo - Araçá",
+                "horarios": [
+                    {
+                        "hora": "06:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:35",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "circ-porto-belo"
+}

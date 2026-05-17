@@ -1,0 +1,1690 @@
+{
+    "nome": "Gidion/Transtusa",
+    "fonte": "https://onibus.info",
+    "linhas": [
+        {
+            "nome_linha": "Tupy / Norte",
+            "codigo_linha": "0040",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0040-tupy-norte-centro"
+        },
+        {
+            "nome_linha": "Norte / Centro",
+            "codigo_linha": "0041",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0041-norte-centro"
+        },
+        {
+            "nome_linha": "Tupy / Centro",
+            "codigo_linha": "0042",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0042-tupy-centro-goes-monteiro"
+        },
+        {
+            "nome_linha": "Tupy / Centro",
+            "codigo_linha": "0043",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0043-tupy-centro"
+        },
+        {
+            "nome_linha": "Madrugadão Centro / Jardim Paraíso",
+            "codigo_linha": "0044",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0044-madrugadao-centro-jardim"
+        },
+        {
+            "nome_linha": "Espinheiros/Centro",
+            "codigo_linha": "0045",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0045-espinheiros-centro"
+        },
+        {
+            "nome_linha": "Norte / Centro",
+            "codigo_linha": "0135",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0135-norte-centro-dona-francis"
+        },
+        {
+            "nome_linha": "Costa E Silva",
+            "codigo_linha": "0239",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0239-costa-silva-ifsc-centro"
+        },
+        {
+            "nome_linha": "Centro / Campus",
+            "codigo_linha": "0241",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0241-centro-campus"
+        },
+        {
+            "nome_linha": "Costa E Silva / Centro",
+            "codigo_linha": "0242",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0242-costa-silva-centro"
+        },
+        {
+            "nome_linha": "Benjamin Constant / Centro",
+            "codigo_linha": "0244",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0244-benjamin-constant-centro"
+        },
+        {
+            "nome_linha": "Costa E Silva / Centro",
+            "codigo_linha": "0247",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0247-costa-silva-centro-elza-m"
+        },
+        {
+            "nome_linha": "Anhanguera / Centro",
+            "codigo_linha": "0248",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0248-anhanguera-centro"
+        },
+        {
+            "nome_linha": "Jardim Diana / Centro",
+            "codigo_linha": "0259",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0259-jardim-diana-centro"
+        },
+        {
+            "nome_linha": "Ifsc",
+            "codigo_linha": "0263",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0263-ifsc-benjamin-constant-ce"
+        },
+        {
+            "nome_linha": "Ifsc",
+            "codigo_linha": "0264",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0264-ifsc-elza-meinert-centro"
+        },
+        {
+            "nome_linha": "Itaum / Centro",
+            "codigo_linha": "0300",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0300-itaum-centro"
+        },
+        {
+            "nome_linha": "Itaum / Centro",
+            "codigo_linha": "0302",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0302-itaum-centro-anitapolis"
+        },
+        {
+            "nome_linha": "Itaum / Centro",
+            "codigo_linha": "0304",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0304-itaum-centro-procopio-gom"
+        },
+        {
+            "nome_linha": "Vila Nova / Centro",
+            "codigo_linha": "0500",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0500-vila-nova-centro"
+        },
+        {
+            "nome_linha": "Madrugadão Centro / Vila Nova",
+            "codigo_linha": "0504",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0504-madrugadao-centro-vila-no"
+        },
+        {
+            "nome_linha": "Guanabara/Centro",
+            "codigo_linha": "0600",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0600-guanabara-centro"
+        },
+        {
+            "nome_linha": "Guanabara/Centro",
+            "codigo_linha": "0601",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0601-guanabara-centro"
+        },
+        {
+            "nome_linha": "Guanabara/Centro",
+            "codigo_linha": "0603",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0603-guanabara-centro"
+        },
+        {
+            "nome_linha": "Sul / Centro",
+            "codigo_linha": "0700",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0700-sul-centro"
+        },
+        {
+            "nome_linha": "Escolinha / Centro",
+            "codigo_linha": "0703",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0703-escolinha-centro"
+        },
+        {
+            "nome_linha": "Iririú / Centro",
+            "codigo_linha": "0800",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0800-iririu-centro"
+        },
+        {
+            "nome_linha": "Iririú / Centro",
+            "codigo_linha": "0802",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0802-iririu-centro-castro-alve"
+        },
+        {
+            "nome_linha": "Madrugadão Espinheiros / Aventureiro",
+            "codigo_linha": "0805",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0805-madrugadao-espinheiros-av"
+        },
+        {
+            "nome_linha": "Petrópolis",
+            "codigo_linha": "1401",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1401-petropolis"
+        },
+        {
+            "nome_linha": "Madrugadão Estevão De Matos",
+            "codigo_linha": "1410",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1410-madrugadao-estevao-matos"
+        },
+        {
+            "nome_linha": "Circular Noturno Itinga",
+            "codigo_linha": "1411",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1411-circ-noturno-itinga"
+        },
+        {
+            "nome_linha": "Morro Do Meio/Centro",
+            "codigo_linha": "1512",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1512-morro-meio-centro"
+        },
+        {
+            "nome_linha": "Jativoca/Centro",
+            "codigo_linha": "1513",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1513-jativoca-centro"
+        },
+        {
+            "nome_linha": "Jativoca/Centro",
+            "codigo_linha": "1514",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1514-jativoca-centro-olaria"
+        },
+        {
+            "nome_linha": "Morro Do Meio / Centro",
+            "codigo_linha": "1515",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1515-morro-meio-centro-ottokar"
+        },
+        {
+            "nome_linha": "Morro Do Meio/Centro",
+            "codigo_linha": "1516",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1516-morro-meio-centro-cohab"
+        },
+        {
+            "nome_linha": "Rodoviária",
+            "codigo_linha": "1601",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1601-rodoviaria"
+        },
+        {
+            "nome_linha": "São Marcos",
+            "codigo_linha": "1602",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1602-sao-marcos"
+        },
+        {
+            "nome_linha": "Willy Tilp",
+            "codigo_linha": "1603",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1603-willy-tilp-sao-marcos"
+        },
+        {
+            "nome_linha": "Willy Tilp",
+            "codigo_linha": "1604",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1604-willy-tilp"
+        },
+        {
+            "nome_linha": "Rodoviária",
+            "codigo_linha": "1605",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1605-rodoviaria-centrinho"
+        },
+        {
+            "nome_linha": "Rodoviária",
+            "codigo_linha": "1607",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1607-rodoviaria-sociesc"
+        },
+        {
+            "nome_linha": "Rodoviária",
+            "codigo_linha": "1608",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1608-rodoviaria-otto-boehm"
+        },
+        {
+            "nome_linha": "Circular Ottokar Doerffel",
+            "codigo_linha": "1609",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1609-circ-ottokar-doerffel"
+        },
+        {
+            "nome_linha": "Circular Anita Garibaldi",
+            "codigo_linha": "1610",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1610-circ-anita-garibaldi"
+        },
+        {
+            "nome_linha": "Colégio Celso Ramos / Centro",
+            "codigo_linha": "1721",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1721-colegio-celso-ramos-centr"
+        },
+        {
+            "nome_linha": "Escola Do Moinho/Centro",
+            "codigo_linha": "1752",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1752-escola-moinho-centro"
+        },
+        {
+            "nome_linha": "Guanabara/Centro Escola Do Moinho",
+            "codigo_linha": "1753",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1753-guanabara-centro-escola-m"
+        },
+        {
+            "nome_linha": "Circular Centro",
+            "codigo_linha": "2010",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/2010-circ-centro"
+        },
+        {
+            "nome_linha": "Mirante",
+            "codigo_linha": "2015",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/2015-mirante"
+        },
+        {
+            "nome_linha": "Costa E Silva / Centro",
+            "codigo_linha": "3013",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/3013-costa-silva-centro-rui-ba"
+        },
+        {
+            "nome_linha": "Pirabeiraba/Centro",
+            "codigo_linha": "4019",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/4019-pirabeiraba-centro"
+        },
+        {
+            "nome_linha": "Sul/Centro",
+            "codigo_linha": "7014",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/7014-sul-centro-nilo-pecanha"
+        },
+        {
+            "nome_linha": "Copacabana",
+            "codigo_linha": "7015",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/7015-copacabana"
+        },
+        {
+            "nome_linha": "Tupy / Norte",
+            "codigo_linha": "0040",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0040-tupy-norte-centro"
+        },
+        {
+            "nome_linha": "Norte / Centro",
+            "codigo_linha": "0041",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0041-norte-centro"
+        },
+        {
+            "nome_linha": "Sul / Norte",
+            "codigo_linha": "0100",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0100-sul-norte-rodoviaria"
+        },
+        {
+            "nome_linha": "Sul / Norte",
+            "codigo_linha": "0101",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0101-sul-norte-campus"
+        },
+        {
+            "nome_linha": "Dona Francisca",
+            "codigo_linha": "0123",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0123-dona-francisca-morro-cort"
+        },
+        {
+            "nome_linha": "Arno W. Dohler / Norte",
+            "codigo_linha": "0126",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0126-arno-w-dohler-norte"
+        },
+        {
+            "nome_linha": "Norte / Iririú / Tupy",
+            "codigo_linha": "0130",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0130-norte-iririu-tupy"
+        },
+        {
+            "nome_linha": "Norte / Iririú",
+            "codigo_linha": "0134",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0134-norte-iririu-saguacu"
+        },
+        {
+            "nome_linha": "Norte / Centro",
+            "codigo_linha": "0135",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0135-norte-centro-dona-francis"
+        },
+        {
+            "nome_linha": "Norte / Iririú",
+            "codigo_linha": "0136",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0136-norte-iririu"
+        },
+        {
+            "nome_linha": "Norte / Vila Nova",
+            "codigo_linha": "0150",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0150-norte-vila-nova-walmor-ha"
+        },
+        {
+            "nome_linha": "Norte / Vila Nova",
+            "codigo_linha": "0152",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0152-norte-vila-nova-ifsc"
+        },
+        {
+            "nome_linha": "Norte / Vila Nova",
+            "codigo_linha": "0153",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0153-norte-vila-nova-joao-mier"
+        },
+        {
+            "nome_linha": "Norte / Pirabeiraba",
+            "codigo_linha": "0160",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0160-norte-pirabeiraba"
+        },
+        {
+            "nome_linha": "Norte / Pirabeiraba",
+            "codigo_linha": "0161",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0161-norte-pirabeiraba-ver-gui"
+        },
+        {
+            "nome_linha": "Norte/Pirabeiraba",
+            "codigo_linha": "0162",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0162-norte-pirabeiraba-estrada"
+        },
+        {
+            "nome_linha": "Norte / Sul",
+            "codigo_linha": "0200",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0200-norte-sul"
+        },
+        {
+            "nome_linha": "Circular Parque Douat",
+            "codigo_linha": "0202",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0202-circ-parque-douat"
+        },
+        {
+            "nome_linha": "Circular Rui Barbosa",
+            "codigo_linha": "0203",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0203-circ-rui-barbosa"
+        },
+        {
+            "nome_linha": "Dona Francisca",
+            "codigo_linha": "0204",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0204-dona-francisca"
+        },
+        {
+            "nome_linha": "Bom Retiro",
+            "codigo_linha": "0205",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0205-bom-retiro-campus"
+        },
+        {
+            "nome_linha": "Paraíso",
+            "codigo_linha": "0206",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0206-paraiso"
+        },
+        {
+            "nome_linha": "Canto Do Rio Circular",
+            "codigo_linha": "0207",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0207-canto-rio-circ"
+        },
+        {
+            "nome_linha": "Norte / Campus",
+            "codigo_linha": "0208",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0208-norte-campus"
+        },
+        {
+            "nome_linha": "Jardim Sofia",
+            "codigo_linha": "0209",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0209-jardim-sofia"
+        },
+        {
+            "nome_linha": "Rui Barbosa",
+            "codigo_linha": "0210",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0210-rui-barbosa-ifsc"
+        },
+        {
+            "nome_linha": "Eixo Industrial",
+            "codigo_linha": "0211",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0211-eixo-ind"
+        },
+        {
+            "nome_linha": "Bom Retiro",
+            "codigo_linha": "0212",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0212-bom-retiro-edgar-n-meiste"
+        },
+        {
+            "nome_linha": "Bom Retiro",
+            "codigo_linha": "0214",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0214-bom-retiro-barao-teffe"
+        },
+        {
+            "nome_linha": "Paraíso",
+            "codigo_linha": "0219",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0219-paraiso-canto-rio"
+        },
+        {
+            "nome_linha": "Paraíso",
+            "codigo_linha": "0271",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0271-paraiso-arno-w-dohler"
+        },
+        {
+            "nome_linha": "Canto Do Rio",
+            "codigo_linha": "0272",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0272-canto-rio-arno-w-dohler"
+        },
+        {
+            "nome_linha": "Eixo Industrial",
+            "codigo_linha": "0274",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0274-eixo-ind-bororos"
+        },
+        {
+            "nome_linha": "Norte / Clodoaldo Gomes",
+            "codigo_linha": "0278",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0278-norte-clodoaldo-gomes"
+        },
+        {
+            "nome_linha": "Circular Norte",
+            "codigo_linha": "0279",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0279-circ-norte"
+        },
+        {
+            "nome_linha": "Iririu / Pirabeiraba",
+            "codigo_linha": "0299",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0299-iririu-pirabeiraba"
+        },
+        {
+            "nome_linha": "Itaum / Pirabeiraba",
+            "codigo_linha": "0307",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0307-itaum-pirabeiraba"
+        },
+        {
+            "nome_linha": "Norte / Cubatão Raabe",
+            "codigo_linha": "0414",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0414-norte-cubatao-raabe"
+        },
+        {
+            "nome_linha": "Norte / Rio Bonito",
+            "codigo_linha": "0416",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0416-norte-rio-bonito"
+        },
+        {
+            "nome_linha": "Norte / Av. Edmundo Doubrawa",
+            "codigo_linha": "0417",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0417-norte-av-edmundo-doubrawa"
+        },
+        {
+            "nome_linha": "Norte / Tia Marta",
+            "codigo_linha": "0423",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0423-norte-tia-marta"
+        },
+        {
+            "nome_linha": "Norte / Rio Bonito",
+            "codigo_linha": "0425",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0425-norte-rio-bonito-canela"
+        },
+        {
+            "nome_linha": "Norte / Perini",
+            "codigo_linha": "0426",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0426-norte-perini"
+        },
+        {
+            "nome_linha": "Perini / Iririú / Tupy",
+            "codigo_linha": "0429",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0429-perini-iririu-tupy"
+        },
+        {
+            "nome_linha": "Itinga / Norte",
+            "codigo_linha": "0702",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0702-itinga-norte"
+        },
+        {
+            "nome_linha": "Ribeirão Do Cubatão",
+            "codigo_linha": "2100",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/2100-ribeirao-cubatao"
+        },
+        {
+            "nome_linha": "Pirabeiraba/Centro",
+            "codigo_linha": "4019",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/4019-pirabeiraba-centro"
+        },
+        {
+            "nome_linha": "Norte / Quiriri",
+            "codigo_linha": "4100",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/4100-norte-quiriri"
+        },
+        {
+            "nome_linha": "Norte / Quiriri",
+            "codigo_linha": "4102",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/4102-norte-quiriri-serra"
+        },
+        {
+            "nome_linha": "Norte / Quiriri",
+            "codigo_linha": "4105",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/4105-norte-quiriri-rio-prata"
+        },
+        {
+            "nome_linha": "Norte/Itaum",
+            "codigo_linha": "6000",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/6000-norte-itaum"
+        },
+        {
+            "nome_linha": "Norte / Iririú / Tupy",
+            "codigo_linha": "0130",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0130-norte-iririu-tupy"
+        },
+        {
+            "nome_linha": "Campus / Iririú / Tupy",
+            "codigo_linha": "0131",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0131-campus-iririu-tupy"
+        },
+        {
+            "nome_linha": "Iririú / Campus",
+            "codigo_linha": "0132",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0132-iririu-campus"
+        },
+        {
+            "nome_linha": "Norte / Iririú",
+            "codigo_linha": "0134",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0134-norte-iririu-saguacu"
+        },
+        {
+            "nome_linha": "Norte / Iririú",
+            "codigo_linha": "0136",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0136-norte-iririu"
+        },
+        {
+            "nome_linha": "Tupy / Iririú",
+            "codigo_linha": "0138",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0138-tupy-iririu"
+        },
+        {
+            "nome_linha": "Novos Horizontes",
+            "codigo_linha": "0220",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0220-novos-horizontes-joao-rei"
+        },
+        {
+            "nome_linha": "Comasa Iririú",
+            "codigo_linha": "0221",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0221-comasa-iririu"
+        },
+        {
+            "nome_linha": "Jardim Iririú",
+            "codigo_linha": "0222",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0222-jardim-iririu"
+        },
+        {
+            "nome_linha": "Iririú",
+            "codigo_linha": "0223",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0223-iririu-jardim-iririu"
+        },
+        {
+            "nome_linha": "Circular Cubatão",
+            "codigo_linha": "0224",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0224-circ-cubatao"
+        },
+        {
+            "nome_linha": "Iririú",
+            "codigo_linha": "0226",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0226-iririu-novos-horizontes"
+        },
+        {
+            "nome_linha": "Cohab",
+            "codigo_linha": "0228",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0228-cohab-parque-joinville"
+        },
+        {
+            "nome_linha": "Circular Tuiuti",
+            "codigo_linha": "0229",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0229-circ-tuiuti"
+        },
+        {
+            "nome_linha": "Emílio Landmann",
+            "codigo_linha": "0230",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0230-emilio-landmann"
+        },
+        {
+            "nome_linha": "Cohab",
+            "codigo_linha": "0231",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0231-cohab"
+        },
+        {
+            "nome_linha": "Aventureiro Circular",
+            "codigo_linha": "0232",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0232-aventureiro-circ"
+        },
+        {
+            "nome_linha": "Vigorelli",
+            "codigo_linha": "0233",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0233-vigorelli"
+        },
+        {
+            "nome_linha": "Cubatão",
+            "codigo_linha": "0234",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0234-cubatao"
+        },
+        {
+            "nome_linha": "Paraíso / Iririú",
+            "codigo_linha": "0236",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0236-paraiso-iririu"
+        },
+        {
+            "nome_linha": "Parque Joinville",
+            "codigo_linha": "0237",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0237-parque-joinville"
+        },
+        {
+            "nome_linha": "Aventureiro Cohab",
+            "codigo_linha": "0238",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0238-aventureiro-cohab-emilio"
+        },
+        {
+            "nome_linha": "Aeroporto",
+            "codigo_linha": "0240",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0240-aeroporto-emilio-landmann"
+        },
+        {
+            "nome_linha": "Costa E Silva / Tupy",
+            "codigo_linha": "0290",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0290-costa-silva-tupy-iririu"
+        },
+        {
+            "nome_linha": "Iririu / Pirabeiraba",
+            "codigo_linha": "0299",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0299-iririu-pirabeiraba"
+        },
+        {
+            "nome_linha": "Perini / Iririú / Tupy",
+            "codigo_linha": "0429",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0429-perini-iririu-tupy"
+        },
+        {
+            "nome_linha": "Iririú / Centro",
+            "codigo_linha": "0800",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0800-iririu-centro"
+        },
+        {
+            "nome_linha": "Iririú / Centro",
+            "codigo_linha": "0802",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0802-iririu-centro-castro-alve"
+        },
+        {
+            "nome_linha": "Iririú/Sul",
+            "codigo_linha": "6003",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/6003-iririu-sul"
+        },
+        {
+            "nome_linha": "Sul / Guanabara",
+            "codigo_linha": "0110",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0110-sul-guanabara-itaum"
+        },
+        {
+            "nome_linha": "Itaum / Sul",
+            "codigo_linha": "0111",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0111-itaum-sul-joao-ramalho"
+        },
+        {
+            "nome_linha": "Sul / Itaum",
+            "codigo_linha": "0112",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0112-sul-itaum"
+        },
+        {
+            "nome_linha": "Itaum / Guanabara",
+            "codigo_linha": "0121",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0121-itaum-guanabara-agulhas-n"
+        },
+        {
+            "nome_linha": "Itaum / Centro",
+            "codigo_linha": "0300",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0300-itaum-centro"
+        },
+        {
+            "nome_linha": "Itaum / Centro",
+            "codigo_linha": "0302",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0302-itaum-centro-anitapolis"
+        },
+        {
+            "nome_linha": "Itaum / Centro",
+            "codigo_linha": "0304",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0304-itaum-centro-procopio-gom"
+        },
+        {
+            "nome_linha": "Itaum / Campus",
+            "codigo_linha": "0306",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0306-itaum-campus-guanabara"
+        },
+        {
+            "nome_linha": "Itaum / Pirabeiraba",
+            "codigo_linha": "0307",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0307-itaum-pirabeiraba"
+        },
+        {
+            "nome_linha": "Jarivatuba",
+            "codigo_linha": "1201",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1201-jarivatuba"
+        },
+        {
+            "nome_linha": "Morro Do Amaral",
+            "codigo_linha": "1203",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1203-morro-amaral"
+        },
+        {
+            "nome_linha": "Padre Roma",
+            "codigo_linha": "1204",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1204-padre-roma"
+        },
+        {
+            "nome_linha": "Estevão De Matos",
+            "codigo_linha": "1206",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1206-estevao-matos"
+        },
+        {
+            "nome_linha": "Jardim Edilene",
+            "codigo_linha": "1209",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1209-jardim-edilene"
+        },
+        {
+            "nome_linha": "Rua Colombo",
+            "codigo_linha": "1215",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1215-r-colombo"
+        },
+        {
+            "nome_linha": "Paranaguamirim",
+            "codigo_linha": "1220",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1220-paranaguamirim"
+        },
+        {
+            "nome_linha": "Circular Guarani",
+            "codigo_linha": "1222",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1222-circ-guarani"
+        },
+        {
+            "nome_linha": "Morro Do Amaral",
+            "codigo_linha": "1223",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1223-morro-amaral-jardim-edile"
+        },
+        {
+            "nome_linha": "Jarivatuba",
+            "codigo_linha": "1225",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1225-jarivatuba-padre-roma"
+        },
+        {
+            "nome_linha": "Paranaguamirim",
+            "codigo_linha": "1230",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1230-paranaguamirim-monsenhor"
+        },
+        {
+            "nome_linha": "Madrugadão Estevão De Matos",
+            "codigo_linha": "1410",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1410-madrugadao-estevao-matos"
+        },
+        {
+            "nome_linha": "Colégio Celso Ramos / Guanabara / Itaum",
+            "codigo_linha": "1727",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1727-colegio-celso-ramos-guana"
+        },
+        {
+            "nome_linha": "Itaum / Lepper",
+            "codigo_linha": "1734",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1734-itaum-lepper-guanabara"
+        },
+        {
+            "nome_linha": "Norte/Itaum",
+            "codigo_linha": "6000",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/6000-norte-itaum"
+        },
+        {
+            "nome_linha": "Norte / Vila Nova",
+            "codigo_linha": "0150",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0150-norte-vila-nova-walmor-ha"
+        },
+        {
+            "nome_linha": "Norte / Vila Nova",
+            "codigo_linha": "0152",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0152-norte-vila-nova-ifsc"
+        },
+        {
+            "nome_linha": "Norte / Vila Nova",
+            "codigo_linha": "0153",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0153-norte-vila-nova-joao-mier"
+        },
+        {
+            "nome_linha": "Vila Nova",
+            "codigo_linha": "0252",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0252-vila-nova"
+        },
+        {
+            "nome_linha": "Bento T. Da Rocha",
+            "codigo_linha": "0253",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0253-bento-t-rocha"
+        },
+        {
+            "nome_linha": "Paulo Schneider",
+            "codigo_linha": "0254",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0254-paulo-schneider"
+        },
+        {
+            "nome_linha": "João Miers",
+            "codigo_linha": "0255",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0255-joao-miers"
+        },
+        {
+            "nome_linha": "Paulo Schneider",
+            "codigo_linha": "0257",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0257-paulo-schneider-vila-nova"
+        },
+        {
+            "nome_linha": "Bento T. Da Rocha",
+            "codigo_linha": "0258",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0258-bento-t-rocha-parque-xv"
+        },
+        {
+            "nome_linha": "Estrada Anaburgo",
+            "codigo_linha": "0260",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0260-estrada-anaburgo"
+        },
+        {
+            "nome_linha": "Estrada Anaburgo",
+            "codigo_linha": "0261",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0261-estrada-anaburgo-bororos"
+        },
+        {
+            "nome_linha": "Circular Bororós",
+            "codigo_linha": "0262",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0262-circ-bororos"
+        },
+        {
+            "nome_linha": "Bento T. Da Rocha",
+            "codigo_linha": "0265",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0265-bento-t-rocha-vila-nova"
+        },
+        {
+            "nome_linha": "Vila Nova",
+            "codigo_linha": "0267",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0267-vila-nova-estrada-sul"
+        },
+        {
+            "nome_linha": "Vila Nova",
+            "codigo_linha": "0268",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0268-vila-nova-cristo-rei"
+        },
+        {
+            "nome_linha": "Estrada Blumenau",
+            "codigo_linha": "0439",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0439-estrada-blumenau-saltoii"
+        },
+        {
+            "nome_linha": "Circular Oeste",
+            "codigo_linha": "0441",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0441-circ-oeste"
+        },
+        {
+            "nome_linha": "Salão Jacob",
+            "codigo_linha": "0442",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0442-salao-jacob"
+        },
+        {
+            "nome_linha": "Circular Oeste",
+            "codigo_linha": "0443",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0443-circ-oeste-estrada-blumen"
+        },
+        {
+            "nome_linha": "Vila Nova / Centro",
+            "codigo_linha": "0500",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0500-vila-nova-centro"
+        },
+        {
+            "nome_linha": "Sul / Campus",
+            "codigo_linha": "0022",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0022-sul-campus"
+        },
+        {
+            "nome_linha": "Sul / Norte",
+            "codigo_linha": "0100",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0100-sul-norte-rodoviaria"
+        },
+        {
+            "nome_linha": "Sul / Norte",
+            "codigo_linha": "0101",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0101-sul-norte-campus"
+        },
+        {
+            "nome_linha": "Sul / Guanabara",
+            "codigo_linha": "0110",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0110-sul-guanabara-itaum"
+        },
+        {
+            "nome_linha": "Itaum / Sul",
+            "codigo_linha": "0111",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0111-itaum-sul-joao-ramalho"
+        },
+        {
+            "nome_linha": "Sul / Itaum",
+            "codigo_linha": "0112",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0112-sul-itaum"
+        },
+        {
+            "nome_linha": "Norte / Sul",
+            "codigo_linha": "0200",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0200-norte-sul"
+        },
+        {
+            "nome_linha": "Sul / Centro",
+            "codigo_linha": "0700",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0700-sul-centro"
+        },
+        {
+            "nome_linha": "Itinga / Norte",
+            "codigo_linha": "0702",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0702-itinga-norte"
+        },
+        {
+            "nome_linha": "Escolinha / Centro",
+            "codigo_linha": "0703",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0703-escolinha-centro"
+        },
+        {
+            "nome_linha": "Circular Noturno Itinga",
+            "codigo_linha": "1411",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1411-circ-noturno-itinga"
+        },
+        {
+            "nome_linha": "Colégio Celso Ramos / Sul",
+            "codigo_linha": "1720",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1720-colegio-celso-ramos-sul"
+        },
+        {
+            "nome_linha": "Viqua / Sul",
+            "codigo_linha": "1731",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1731-viqua-sul"
+        },
+        {
+            "nome_linha": "Plasbohn / Sul",
+            "codigo_linha": "1737",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1737-plasbohn-sul"
+        },
+        {
+            "nome_linha": "Colégio Rudolfo Meyer / Sul",
+            "codigo_linha": "1738",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1738-colegio-rudolfo-meyer-sul"
+        },
+        {
+            "nome_linha": "Colégio Dom Pio / Sul",
+            "codigo_linha": "1748",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1748-colegio-dom-pio-sul"
+        },
+        {
+            "nome_linha": "Iririú/Sul",
+            "codigo_linha": "6003",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/6003-iririu-sul"
+        },
+        {
+            "nome_linha": "Escolinha",
+            "codigo_linha": "7001",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/7001-escolinha-boehmerwaldt"
+        },
+        {
+            "nome_linha": "Itinga",
+            "codigo_linha": "7002",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/7002-itinga"
+        },
+        {
+            "nome_linha": "Profipo",
+            "codigo_linha": "7003",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/7003-profipo"
+        },
+        {
+            "nome_linha": "Km 11",
+            "codigo_linha": "7004",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/7004-km-11"
+        },
+        {
+            "nome_linha": "Escolinha",
+            "codigo_linha": "7005",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/7005-escolinha-sta-helena"
+        },
+        {
+            "nome_linha": "Estrada Parati",
+            "codigo_linha": "7006",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/7006-estrada-parati-othon-made"
+        },
+        {
+            "nome_linha": "Rua Portugal",
+            "codigo_linha": "7007",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/7007-r-portugal"
+        },
+        {
+            "nome_linha": "Ronco D' Água",
+            "codigo_linha": "7008",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/7008-ronco-d-agua"
+        },
+        {
+            "nome_linha": "Porto Rico",
+            "codigo_linha": "7013",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/7013-porto-rico"
+        },
+        {
+            "nome_linha": "Sul/Centro",
+            "codigo_linha": "7014",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/7014-sul-centro-nilo-pecanha"
+        },
+        {
+            "nome_linha": "Copacabana",
+            "codigo_linha": "7015",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/7015-copacabana"
+        },
+        {
+            "nome_linha": "Eixo Sul",
+            "codigo_linha": "7016",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/7016-eixo-sul"
+        },
+        {
+            "nome_linha": "Ronco D' Água",
+            "codigo_linha": "7017",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/7017-ronco-d-agua-thaiti"
+        },
+        {
+            "nome_linha": "Itinga",
+            "codigo_linha": "7020",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/7020-itinga-profipo"
+        },
+        {
+            "nome_linha": "Eixo Sul",
+            "codigo_linha": "7023",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/7023-eixo-sul-br-101"
+        },
+        {
+            "nome_linha": "Sul / Rodoviária",
+            "codigo_linha": "7025",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/7025-sul-rodoviaria"
+        },
+        {
+            "nome_linha": "Km 11",
+            "codigo_linha": "7026",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/7026-km-11-cidade-luziana"
+        },
+        {
+            "nome_linha": "Circular Santa Catarina",
+            "codigo_linha": "7027",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/7027-circ-sta-catarina"
+        },
+        {
+            "nome_linha": "Circular Rua São Paulo",
+            "codigo_linha": "7028",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/7028-circ-r-sao-paulo"
+        },
+        {
+            "nome_linha": "Tupy / Norte",
+            "codigo_linha": "0040",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0040-tupy-norte-centro"
+        },
+        {
+            "nome_linha": "Tupy / Centro",
+            "codigo_linha": "0042",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0042-tupy-centro-goes-monteiro"
+        },
+        {
+            "nome_linha": "Tupy / Centro",
+            "codigo_linha": "0043",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0043-tupy-centro"
+        },
+        {
+            "nome_linha": "Espinheiros/Centro",
+            "codigo_linha": "0045",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0045-espinheiros-centro"
+        },
+        {
+            "nome_linha": "Norte / Iririú / Tupy",
+            "codigo_linha": "0130",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0130-norte-iririu-tupy"
+        },
+        {
+            "nome_linha": "Campus / Iririú / Tupy",
+            "codigo_linha": "0131",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0131-campus-iririu-tupy"
+        },
+        {
+            "nome_linha": "Tupy / Iririú",
+            "codigo_linha": "0138",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0138-tupy-iririu"
+        },
+        {
+            "nome_linha": "Tupy / Guanabara",
+            "codigo_linha": "0140",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0140-tupy-guanabara"
+        },
+        {
+            "nome_linha": "Aventureiro / Tupy",
+            "codigo_linha": "0215",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0215-aventureiro-tupy"
+        },
+        {
+            "nome_linha": "Costa E Silva / Tupy",
+            "codigo_linha": "0290",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0290-costa-silva-tupy-iririu"
+        },
+        {
+            "nome_linha": "Espinheiros",
+            "codigo_linha": "0403",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0403-espinheiros"
+        },
+        {
+            "nome_linha": "Circular Ponte Serrada",
+            "codigo_linha": "0404",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0404-circ-ponte-serrada"
+        },
+        {
+            "nome_linha": "Goes Monteiro Circular",
+            "codigo_linha": "0405",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0405-goes-monteiro-circ"
+        },
+        {
+            "nome_linha": "Praia Grande",
+            "codigo_linha": "0406",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0406-praia-grande-baltazar-bus"
+        },
+        {
+            "nome_linha": "Dom Gregório Warmeling",
+            "codigo_linha": "0407",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0407-dom-gregorio-warmeling"
+        },
+        {
+            "nome_linha": "Perini / Iririú / Tupy",
+            "codigo_linha": "0429",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0429-perini-iririu-tupy"
+        },
+        {
+            "nome_linha": "Espinheiros",
+            "codigo_linha": "0444",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0444-espinheiros-baltazar-busc"
+        },
+        {
+            "nome_linha": "Sul / Guanabara",
+            "codigo_linha": "0110",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0110-sul-guanabara-itaum"
+        },
+        {
+            "nome_linha": "Itaum / Guanabara",
+            "codigo_linha": "0121",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0121-itaum-guanabara-agulhas-n"
+        },
+        {
+            "nome_linha": "Tupy / Guanabara",
+            "codigo_linha": "0140",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0140-tupy-guanabara"
+        },
+        {
+            "nome_linha": "Itaum / Campus",
+            "codigo_linha": "0306",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0306-itaum-campus-guanabara"
+        },
+        {
+            "nome_linha": "Guanabara/Centro",
+            "codigo_linha": "0600",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0600-guanabara-centro"
+        },
+        {
+            "nome_linha": "Guanabara/Centro",
+            "codigo_linha": "0601",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0601-guanabara-centro"
+        },
+        {
+            "nome_linha": "Guanabara/Centro",
+            "codigo_linha": "0603",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0603-guanabara-centro"
+        },
+        {
+            "nome_linha": "Circular Adhemar Garcia",
+            "codigo_linha": "1301",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1301-circ-adhemar-garcia"
+        },
+        {
+            "nome_linha": "Ulysses Guimarães",
+            "codigo_linha": "1305",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1305-ulysses-guimaraes"
+        },
+        {
+            "nome_linha": "Teresópolis",
+            "codigo_linha": "1306",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1306-teresopolis"
+        },
+        {
+            "nome_linha": "José Loureiro",
+            "codigo_linha": "1309",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1309-jose-loureiro"
+        },
+        {
+            "nome_linha": "Ulysses",
+            "codigo_linha": "1311",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1311-ulysses-jose-loureiro"
+        },
+        {
+            "nome_linha": "José Loureiro",
+            "codigo_linha": "1312",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1312-jose-loureiro-jarivatuba"
+        },
+        {
+            "nome_linha": "Colégio Celso Ramos / Guanabara / Itaum",
+            "codigo_linha": "1727",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1727-colegio-celso-ramos-guana"
+        },
+        {
+            "nome_linha": "Itaum / Lepper",
+            "codigo_linha": "1734",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1734-itaum-lepper-guanabara"
+        },
+        {
+            "nome_linha": "Guanabara/Centro Escola Do Moinho",
+            "codigo_linha": "1753",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1753-guanabara-centro-escola-m"
+        },
+        {
+            "nome_linha": "Norte / Pirabeiraba",
+            "codigo_linha": "0160",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0160-norte-pirabeiraba"
+        },
+        {
+            "nome_linha": "Norte / Pirabeiraba",
+            "codigo_linha": "0161",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0161-norte-pirabeiraba-ver-gui"
+        },
+        {
+            "nome_linha": "Norte/Pirabeiraba",
+            "codigo_linha": "0162",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0162-norte-pirabeiraba-estrada"
+        },
+        {
+            "nome_linha": "Itaum / Pirabeiraba",
+            "codigo_linha": "0307",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0307-itaum-pirabeiraba"
+        },
+        {
+            "nome_linha": "Norte / Rio Bonito",
+            "codigo_linha": "0416",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0416-norte-rio-bonito"
+        },
+        {
+            "nome_linha": "Norte / Tia Marta",
+            "codigo_linha": "0423",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0423-norte-tia-marta"
+        },
+        {
+            "nome_linha": "Norte / Rio Bonito",
+            "codigo_linha": "0425",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0425-norte-rio-bonito-canela"
+        },
+        {
+            "nome_linha": "Pirabeiraba / Rio Da Prata Final",
+            "codigo_linha": "4010",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/4010-pirabeiraba-rio-prata-fin"
+        },
+        {
+            "nome_linha": "Pirabeiraba / Rio Da Prata",
+            "codigo_linha": "4011",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/4011-pirabeiraba-rio-prata"
+        },
+        {
+            "nome_linha": "Pirabeiraba / Estrada Mildau",
+            "codigo_linha": "4012",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/4012-pirabeiraba-estrada-milda"
+        },
+        {
+            "nome_linha": "Pirabeiraba / Estrada Pirabeiraba",
+            "codigo_linha": "4013",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/4013-pirabeiraba-estrada-pirab"
+        },
+        {
+            "nome_linha": "Pirabeiraba / Escola Agrícola",
+            "codigo_linha": "4015",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/4015-pirabeiraba-escola-agrico"
+        },
+        {
+            "nome_linha": "Pirabeiraba / Rio Bonito",
+            "codigo_linha": "4016",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/4016-pirabeiraba-rio-bonito"
+        },
+        {
+            "nome_linha": "Pirabeiraba / Bairro",
+            "codigo_linha": "4017",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/4017-pirabeiraba-bairro"
+        },
+        {
+            "nome_linha": "Pirabeiraba / Cubatão Raabe",
+            "codigo_linha": "4018",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/4018-pirabeiraba-cubatao-raabe"
+        },
+        {
+            "nome_linha": "Pirabeiraba / Estrada Do Oeste",
+            "codigo_linha": "4022",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/4022-pirabeiraba-estrada-oeste"
+        },
+        {
+            "nome_linha": "Pirabeiraba / Tia Marta",
+            "codigo_linha": "4023",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/4023-pirabeiraba-tia-marta"
+        },
+        {
+            "nome_linha": "Pirabeiraba / Rio Bonito",
+            "codigo_linha": "4025",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/4025-pirabeiraba-rio-bonito-ca"
+        },
+        {
+            "nome_linha": "Pirabeiraba / Estrada Fazenda",
+            "codigo_linha": "4026",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/4026-pirabeiraba-estrada-faz"
+        },
+        {
+            "nome_linha": "Pirabeiraba / Estrada Do Oeste",
+            "codigo_linha": "4027",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/4027-pirabeiraba-estrada-oeste"
+        },
+        {
+            "nome_linha": "Pirabeiraba / Rio Bonito",
+            "codigo_linha": "4029",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/4029-pirabeiraba-rio-bonito-es"
+        },
+        {
+            "nome_linha": "Pirabeiraba / Quiriri",
+            "codigo_linha": "4030",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/4030-pirabeiraba-quiriri"
+        },
+        {
+            "nome_linha": "Pirabeiraba / Quiriri",
+            "codigo_linha": "4032",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/4032-pirabeiraba-quiriri-serra"
+        },
+        {
+            "nome_linha": "Pirabeiraba / Quiriri Final",
+            "codigo_linha": "4033",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/4033-pirabeiraba-quiriri-final"
+        },
+        {
+            "nome_linha": "Pirabeiraba / Quiriri Final",
+            "codigo_linha": "4034",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/4034-pirabeiraba-quiriri-final"
+        },
+        {
+            "nome_linha": "Norte / Quiriri",
+            "codigo_linha": "4100",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/4100-norte-quiriri"
+        },
+        {
+            "nome_linha": "Norte / Quiriri",
+            "codigo_linha": "4102",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/4102-norte-quiriri-serra"
+        },
+        {
+            "nome_linha": "Norte / Quiriri",
+            "codigo_linha": "4105",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/4105-norte-quiriri-rio-prata"
+        },
+        {
+            "nome_linha": "Avelino Marcante / Estrada Da Ilha",
+            "codigo_linha": "0931",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0931-avelino-marcante-estrada"
+        },
+        {
+            "nome_linha": "Avelino Marcante /Jardim Kelly",
+            "codigo_linha": "0932",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0932-avelino-marcante-jardim-k"
+        },
+        {
+            "nome_linha": "Avelino Marcante / Estrada Da Ilha / Jardim Kelly",
+            "codigo_linha": "0933",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/0933-avelino-marcante-estrada"
+        },
+        {
+            "nome_linha": "Estevão De Matos / Nilson Bender",
+            "codigo_linha": "1745",
+            "nome_empresa": "Gidion/Transtusa",
+            "slug": "gidion-transtusa/1745-estevao-matos-nilson-bend"
+        }
+    ],
+    "regioes": [
+        "norte"
+    ],
+    "slug": "gidion-transtusa"
+}

@@ -1,0 +1,32 @@
+{
+    "nome": "Fpolis / Formiga",
+    "codigo": "6750",
+    "detalhe": "VIA EXPRESSA/BR 101/CENTRO PH/ARIRIU/GUARDA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "19:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "6750-fpolis-formiga"
+}

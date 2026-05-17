@@ -1,0 +1,64 @@
+{
+    "nome": "Morro Do Amaral",
+    "codigo": "1203",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "03:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:35",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "03:44",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:29",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:03",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:28",
+                        "obs": []
+                    },
+                    {
+                        "hora": "23:53",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "03:20",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "1203-morro-amaral"
+}

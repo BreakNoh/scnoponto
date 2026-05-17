@@ -1,0 +1,57 @@
+{
+    "nome": "Aventureiro Cohab",
+    "codigo": "0238",
+    "detalhe": "Via Emílio Landmann",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "20:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:49",
+                        "obs": []
+                    },
+                    {
+                        "hora": "23:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "24:45",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "21:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "23:04",
+                        "obs": []
+                    },
+                    {
+                        "hora": "24:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0238-aventureiro-cohab-emilio"
+}

@@ -1,0 +1,32 @@
+{
+    "nome": "Enseada / Shopping Continente",
+    "codigo": "11371",
+    "detalhe": "VIA MARIVONE/PONTAL/PONTE DO IMARUIM",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "07:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "11371-enseada-shopping-contine"
+}

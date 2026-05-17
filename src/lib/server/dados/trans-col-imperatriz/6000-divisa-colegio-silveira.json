@@ -1,0 +1,49 @@
+{
+    "nome": "Divisa/Colegio Silveira",
+    "codigo": "6000 ",
+    "detalhe": " Vias Colegio Silveira e Nereu",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Divisa",
+                "horarios": [
+                    {
+                        "hora": "06:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:50",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Colegio Silveira",
+                "horarios": [
+                    {
+                        "hora": "11:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:01",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "6000-divisa-colegio-silveira"
+}

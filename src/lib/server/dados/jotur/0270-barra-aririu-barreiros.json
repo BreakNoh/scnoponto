@@ -1,0 +1,32 @@
+{
+    "nome": "Barra Do Aririu / Barreiros",
+    "codigo": "0270",
+    "detalhe": "VIA PACHECOS/RIO GRANDE/MARGINAL BR 101",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:15",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0270-barra-aririu-barreiros"
+}

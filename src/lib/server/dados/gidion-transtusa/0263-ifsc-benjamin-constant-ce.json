@@ -1,0 +1,29 @@
+{
+    "nome": "Ifsc",
+    "codigo": "0263",
+    "detalhe": "Via Benjamin Constant / Centro",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "12:52",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "13:20",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0263-ifsc-benjamin-constant-ce"
+}

@@ -1,0 +1,32 @@
+{
+    "nome": "Pedra Branca / Fpolis",
+    "codigo": "6530",
+    "detalhe": "VIA P.VINTE/MARGINAL BR 101/VIA EXPRESSA/I.SILV",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:20",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "6530-pedra-branca-fpolis"
+}

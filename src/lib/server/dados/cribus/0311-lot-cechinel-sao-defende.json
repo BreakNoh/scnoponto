@@ -1,0 +1,77 @@
+{
+    "nome": "Loteamento Cechinel",
+    "codigo": "0311",
+    "detalhe": "Via Sao Defende",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:14",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:21",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:03",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "06:26",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:02",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:46",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:22",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0311-lot-cechinel-sao-defende"
+}

@@ -1,0 +1,24 @@
+{
+    "nome": "Alto Aririú/Florianópolis",
+    "codigo": "62800",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Alto Aririú",
+                "horarios": [
+                    {
+                        "hora": "07:25",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Ticen - Plataforma C (Fpolis",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "62800-alto-aririu-fpolis"
+}

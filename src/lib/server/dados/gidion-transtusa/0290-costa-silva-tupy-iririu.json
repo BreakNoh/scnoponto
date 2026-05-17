@@ -1,0 +1,61 @@
+{
+    "nome": "Costa E Silva / Tupy",
+    "codigo": "0290",
+    "detalhe": "Via Iririú",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "07:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:48",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:08",
+                        "obs": []
+                    },
+                    {
+                        "hora": "23:18",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0290-costa-silva-tupy-iririu"
+}

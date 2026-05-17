@@ -1,0 +1,32 @@
+{
+    "nome": "Colégio Claudete / São Sebastião",
+    "codigo": "5035",
+    "detalhe": "VIA PONTE IMARUIM/MADRI",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "11:55",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "5035-colegio-claudete-sao-seba"
+}

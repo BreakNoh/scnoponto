@@ -1,0 +1,32 @@
+{
+    "nome": "Fpolis / Aririu",
+    "codigo": "03511",
+    "detalhe": "VIA IVO SILV/EXPRESSA/MARG BR 101/CENTRO DE PALHOÇA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "07:15",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "03511-fpolis-aririu"
+}

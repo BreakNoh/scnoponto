@@ -1,0 +1,42 @@
+{
+    "nome": "Florianópolis / São Sebastião",
+    "codigo": "0240",
+    "detalhe": "VIA IVO SILVEIRA/P.IMARUIM/PASSA VINTE",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "23:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "23:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "23:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0240-fpolis-sao-sebastiao"
+}

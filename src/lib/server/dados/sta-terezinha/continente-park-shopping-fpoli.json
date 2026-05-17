@@ -1,0 +1,878 @@
+{
+    "nome": "Continente Park Shopping - Florianópolis",
+    "codigo": null,
+    "detalhe": null,
+    "servicos": {
+        "64": [
+            {
+                "sentido": "Saída São Pedro | Santana | Sertão",
+                "horarios": [
+                    {
+                        "hora": "06:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:25",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:05",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:40",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SERTÃO DO MARUIM 5 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SERTÃO DO MARUIM 5 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:45",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:45",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SANTANA 20 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:30",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:30",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SANTANA 20 MINUTOS"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída São Pedro | Santana | Sertão",
+                "horarios": [
+                    {
+                        "hora": "06:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:25",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:05",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:40",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SERTÃO DO MARUIM 5 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SERTÃO DO MARUIM 5 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:45",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:45",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SANTANA 20 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:30",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:30",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SANTANA 20 MINUTOS"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída São Pedro | Santana | Sertão",
+                "horarios": [
+                    {
+                        "hora": "06:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:25",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:05",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:40",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SERTÃO DO MARUIM 5 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SERTÃO DO MARUIM 5 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:45",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:45",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SANTANA 20 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:30",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:30",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SANTANA 20 MINUTOS"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Ticen",
+                "horarios": [
+                    {
+                        "hora": "07:15",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SERTÃO DO MARUIM 5 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:55",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SERTÃO DO MARUIM 5 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:20",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SANTANA 20 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:45",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:15",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SERTÃO DO MARUIM 5 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:05",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:55",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SANTANA 20 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:20",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:50",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:30",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "23:20",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:30",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SANTANA 20 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:25",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:15",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SANTANA 20 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:25",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SANTANA 20 MINUTOS"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Ticen",
+                "horarios": [
+                    {
+                        "hora": "07:15",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SERTÃO DO MARUIM 5 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:55",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SERTÃO DO MARUIM 5 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:20",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SANTANA 20 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:45",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:15",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SERTÃO DO MARUIM 5 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:05",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:55",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SANTANA 20 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:20",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:50",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:30",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "23:20",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:30",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SANTANA 20 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:25",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:15",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SANTANA 20 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:25",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SANTANA 20 MINUTOS"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Ticen",
+                "horarios": [
+                    {
+                        "hora": "07:15",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SERTÃO DO MARUIM 5 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:55",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SERTÃO DO MARUIM 5 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:20",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SANTANA 20 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:45",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:15",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SERTÃO DO MARUIM 5 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:05",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:55",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SANTANA 20 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:20",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:50",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:30",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "23:20",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:30",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SANTANA 20 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:25",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:15",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SÃO PEDRO DE ALCÂNTARA 30 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SANTANA 20 MINUTOS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:25",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "SANTANA 20 MINUTOS"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "continente-park-shopping-fpoli"
+}

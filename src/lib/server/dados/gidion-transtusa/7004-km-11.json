@@ -1,0 +1,61 @@
+{
+    "nome": "Km 11",
+    "codigo": "7004",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:09",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "05:27",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:31",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:46",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:51",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "7004-km-11"
+}

@@ -1,0 +1,34 @@
+{
+    "nome": "Escolar / Ifsc",
+    "codigo": "505",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Bairro",
+                "horarios": [
+                    {
+                        "hora": "11:55",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Saída IFSC (Período de Aula)"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:10",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Saída IFSC (Período de Aula)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "505-escolar-ifsc"
+}

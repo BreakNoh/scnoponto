@@ -1,0 +1,93 @@
+{
+    "nome": "Içara X Criciuma",
+    "codigo": null,
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Içara",
+                "horarios": [
+                    {
+                        "hora": "6:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via JAQUELINE-EMMA"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "7:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via SÃO JOÃO"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "7:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via MARILI-PV"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via P.VARGAS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via ASFALTO"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via ASFALTO"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Criciuma",
+                "horarios": [
+                    {
+                        "hora": "7:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via P.VARGAS"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via P.VARGAS"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "icara-x-criciuma"
+}

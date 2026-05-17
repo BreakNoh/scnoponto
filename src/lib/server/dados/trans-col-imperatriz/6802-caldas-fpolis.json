@@ -1,0 +1,41 @@
+{
+    "nome": "Caldas/Florianópolis",
+    "codigo": "6802 ",
+    "detalhe": " Via Bairro São Francisco",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Caldas",
+                "horarios": [
+                    {
+                        "hora": "04:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:55",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Ticen - Plataforma C (Fpolis",
+                "horarios": [
+                    {
+                        "hora": "11:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "6802-caldas-fpolis"
+}

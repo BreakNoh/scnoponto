@@ -1,0 +1,100 @@
+{
+    "nome": "Pirabeiraba / Bairro",
+    "codigo": "4017",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:02",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:09",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:08",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "23:15",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "05:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:11",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:22",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:32",
+                        "obs": []
+                    },
+                    {
+                        "hora": "23:40",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "20:45",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "20:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:15",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "08:40",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "4017-pirabeiraba-bairro"
+}

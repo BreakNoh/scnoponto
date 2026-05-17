@@ -1,0 +1,1114 @@
+{
+    "nome": "Consórcio Fênix",
+    "fonte": "https://www.consorciofenix.com.br",
+    "linhas": [
+        {
+            "nome_linha": "Abraão",
+            "codigo_linha": "665",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/665-abraao"
+        },
+        {
+            "nome_linha": "Angelo Laporta",
+            "codigo_linha": "762",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/762-angelo-laporta"
+        },
+        {
+            "nome_linha": "Bairro De Fátima",
+            "codigo_linha": "V-844",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/v-844-bairro-fatima"
+        },
+        {
+            "nome_linha": "Bairro De Fátima",
+            "codigo_linha": "844",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/844-bairro-fatima"
+        },
+        {
+            "nome_linha": "Balneário",
+            "codigo_linha": "V-661",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/v-661-balneario"
+        },
+        {
+            "nome_linha": "Balneário",
+            "codigo_linha": "661",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/661-balneario"
+        },
+        {
+            "nome_linha": "Caeira Do Saco Dos Limões",
+            "codigo_linha": "763",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/763-caeira-saco-limoes"
+        },
+        {
+            "nome_linha": "Canto",
+            "codigo_linha": "662",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/662-canto-otilia-cruz"
+        },
+        {
+            "nome_linha": "Canto",
+            "codigo_linha": "V-662",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/v-662-canto-otilia-cruz"
+        },
+        {
+            "nome_linha": "Capoeiras",
+            "codigo_linha": "V-631",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/v-631-capoeiras"
+        },
+        {
+            "nome_linha": "Capoeiras",
+            "codigo_linha": "631",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/631-capoeiras"
+        },
+        {
+            "nome_linha": "Carianos",
+            "codigo_linha": "183",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/183-carianos-saco-limoes"
+        },
+        {
+            "nome_linha": "Chico Mendes",
+            "codigo_linha": "772",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/772-chico-mendes"
+        },
+        {
+            "nome_linha": "Coloninha",
+            "codigo_linha": "V-663",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/v-663-coloninha-araci-vaz-call"
+        },
+        {
+            "nome_linha": "Coloninha",
+            "codigo_linha": "663",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/663-coloninha-araci-vaz-callad"
+        },
+        {
+            "nome_linha": "Corredor Continente",
+            "codigo_linha": "630",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/630-corredor-continente"
+        },
+        {
+            "nome_linha": "Corredor Continente",
+            "codigo_linha": "V-630",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/v-630-corredor-continente"
+        },
+        {
+            "nome_linha": "Itaguaçu",
+            "codigo_linha": "664",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/664-itaguacu"
+        },
+        {
+            "nome_linha": "Monte Cristo",
+            "codigo_linha": "V-670",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/v-670-monte-cristo"
+        },
+        {
+            "nome_linha": "Monte Cristo",
+            "codigo_linha": "670",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/670-monte-cristo"
+        },
+        {
+            "nome_linha": "Monte Cristo",
+            "codigo_linha": "672",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/672-monte-cristo-esc-edith-gam"
+        },
+        {
+            "nome_linha": "Monte Serrat",
+            "codigo_linha": "764",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/764-monte-serrat"
+        },
+        {
+            "nome_linha": "Monte Serrat",
+            "codigo_linha": "V-764",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/v-764-monte-serrat-neim-evandr"
+        },
+        {
+            "nome_linha": "Morro Da Cruz",
+            "codigo_linha": "160",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/160-morro-cruz"
+        },
+        {
+            "nome_linha": "Morro Da Penitenciária",
+            "codigo_linha": "161",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/161-morro-penitenciaria"
+        },
+        {
+            "nome_linha": "Morro Da Queimada",
+            "codigo_linha": "765",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/765-morro-queimada"
+        },
+        {
+            "nome_linha": "Morro Do 25",
+            "codigo_linha": "766",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/766-morro-25"
+        },
+        {
+            "nome_linha": "Morro Do Geraldo",
+            "codigo_linha": "760",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/760-morro-geraldo"
+        },
+        {
+            "nome_linha": "Morro Do Horácio",
+            "codigo_linha": "768",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/768-morro-horacio"
+        },
+        {
+            "nome_linha": "Morro Nova Trento",
+            "codigo_linha": "769",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/769-morro-nova-trento"
+        },
+        {
+            "nome_linha": "Multi-Hospital",
+            "codigo_linha": "186",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/186-multi-hosp-tunel"
+        },
+        {
+            "nome_linha": "Porto Da Lagoa",
+            "codigo_linha": "460",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/460-porto-lagoa"
+        },
+        {
+            "nome_linha": "Tapera / Saco Dos Limões",
+            "codigo_linha": "467",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/467-tapera-saco-limoes"
+        },
+        {
+            "nome_linha": "Tapera",
+            "codigo_linha": "461",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/461-tapera-tunel"
+        },
+        {
+            "nome_linha": "Ticen / Carvoeira",
+            "codigo_linha": "154",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/154-ticen-carvoeira-pantanal"
+        },
+        {
+            "nome_linha": "Ticen / Ufsc",
+            "codigo_linha": "188",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/188-ticen-ufsc"
+        },
+        {
+            "nome_linha": "Ticen / Aeroporto",
+            "codigo_linha": "431",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/431-ticen-aeroporto"
+        },
+        {
+            "nome_linha": "Ticen / Itacorubi",
+            "codigo_linha": "104",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/104-ticen-itacorubi-mauro-ramo"
+        },
+        {
+            "nome_linha": "Ticen / Tapera",
+            "codigo_linha": "476",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/476-ticen-tapera"
+        },
+        {
+            "nome_linha": "Titri / Ticen",
+            "codigo_linha": "191",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/191-titri-ticen-transcaeira"
+        },
+        {
+            "nome_linha": "Udesc",
+            "codigo_linha": "184",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/184-udesc-beira-mar"
+        },
+        {
+            "nome_linha": "Vila / Promorar",
+            "codigo_linha": "V-671",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/v-671-vila-promorar"
+        },
+        {
+            "nome_linha": "Vila / Promorar",
+            "codigo_linha": "671",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/671-vila-promorar"
+        },
+        {
+            "nome_linha": "Vila Aparecida",
+            "codigo_linha": "761",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/761-vila-aparecida"
+        },
+        {
+            "nome_linha": "Volta Ao Morro Norte",
+            "codigo_linha": "137",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/137-vlt-ao-morro-norte-h-u"
+        },
+        {
+            "nome_linha": "Volta Ao Morro Norte",
+            "codigo_linha": "135",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/135-vlt-ao-morro-norte-lauro-l"
+        },
+        {
+            "nome_linha": "Volta Ao Morro Sul",
+            "codigo_linha": "136",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/136-vlt-ao-morro-sul-h-u"
+        },
+        {
+            "nome_linha": "Volta Ao Morro Sul",
+            "codigo_linha": "138",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/138-vlt-ao-morro-sul-lauro-lin"
+        },
+        {
+            "nome_linha": "Circular Abraão / Estreito",
+            "codigo_linha": "601",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/601-circ-abraao-estreito"
+        },
+        {
+            "nome_linha": "Circular Canasvieiras / Praia Brava",
+            "codigo_linha": "291",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/291-circ-canasvieiras-praia-br"
+        },
+        {
+            "nome_linha": "Circular Estreito / Abraão",
+            "codigo_linha": "605",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/605-circ-estreito-abraao"
+        },
+        {
+            "nome_linha": "Circular Santinho Ingleses",
+            "codigo_linha": "296",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/296-circ-santinho-ingleses"
+        },
+        {
+            "nome_linha": "Interpraias",
+            "codigo_linha": "294",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/294-interpraias"
+        },
+        {
+            "nome_linha": "Madrugadão Centro - Ufsc Norte",
+            "codigo_linha": "100",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/100-madrugadao-centro-ufsc-nor"
+        },
+        {
+            "nome_linha": "Madrugadão Centro / Ufsc Sul",
+            "codigo_linha": "102",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/102-madrugadao-centro-ufsc-sul"
+        },
+        {
+            "nome_linha": "Madrugadão Continente Norte",
+            "codigo_linha": "600",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/600-madrugadao-continente-nort"
+        },
+        {
+            "nome_linha": "Madrugadão Continente Sul",
+            "codigo_linha": "604",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/604-madrugadao-continente-sul"
+        },
+        {
+            "nome_linha": "Madrugadão Leste",
+            "codigo_linha": "300",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/300-madrugadao-leste"
+        },
+        {
+            "nome_linha": "Madrugadão Norte - Jurerê / Canasvieiras",
+            "codigo_linha": "201",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/201-madrugadao-norte-jurere-ca"
+        },
+        {
+            "nome_linha": "Madrugadão Norte - Rio Vermelho / Santinho",
+            "codigo_linha": "200",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/200-madrugadao-norte-rio-verme"
+        },
+        {
+            "nome_linha": "Madrugadão Norte - Santo Antônio / Tican",
+            "codigo_linha": "301",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/301-madrugadao-norte-sto-anton"
+        },
+        {
+            "nome_linha": "Madrugadão Sul - Pântano Do Sul",
+            "codigo_linha": "500",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/500-madrugadao-sul-pantano-sul"
+        },
+        {
+            "nome_linha": "Madrugadão Sul - Ribeirão",
+            "codigo_linha": "501",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/501-madrugadao-sul-ribeirao"
+        },
+        {
+            "nome_linha": "Monte Serrat - Serrinha",
+            "codigo_linha": "720",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/720-monte-serrat-serrinha"
+        },
+        {
+            "nome_linha": "Morro Do 25 - Morro Da Cruz",
+            "codigo_linha": "722",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/722-morro-25-morro-cruz"
+        },
+        {
+            "nome_linha": "Morro Do Horácio - Saco Dos Limões",
+            "codigo_linha": "721",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/721-morro-horacio-saco-limoes"
+        },
+        {
+            "nome_linha": "Pântano Do Sul",
+            "codigo_linha": "D-564",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/d-564-pantano-sul"
+        },
+        {
+            "nome_linha": "Ribeirão Da Ilha",
+            "codigo_linha": "D-565",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/d-565-ribeirao-ilha"
+        },
+        {
+            "nome_linha": "Ticen / Cachoeira Do Bom Jesus",
+            "codigo_linha": "D-260",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/d-260-ticen-cachoeira-bom-jesu"
+        },
+        {
+            "nome_linha": "Ticen / Ingleses",
+            "codigo_linha": "D-264",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/d-264-ticen-ingleses-mauro-ram"
+        },
+        {
+            "nome_linha": "Ticen / Praia Brava",
+            "codigo_linha": "D-266",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/d-266-ticen-praia-brava-mauro"
+        },
+        {
+            "nome_linha": "Ticen / Rio Vermelho",
+            "codigo_linha": "D-267",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/d-267-ticen-rio-vermelho-mauro"
+        },
+        {
+            "nome_linha": "Caieira Da Barra Do Sul",
+            "codigo_linha": "561",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/561-caieira-barra-sul"
+        },
+        {
+            "nome_linha": "Campeche",
+            "codigo_linha": "462",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/462-campeche"
+        },
+        {
+            "nome_linha": "Costa De Cima",
+            "codigo_linha": "562",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/562-costa-cima"
+        },
+        {
+            "nome_linha": "Costa De Cima",
+            "codigo_linha": "V-562",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/v-562-costa-cima-costa-dentro"
+        },
+        {
+            "nome_linha": "Costa De Dentro",
+            "codigo_linha": "563",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/563-costa-dentro"
+        },
+        {
+            "nome_linha": "Costa De Dentro",
+            "codigo_linha": "V-563",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/v-563-costa-dentro-costa-cima"
+        },
+        {
+            "nome_linha": "Morro Das Pedras",
+            "codigo_linha": "473",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/473-morro-pedras-eucaliptos"
+        },
+        {
+            "nome_linha": "Morro Das Pedras",
+            "codigo_linha": "474",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/474-morro-pedras-gramal"
+        },
+        {
+            "nome_linha": "Pântano Do Sul",
+            "codigo_linha": "564",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/564-pantano-sul"
+        },
+        {
+            "nome_linha": "Ribeirão Da Ilha",
+            "codigo_linha": "565",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/565-ribeirao-ilha"
+        },
+        {
+            "nome_linha": "Tapera / Tirio",
+            "codigo_linha": "469",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/469-tapera-tirio"
+        },
+        {
+            "nome_linha": "Tirio / Aeroporto",
+            "codigo_linha": "477",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/477-tirio-aeroporto-tapera"
+        },
+        {
+            "nome_linha": "Tirio / Multihospital",
+            "codigo_linha": "V-468",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/v-468-tirio-multihospital-aero"
+        },
+        {
+            "nome_linha": "Tirio / Multihospital",
+            "codigo_linha": "468",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/468-tirio-multihospital"
+        },
+        {
+            "nome_linha": "Ponte Viva",
+            "codigo_linha": "673",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/673-ponte-viva"
+        },
+        {
+            "nome_linha": "Balneário Canasvieiras",
+            "codigo_linha": "276",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/276-balneario-canasvieiras"
+        },
+        {
+            "nome_linha": "Balneário Ingleses",
+            "codigo_linha": "277",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/277-balneario-ingleses"
+        },
+        {
+            "nome_linha": "Cachoeira / Tican",
+            "codigo_linha": "280",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/280-cachoeira-tican"
+        },
+        {
+            "nome_linha": "Cachoeira Do Bom Jesus",
+            "codigo_linha": "260",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/260-cachoeira-bom-jesus"
+        },
+        {
+            "nome_linha": "Capivari",
+            "codigo_linha": "261",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/261-capivari"
+        },
+        {
+            "nome_linha": "Capivari",
+            "codigo_linha": "V-261",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/v-261-capivari-sc-403"
+        },
+        {
+            "nome_linha": "Circular Canasvieiras",
+            "codigo_linha": "262",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/262-circ-canasvieiras"
+        },
+        {
+            "nome_linha": "Circular Moçambique",
+            "codigo_linha": "285",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/285-circ-mocambique"
+        },
+        {
+            "nome_linha": "Circular Rio Vermelho",
+            "codigo_linha": "288",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/288-circ-rio-vermelho"
+        },
+        {
+            "nome_linha": "Costa Do Moçambique",
+            "codigo_linha": "281",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/281-costa-mocambique"
+        },
+        {
+            "nome_linha": "Forte / Canasvieiras",
+            "codigo_linha": "250",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/250-forte-canasvieiras"
+        },
+        {
+            "nome_linha": "Forte / Canasvieiras",
+            "codigo_linha": "V-250",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/v-250-forte-canasvieiras-col-v"
+        },
+        {
+            "nome_linha": "Gaivotas",
+            "codigo_linha": "263",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/263-gaivotas"
+        },
+        {
+            "nome_linha": "Moçambique",
+            "codigo_linha": "269",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/269-mocambique-r-alzira-rosa-a"
+        },
+        {
+            "nome_linha": "Ponta Das Canas",
+            "codigo_linha": "265",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/265-ponta-canas"
+        },
+        {
+            "nome_linha": "Praia Brava",
+            "codigo_linha": "266",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/266-praia-brava"
+        },
+        {
+            "nome_linha": "Rio Vermelho",
+            "codigo_linha": "267",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/267-rio-vermelho"
+        },
+        {
+            "nome_linha": "Rio Vermelho",
+            "codigo_linha": "287",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/287-rio-vermelho-vargem-grande"
+        },
+        {
+            "nome_linha": "Santinho",
+            "codigo_linha": "264",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/264-santinho-ingleses"
+        },
+        {
+            "nome_linha": "Sítio De Baixo",
+            "codigo_linha": "268",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/268-sitio-baixo"
+        },
+        {
+            "nome_linha": "Tulipas Vermelhas",
+            "codigo_linha": "274",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/274-tulipas-vermelhas-muquem"
+        },
+        {
+            "nome_linha": "Vargem Do Bom Jesus",
+            "codigo_linha": "283",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/283-vargem-bom-jesus"
+        },
+        {
+            "nome_linha": "Vargem Grande",
+            "codigo_linha": "270",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/270-vargem-grande"
+        },
+        {
+            "nome_linha": "Circular Vargem Grande",
+            "codigo_linha": "289",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/289-circ-vargem-grande-rio-ver"
+        },
+        {
+            "nome_linha": "Vargem Pequena",
+            "codigo_linha": "282",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/282-vargem-pequena"
+        },
+        {
+            "nome_linha": "Vargem Pequena",
+            "codigo_linha": "V-282",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/v-282-vargem-pequena-esc-prof"
+        },
+        {
+            "nome_linha": "Cacupé",
+            "codigo_linha": "846",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/846-cacupe"
+        },
+        {
+            "nome_linha": "Cacupé",
+            "codigo_linha": "V-846",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/v-846-cacupe-caminho-acores"
+        },
+        {
+            "nome_linha": "Caminho Da Cruz",
+            "codigo_linha": "170",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/170-caminho-cruz-joao-paulo"
+        },
+        {
+            "nome_linha": "Centro Administrativo",
+            "codigo_linha": "151",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/151-centro-administrativo"
+        },
+        {
+            "nome_linha": "Córrego Grande",
+            "codigo_linha": "164",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/164-corrego-grande-pocao"
+        },
+        {
+            "nome_linha": "Itacorubi",
+            "codigo_linha": "165",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/165-itacorubi"
+        },
+        {
+            "nome_linha": "Monte Verde",
+            "codigo_linha": "169",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/169-monte-verde-mane-vicente"
+        },
+        {
+            "nome_linha": "Morro Do Quilombo",
+            "codigo_linha": "173",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/173-morro-quilombo"
+        },
+        {
+            "nome_linha": "Morro Do Quilombo",
+            "codigo_linha": "V-173",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/v-173-morro-quilombo-sc-404"
+        },
+        {
+            "nome_linha": "Saco Grande Retorno Sc-401",
+            "codigo_linha": "178",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/178-saco-grande-retorno-sc-401"
+        },
+        {
+            "nome_linha": "Saco Grande",
+            "codigo_linha": "176",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/176-saco-grande-hu"
+        },
+        {
+            "nome_linha": "Saco Grande",
+            "codigo_linha": "174",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/174-saco-grande-joao-paulo"
+        },
+        {
+            "nome_linha": "Saco Grande",
+            "codigo_linha": "V-174",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/v-174-saco-grande-joao-paulo-b"
+        },
+        {
+            "nome_linha": "Saco Grande",
+            "codigo_linha": "175",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/175-saco-grande-monte-verde"
+        },
+        {
+            "nome_linha": "Santa Mônica",
+            "codigo_linha": "177",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/177-sta-monica"
+        },
+        {
+            "nome_linha": "Serrinha",
+            "codigo_linha": "179",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/179-serrinha"
+        },
+        {
+            "nome_linha": "Sol Nascente",
+            "codigo_linha": "155",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/155-sol-nascente"
+        },
+        {
+            "nome_linha": "Tapera / Titri",
+            "codigo_linha": "470",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/470-tapera-titri"
+        },
+        {
+            "nome_linha": "Titri / Pantanal",
+            "codigo_linha": "180",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/180-titri-pantanal-carvoeira"
+        },
+        {
+            "nome_linha": "Barra Do Sambaqui",
+            "codigo_linha": "366",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/366-barra-sambaqui-padre-rohr"
+        },
+        {
+            "nome_linha": "Cacupé / João Paulo",
+            "codigo_linha": "181",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/181-cacupe-joao-paulo"
+        },
+        {
+            "nome_linha": "Canasvieiras / Santo Antônio",
+            "codigo_linha": "940",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/940-canasvieiras-sto-antonio-j"
+        },
+        {
+            "nome_linha": "Circular Ratones",
+            "codigo_linha": "273",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/273-circ-ratones"
+        },
+        {
+            "nome_linha": "Daniela",
+            "codigo_linha": "271",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/271-daniela"
+        },
+        {
+            "nome_linha": "Jurerê",
+            "codigo_linha": "272",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/272-jurere"
+        },
+        {
+            "nome_linha": "Sambaqui",
+            "codigo_linha": "365",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/365-sambaqui"
+        },
+        {
+            "nome_linha": "Tican / Gama D'Eça",
+            "codigo_linha": "230",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/230-tican-gama-d-eca-titri"
+        },
+        {
+            "nome_linha": "Tican / Titri",
+            "codigo_linha": "224",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/224-tican-titri-virgilio-varze"
+        },
+        {
+            "nome_linha": "Tican / Ufsc",
+            "codigo_linha": "235",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/235-tican-ufsc-beira-mar"
+        },
+        {
+            "nome_linha": "Tican / Ufsc",
+            "codigo_linha": "233",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/233-tican-ufsc-sta-monica"
+        },
+        {
+            "nome_linha": "Tican / Ticen Direto",
+            "codigo_linha": "210",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/210-tican-ticen-direto"
+        },
+        {
+            "nome_linha": "Tican / Ticen",
+            "codigo_linha": "221",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/221-tican-ticen-mauro-ramos"
+        },
+        {
+            "nome_linha": "Tican / Ticen",
+            "codigo_linha": "231",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/231-tican-ticen-titri"
+        },
+        {
+            "nome_linha": "Tican / Tilag",
+            "codigo_linha": "840",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/840-tican-tilag-barra-lagoa"
+        },
+        {
+            "nome_linha": "Titri / Ticen",
+            "codigo_linha": "132",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/132-titri-ticen-gama-d-eca-h-i"
+        },
+        {
+            "nome_linha": "Tilag / Rio Vermelho",
+            "codigo_linha": "850",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/850-tilag-rio-vermelho-cidade"
+        },
+        {
+            "nome_linha": "Tilag / Ticen",
+            "codigo_linha": "320",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/320-tilag-ticen-beira-mar"
+        },
+        {
+            "nome_linha": "Tilag / Ticen",
+            "codigo_linha": "330",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/330-tilag-ticen-mauro-ramos"
+        },
+        {
+            "nome_linha": "Tilag / Tirio",
+            "codigo_linha": "841",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/841-tilag-tirio"
+        },
+        {
+            "nome_linha": "Tilag / Tirio",
+            "codigo_linha": "843",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/843-tilag-tirio-lic"
+        },
+        {
+            "nome_linha": "Tilag / Titri",
+            "codigo_linha": "845",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/845-tilag-titri-corrego-grande"
+        },
+        {
+            "nome_linha": "Tilag / Titri",
+            "codigo_linha": "333",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/333-tilag-titri-madre-benvenut"
+        },
+        {
+            "nome_linha": "Tirio / Ticen Direto",
+            "codigo_linha": "410",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/410-tirio-ticen-direto"
+        },
+        {
+            "nome_linha": "Tirio / Ticen",
+            "codigo_linha": "430",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/430-tirio-ticen-costeira"
+        },
+        {
+            "nome_linha": "Tirio / Titri",
+            "codigo_linha": "847",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/847-tirio-titri-ufsc"
+        },
+        {
+            "nome_linha": "Tisan / Ticen Direto",
+            "codigo_linha": "212",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/212-tisan-ticen-direto"
+        },
+        {
+            "nome_linha": "Tisan / Ticen",
+            "codigo_linha": "332",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/332-tisan-ticen-beira-mar"
+        },
+        {
+            "nome_linha": "Tisan / Ticen",
+            "codigo_linha": "331",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/331-tisan-ticen-mauro-ramos"
+        },
+        {
+            "nome_linha": "Titri / Ticen Direto",
+            "codigo_linha": "110",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/110-titri-ticen-direto"
+        },
+        {
+            "nome_linha": "Titri / Ticen",
+            "codigo_linha": "131",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/131-titri-ticen-gama-d-eca"
+        },
+        {
+            "nome_linha": "Titri / Ticen",
+            "codigo_linha": "133",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/133-titri-ticen-mauro-ramos"
+        },
+        {
+            "nome_linha": "Executivo Barra Da Lagoa",
+            "codigo_linha": "2120",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/2120-executivo-barra-lagoa"
+        },
+        {
+            "nome_linha": "Executivo Cachoeira",
+            "codigo_linha": "1126",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/1126-executivo-cachoeira"
+        },
+        {
+            "nome_linha": "Executivo Caieira Da Barra Do Sul",
+            "codigo_linha": "4124",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/4124-executivo-caieira-barra-s"
+        },
+        {
+            "nome_linha": "Executivo Canasvieiras",
+            "codigo_linha": "1120",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/1120-executivo-canasvieiras"
+        },
+        {
+            "nome_linha": "Executivo Costa Do Moçambique",
+            "codigo_linha": "1128",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/1128-executivo-costa-mocambiqu"
+        },
+        {
+            "nome_linha": "Executivo Costa Do Moçambique",
+            "codigo_linha": "1132",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/1132-executivo-costa-mocambiqu"
+        },
+        {
+            "nome_linha": "Executivo Gaivotas",
+            "codigo_linha": "1127",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/1127-executivo-gaivotas"
+        },
+        {
+            "nome_linha": "Executivo Ingleses / Santinho",
+            "codigo_linha": "1121",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/1121-executivo-ingleses-santin"
+        },
+        {
+            "nome_linha": "Executivo Jurerê",
+            "codigo_linha": "1123",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/1123-executivo-jurere"
+        },
+        {
+            "nome_linha": "Executivo Muquém",
+            "codigo_linha": "1129",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/1129-executivo-muquem"
+        },
+        {
+            "nome_linha": "Executivo Pântano Do Sul",
+            "codigo_linha": "4120",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/4120-executivo-pantano-sul-euc"
+        },
+        {
+            "nome_linha": "Executivo Pântano Do Sul",
+            "codigo_linha": "4125",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/4125-executivo-pantano-sul-gra"
+        },
+        {
+            "nome_linha": "Executivo Praia Brava",
+            "codigo_linha": "1122",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/1122-executivo-praia-brava"
+        },
+        {
+            "nome_linha": "Executivo Ribeirão Da Ilha",
+            "codigo_linha": "4123",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/4123-executivo-ribeirao-ilha"
+        },
+        {
+            "nome_linha": "Executivo Rio Vermelho",
+            "codigo_linha": "1125",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/1125-executivo-rio-vermelho"
+        },
+        {
+            "nome_linha": "Barra Da Lagoa",
+            "codigo_linha": "360",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/360-barra-lagoa"
+        },
+        {
+            "nome_linha": "Barra Da Lagoa",
+            "codigo_linha": "V-360",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/v-360-barra-lagoa-term-lacustr"
+        },
+        {
+            "nome_linha": "Canto Dos Araçás",
+            "codigo_linha": "362",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/362-canto-aracas"
+        },
+        {
+            "nome_linha": "Joaquina",
+            "codigo_linha": "363",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/363-joaquina"
+        },
+        {
+            "nome_linha": "Osni Ortiga",
+            "codigo_linha": "364",
+            "nome_empresa": "Consórcio Fênix",
+            "slug": "consorcio-fenix/364-osni-ortiga"
+        }
+    ],
+    "regioes": [
+        "grande_floripa"
+    ],
+    "slug": "consorcio-fenix"
+}

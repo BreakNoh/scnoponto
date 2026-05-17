@@ -1,0 +1,36 @@
+{
+    "nome": "Terra Nova / Fpolis",
+    "codigo": "0285",
+    "detalhe": "VIA CAMINHO NOVO/BR 101/VIA EXPRESSA/IVO SILVEIRA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:25",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0285-terra-nova-fpolis"
+}

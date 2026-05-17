@@ -1,0 +1,62 @@
+{
+    "nome": "Iririú",
+    "codigo": "0223",
+    "detalhe": "Via Jardim Iririú",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:08",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:33",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:42",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "04:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "24:45",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "04:21",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0223-iririu-jardim-iririu"
+}

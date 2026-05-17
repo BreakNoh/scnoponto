@@ -1,0 +1,142 @@
+{
+    "nome": "Executivo Campinas / Kobrasol Vip",
+    "codigo": "141.2",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partidas Do T.C. De Fpolis. (Volta",
+                "horarios": [
+                    {
+                        "hora": "16:00",
+                        "obs": [
+                            {
+                                "tipo": "RECOLHE_BAIRRO",
+                                "valor": "Recolhe no bairro"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "de Lima"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Antônio Pereira Oliveira Neto"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "de Lima"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:10",
+                        "obs": [
+                            {
+                                "tipo": "RECOLHE_BAIRRO",
+                                "valor": "Recolhe no bairro"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "de Lima"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Antônio Pereira Oliveira Neto"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "de Lima"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:30",
+                        "obs": [
+                            {
+                                "tipo": "RECOLHE_BAIRRO",
+                                "valor": "Recolhe no bairro"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "de Lima"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Antônio Pereira Oliveira Neto"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "de Lima"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:40",
+                        "obs": [
+                            {
+                                "tipo": "RECOLHE_BAIRRO",
+                                "valor": "Recolhe no bairro"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "de Lima"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Antônio Pereira Oliveira Neto"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "de Lima"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": [
+                            {
+                                "tipo": "RECOLHE_BAIRRO",
+                                "valor": "Recolhe no bairro"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "de Lima"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Antônio Pereira Oliveira Neto"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "de Lima"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:30",
+                        "obs": [
+                            {
+                                "tipo": "RECOLHE_BAIRRO",
+                                "valor": "Recolhe no bairro"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "de Lima"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Antônio Pereira Oliveira Neto"
+                            },
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "de Lima"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "executivo",
+    "slug": "141-2-executivo-campinas-kobra"
+}

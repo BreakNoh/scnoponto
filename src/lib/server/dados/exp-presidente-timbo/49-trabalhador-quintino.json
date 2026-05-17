@@ -1,0 +1,20 @@
+{
+    "nome": "Trabalhador / Quintino",
+    "codigo": "49",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Trabalhador / Quintino",
+                "horarios": [
+                    {
+                        "hora": "21:50",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "49-trabalhador-quintino"
+}

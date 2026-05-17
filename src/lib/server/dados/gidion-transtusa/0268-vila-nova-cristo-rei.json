@@ -1,0 +1,32 @@
+{
+    "nome": "Vila Nova",
+    "codigo": "0268",
+    "detalhe": "Via Cristo Rei",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:29",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:42",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:25",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0268-vila-nova-cristo-rei"
+}

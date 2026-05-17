@@ -1,0 +1,49 @@
+{
+    "nome": "Circular Biguaçu Municipal",
+    "codigo": "900006",
+    "detalhe": "Via Praia João Rosa e UPA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Hospital Regional - Biguaçu",
+                "horarios": [
+                    {
+                        "hora": "11:25",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Cicob, SC-407,Praça, Mª da Glória, Rua Sete, PJ Rosa, Policlinica, Eloísa, V. Furacão, Godinho, V. Real, Madeireira Dico, Emérita, Avelino Avelino, Emérita, Madeireira Dico, V. Real, Godinho,V. Janaína, Eloísa, Policlinica, PJ Rosa, Rua Sete, JB, Mª da Glória"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Linha Circular - Horário Partida Apenas Hospital",
+                "horarios": []
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Hospital Regional - Biguaçu",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Linha Circular - Horário Partida Apenas Hospital",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Hospital Regional - Biguaçu",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Linha Circular - Horário Partida Apenas Hospital",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "900006-circ-biguacu-municipal"
+}

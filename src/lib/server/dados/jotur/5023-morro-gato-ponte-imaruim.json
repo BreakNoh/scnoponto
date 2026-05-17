@@ -1,0 +1,32 @@
+{
+    "nome": "Morro Do Gato / Ponte Do Imaruim",
+    "codigo": "5023",
+    "detalhe": "VIA MADRI/ELZA LUCHI",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "21:45",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "5023-morro-gato-ponte-imaruim"
+}

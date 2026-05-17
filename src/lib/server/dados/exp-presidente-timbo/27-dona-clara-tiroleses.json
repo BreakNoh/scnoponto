@@ -1,0 +1,20 @@
+{
+    "nome": "Dona Clara / Tiroleses",
+    "codigo": "27",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Dona Clara / Tiroleses",
+                "horarios": [
+                    {
+                        "hora": "07:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "27-dona-clara-tiroleses"
+}

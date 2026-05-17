@@ -1,0 +1,76 @@
+{
+    "nome": "Sorocaba / Biguaçu",
+    "codigo": "64201",
+    "detalhe": "Até Viaduto Janaína",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Bairro Sorocaba - Biguaçu",
+                "horarios": [
+                    {
+                        "hora": "11:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Nas feriasescolares Via Fazendinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:48",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Viaduto Janaína - Biguaçu",
+                "horarios": [
+                    {
+                        "hora": "10:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Nas feriasescolares Via Fazendinha"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Canto doBepão"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Bairro Sorocaba - Biguaçu",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Viaduto Janaína - Biguaçu",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Bairro Sorocaba - Biguaçu",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Viaduto Janaína - Biguaçu",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "64201-sorocaba-biguacu"
+}

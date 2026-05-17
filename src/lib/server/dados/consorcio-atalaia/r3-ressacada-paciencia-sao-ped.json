@@ -1,0 +1,213 @@
+{
+    "nome": "Ressacada / Paciência / São Pedro",
+    "codigo": "R3",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "04:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "05:22",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:54",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:26",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:57",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:23",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:37",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:19",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:04",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:33",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:14",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:45",
+                        "obs": []
+                    },
+                    {
+                        "hora": "23:04",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:05",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "10:25",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:50",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "05:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:34",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:22",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:50",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "07:24",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:11",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:32",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "r3-ressacada-paciencia-sao-ped"
+}

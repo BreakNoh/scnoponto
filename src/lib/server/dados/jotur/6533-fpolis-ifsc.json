@@ -1,0 +1,32 @@
+{
+    "nome": "Florianópolis / Ifsc",
+    "codigo": "6533",
+    "detalhe": "VIA IVO SILVEIRA/FAZENDA/TECNOPARK/CID UNIV",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "06:50",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "6533-fpolis-ifsc"
+}

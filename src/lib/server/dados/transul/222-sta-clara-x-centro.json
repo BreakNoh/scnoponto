@@ -1,0 +1,118 @@
+{
+    "nome": "Santa Clara X Centro",
+    "codigo": "222",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": [
+                    {
+                        "hora": "06:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai pela Mar. Floriano, Não passa Santa Helena.\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai no Milênio\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:45",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai pela Mar. Floriano, Não passa Santa Helena, Vai Zona e no Milênio.\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Milênio e na Zona\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Desce campo Araucária"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai no Milênio\t\t\t\t"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Bairro",
+                "horarios": [
+                    {
+                        "hora": "06:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Zona\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai no Milênio\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Milênio e na Zona\t\t\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai Milênio e na Zona\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Desce campo Araucária"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Vai no Milênio\t\t\t\t"
+                            },
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Retorna Av. Santa Catarina, Av. Mar. Floriano."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "222-sta-clara-x-centro"
+}

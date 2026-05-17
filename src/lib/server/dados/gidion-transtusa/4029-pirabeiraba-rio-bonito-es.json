@@ -1,0 +1,24 @@
+{
+    "nome": "Pirabeiraba / Rio Bonito",
+    "codigo": "4029",
+    "detalhe": "Via Estrada Do Oeste",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "17:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "4029-pirabeiraba-rio-bonito-es"
+}

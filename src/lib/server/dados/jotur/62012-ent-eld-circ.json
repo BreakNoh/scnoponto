@@ -1,0 +1,36 @@
+{
+    "nome": "Ent Eld Circ",
+    "codigo": "62012",
+    "detalhe": "VIA ELD/CID UNIV/AQU/PALHOÇA/P.IMAR/ELD/SENAI/CID UNIV",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:25",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "62012-ent-eld-circ"
+}

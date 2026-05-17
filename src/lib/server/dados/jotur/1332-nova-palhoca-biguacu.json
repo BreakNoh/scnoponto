@@ -1,0 +1,32 @@
+{
+    "nome": "Nova Palhoça / Biguaçu",
+    "codigo": "1332",
+    "detalhe": "VIA CENTRO DE PALHOÇA/ELZA LUCCHI/MARG BR 101",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "17:20",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "1332-nova-palhoca-biguacu"
+}

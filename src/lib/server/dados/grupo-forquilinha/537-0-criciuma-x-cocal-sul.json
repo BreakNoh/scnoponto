@@ -1,0 +1,37 @@
+{
+    "nome": "Criciúma X Cocal Do Sul",
+    "codigo": "537-0",
+    "detalhe": "Via Bairros",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida Criciúma",
+                "horarios": [
+                    {
+                        "hora": "06:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:35",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Cocal Do Sul",
+                "horarios": [
+                    {
+                        "hora": "07:20",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:15",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "537-0-criciuma-x-cocal-sul"
+}

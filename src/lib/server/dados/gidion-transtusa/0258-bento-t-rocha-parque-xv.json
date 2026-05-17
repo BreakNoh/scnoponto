@@ -1,0 +1,64 @@
+{
+    "nome": "Bento T. Da Rocha",
+    "codigo": "0258",
+    "detalhe": "Via Parque Xv",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "03:54",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "05:50",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "17:36",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:12",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:32",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:35",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0258-bento-t-rocha-parque-xv"
+}

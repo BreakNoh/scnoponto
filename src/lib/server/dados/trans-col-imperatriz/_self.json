@@ -1,0 +1,124 @@
+{
+    "nome": "Transporte Coletivo Imperatriz",
+    "fonte": "https://www.tcimperatriz.com.br",
+    "linhas": [
+        {
+            "nome_linha": "Varginha",
+            "codigo_linha": "5500",
+            "nome_empresa": "Transporte Coletivo Imperatriz",
+            "slug": "trans-col-imperatriz/5500-varginha"
+        },
+        {
+            "nome_linha": "Sertão",
+            "codigo_linha": "5600",
+            "nome_empresa": "Transporte Coletivo Imperatriz",
+            "slug": "trans-col-imperatriz/5600-sertao"
+        },
+        {
+            "nome_linha": "Sul Do Rio",
+            "codigo_linha": "5700",
+            "nome_empresa": "Transporte Coletivo Imperatriz",
+            "slug": "trans-col-imperatriz/5700-sul-rio"
+        },
+        {
+            "nome_linha": "Pagará",
+            "codigo_linha": "5800 ",
+            "nome_empresa": "Transporte Coletivo Imperatriz",
+            "slug": "trans-col-imperatriz/5800-pagara"
+        },
+        {
+            "nome_linha": "Morro Fabricio",
+            "codigo_linha": "5900",
+            "nome_empresa": "Transporte Coletivo Imperatriz",
+            "slug": "trans-col-imperatriz/5900-morro-fabricio"
+        },
+        {
+            "nome_linha": "Divisa/Colegio Silveira",
+            "codigo_linha": "6000 ",
+            "nome_empresa": "Transporte Coletivo Imperatriz",
+            "slug": "trans-col-imperatriz/6000-divisa-colegio-silveira"
+        },
+        {
+            "nome_linha": "Queçaba/Florianópolis",
+            "codigo_linha": "6600",
+            "nome_empresa": "Transporte Coletivo Imperatriz",
+            "slug": "trans-col-imperatriz/6600-quecaba-fpolis"
+        },
+        {
+            "nome_linha": "Santo Amaro/Florianópolis",
+            "codigo_linha": "6701",
+            "nome_empresa": "Transporte Coletivo Imperatriz",
+            "slug": "trans-col-imperatriz/6701-sto-amaro-fpolis"
+        },
+        {
+            "nome_linha": "Santo Amaro/São José",
+            "codigo_linha": "6702",
+            "nome_empresa": "Transporte Coletivo Imperatriz",
+            "slug": "trans-col-imperatriz/6702-sto-amaro-sao-jose"
+        },
+        {
+            "nome_linha": "Caldas/Florianópolis",
+            "codigo_linha": "6802 ",
+            "nome_empresa": "Transporte Coletivo Imperatriz",
+            "slug": "trans-col-imperatriz/6802-caldas-fpolis"
+        },
+        {
+            "nome_linha": "Santa Isabel/Florianópolis",
+            "codigo_linha": "8300",
+            "nome_empresa": "Transporte Coletivo Imperatriz",
+            "slug": "trans-col-imperatriz/8300-sta-isabel-fpolis"
+        },
+        {
+            "nome_linha": "Lourdes/Florianópolis",
+            "codigo_linha": "9700",
+            "nome_empresa": "Transporte Coletivo Imperatriz",
+            "slug": "trans-col-imperatriz/9700-lourdes-fpolis"
+        },
+        {
+            "nome_linha": "Águas Mornas/Florianópolis",
+            "codigo_linha": "62400",
+            "nome_empresa": "Transporte Coletivo Imperatriz",
+            "slug": "trans-col-imperatriz/62400-aguas-mornas-fpolis"
+        },
+        {
+            "nome_linha": "Vargem Grande/Florianópolis",
+            "codigo_linha": "62500",
+            "nome_empresa": "Transporte Coletivo Imperatriz",
+            "slug": "trans-col-imperatriz/62500-vargem-grande-fpolis"
+        },
+        {
+            "nome_linha": "Santo Amaro/Florianópolis",
+            "codigo_linha": "62601   Via BR101",
+            "nome_empresa": "Transporte Coletivo Imperatriz",
+            "slug": "trans-col-imperatriz/62601-br101-sto-amaro-fpolis"
+        },
+        {
+            "nome_linha": "Santo Amaro/Florianópolis",
+            "codigo_linha": "62700 ",
+            "nome_empresa": "Transporte Coletivo Imperatriz",
+            "slug": "trans-col-imperatriz/62700-sto-amaro-fpolis"
+        },
+        {
+            "nome_linha": "Santo Amaro/Florianópolis",
+            "codigo_linha": "62701 ",
+            "nome_empresa": "Transporte Coletivo Imperatriz",
+            "slug": "trans-col-imperatriz/62701-sto-amaro-fpolis"
+        },
+        {
+            "nome_linha": "Alto Aririú/Florianópolis",
+            "codigo_linha": "62800",
+            "nome_empresa": "Transporte Coletivo Imperatriz",
+            "slug": "trans-col-imperatriz/62800-alto-aririu-fpolis"
+        },
+        {
+            "nome_linha": "Capela Alto Aririú/Florianopolis",
+            "codigo_linha": "62802",
+            "nome_empresa": "Transporte Coletivo Imperatriz",
+            "slug": "trans-col-imperatriz/62802-capela-alto-aririu-fpoli"
+        }
+    ],
+    "regioes": [
+        "grande_floripa"
+    ],
+    "slug": "trans-col-imperatriz"
+}

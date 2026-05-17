@@ -1,0 +1,100 @@
+{
+    "nome": "Coletivo Santa Cruz",
+    "fonte": "https://www.coletivosantacruz.com.br",
+    "linhas": [
+        {
+            "nome_linha": "Fullscreen Page",
+            "codigo_linha": null,
+            "nome_empresa": "Coletivo Santa Cruz",
+            "slug": "col-sta-cruz/fullscreen-page"
+        },
+        {
+            "nome_linha": "Bairro Vila Fuck",
+            "codigo_linha": null,
+            "nome_empresa": "Coletivo Santa Cruz",
+            "slug": "col-sta-cruz/bairro-vila-fuck"
+        },
+        {
+            "nome_linha": "Distrito De Marcílio Dias",
+            "codigo_linha": null,
+            "nome_empresa": "Coletivo Santa Cruz",
+            "slug": "col-sta-cruz/distrito-marcilio-dias"
+        },
+        {
+            "nome_linha": "Calendário",
+            "codigo_linha": null,
+            "nome_empresa": "Coletivo Santa Cruz",
+            "slug": "col-sta-cruz/calendario"
+        },
+        {
+            "nome_linha": "Bairro Jardim Esperança",
+            "codigo_linha": null,
+            "nome_empresa": "Coletivo Santa Cruz",
+            "slug": "col-sta-cruz/bairro-jardim-esperanca"
+        },
+        {
+            "nome_linha": "São Mateus Do Sul",
+            "codigo_linha": null,
+            "nome_empresa": "Coletivo Santa Cruz",
+            "slug": "col-sta-cruz/sao-mateus-sul"
+        },
+        {
+            "nome_linha": "Bairro Alto Das Palmeiras",
+            "codigo_linha": null,
+            "nome_empresa": "Coletivo Santa Cruz",
+            "slug": "col-sta-cruz/bairro-alto-palmeiras"
+        },
+        {
+            "nome_linha": "Três Barras",
+            "codigo_linha": null,
+            "nome_empresa": "Coletivo Santa Cruz",
+            "slug": "col-sta-cruz/tres-barras"
+        },
+        {
+            "nome_linha": "Bairro Cohab I",
+            "codigo_linha": null,
+            "nome_empresa": "Coletivo Santa Cruz",
+            "slug": "col-sta-cruz/bairro-cohab-i"
+        },
+        {
+            "nome_linha": "Bairro São Cristovão",
+            "codigo_linha": null,
+            "nome_empresa": "Coletivo Santa Cruz",
+            "slug": "col-sta-cruz/bairro-sao-cristovao"
+        },
+        {
+            "nome_linha": "Bairro Campo Da Agua Verde",
+            "codigo_linha": null,
+            "nome_empresa": "Coletivo Santa Cruz",
+            "slug": "col-sta-cruz/bairro-campo-agua-verde"
+        },
+        {
+            "nome_linha": "Major Vieira",
+            "codigo_linha": null,
+            "nome_empresa": "Coletivo Santa Cruz",
+            "slug": "col-sta-cruz/major-vieira"
+        },
+        {
+            "nome_linha": "Bairro Aparecida",
+            "codigo_linha": null,
+            "nome_empresa": "Coletivo Santa Cruz",
+            "slug": "col-sta-cruz/bairro-aparecida"
+        },
+        {
+            "nome_linha": "Bairro Cohab Ii",
+            "codigo_linha": null,
+            "nome_empresa": "Coletivo Santa Cruz",
+            "slug": "col-sta-cruz/bairro-cohab-ii"
+        },
+        {
+            "nome_linha": "Porto União",
+            "codigo_linha": null,
+            "nome_empresa": "Coletivo Santa Cruz",
+            "slug": "col-sta-cruz/porto-uniao"
+        }
+    ],
+    "regioes": [
+        "norte"
+    ],
+    "slug": "col-sta-cruz"
+}

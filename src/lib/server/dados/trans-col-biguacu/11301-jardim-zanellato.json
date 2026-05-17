@@ -1,0 +1,53 @@
+{
+    "nome": "Jardim Zanellato",
+    "codigo": "11301",
+    "detalhe": "Via Expressa(BR 282)",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Bairro Zanellato - São José",
+                "horarios": [
+                    {
+                        "hora": "06:44",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Expressa"
+                            },
+                            {
+                                "tipo": "ADAPTADO",
+                                "valor": "Veículo com elevador"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": []
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Bairro Zanellato - São José",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Bairro Zanellato - São José",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "11301-jardim-zanellato"
+}

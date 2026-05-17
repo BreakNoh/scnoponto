@@ -1,0 +1,189 @@
+{
+    "nome": "Santa Líbera / Centro",
+    "codigo": "105",
+    "detalhe": "Via Santa Cruz / Vila Feltrin",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Centro",
+                "horarios": [
+                    {
+                        "hora": "06:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "08:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:43",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "C"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:57",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "E"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "D"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:59",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "B"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Santa Líbera",
+                "horarios": [
+                    {
+                        "hora": "06:08",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:16",
+                        "obs": []
+                    },
+                    {
+                        "hora": "09:26",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "C"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:40",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "E"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:55",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "D"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:48",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "B"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Centro",
+                "horarios": [
+                    {
+                        "hora": "06:47",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:57",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "E"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Santa Líbera",
+                "horarios": [
+                    {
+                        "hora": "07:04",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:14",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "A"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:48",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "E"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "105-sta-libera-centro"
+}

@@ -1,0 +1,187 @@
+{
+    "nome": "Manoel Salvador",
+    "codigo": "407",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Term. Garcia",
+                "horarios": [
+                    {
+                        "hora": "04:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:33",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:55",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Term. Garcia",
+                "horarios": [
+                    {
+                        "hora": "04:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:33",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:55",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Term. Garcia",
+                "horarios": [
+                    {
+                        "hora": "04:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:33",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:55",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Term. Garcia",
+                "horarios": [
+                    {
+                        "hora": "04:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:33",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:55",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Term. Garcia",
+                "horarios": [
+                    {
+                        "hora": "04:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:33",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:55",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "0": [
+            {
+                "sentido": "Saída Term. Garcia",
+                "horarios": [
+                    {
+                        "hora": "04:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:33",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:55",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:55",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "407-manoel-salvador"
+}

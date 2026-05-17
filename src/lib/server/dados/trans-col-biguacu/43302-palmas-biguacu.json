@@ -1,0 +1,112 @@
+{
+    "nome": "Palmas / Biguaçu",
+    "codigo": "43302",
+    "detalhe": "Até Viaduto Janaína",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Palmas - Governador Celso Ramos",
+                "horarios": [
+                    {
+                        "hora": "05:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "11:45",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Utilizar linha43300 Fpolis"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Saída Calheiros"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:20",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Utilizar linha43300 Fpolis"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Viaduto Janaina - Biguaçu",
+                "horarios": [
+                    {
+                        "hora": "12:30",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via São Miguelaté Calheiros"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:10",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via São Miguel"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:19",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via São Miguel"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Via Caeira eCosteira e até a Armaçãozinha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Palmas - Governador Celso Ramos",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Viaduto Janaina - Biguaçu",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Palmas - Governador Celso Ramos",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Viaduto Janaina - Biguaçu",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "43302-palmas-biguacu"
+}

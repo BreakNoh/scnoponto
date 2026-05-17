@@ -1,0 +1,24 @@
+{
+    "nome": "Morro Do Meio / Centro",
+    "codigo": "1515",
+    "detalhe": "Via Ottokar Doerffel",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "07:03",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:27",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "1515-morro-meio-centro-ottokar"
+}

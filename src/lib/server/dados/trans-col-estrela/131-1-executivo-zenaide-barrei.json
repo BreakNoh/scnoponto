@@ -1,0 +1,172 @@
+{
+    "nome": "Executivo Zenaide/Barreiros Vip",
+    "codigo": "131.1",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partidas Do Ticen (Volta",
+                "horarios": [
+                    {
+                        "hora": "10:40",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            },
+                            {
+                                "tipo": "DURANTE",
+                                "valor": "ABR / MAI / JUN / OUT / NOV / DEZ"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:20",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            },
+                            {
+                                "tipo": "DURANTE",
+                                "valor": "JAN / FEV / MAR / JUL / AGO / SET"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:20",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            },
+                            {
+                                "tipo": "DURANTE",
+                                "valor": "JAN / FEV / MAR / JUL / AGO / SET"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:10",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            },
+                            {
+                                "tipo": "DURANTE",
+                                "valor": "ABR / MAI / JUN / OUT / NOV / DEZ"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:50",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            },
+                            {
+                                "tipo": "DURANTE",
+                                "valor": "ABR / MAI / JUN / OUT / NOV / DEZ"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:30",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            },
+                            {
+                                "tipo": "DURANTE",
+                                "valor": "JAN / FEV / MAR / JUL / AGO / SET"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:20",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            },
+                            {
+                                "tipo": "DURANTE",
+                                "valor": "JAN / FEV / MAR / JUL / AGO / SET"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:50",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            },
+                            {
+                                "tipo": "DURANTE",
+                                "valor": "ABR / MAI / JUN / OUT / NOV / DEZ"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:25",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            },
+                            {
+                                "tipo": "DURANTE",
+                                "valor": "ABR / MAI / JUN / OUT / NOV / DEZ"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:10",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            },
+                            {
+                                "tipo": "DURANTE",
+                                "valor": "JAN / FEV / MAR / JUL / AGO / SET"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:45",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            },
+                            {
+                                "tipo": "DURANTE",
+                                "valor": "JAN / FEV / MAR / JUL / AGO / SET"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:05",
+                        "obs": [
+                            {
+                                "tipo": "OPERADO_POR",
+                                "valor": "Estrela"
+                            },
+                            {
+                                "tipo": "DURANTE",
+                                "valor": "ABR / MAI / JUN / OUT / NOV / DEZ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "executivo",
+    "slug": "131-1-executivo-zenaide-barrei"
+}

@@ -1,0 +1,40 @@
+{
+    "nome": "Cid Univ Circ",
+    "codigo": "6203",
+    "detalhe": "VIA AQUÁRIUS/PALHOÇA/P.IMARUIM/ELDORADO/IFSC",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "11:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "6203-cid-univ-circ"
+}

@@ -1,0 +1,47 @@
+{
+    "nome": "Porto União",
+    "codigo": null,
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Canoinhas Á Porto União",
+                "horarios": [
+                    {
+                        "hora": "07:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída De Porto União Até São Pascoal",
+                "horarios": [
+                    {
+                        "hora": "11:30",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Irineópolis Á Porto União",
+                "horarios": [
+                    {
+                        "hora": "13:10",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Porto União Á Canoinhas",
+                "horarios": [
+                    {
+                        "hora": "16:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "porto-uniao"
+}

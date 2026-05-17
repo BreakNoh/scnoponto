@@ -1,0 +1,29 @@
+{
+    "nome": "Aguas Claras",
+    "codigo": null,
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": [
+                    {
+                        "hora": "13:10",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Aguas Claras",
+                "horarios": [
+                    {
+                        "hora": "05:45",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "aguas-claras"
+}

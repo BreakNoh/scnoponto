@@ -1,0 +1,41 @@
+{
+    "nome": "Fpolis / Terra Nova",
+    "codigo": "0280",
+    "detalhe": "VIA EXPRESSA/BR 101/CENTRO PH/CAMINHO NOVO",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "17:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:40",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "13:10",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Volta",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0280-fpolis-terra-nova"
+}

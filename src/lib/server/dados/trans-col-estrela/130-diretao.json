@@ -1,0 +1,374 @@
+{
+    "nome": "Diretão",
+    "codigo": "130",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partidas De Fazenda Do Max",
+                "horarios": [
+                    {
+                        "hora": "06:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Santa Terezinha\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:20",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Santa Terezinha\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:50",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Estrela\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:20",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Santa Terezinha\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:45",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Estrela\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Biguaçú\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "06:40",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Biguaçú\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:20",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Estrela\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "18:30",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Santa Terezinha\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:05",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Estrela\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:40",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Biguaçú\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Santa Terezinha\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:20",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Estrela\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:05",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Santa Terezinha\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "19:30",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Biguaçú\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:35",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Biguaçú\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "14:40",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Estrela\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "20:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Biguaçú\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Santa Terezinha\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:25",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Biguaçú\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "21:30",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Santa Terezinha\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:30",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Biguaçú\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "15:50",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Estrela\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "22:30",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Biguaçú\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:55",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Estrela\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:20",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Santa Terezinha\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "10:40",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Santa Terezinha\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "16:40",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Santa Terezinha\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:35",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Estrela\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Biguaçú\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Biguaçú\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:20",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Estrela\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partidas De Fazenda Do Max",
+                "horarios": [
+                    {
+                        "hora": "07:00",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Santa Terezinha\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "07:50",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Biguaçú\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "08:40",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Santa Terezinha\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "09:30",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Biguaçú\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "11:25",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Santa Terezinha\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:15",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Biguaçú\""
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "13:05",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "Horário realizado pela empresa \"Santa Terezinha\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "130-diretao"
+}

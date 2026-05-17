@@ -1,0 +1,67 @@
+{
+    "nome": "Linha Trabalhador Blumob - Centro/ Fortaleza",
+    "codigo": "1394",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "23:13",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "23:13",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "23:13",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "23:13",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "23:13",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "0": [
+            {
+                "sentido": "Terminal Aterro",
+                "horarios": [
+                    {
+                        "hora": "23:13",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "1394-lin-trabalhador-blumob-ce"
+}

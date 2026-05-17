@@ -1,0 +1,39 @@
+{
+    "nome": "Escolar / Senai",
+    "codigo": "507",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Saída Terminal",
+                "horarios": [
+                    {
+                        "hora": "13:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Sai Terminal (Ponto V.Mariza), Av. Carah, Frei Gabriel, SENAI."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Saída Bairro",
+                "horarios": [
+                    {
+                        "hora": "17:25",
+                        "obs": [
+                            {
+                                "tipo": "GENERICA",
+                                "valor": "G         Saída SENAI  (Período de Aula)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "507-escolar-senai"
+}

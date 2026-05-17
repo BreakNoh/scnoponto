@@ -1,0 +1,20 @@
+{
+    "nome": "Criciúma X Santa Cruz",
+    "codigo": "773-2",
+    "detalhe": "Via Loteamento Eldorado / Santa Libera",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Santa Cruz",
+                "horarios": [
+                    {
+                        "hora": "06:50",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "773-2-criciuma-x-sta-cruz"
+}

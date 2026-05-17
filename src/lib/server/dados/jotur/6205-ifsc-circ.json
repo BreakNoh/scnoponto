@@ -1,0 +1,32 @@
+{
+    "nome": "Ifsc Circ",
+    "codigo": "6205",
+    "detalhe": "VIA CID UNIV/AQUÁRIUS/PALHOÇA/P.IMARUIM/SENAI/ELDORADO",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "18:50",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "6205-ifsc-circ"
+}

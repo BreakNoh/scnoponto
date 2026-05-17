@@ -1,0 +1,32 @@
+{
+    "nome": "Jaqueira / Palhoça (Praça",
+    "codigo": "4036",
+    "detalhe": "VIA BELA VISTA/PORTAL",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:40",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "4036-jaqueira-palhoca-praca"
+}

@@ -1,0 +1,24 @@
+{
+    "nome": "Rui Barbosa",
+    "codigo": "0210",
+    "detalhe": "Via Ifsc",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "17:15",
+                        "obs": []
+                    },
+                    {
+                        "hora": "22:25",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0210-rui-barbosa-ifsc"
+}

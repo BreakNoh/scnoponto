@@ -1,0 +1,32 @@
+{
+    "nome": "Florianópolis / Área Industrial",
+    "codigo": "0260",
+    "detalhe": "VIA IVO SILVEIRA/FAZENDA SANTO ANTÔNIO",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "12:30",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0260-fpolis-area-ind"
+}

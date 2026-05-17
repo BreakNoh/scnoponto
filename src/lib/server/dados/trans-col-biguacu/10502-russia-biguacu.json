@@ -1,0 +1,95 @@
+{
+    "nome": "Russia - Biguaçu",
+    "codigo": "10502",
+    "detalhe": "Via rodovias municipais",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Russia - Biguaçu",
+                "horarios": [
+                    {
+                        "hora": "06:23",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Petrobrás, G.Rússia, Substação, Avelino, Praça, MªGloria, Avelino"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:00",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Petrobrás, G.Rússia, Substação, Avelino, JB e Mª da Glória"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Biguaçu - Colégios",
+                "horarios": [
+                    {
+                        "hora": "11:35",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "JB, Mª. daGlória, Avelino, Petrobras"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "12:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Mª da Glória,Viaduto Prado, Avelino, Petrobrás, G. Rússia, Substação até a Praça de Biguaçu."
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:05",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Avelino, V.Furacão. JB, Mª da Glória, SC-407, Petrobrás, G. Rússia e Substação"
+                            }
+                        ]
+                    },
+                    {
+                        "hora": "17:50",
+                        "obs": [
+                            {
+                                "tipo": "ITINERARIO",
+                                "valor": "Mª da Glória,Viaduto Brasil, Upa, Cemitério, Emérita, Godinho, Viaduto do Janaína, BR-101, Viaduto Prado, SC-407, Petrobrás, Morro da Forquilhas, Geral Rússia e Subestação"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Russia - Biguaçu",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Biguaçu - Colégios",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Russia - Biguaçu",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Biguaçu - Colégios",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "10502-russia-biguacu"
+}

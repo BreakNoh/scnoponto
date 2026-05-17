@@ -1,0 +1,20 @@
+{
+    "nome": "Itaum / Campus",
+    "codigo": "0306",
+    "detalhe": "Via Guanabara",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "22:35",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "0306-itaum-campus-guanabara"
+}

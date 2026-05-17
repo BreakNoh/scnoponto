@@ -1,0 +1,85 @@
+{
+    "nome": "Pirabeiraba / Quiriri",
+    "codigo": "4030",
+    "detalhe": null,
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "12:21",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:49",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:18",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:10",
+                        "obs": []
+                    },
+                    {
+                        "hora": "24:00",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Volta",
+                "horarios": [
+                    {
+                        "hora": "03:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "13:40",
+                        "obs": []
+                    },
+                    {
+                        "hora": "14:53",
+                        "obs": []
+                    },
+                    {
+                        "hora": "15:29",
+                        "obs": []
+                    },
+                    {
+                        "hora": "16:56",
+                        "obs": []
+                    },
+                    {
+                        "hora": "18:28",
+                        "obs": []
+                    },
+                    {
+                        "hora": "19:30",
+                        "obs": []
+                    },
+                    {
+                        "hora": "20:09",
+                        "obs": []
+                    },
+                    {
+                        "hora": "21:40",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "4030-pirabeiraba-quiriri"
+}

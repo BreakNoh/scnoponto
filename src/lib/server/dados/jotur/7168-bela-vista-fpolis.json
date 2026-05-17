@@ -1,0 +1,32 @@
+{
+    "nome": "Bela Vista / Fpolis",
+    "codigo": "7168",
+    "detalhe": "VIA UPA/CENTRO PH/MARG BR 101/EXP/IVO SILVEIRA",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    }
+                ]
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "7168-bela-vista-fpolis"
+}

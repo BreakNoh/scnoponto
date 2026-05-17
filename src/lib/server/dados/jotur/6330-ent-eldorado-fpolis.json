@@ -1,0 +1,32 @@
+{
+    "nome": "Ent Do Eldorado/Florianópolis",
+    "codigo": "6330",
+    "detalhe": "VIA ELDORADO/MARG BR 101/VIA EXP/I.SILV",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Ida",
+                "horarios": [
+                    {
+                        "hora": "05:45",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Ida",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "convencional",
+    "slug": "6330-ent-eldorado-fpolis"
+}

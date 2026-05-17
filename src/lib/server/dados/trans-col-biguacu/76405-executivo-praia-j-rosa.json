@@ -1,0 +1,61 @@
+{
+    "nome": "Executivo Praia J Rosa",
+    "codigo": "76405",
+    "detalhe": "Via BR-101/marginais e Estreito",
+    "servicos": {
+        "62": [
+            {
+                "sentido": "Partida: Praia Joao Rosa - Biguaçu (Previsão Horario",
+                "horarios": [
+                    {
+                        "hora": "06:00",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:29",
+                        "obs": []
+                    },
+                    {
+                        "hora": "06:49",
+                        "obs": []
+                    },
+                    {
+                        "hora": "07:14",
+                        "obs": []
+                    }
+                ]
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": [
+                    {
+                        "hora": "06:45",
+                        "obs": []
+                    }
+                ]
+            }
+        ],
+        "1": [
+            {
+                "sentido": "Partida: Praia Joao Rosa - Biguaçu (Previsão Horario",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": []
+            }
+        ],
+        "64": [
+            {
+                "sentido": "Partida: Praia Joao Rosa - Biguaçu (Previsão Horario",
+                "horarios": []
+            },
+            {
+                "sentido": "Partida: Ticen - Plataforma D - Fpolis",
+                "horarios": []
+            }
+        ]
+    },
+    "tipo": "executivo",
+    "slug": "76405-executivo-praia-j-rosa"
+}
