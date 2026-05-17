@@ -1,16 +1,10 @@
 import type { ItemPesquisa } from '$lib/tipos';
-import { glob, readFile } from 'node:fs/promises';
 
-export const CAMINHO_DADOS = `${process.cwd()}/src/lib/server/dados`;
-
-export const dadosEmpresa = import.meta.glob('./*/_self.json', {
-	base: '/src/lib/server/dados',
+export const dadosEmpresa = import.meta.glob('./dados/*/_self.json', {
 	eager: true
-});
-export const dadosLinhas = import.meta.glob(['!./*/_self.json', './*/*.json'], {
-	eager: true,
-	base: '/src/lib/server/dados'
-});
+}) as Record<string, { default: { nome: string; linhas: ItemPesquisa[]; slug: string } }>;
+
+export const dadosLinhas = import.meta.glob(['./dados/*/*.json', '!./dados/*/_self.json']);
 
 class CacheEmpresa {
 	private dadosEmpresas = new Map<string, ItemPesquisa[]>();
@@ -20,27 +14,23 @@ class CacheEmpresa {
 		if (this.iniciado) return;
 		this.iniciado = true;
 
-		for await (const arq of glob(`**/_self.json`)) {
-			const json = await readFile(arq, { encoding: 'utf-8' });
-			const dados = JSON.parse(json);
+		for (const path in dadosEmpresa) {
+			const dados = dadosEmpresa[path].default;
 
 			if (!dados.linhas) continue;
 			const itensEmpresa = dados.linhas as ItemPesquisa[];
 
 			if (!dados.nome) continue;
-			cacheEmpresas.inserir(dados.nome, itensEmpresa);
+			this.inserir(dados.nome, itensEmpresa);
 		}
 	}
 
 	public empresas() {
-		return this.dadosEmpresas.keys().toArray();
+		return Array.from(this.dadosEmpresas.keys());
 	}
 
 	public itens() {
-		return this.dadosEmpresas
-			.values()
-			.flatMap((v) => v)
-			.toArray();
+		return Array.from(this.dadosEmpresas.values()).flatMap((v) => v);
 	}
 
 	public inserir(nomeEmpresa: string, itens: ItemPesquisa[]) {

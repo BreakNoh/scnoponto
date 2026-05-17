@@ -1,7 +1,6 @@
 import { type Linha, type Dias, DIAS, type Servico } from '$lib/tipos';
-import { readFile, glob } from 'node:fs/promises';
 import type { EntryGenerator, PageServerLoad, RouteParams } from './$types';
-import { cacheEmpresas, CAMINHO_DADOS, dadosEmpresa, dadosLinhas } from '$lib/server/cache';
+import { cacheEmpresas, dadosEmpresa, dadosLinhas } from '$lib/server/cache';
 import { error, redirect } from '@sveltejs/kit';
 import { CODIGO_DIAS } from '$lib/utils';
 
@@ -10,24 +9,19 @@ async function carregarLinha(empresa: string, linha: string): Promise<[Linha, st
 		const nomeEmpresa =
 			(
 				Object.entries(dadosEmpresa)
-					.find(([k, _]) => k.includes(empresa))
-					?.at(1) as { nome: string } | undefined
-			)?.nome ?? 'empresa';
+					.find(([k, _]) => k.includes(`/${empresa}/`))
+					?.at(1) as { default: { nome: string } } | undefined
+			)?.default.nome ?? 'empresa';
 
-		const linhaCarregada = (
-			Object.entries(dadosLinhas)
-				.find(([caminho]) => caminho.includes(`${empresa}/${linha}`))
-				?.at(1) as { default: Linha } | undefined
-		)?.default;
+		const loader = Object.entries(dadosLinhas).find(([caminho]) =>
+			caminho.includes(`/${empresa}/${linha}.json`)
+		)?.[1] as (() => Promise<{ default: Linha }>) | undefined;
+
+		if (!loader) return undefined;
+
+		const linhaCarregada = (await loader()).default;
 
 		if (!linhaCarregada) return undefined;
-
-		// linhaCarregada.servicos = new Map(
-		// 	Object.entries(linhaCarregada.servicos).map(([dia, servicos]) => [
-		// 		Number(dia),
-		// 		servicos as Servico[]
-		// 	])
-		// );
 
 		return [linhaCarregada, nomeEmpresa];
 	} catch {
@@ -47,28 +41,32 @@ function servicoDia(servicos: Map<Dias, Servico[]>, dia: Dias, idx: number) {
 export const entries: EntryGenerator = async () => {
 	const entradas: RouteParams[] = [];
 
-	for await (let emp of glob(`${CAMINHO_DADOS}/*`)) {
-		const jsonEmpresa = await readFile(`${emp}/_self.json`, { encoding: 'utf-8' });
-
-		const dadosEmpresa = JSON.parse(jsonEmpresa);
-		const linhas = dadosEmpresa.linhas as { slug: string }[];
+	for (const path in dadosEmpresa) {
+		const dados = dadosEmpresa[path].default;
+		const linhas = dados.linhas as { slug: string }[];
 
 		for (const { slug } of linhas) {
-			const jsonLinha = await readFile(`${CAMINHO_DADOS}/${slug}.json`, { encoding: 'utf-8' });
+			const [empresaSlug, linhaSlug] = slug.split('/');
 
-			const dadosLinha = JSON.parse(jsonLinha) as { slug: string; servicos: object };
+			const loader = Object.entries(dadosLinhas).find(([caminho]) =>
+				caminho.includes(`/${slug}.json`)
+			)?.[1] as (() => Promise<{ default: any }>) | undefined;
+
+			if (!loader) continue;
+
+			const dadosLinha = (await loader()).default;
 			const servicos = Object.entries(dadosLinha.servicos) as [string, [any]][];
 
 			entradas.push({
-				empresa: dadosEmpresa.slug,
-				linha: dadosLinha.slug
+				empresa: empresaSlug,
+				linha: linhaSlug
 			});
 
 			for (const [dia, servs] of servicos) {
 				servs.forEach((_, i) => {
 					entradas.push({
-						empresa: dadosEmpresa.slug,
-						linha: dadosLinha.slug,
+						empresa: empresaSlug,
+						linha: linhaSlug,
 						dia: CODIGO_DIAS.get(Number(dia)) ?? undefined,
 						sentido: i.toString()
 					});
@@ -114,6 +112,10 @@ export const load: PageServerLoad = async ({ params }) => {
 
 	const diasServicos = Object.keys(linha.servicos);
 	let idxSentido = 0;
+
+	if (!linha.servicos[dia]) {
+		dia = DIAS.uteis;
+	}
 
 	if (params.sentido) {
 		idxSentido = Number(params.sentido?.trim());
