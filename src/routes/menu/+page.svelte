@@ -26,6 +26,10 @@
 			<Languages />
 			<a href="/menu/idioma">{$storeIdioma.pag.menu.opcoes.idioma}</a>
 		</li>
+		<li>
+			<Languages />
+			<a href="/menu/idioma">{$storeIdioma.opcoesMenu.idioma ?? 'linguagem'}</a>
+		</li>
 	</ul>
 </main>
 
