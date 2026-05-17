@@ -34,7 +34,6 @@ export default async function pesquisar(
 		// return !pesquisa.filtros?.emp || pesquisa.filtros?.emp?.includes(v.nome_empresa);
 	};
 
-	console.log(pesquisa);
 	return motor
 		?.search(pesquisa.termo)
 		.map((v) => v.item)

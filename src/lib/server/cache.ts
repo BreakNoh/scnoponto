@@ -11,7 +11,7 @@ class CacheEmpresa {
 		if (this.iniciado) return;
 		this.iniciado = true;
 
-		for await (const arq of glob(`${CAMINHO_DADOS}/**/_self.json`)) {
+		for await (const arq of glob(`**/_self.json`)) {
 			const json = await readFile(arq, { encoding: 'utf-8' });
 			const dados = JSON.parse(json);
 

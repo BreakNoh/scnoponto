@@ -35,7 +35,7 @@
 		if (termo.length < 3) return;
 		iniciado = true;
 
-		const res = await fetch('/pesquisa', {
+		const res = await fetch('/api/pesquisa', {
 			method: 'post',
 			body: JSON.stringify({ termo, filtros: $storeFiltros })
 		});
