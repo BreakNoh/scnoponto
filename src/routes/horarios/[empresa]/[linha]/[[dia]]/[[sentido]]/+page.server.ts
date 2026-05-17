@@ -5,7 +5,7 @@ import { cacheEmpresas, CAMINHO_DADOS } from '$lib/server/cache';
 import { error, redirect } from '@sveltejs/kit';
 import { CODIGO_DIAS } from '$lib/utils';
 
-export const prerender = true;
+// export const prerender = true;
 
 async function carregarLinha(
 	empresa: string,
