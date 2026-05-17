@@ -1,9 +1,11 @@
 import { type Linha, type Dias, DIAS, type Servico } from '$lib/tipos';
-import { readFile } from 'node:fs/promises';
-import type { PageServerLoad } from './$types';
+import { readFile, glob } from 'node:fs/promises';
+import type { EntryGenerator, PageServerLoad, RouteParams } from './$types';
 import { cacheEmpresas, CAMINHO_DADOS } from '$lib/server/cache';
 import { error, redirect } from '@sveltejs/kit';
 import { CODIGO_DIAS } from '$lib/utils';
+
+export const prerender = true;
 
 async function carregarLinha(
 	empresa: string,
@@ -34,6 +36,42 @@ function servicoDia(servicos: Map<Dias, Servico[]>, dia: Dias, idx: number) {
 	}
 	return undefined;
 }
+
+export const entries: EntryGenerator = async () => {
+	const entradas: RouteParams[] = [];
+
+	for await (let emp of glob(`${CAMINHO_DADOS}/*`)) {
+		const jsonEmpresa = await readFile(`${emp}/_self.json`, { encoding: 'utf-8' });
+
+		const dadosEmpresa = JSON.parse(jsonEmpresa);
+		const linhas = dadosEmpresa.linhas as { slug: string }[];
+
+		for (const { slug } of linhas) {
+			const jsonLinha = await readFile(`${CAMINHO_DADOS}/${slug}.json`, { encoding: 'utf-8' });
+
+			const dadosLinha = JSON.parse(jsonLinha) as { slug: string; servicos: object };
+			const servicos = Object.entries(dadosLinha.servicos) as [string, [any]][];
+
+			entradas.push({
+				empresa: dadosEmpresa.slug,
+				linha: dadosLinha.slug
+			});
+
+			for (const [dia, servs] of servicos) {
+				servs.forEach((_, i) => {
+					entradas.push({
+						empresa: dadosEmpresa.slug,
+						linha: dadosLinha.slug,
+						dia: CODIGO_DIAS.get(Number(dia)) ?? undefined,
+						sentido: i.toString()
+					});
+				});
+			}
+		}
+	}
+
+	return entradas;
+};
 
 export const load: PageServerLoad = async ({ params }) => {
 	let dia = params.dia

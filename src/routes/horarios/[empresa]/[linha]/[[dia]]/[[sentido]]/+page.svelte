@@ -36,9 +36,7 @@
 
 <header>
 	<nav>
-		<a href={page.url.searchParams.get('v') ? '/favoritos' : '/'}
-			><ChevronLeft />{$storeIdioma.gen.voltar}</a
-		>
+		<a href={'/'}><ChevronLeft />{$storeIdioma.gen.voltar}</a>
 		<button onclick={alternarFavorito}>
 			<Heart fill={favorito ? 'var(--cor-texto-alt)' : 'transparent'} /></button
 		>

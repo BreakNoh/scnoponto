@@ -26,7 +26,7 @@
 <div class="conteiner">
 	<button onclick={alternar_colapsado}>
 		<h3>
-			{titulo.replace(/sa(i|í)da(s)?\s+(d(a|o)\s+)?/gi, '')}
+			{titulo?.replace(/sa(i|í)da(s)?\s+(d(a|o)\s+)?/gi, '')}
 		</h3>
 
 		{#if !colapsado}
