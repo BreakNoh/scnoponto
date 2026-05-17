@@ -57,6 +57,7 @@
 	button {
 		text-decoration: none;
 		flex: 1;
+		background-color: var(--cor-fundo-alta);
 		color: var(--cor-texto);
 		border: none;
 
@@ -67,6 +68,7 @@
 
 		&.ativo {
 			background-color: var(--cor-principal);
+			color: var(--cor-texto-alt);
 		}
 	}
 </style>
