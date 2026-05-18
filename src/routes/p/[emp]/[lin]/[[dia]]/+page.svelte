@@ -7,13 +7,15 @@
 	import { page } from '$app/state';
 	import { CODIGO_DIAS } from '$lib/utils.js';
 	import { browser } from '$app/environment';
-	import { storeIdioma } from '$lib/stores/storeIdioma.js';
 
 	let { data } = $props();
 
 	let { linha, dia } = $derived(data);
+
+	let idxServico = $state(0);
 	let servicos = $derived(linha.servicos[dia]);
-	let servico = $derived(servicos?.at(0));
+	let servico = $derived(servicos?.at(idxServico));
+	let mudarServico = $state(false);
 
 	let favorito = $derived(data.favorito);
 
@@ -35,10 +37,10 @@
 <header>
 	<h1>
 		{#if linha.codigo}
-			{`${linha.codigo} |`}
+			{`${linha.codigo}|${linha.nome}`}
+		{:else}
+			{linha.nome}
 		{/if}
-
-		{linha.nome}
 
 		<button onclick={alternarFavorito}>
 			<Heart fill={favorito ? 'var(--cor-texto-alt)' : 'transparent'} /></button
@@ -55,24 +57,35 @@
 </header>
 
 <div class="wrapper-nav">
-	<NavegacaoDias dias={Object.keys(linha.servicos)} ativo={dia} />
+	<NavegacaoDias
+		dias={Object.keys(linha.servicos)}
+		ativo={dia}
+		endpoint={`/p/${page.params.emp}/${page.params.lin}`}
+	/>
 </div>
 
 {#snippet ListaSentidos()}
 	{#each linha.servicos[dia] as { sentido }, i}
 		{@const { empresa, linha } = page.params}
-		{#if i != 0}
+		{#if i != idxServico}
 			<li>
-				<a
-					href={`/horarios/${empresa}/${linha}/${CODIGO_DIAS.get(dia ?? 0)}/${i}`}
-					data-sveltekit-replacestate
-					class="item-sentido"
+				<button
+					onclick={() => {
+						idxServico = i;
+						mudarServico = true;
+					}}
 				>
 					<ChevronRight />
 					<span>
 						{sentido.replace(/sa(i|í)da(s)?\s+(d(a|o)\s+)?/gi, '')}
 					</span>
-				</a>
+				</button>
+				<!-- <a -->
+				<!-- 	href={`/horarios/${empresa}/${linha}/${CODIGO_DIAS.get(dia ?? 0)}/${i}`} -->
+				<!-- 	data-sveltekit-replacestate -->
+				<!-- 	class="item-sentido" -->
+				<!-- > -->
+				<!-- </a> -->
 			</li>
 		{/if}
 	{/each}
@@ -80,7 +93,7 @@
 
 <main>
 	{#if servico}
-		<Colapsavel titulo={servico.sentido} flutua>
+		<Colapsavel titulo={servico.sentido} flutua bind:colapsado={mudarServico}>
 			<div class="wrapper-lista">
 				<ul class="lista-sentidos">
 					{@render ListaSentidos()}
@@ -92,9 +105,12 @@
 </main>
 
 <style>
+	main {
+		padding-inline: 16px;
+	}
 	header {
 		padding-top: 16px;
-		padding-inline: 32px;
+		padding-inline: 16px;
 	}
 	div.wrapper-lista {
 		background-color: var(--cor-fundo-base);

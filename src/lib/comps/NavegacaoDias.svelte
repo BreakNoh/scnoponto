@@ -5,7 +5,8 @@
 	import BarraNavegacao, { type OpcaoNavBar } from './BarraNavegacao.svelte';
 	import { storeIdioma } from '$lib/stores/storeIdioma';
 
-	let { dias, ativo }: { dias: Dias[] | string[]; ativo?: Dias } = $props();
+	let { dias, ativo, endpoint }: { dias: Dias[] | string[]; ativo?: Dias; endpoint: string } =
+		$props();
 
 	// let dias = $derived(linha.servicos.keys().toArray());
 
@@ -17,7 +18,7 @@
 		[127, $storeIdioma.dia.todoDia]
 	]);
 
-	let { empresa: slugEmp, linha: slugLin } = page.params;
+	let { emp: slugEmp, lin: slugLin } = page.params;
 
 	const arrumarBitsDias = (d: Dias): Dias => {
 		return (d & DIAS.domingoFeriados) | ((d & DIAS.sabado) << 5) | ((d & DIAS.uteis) >> 1);
@@ -33,7 +34,7 @@
 				opcoes.push({
 					rotulo: NOMES_DISPLAY_LONGO.get(Number(d))!,
 					ativo: !!((ativo ?? 0) & Number(d)),
-					caminho: `/horarios/${slugEmp}/${slugLin}/${CODIGO_DIAS.get(Number(d)) ?? ''}`
+					caminho: `${endpoint}/${CODIGO_DIAS.get(Number(d)) ?? ''}`
 				});
 			});
 
