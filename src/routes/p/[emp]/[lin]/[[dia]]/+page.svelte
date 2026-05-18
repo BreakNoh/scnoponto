@@ -34,35 +34,14 @@
 	};
 </script>
 
-<header>
-	<h1>
-		{#if linha.codigo}
-			{`${linha.codigo}|${linha.nome}`}
-		{:else}
-			{linha.nome}
-		{/if}
-
-		<button onclick={alternarFavorito}>
-			<Heart fill={favorito ? 'var(--cor-texto-alt)' : 'transparent'} /></button
-		>
-	</h1>
-	<h2>
-		{linha.empresa}
-	</h2>
-	{#if linha.detalhe}
-		<p>
-			{linha.detalhe}
-		</p>
-	{/if}
-</header>
-
-<div class="wrapper-nav">
-	<NavegacaoDias
-		dias={Object.keys(linha.servicos)}
-		ativo={dia}
-		endpoint={`/p/${page.params.emp}/${page.params.lin}`}
-	/>
-</div>
+{#snippet NavDias()}
+	<nav>
+		{#each Object.keys(linha.servicos) as dias}
+			{@const displayDia = CODIGO_DIAS.get(Number(dias))}
+			<a href="">{displayDia}</a>
+		{/each}
+	</nav>
+{/snippet}
 
 {#snippet ListaSentidos()}
 	{#each linha.servicos[dia] as { sentido }, i}
@@ -90,8 +69,38 @@
 		{/if}
 	{/each}
 {/snippet}
+<header>
+	<h1>
+		{#if linha.codigo}
+			{`${linha.codigo}|${linha.nome}`}
+		{:else}
+			{linha.nome}
+		{/if}
+
+		<button onclick={alternarFavorito}>
+			<Heart fill={favorito ? 'var(--cor-texto-alt)' : 'transparent'} /></button
+		>
+	</h1>
+	<h2>
+		{linha.empresa}
+	</h2>
+	{#if linha.detalhe}
+		<p>
+			{linha.detalhe}
+		</p>
+	{/if}
+</header>
+
+<!-- <div class="wrapper-nav"> -->
+<!-- 	<NavegacaoDias -->
+<!-- 		dias={Object.keys(linha.servicos)} -->
+<!-- 		ativo={dia} -->
+<!-- 		endpoint={`/p/${page.params.emp}/${page.params.lin}`} -->
+<!-- 	/> -->
+<!-- </div> -->
 
 <main>
+	{@render NavDias()}
 	{#if servico}
 		<Colapsavel titulo={servico.sentido} flutua bind:colapsado={mudarServico}>
 			<div class="wrapper-lista">
@@ -185,7 +194,7 @@
 	nav {
 		display: flex;
 		margin-bottom: 4px;
-		justify-content: space-between;
+		justify-content: center;
 		color: var(--cor-texto-alt);
 	}
 	nav a {

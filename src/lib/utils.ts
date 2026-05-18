@@ -1,5 +1,5 @@
 import { parse } from 'date-fns';
-import { DIAS, type Horario } from './tipos';
+import { DIAS, type Dias, type Horario } from './tipos';
 
 export async function carregarLingaguem(codigo: string | null) {
 	try {
@@ -16,6 +16,8 @@ export const CODIGO_DIAS = new Map([
 	[DIAS.domingoFeriados | DIAS.sabado, 'findes'],
 	[127, 'todos']
 ]);
+
+export function codigoPraDia(d: Dias): string {}
 
 export function horaPraNum(hora: string): number {
 	return Number(hora.replace(/\D/g, ''));
