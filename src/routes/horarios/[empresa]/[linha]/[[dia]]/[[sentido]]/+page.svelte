@@ -11,9 +11,9 @@
 
 	let { data } = $props();
 
-	let { dadosLinha, servico, servicos, dias, dia } = $derived(data);
-
-	let linha = $derived(data.linha);
+	let { linha, dia, idxSentido } = $derived(data);
+	let servicos = $derived(linha.servicos[dia]);
+	let servico = $derived(servicos?.at(idxSentido));
 
 	let favorito = $derived(data.favorito);
 
@@ -39,27 +39,27 @@
 			<Heart fill={favorito ? 'var(--cor-texto-alt)' : 'transparent'} /></button
 		>
 	</nav>
-	<h1>{dadosLinha.empresa}</h1>
-	<h2 style={`font-size: ${dadosLinha.nome.length < 20 ? '2rem' : '1.5rem'}`}>
-		{#if dadosLinha.codigo}
-			{`${dadosLinha.codigo} |`}
+	<h1>{linha.empresa}</h1>
+	<h2 style={`font-size: ${linha.nome.length < 20 ? '2rem' : '1.5rem'}`}>
+		{#if linha.codigo}
+			{`${linha.codigo} |`}
 		{/if}
 
-		{dadosLinha.nome}
+		{linha.nome}
 	</h2>
-	{#if dadosLinha.detalhe}
+	{#if linha.detalhe}
 		<p>
-			{dadosLinha.detalhe}
+			{linha.detalhe}
 		</p>
 	{/if}
 </header>
 
 <div class="wrapper-nav">
-	<NavegacaoDias {dias} ativo={dia} />
+	<NavegacaoDias dias={Object.keys(linha.servicos)} ativo={dia} />
 </div>
 
 {#snippet ListaSentidos()}
-	{#each servicos as { sentido }, i}
+	{#each linha.servicos[dia] as { sentido }, i}
 		{@const { empresa, linha } = page.params}
 		{#if i != data.idxSentido}
 			<li>
