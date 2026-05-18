@@ -36,14 +36,14 @@
 	:global(button, input) {
 		font-family: 'Funnel Display', sans-serif;
 	}
-	:global(header) {
-		background-color: var(--cor-principal);
-		color: var(--cor-texto-alt);
-
-		border-radius: 0 0 16px 16px;
-		padding: 16px;
-	}
-	:global(main) {
-		padding-inline: 16px;
-	}
+	/* :global(header) { */
+	/* 	background-color: var(--cor-principal); */
+	/* 	color: var(--cor-texto-alt); */
+	/**/
+	/* 	border-radius: 0 0 16px 16px; */
+	/* 	padding: 16px; */
+	/* } */
+	/* :global(main) { */
+	/* 	padding-inline: 16px; */
+	/* } */
 </style>
