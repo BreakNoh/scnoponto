@@ -169,11 +169,13 @@
 {:else}
 	<main class="desktop">
 		<div class="painel-pesquisa">
-			<div class="caixa-pesquisa">
-				<div class="icone-lupa">
-					<Search class="" />
+			<div style="padding: 8px; background-color: var(--cor-principal); border-radius: 16px">
+				<div class="caixa-pesquisa">
+					<div class="icone-lupa">
+						<Search class="" />
+					</div>
+					<input type="text" {@attach acaoPesquisa} bind:value={termo} />
 				</div>
-				<input type="text" {@attach acaoPesquisa} bind:value={termo} />
 			</div>
 			<ul class="barra-empresas">
 				{#each empresasResultados as i}
