@@ -3,18 +3,25 @@
 	import { pushState, replaceState } from '$app/navigation';
 	import { page } from '$app/state';
 	import Gaveta from '$lib/comps/Gaveta.svelte';
+	import NavegacaoDias from '$lib/comps/NavegacaoDias.svelte';
 	import NavPaginas from '$lib/comps/NavPaginas.svelte';
+	import TabelaHorarios from '$lib/comps/TabelaHorarios.svelte';
 	import { storeFiltros } from '$lib/stores/storeFiltros';
 	import { storeIdioma } from '$lib/stores/storeIdioma';
 	import { type ItemPesquisa } from '$lib/tipos';
 	import { CircleCheck, CircleDashed, ListFilter, Search, SearchX, X } from '@lucide/svelte';
 	import type { Attachment } from 'svelte/attachments';
+	import { MediaQuery } from 'svelte/reactivity';
 
 	let resultados: ItemPesquisa[] = $state([]);
 	let empresasResultados = $state<string[]>($storeFiltros?.emp ?? []); // evita duplicatas
 	let iniciado = $state(false);
 	let termo = $state('');
 	const regioes = ['grande florianópolis', 'sul', 'serra', 'norte', 'oeste', 'vale do itajaí'];
+	let mobile = new MediaQuery('max-width: 650px');
+
+	let { data } = $props();
+	let { linha, dia } = $derived(data);
 
 	function atualizarEmpresas() {
 		empresasResultados = [...new Set(resultados.map((v) => v.nome_empresa))].sort();
@@ -99,7 +106,10 @@
 
 {#snippet ItemResultado(item: ItemPesquisa)}
 	<li>
-		<a href={`/horarios/${item.slug}`} class="item-resultado">
+		<a
+			href={mobile.current ? `/horarios/${item.slug}` : `?q=${item.slug.replace('/', '+')}`}
+			class="item-resultado"
+		>
 			<span class="nome-linha">
 				{#if item.codigo_linha}
 					{`${item.codigo_linha} | `}
@@ -111,70 +121,115 @@
 	</li>
 {/snippet}
 
-<header>
-	<div class="caixa-pesquisa">
-		<div class="icone-lupa">
-			<Search class="" />
+{#if mobile.current}
+	<header>
+		<div class="caixa-pesquisa">
+			<div class="icone-lupa">
+				<Search class="" />
+			</div>
+			<input type="text" {@attach acaoPesquisa} bind:value={termo} />
 		</div>
-		<input type="text" {@attach acaoPesquisa} bind:value={termo} />
-	</div>
-	<button class="filtros" onclick={alternarGaveta} style:display="none"><ListFilter /></button>
-</header>
-
-<main>
-	<ul class="barra-empresas">
-		{#each empresasResultados as i}
-			{@const ativo = $storeFiltros.emp?.includes(i.trim())}
-			<li>
-				<button class="botao-filtro" onclick={filtrarEmpresa.bind(null, i)} class:ativo>
-					{#if ativo}
-						<X size="1rem" />
-					{/if}
-					{i}
-				</button>
-			</li>
-		{/each}
-	</ul>
-
-	{#if resultados.length > 0}
-		<ul class="lista-resultados">
-			{#each resultados as i}
-				{@render ItemResultado(i)}
+		<button class="filtros" onclick={alternarGaveta} style:display="none"><ListFilter /></button>
+	</header>
+	<main>
+		<ul class="barra-empresas">
+			{#each empresasResultados as i}
+				{@const ativo = $storeFiltros.emp?.includes(i.trim())}
+				<li>
+					<button class="botao-filtro" onclick={filtrarEmpresa.bind(null, i)} class:ativo>
+						{#if ativo}
+							<X size="1rem" />
+						{/if}
+						{i}
+					</button>
+				</li>
 			{/each}
 		</ul>
-	{:else if iniciado}
-		<div class="card-nao-resultado">
-			<SearchX />
-			<p>{$storeIdioma.pag.pesquisa.semResultado}</p>
-		</div>
-	{:else}
-		<div class="card-nao-resultado">
-			<Search />
-			<p>{$storeIdioma.pag.pesquisa.linhasAqui}</p>
-		</div>
-	{/if}
-</main>
 
-<Gaveta>
-	<h3>regiões</h3>
-	<ul class="regioes">
-		{#each regioes as reg, i}
-			{@const ativo = $storeFiltros?.reg?.includes(reg)}
-			<li>
-				<button class="botao-filtro" class:ativo onclick={filtrarReg.bind(null, reg)}>
-					{#if ativo}
-						<X size="1rem" />
-					{/if}
-					{reg}</button
-				>
-			</li>
-		{/each}
-	</ul>
-</Gaveta>
+		{#if resultados.length > 0}
+			<ul class="lista-resultados">
+				{#each resultados as i}
+					{@render ItemResultado(i)}
+				{/each}
+			</ul>
+		{:else if iniciado}
+			<div class="card-nao-resultado">
+				<SearchX />
+				<p>{$storeIdioma.pag.pesquisa.semResultado}</p>
+			</div>
+		{:else}
+			<div class="card-nao-resultado">
+				<Search />
+				<p>{$storeIdioma.pag.pesquisa.linhasAqui}</p>
+			</div>
+		{/if}
+	</main>
 
-<NavPaginas ativo="horarios" />
+	<NavPaginas ativo="horarios" />
+{:else}
+	<main class="desktop">
+		<div class="painel-pesquisa">
+			<div class="caixa-pesquisa">
+				<div class="icone-lupa">
+					<Search class="" />
+				</div>
+				<input type="text" {@attach acaoPesquisa} bind:value={termo} />
+			</div>
+			<ul class="barra-empresas">
+				{#each empresasResultados as i}
+					{@const ativo = $storeFiltros.emp?.includes(i.trim())}
+					<li>
+						<button class="botao-filtro" onclick={filtrarEmpresa.bind(null, i)} class:ativo>
+							{#if ativo}
+								<X size="1rem" />
+							{/if}
+							{i}
+						</button>
+					</li>
+				{/each}
+			</ul>
+
+			{#if resultados.length > 0}
+				<ul class="lista-resultados">
+					{#each resultados as i}
+						{@render ItemResultado(i)}
+					{/each}
+				</ul>
+			{:else if iniciado}
+				<div class="card-nao-resultado">
+					<SearchX />
+					<p>{$storeIdioma.pag.pesquisa.semResultado}</p>
+				</div>
+			{:else}
+				<div class="card-nao-resultado">
+					<Search />
+					<p>{$storeIdioma.pag.pesquisa.linhasAqui}</p>
+				</div>
+			{/if}
+		</div>
+		{#if linha && dia}
+			<div class="info-linha">
+				<h1>{linha?.codigo} {linha?.nome}</h1>
+				<nav>
+					{#each Object.keys(linha?.servicos!) as _dia}
+						<button onclick={() => (dia = Number(_dia))}>{_dia}</button>
+					{/each}
+				</nav>
+
+				{#each linha?.servicos[dia!] as { sentido, horarios }}
+					<h2>{sentido}</h2>
+					<TabelaHorarios {horarios} />
+				{/each}
+			</div>
+		{/if}
+	</main>
+{/if}
 
 <style>
+	main.desktop {
+		display: grid;
+		grid-template-columns: 25vw 1fr;
+	}
 	header {
 		display: grid;
 		grid-template-columns: 1fr auto;
