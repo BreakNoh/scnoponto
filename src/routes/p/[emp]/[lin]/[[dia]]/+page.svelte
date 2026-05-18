@@ -109,7 +109,7 @@
 		padding-inline: 16px;
 	}
 	header {
-		padding-top: 16px;
+		/* padding-top: 16px; */
 		padding-inline: 16px;
 	}
 	div.wrapper-lista {

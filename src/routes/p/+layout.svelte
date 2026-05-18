@@ -59,16 +59,22 @@
 	main {
 		/* display: grid; */
 		/* grid-template-columns: 25vw 1fr; */
+		margin-top: 8px;
 
 		@media (min-width: 650px) {
 			display: grid;
-			grid-template-columns: 25vw 1fr;
-			gap: 16px;
+			grid-template-columns: 30vw 1fr;
+			margin-top: 16px;
+			/* gap: 4px; */
 		}
 	}
 
 	aside {
 		/* background-color: var(--cor-fundo-alta); */
+		padding-inline: 8px;
+		@media (min-width: 650px) {
+			padding-inline: 16px;
+		}
 	}
 
 	ul.lista-resultados {
@@ -76,7 +82,9 @@
 		flex-direction: column;
 		gap: 8px;
 		margin: 0;
-		padding: 0;
+
+		padding-inline: 8px;
+
 		list-style-type: none;
 		margin-top: 8px;
 
@@ -100,6 +108,7 @@
 
 		padding: 8px;
 		background-color: var(--cor-principal);
+		border-radius: 8px;
 
 		& input {
 			/* width: 100%; */
