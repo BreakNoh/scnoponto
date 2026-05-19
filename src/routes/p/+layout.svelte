@@ -35,9 +35,9 @@
 	let mobile = new MediaQuery('max-width: 650px');
 </script>
 
-<main>
+<main style:padding-inline={mobile.current ? '0' : '8vw'}>
 	{#if !page.params.emp || !mobile.current}
-		<aside class="painel-pesquisa">
+		<aside class="painel-pesquisa" style:max-width="25vw">
 			<div class="caixa-pesquisa">
 				<input type="text" {@attach acaoPesquisa} bind:value={termo} />
 			</div>
@@ -63,7 +63,7 @@
 
 		@media (min-width: 650px) {
 			display: grid;
-			grid-template-columns: 30vw 1fr;
+			grid-template-columns: auto 1fr;
 			margin-top: 16px;
 			/* gap: 4px; */
 		}
@@ -73,7 +73,7 @@
 		/* background-color: var(--cor-fundo-alta); */
 		padding-inline: 8px;
 		@media (min-width: 650px) {
-			padding-inline: 16px;
+			padding-inline: 16px 0;
 		}
 	}
 
