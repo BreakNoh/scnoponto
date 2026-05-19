@@ -37,7 +37,7 @@
 
 <main style:padding-inline={mobile.current ? '0' : '8vw'}>
 	{#if !page.params.emp || !mobile.current}
-		<aside class="painel-pesquisa" style:max-width="25vw">
+		<aside class="painel-pesquisa" style:max-width={mobile.current ? 'none' : '25vw'}>
 			<div class="caixa-pesquisa">
 				<input type="text" {@attach acaoPesquisa} bind:value={termo} />
 			</div>

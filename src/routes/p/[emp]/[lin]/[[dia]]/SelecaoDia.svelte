@@ -31,7 +31,6 @@
 	a {
 		flex: 1;
 		min-width: 4rem;
-		background-color: var(--cor-fundo-alta, grey);
 		color: var(--cor-texto);
 		text-decoration: none;
 		text-align: center;
@@ -39,9 +38,12 @@
 		padding-block: 8px;
 		border-radius: 8px;
 
+		border: 1px solid var(--cor-principal, grey);
+
 		&.ativo {
 			background-color: var(--cor-principal, grey);
 			border-radius: 16px;
+			border-bottom: 4px var(--cor-principal, grey) solid;
 		}
 	}
 </style>
