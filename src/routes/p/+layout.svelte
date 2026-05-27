@@ -64,6 +64,7 @@
 		@media (min-width: 650px) {
 			display: grid;
 			grid-template-columns: auto 1fr;
+
 			margin-top: 16px;
 			/* gap: 4px; */
 		}
@@ -72,8 +73,12 @@
 	aside {
 		/* background-color: var(--cor-fundo-alta); */
 		padding-inline: 8px;
+
 		@media (min-width: 650px) {
-			padding-inline: 16px 0;
+			min-width: 300px;
+			padding: 16px;
+			background-color: var(--cor-fundo-alta);
+			border-radius: 16px;
 		}
 	}
 

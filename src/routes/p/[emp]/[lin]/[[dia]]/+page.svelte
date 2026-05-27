@@ -59,6 +59,7 @@
 
 <main>
 	<SelecaoDia dias={Object.keys(linha.servicos)} atual={dia.toString()} {slug} />
+
 	{#if telaPequena.current}
 		<SelecaoSentido sentidos={servicos} bind:atual={idxServico} />
 		{#if servico}

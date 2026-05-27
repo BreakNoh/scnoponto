@@ -25,14 +25,28 @@
 </section>
 
 <style>
+	section {
+		@media (min-width: 650px) {
+			background-color: var(--cor-fundo-alta);
+			text-align: center;
+			padding-inline: 32px;
+			padding-block: 16px 32px;
+			margin-top: 16px;
+			border-radius: 16px;
+		}
+	}
+
 	ul {
 		display: grid;
 
 		grid-template-columns: repeat(auto-fill, minmax(5rem, 1fr));
 		padding-inline: 16px;
+
 		@media (min-width: 650px) {
-			grid-template-columns: repeat(auto-fill, minmax(125px, 1fr));
+			grid-template-columns: repeat(auto-fill, minmax(6rem, 1fr));
 			padding-inline: 15%;
+
+			max-width: 750px;
 		}
 
 		justify-content: center;
