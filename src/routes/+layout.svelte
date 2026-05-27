@@ -22,7 +22,7 @@
 
 	:global(body) {
 		margin: 0;
-		margin-bottom: 16px;
+		/* margin-bottom: 16px; */
 		display: flex;
 		flex-direction: column;
 
