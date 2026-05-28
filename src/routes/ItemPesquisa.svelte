@@ -34,7 +34,7 @@
 		display: flex;
 		list-style: none;
 
-		max-width: 35rem;
+		max-width: min(30rem, 400px);
 	}
 
 	a {
@@ -53,7 +53,7 @@
 	}
 
 	span.linha {
-		font-size: 1.25rem;
+		font-size: 1rem;
 	}
 
 	span.codigo {
@@ -61,7 +61,7 @@
 		color: white;
 
 		font-weight: bold;
-		font-size: 1.5rem;
+		font-size: 1rem;
 
 		padding-block: 2px;
 		padding-inline: 4px;
@@ -74,5 +74,6 @@
 
 	span.empresa {
 		display: block;
+		font-size: 0.9rem;
 	}
 </style>

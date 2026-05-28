@@ -33,8 +33,7 @@
 		--fator-pad: 1;
 
 		@media (min-width: 700px) {
-			--tamanho-fonte: 2rem;
-			--tamanho-icone: 32px;
+			--tamanho-fonte: 1rem;
 			--margem-lateral: 24px;
 			--fator-pad: 1.5;
 		}
@@ -61,13 +60,16 @@
 
 		padding-inline: calc(var(--margem-lateral) * 1.5 + var(--tamanho-icone));
 
-		border: 4px solid green;
+		border: 4px solid lightgray;
+		box-shadow: 0 8px lightgray;
 		outline: none;
 		border-radius: 32px;
 
-		/* &:focus { */
-		/* 	box-shadow: 0 8px green; */
-		/* } */
+		&:focus {
+			border-color: green;
+
+			box-shadow: 0 8px green;
+		}
 	}
 
 	button {
