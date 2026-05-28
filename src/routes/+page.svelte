@@ -21,13 +21,13 @@
 		<BarraPesquisa placeholder="Pesquisar linhas..." onfocusin={focar} />
 	</div>
 	<ul>
-		<ItemPesquisa linha="Linha abc" empresa="empresa" url="#" />
-		<ItemPesquisa linha="Linha abcsdajdakjsdhajkshdkajshdjk" empresa="empresa" url="#" />
+		<ItemPesquisa linha="Linha abc" empresa="empresa" url="horarios" />
+		<ItemPesquisa linha="Linha abcsdajdakjsdhajkshdkajshdjk" empresa="empresa" url="horarios" />
 		<ItemPesquisa
 			linha="Linha abc sjdhgagsdagshd akjshdka gsdgaas ddag dg iajakjsdashdjkahkdhakshdkads"
 			empresa="empresa"
 			codigo="1239"
-			url="#"
+			url="horarios"
 		/>
 	</ul>
 </main>
@@ -39,6 +39,7 @@
 
 	main {
 		margin-inline: 8px;
+		margin-top: 32px;
 		display: grid;
 		justify-content: center;
 

@@ -24,7 +24,7 @@
 
 		max-width: 700px;
 		list-style: none;
-		padding: 0;
+		padding-inline: 16px;
 
 		grid-template-columns: 1fr;
 		gap: 8px;

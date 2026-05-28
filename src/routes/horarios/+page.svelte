@@ -21,6 +21,13 @@
 </main>
 
 <style>
+	ul {
+		list-style: none;
+		padding-left: 16px;
+	}
+	h1 {
+		margin-bottom: 4px;
+	}
 	main {
 		margin-inline: 8px;
 

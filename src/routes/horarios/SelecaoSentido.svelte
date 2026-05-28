@@ -22,23 +22,18 @@
 
 <div class="selecao-sentido">
 	<button onclick={alternarEstado} class="principal">
-		<span>
-			{atual}
-		</span>
+		{atual}
 		<ChevronRightIcon />
 	</button>
 
 	{#if page.state.selecionarSentido}
-		<div class="opcoes">
-			A B C
-			<!-- <ul> -->
-			<!-- 	{#each ['SENTIDO ASDASDASDAl', 'sentido', 'ahhhhhhhhhhhhhhhhhhhhh hhhhhhhhhhhhhhhh'] as s} -->
-			<!-- 		<button class="opcao" onclick={mudarAtual.bind(null, s)}> -->
-			<!-- 			<h2>{s}</h2> -->
-			<!-- 		</button> -->
-			<!-- 	{/each} -->
-			<!-- </ul> -->
-		</div>
+		<ul>
+			{#each ['SENTIDO ASDASDASDAl', 'sentido', 'ahhhhhhhhhhhhhhhhhhhhh hhhhhhhhhhhhhhhh'] as s}
+				<button class="opcao" onclick={mudarAtual.bind(null, s)}>
+					<h2>{s}</h2>
+				</button>
+			{/each}
+		</ul>
 	{/if}
 </div>
 
@@ -95,7 +90,9 @@
 
 	button.principal {
 		display: grid;
+
 		text-align: left;
+		font-size: 100%;
 		align-content: center;
 
 		grid-template-columns: 1fr auto;

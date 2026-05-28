@@ -23,14 +23,12 @@
 		display: grid;
 		align-content: center;
 
-		margin-bottom: 32px;
 		padding-inline: 16px;
 
 		box-shadow: 0 8px darkgreen;
 
 		@media (min-width: 700px) {
 			height: 12vh;
-			margin-bottom: 32px;
 			padding-inline: 5%;
 		}
 	}
