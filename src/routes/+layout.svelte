@@ -11,9 +11,34 @@
 
 <GerenciadorTema />
 
+<header><h1>SCnoPONTO</h1></header>
 {@render children()}
 
 <style>
+	header {
+		min-height: min(5rem, 64px);
+		height: 10vh;
+		background-color: green;
+
+		display: grid;
+		align-content: center;
+
+		margin-bottom: 32px;
+		padding-inline: 16px;
+
+		box-shadow: 0 8px darkgreen;
+
+		@media (min-width: 700px) {
+			height: 12vh;
+			margin-bottom: 32px;
+			padding-inline: 5%;
+		}
+	}
+
+	header h1 {
+		margin: 0;
+		font-size: max(1.5rem, 2vw);
+	}
 	:global(:root) {
 		background-color: var(--cor-fundo-base);
 		color: var(--cor-texto);

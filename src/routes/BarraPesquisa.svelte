@@ -48,6 +48,11 @@
 		align-content: center;
 
 		height: var(--tamanho-fonte);
+
+		margin-block: 8px 0;
+		&:focus-within {
+			margin-block: 0 8px;
+		}
 	}
 
 	input {
@@ -60,15 +65,16 @@
 
 		padding-inline: calc(var(--margem-lateral) * 1.5 + var(--tamanho-icone));
 
-		border: 4px solid lightgray;
-		box-shadow: 0 8px lightgray;
+		border: 2px solid lightgray;
+
+		/* box-shadow: 0 8px lightgray; */
+
 		outline: none;
 		border-radius: 32px;
 
 		&:focus {
-			border-color: green;
-
-			box-shadow: 0 8px green;
+			border-color: gray;
+			box-shadow: 0 8px gray;
 		}
 	}
 
