@@ -22,21 +22,22 @@
 
 <div class="selecao-sentido">
 	<button onclick={alternarEstado} class="principal">
-		<h2>
+		<span>
 			{atual}
-		</h2>
+		</span>
 		<ChevronRightIcon />
 	</button>
 
 	{#if page.state.selecionarSentido}
 		<div class="opcoes">
-			<ul>
-				{#each ['SENTIDO ASDASDASDAl', 'sentido', 'ahhhhhhhhhhhhhhhhhhhhh hhhhhhhhhhhhhhhh'] as s}
-					<button class="opcao" onclick={mudarAtual.bind(null, s)}>
-						<h2>{s}</h2>
-					</button>
-				{/each}
-			</ul>
+			A B C
+			<!-- <ul> -->
+			<!-- 	{#each ['SENTIDO ASDASDASDAl', 'sentido', 'ahhhhhhhhhhhhhhhhhhhhh hhhhhhhhhhhhhhhh'] as s} -->
+			<!-- 		<button class="opcao" onclick={mudarAtual.bind(null, s)}> -->
+			<!-- 			<h2>{s}</h2> -->
+			<!-- 		</button> -->
+			<!-- 	{/each} -->
+			<!-- </ul> -->
 		</div>
 	{/if}
 </div>
@@ -44,6 +45,13 @@
 <style>
 	div.selecao-sentido {
 		position: relative;
+
+		padding-block: 0 8px;
+
+		&:has(button.principal:active) {
+			/* background-color: pink; */
+			padding-block: 8px 0;
+		}
 	}
 
 	div.opcoes {
@@ -86,9 +94,16 @@
 	}
 
 	button.principal {
+		display: grid;
+		text-align: left;
+		align-content: center;
+
+		grid-template-columns: 1fr auto;
+
 		max-width: 750px;
-		background-color: white;
 		width: 100%;
+
+		background-color: white;
 
 		border-radius: 16px;
 
@@ -97,12 +112,9 @@
 
 		border: 2px solid green;
 		box-shadow: 0 8px green;
-		margin-bottom: 8px;
 
 		&:active {
 			box-shadow: none;
-			margin-top: 8px;
-			margin-bottom: 0px;
 		}
 	}
 </style>

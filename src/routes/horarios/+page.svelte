@@ -23,5 +23,12 @@
 <style>
 	main {
 		margin-inline: 8px;
+
+		@media (min-width: 700px) {
+			/* margin-inline: auto; */
+			display: grid;
+			justify-content: center;
+			grid-template-columns: minmax(400px, 750px);
+		}
 	}
 </style>
