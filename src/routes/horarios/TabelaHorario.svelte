@@ -37,10 +37,7 @@
 	li {
 		text-align: center;
 
-		/* padding: min(1rem, 8px); */
 		padding-block: 16px;
-
-		font-size: 1.25rem;
 
 		background-color: lightgray;
 		border-radius: 16px;
@@ -48,8 +45,6 @@
 		&.ativo {
 			background-color: green;
 			color: white;
-			/* border: 2px solid green; */
-			/* box-shadow: 0 4px green; */
 		}
 
 		@media (min-width: 700px) {

@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { pushState } from '$app/navigation';
 	import { page } from '$app/state';
-	import { ChevronRightIcon } from '@lucide/svelte';
+	import { ChevronDownIcon, ChevronRightIcon } from '@lucide/svelte';
 
 	let atual = $state('sentido 123');
 
@@ -23,15 +23,22 @@
 <div class="selecao-sentido">
 	<button onclick={alternarEstado} class="principal">
 		{atual}
-		<ChevronRightIcon />
+
+		{#if page.state.selecionarSentido}
+			<ChevronDownIcon />
+		{:else}
+			<ChevronRightIcon />
+		{/if}
 	</button>
 
 	{#if page.state.selecionarSentido}
 		<ul>
 			{#each ['SENTIDO ASDASDASDAl', 'sentido', 'ahhhhhhhhhhhhhhhhhhhhh hhhhhhhhhhhhhhhh'] as s}
-				<button class="opcao" onclick={mudarAtual.bind(null, s)}>
-					<h2>{s}</h2>
-				</button>
+				<li>
+					<button class="opcao" onclick={mudarAtual.bind(null, s)}>
+						{s}
+					</button>
+				</li>
 			{/each}
 		</ul>
 	{/if}
@@ -49,43 +56,35 @@
 		}
 	}
 
-	div.opcoes {
-		position: absolute;
+	ul {
 		background-color: white;
-
-		/* margin-top: 8px; */
+		list-style: none;
 
 		inset-inline: 0;
-		/* display: flex; */
-	}
-
-	h2 {
-		display: inline;
-		grid-template-columns: 1fr auto;
-
-		margin: 0;
-		/* text-align: left; */
-
-		text-overflow: ellipsis;
-		overflow: hidden;
-		white-space: nowrap;
-	}
-
-	ul {
-		padding-inline: 8px;
+		padding-bottom: 8px;
+		padding-inline: 16px 8px;
+		position: absolute;
 	}
 
 	button.opcao {
-		display: block;
-		max-width: 100%;
+		/* display: block; */
+
 		margin-bottom: 8px;
+		min-width: 150px;
 
 		padding-block: 12px;
 		padding-inline: 16px;
 
-		background-color: white;
-		border: 2px solid green;
+		background-color: lightgray;
+		box-shadow: -4px 4px green;
+
+		border: none;
 		border-radius: 16px;
+
+		text-align: start;
+		text-overflow: ellipsis;
+		overflow: hidden;
+		white-space: nowrap;
 	}
 
 	button.principal {
@@ -93,7 +92,8 @@
 
 		text-align: left;
 		font-size: 100%;
-		align-content: center;
+
+		align-items: center;
 
 		grid-template-columns: 1fr auto;
 

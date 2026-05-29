@@ -22,6 +22,7 @@
 
 		display: grid;
 		align-content: center;
+		color: white;
 
 		padding-inline: 16px;
 
