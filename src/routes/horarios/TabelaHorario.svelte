@@ -24,6 +24,7 @@
 
 		max-width: 700px;
 		margin-top: 8px;
+
 		list-style: none;
 		padding-inline: 8px;
 
@@ -33,6 +34,7 @@
 		@media (min-width: 700px) {
 			grid-template-columns: repeat(6, 1fr);
 			gap: 8px;
+			margin-top: 16px;
 		}
 	}
 
