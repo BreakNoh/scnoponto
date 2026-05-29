@@ -23,21 +23,23 @@
 		display: grid;
 
 		max-width: 700px;
+		margin-top: 8px;
 		list-style: none;
-		padding-inline: 16px;
+		padding-inline: 8px;
 
 		grid-template-columns: 1fr;
-		gap: 8px;
+		gap: 4px;
 
 		@media (min-width: 700px) {
 			grid-template-columns: repeat(6, 1fr);
+			gap: 8px;
 		}
 	}
 
 	li {
 		text-align: center;
 
-		padding-block: 16px;
+		padding-block: 8px;
 
 		background-color: lightgray;
 		border-radius: 16px;
@@ -48,7 +50,6 @@
 		}
 
 		@media (min-width: 700px) {
-			padding-block: 8px;
 			font-size: 1rem;
 			min-width: 6rem;
 		}
