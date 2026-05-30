@@ -53,12 +53,13 @@
 
 		padding-block: 8px;
 
-		background-color: lightgray;
+		background-color: var(--fundo-1, lightgrey);
 		border-radius: 16px;
 
+		color: var(--texto-base, black);
 		&.ativo {
-			background-color: green;
-			color: white;
+			background-color: var(--primaria, green);
+			color: var(--texto-alt, white);
 		}
 
 		@media (min-width: 700px) {

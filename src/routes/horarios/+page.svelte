@@ -53,10 +53,13 @@
 		width: 64px;
 		aspect-ratio: 1 / 1;
 		border: none;
+
+		background-color: var(--secundaria, green);
+		color: var(--texto-base, black);
 	}
 	span.codigo {
-		background-color: green;
-		color: white;
+		background-color: var(--primaria, green);
+		color: var(--texto-alt, white);
 		padding-block: 4px;
 		padding-inline: 8px;
 		border-radius: 16px;

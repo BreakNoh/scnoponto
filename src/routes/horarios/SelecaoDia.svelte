@@ -29,16 +29,16 @@
 
 	li button {
 		border: none;
-		background-color: white;
+		background-color: var(--fundo-base, white);
 		border-radius: 16px;
 
 		padding-inline: 16px;
 		padding-block: 8px;
-		border: 2px solid lightgray;
+		border: 2px solid var(--fundo-1, lightgrey);
 
 		&.ativo {
-			box-shadow: 0 4px green;
-			border-color: green;
+			box-shadow: 0 4px var(--primaria, green);
+			border-color: var(--primaria, green);
 		}
 	}
 </style>

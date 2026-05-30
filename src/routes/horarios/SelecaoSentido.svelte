@@ -57,7 +57,7 @@
 	}
 
 	ul {
-		background-color: white;
+		background-color: var(--fundo-1, white);
 		list-style: none;
 
 		inset-inline: 0;
@@ -77,8 +77,8 @@
 		padding-block: 12px;
 		padding-inline: 16px;
 
-		background-color: lightgray;
-		box-shadow: -4px 4px green;
+		background-color: var(--fundo-base, lightgrey);
+		box-shadow: -4px 4px var(--secundaria, yellow);
 
 		border: none;
 		border-radius: 16px;
@@ -102,15 +102,15 @@
 		max-width: 750px;
 		width: 100%;
 
-		background-color: white;
+		background-color: var(--fundo-base, white);
 
 		border-radius: 16px;
 
 		padding-block: 12px;
 		padding-inline: 16px;
 
-		border: 2px solid green;
-		box-shadow: 0 8px green;
+		border: 2px solid var(--primaria, green);
+		box-shadow: 0 8px var(--primaria, green);
 
 		&:active {
 			box-shadow: none;

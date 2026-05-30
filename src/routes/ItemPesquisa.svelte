@@ -40,7 +40,9 @@
 	a {
 		min-width: 15rem;
 
-		background-color: lightgray;
+		background-color: var(--fundo-1, white);
+		color: var(--texto-base, black);
+
 		border-radius: 16px;
 
 		padding-inline: 16px;
@@ -48,7 +50,7 @@
 
 		gap: 8px;
 
-		box-shadow: -4px 8px green;
+		box-shadow: -4px 8px var(--primaria, green);
 		text-decoration: none;
 	}
 
@@ -57,8 +59,8 @@
 	}
 
 	span.codigo {
-		background-color: green;
-		color: white;
+		background-color: var(--primaria, green);
+		color: var(--texto-alt, white);
 
 		font-weight: bold;
 		font-size: 1rem;

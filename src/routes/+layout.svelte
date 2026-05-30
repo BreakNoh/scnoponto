@@ -18,15 +18,16 @@
 	header {
 		min-height: min(5rem, 64px);
 		height: 10vh;
-		background-color: green;
+		background-color: var(--primaria, green);
 
 		display: grid;
 		align-content: center;
-		color: white;
+
+		color: var(--fundo-base);
 
 		padding-inline: 16px;
 
-		box-shadow: 0 8px darkgreen;
+		/* box-shadow: 0 8px var(--secundaria, darkgreen); */
 
 		@media (min-width: 700px) {
 			height: 12vh;
@@ -38,9 +39,11 @@
 		margin: 0;
 		font-size: max(1.5rem, 2vw);
 	}
+
 	:global(:root) {
-		background-color: var(--cor-fundo-base);
-		color: var(--cor-texto);
+		background-color: var(--fundo-0, white);
+		color: var(--texto-base, black);
+
 		scrollbar-color: var(--cor-fundo-media) var(--cor-fundo-base);
 	}
 

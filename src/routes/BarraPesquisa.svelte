@@ -49,6 +49,8 @@
 
 		height: var(--tamanho-fonte);
 
+		color: var(--texto-base, black);
+
 		margin-block: 8px 0;
 		&:focus-within {
 			margin-block: 0 8px;
@@ -65,7 +67,9 @@
 
 		padding-inline: calc(var(--margem-lateral) * 1.5 + var(--tamanho-icone));
 
-		border: 2px solid lightgray;
+		border: 2px solid var(--fundo-1, grey);
+		background-color: var(--fundo-base, white);
+		color: inherit;
 
 		/* box-shadow: 0 8px lightgray; */
 
@@ -73,8 +77,8 @@
 		border-radius: 32px;
 
 		&:focus {
-			border-color: gray;
-			box-shadow: 0 8px gray;
+			border-color: var(--fundo-2, grey);
+			box-shadow: 0 8px var(--fundo-2, grey);
 		}
 	}
 
@@ -84,6 +88,7 @@
 		border: none;
 		background-color: transparent;
 		display: grid;
+		color: inherit;
 	}
 
 	div.icone {

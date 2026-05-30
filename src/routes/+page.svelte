@@ -4,8 +4,20 @@
 	import ItemPesquisa from './ItemPesquisa.svelte';
 	import { XIcon } from '@lucide/svelte';
 
+	import { gerarPaleta, storeTema } from '$lib/stores/tema.svelte';
+	import { onMount } from 'svelte';
+
 	let pesquisando = $state(false);
 	let mobile = new MediaQuery('max-width: 700px');
+
+	onMount(() => {
+		console.log(
+			gerarPaleta({
+				cor: 'green',
+				tema: 'escuro'
+			})
+		);
+	});
 
 	const focar = () => (pesquisando = true);
 </script>
@@ -39,11 +51,12 @@
 
 	main {
 		margin-inline: 8px;
-		margin-top: 32px;
+		margin-top: 16px;
 		display: grid;
 		justify-content: center;
 
 		@media (min-width: 700px) {
+			margin-top: 64px;
 			grid-template-columns: minmax(0, min(40rem, 400px));
 		}
 
