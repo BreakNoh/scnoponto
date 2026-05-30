@@ -1,12 +1,22 @@
 <script lang="ts">
+	import type { Attachment } from 'svelte/attachments';
+
 	const itens = Array(63).fill(0);
-	const numColunas = Math.ceil(Math.sqrt(itens.length));
+	let ativo = $state(null);
+
+	const rolarAte: Attachment = (el) => {
+		el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+	};
 </script>
 
 <div>
 	<ul>
 		{#each itens as _, i}
-			<li class:ativo={i == 15}>11:23</li>
+			{#if i == 15}
+				<li class="ativo" {@attach rolarAte}>11:23</li>
+			{:else}
+				<li>11:23</li>
+			{/if}
 		{/each}
 	</ul>
 </div>

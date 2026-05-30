@@ -61,8 +61,10 @@
 		list-style: none;
 
 		inset-inline: 0;
-		padding-bottom: 8px;
+
+		padding-block: 8px;
 		padding-inline: 16px 8px;
+
 		position: absolute;
 	}
 
